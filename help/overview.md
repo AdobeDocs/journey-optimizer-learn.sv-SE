@@ -1,16 +1,16 @@
 ---
-title: Journey Optimizer Tutorials - översikt
-description: Det här är artikelöversikten.
+title: Journey Optimizer Videos och Tutorials
+description: Den här användarhandboken innehåller videor och självstudiekurser om funktioner och funktioner i Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: ebef937be65cfd99deea15f91534627a05e7a61e
+source-git-commit: 379f3781e8d594fe7be4d9fdfabd4bcbe5a132a9
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 
-# Journey Optimizer Tutorials - översikt
+# Journey Optimizer Videos och Tutorials
 
 ![](./assets/ajo-banner.png)
 
