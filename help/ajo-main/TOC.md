@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: fd49b5aa72d3e23ebadedb67a19e1e16be7f390e
+source-git-commit: 4089dacbf87aa7eca7900ecf50ec2389e8338fe2
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '66'
 ht-degree: 7%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 7%
    + Konfiguration för beslutshantering {#decision-management-configuration}
    + Resekonfiguration{#journey-configuration}
 + Skapa meddelanden {#create-messages}
-   + [Importera och redigera e-postinnehåll med meddelanderedigeraren](/help/create-messages/import-and-author-html-email-content.md)
+   + [Importera och redigera HTML-e-postinnehåll](/help/create-messages/import-and-author-html-email-content.md)
 + Anpassa innehåll {#personalize-content}
    + [Profil- och segmentmedlemskapsbaserad personalisering](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Lägg till erbjudanden som personalisering](/help/personalize-content/add-offer-decisioning-to-messages.md)
