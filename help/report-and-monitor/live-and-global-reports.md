@@ -1,21 +1,23 @@
 ---
 title: Live- och globala rapporter
-description: Lär dig hur du får tillgång till och analyserar resor och leveranser via live- och globala rapporter.
-kt: 7677
-thumbnail: 333998
+description: Lär dig skillnaden mellan live- och globala rapporter, hur du får tillgång till och analyserar resan och de meddelandespecifika rapporterna samt hur du ändrar rapportpanelerna.  
+kt: 7690
+thumbnail: 334108.jpg
 feature: Rapportering
 doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: 50dd912c4a0a64af3d98ecad28b1805abfd89daa
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 2%
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
 
 # Live- och globala rapporter
 
-Lär dig hur du får tillgång till och analyserar resor och leveranser via live- och globala rapporter.
+Lär dig skillnaden mellan live- och globala rapporter, hur du får tillgång till och analyserar resan och de meddelandespecifika rapporterna samt hur du ändrar rapportpanelerna.  
+
+>[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)
