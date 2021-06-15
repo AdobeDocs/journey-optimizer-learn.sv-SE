@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: fd49b5aa72d3e23ebadedb67a19e1e16be7f390e
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 2%
+source-wordcount: '113'
+ht-degree: 1%
 
 ---
 
@@ -24,4 +24,6 @@ Lär dig hur du importerar befintligt HTML-innehåll, ändrar designen, lägger 
 
 ## Ytterligare resurser
 
-[Importera eller koda ditt e-postinnehåll (dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [Importera eller koda ditt e-postinnehåll (dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [Kom igång med e-postdesign i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
+* [Använda e-postdesigners innehållskomponenter](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
