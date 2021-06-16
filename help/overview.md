@@ -2,10 +2,10 @@
 title: Journey Optimizer Videos och Tutorials
 description: Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 4ccc9340e312db53c5414c15d37a637107afd333
+source-git-commit: ea9765d4cc39c5d5346c0a3f120c6d109f8d1052
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 2%
+source-wordcount: '148'
+ht-degree: 1%
 
 ---
 
@@ -19,5 +19,36 @@ Journey Optimizer hjälper företag att leverera sammankopplade, kontextuella oc
 Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 
 ## Personalens val
+<table>
+<tr>
+  <td>
+    <a href="./introduction/journey-optimizer-overview-part-1.md">
+      <img alt="Journey Optimizer Overview Part 1 - Deliver omni-channel travel (video)" src="./assets/334174.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-1.md">
+    <strong>Journey Optimizer - översikt, del 1  </strong>
+    </a>
+    </div>
+    <p>
+    <em>Den här videon visar hur varumärken kan använda Adobe Journey Optimization för att leverera personaliserade flerkanalsresor till sina kunder.</em>
+    <p>
+  </td>
+    <td>
+    <a href="./introduction/journey-optimizer-overview-part-2.md">
+      <img alt="Journey Optimizer Overview Part 2 - Deliver omni channel travel (video)" src="./assets/334175.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-2.md">
+    <strong>Journey Optimizer Overview Part 2  </strong>
+    </a>
+    </div>
+    <p>
+    <em>Den här videon visar hur varumärken kan använda Adobe Journey Optimizations offer decisioning, segmentkvalificering i realtid och händelsehantering för att nå nya höjder på sina kundresor.</em>
+    <p>
+  </td>
+</table>
 
-Kommer upp
+
+
+
