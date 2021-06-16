@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 4ccc9340e312db53c5414c15d37a637107afd333
+source-git-commit: d4f4a71695c267e6a9ca32041fe3d0e19394941f
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 7%
+source-wordcount: '77'
+ht-degree: 6%
 
 ---
 
@@ -27,6 +27,7 @@ ht-degree: 7%
 + Anpassa innehåll {#personalize-content}
    + [Profil- och segmentmedlemskapsbaserad personalisering](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Lägg till erbjudanden som personalisering](/help/personalize-content/add-offer-decisioning-to-messages.md)
+   + [Använd sammanhangsbaserad händelseinformation för personalisering](/help/personalize-content/use-contextual-event-information-for-personalization.md)
 + Skapa resor {#create-journeys}
 + Rapportera och övervaka {#report-and-monitor}
    + [Live- och globala rapporter](/help/report-and-monitor/live-and-global-reports.md)
