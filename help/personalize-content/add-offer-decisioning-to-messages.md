@@ -8,8 +8,7 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-hidefromtoc: true
-source-git-commit: 44442d3f61436423513fe1e730a647f1d76afd3c
+source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 13%
