@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: af22990a5b431366b6d4d89913932f495e164882
+source-git-commit: 8eef9004135c090db29dcab3203e838c0520e510
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 5%
@@ -34,10 +34,10 @@ ht-degree: 5%
    + [Lägg till erbjudanden som personalisering](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Använd sammanhangsbaserad händelseinformation för personalisering](/help/personalize-content/use-contextual-event-information-for-personalization.md)
 + Skapa resor {#create-journeys}
-   + [Användningsfall - Transaktionsresa](/help/create-journeys/use-case-transactional-journey.md)
-   + [Användningsfall - Lässegment](/help/create-journeys/use-case-read-segment.md)
-   + [Användningsfall - Affärshändelse](/help/create-journeys/use-case-business-event.md)
-   + [Användningsfall - Segmentkvalificering](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Användningsfall - transaktionsresa](/help/create-journeys/use-case-transactional-journey.md)
+   + [Användningsfall - läs segment](/help/create-journeys/use-case-read-segment.md)
+   + [Användningsfall - affärshändelse](/help/create-journeys/use-case-business-event.md)
+   + [Användningsfall - segmentkvalificering](/help/create-journeys/use-case-read-segment-qualification.md)
    + [Testa en resa](/help/create-journeys/test-a-journey.md)
    + [Publicera en resa](/help/create-journeys/publish-a-journey.md)
 + Rapportera och övervaka {#report-and-monitor}
