@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 9c9f842176a69e083b3c7d58006ad6d4b6e999e1
+source-git-commit: 07b06306507534f793b0950a586925c34c6a2062
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '108'
 ht-degree: 5%
 
 ---
@@ -36,5 +36,6 @@ ht-degree: 5%
 + Skapa resor {#create-journeys}
    + [Användningsfall - Transaktionsresa](/help/create-journeys/use-case-transactional-journey.md)
    + [Användningsfall - Lässegment](/help/create-journeys/use-case-read-segment.md)
+   + [Användningsfall - Segmentkvalificering](/help/create-journeys/use-case-read-segment-qualification.md)
 + Rapportera och övervaka {#report-and-monitor}
    + [Live- och globala rapporter](/help/report-and-monitor/live-and-global-reports.md)
