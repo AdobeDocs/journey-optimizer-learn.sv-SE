@@ -1,6 +1,6 @@
 ---
-title: Användningsfall - Läsa segmentresan
-description: Förstå tillämpliga användningsfall för transaktionsresor. Lär dig hur du bygger transaktionsresor och vilka bästa metoder som ska användas.
+title: Användningsfall - Lässegment
+description: Förstå tillämpliga användningsfall för lästa segmentresor. Lär dig hur du bygger batchbaserade resor och vilka metodtips som ska användas.
 kt: 7964
 thumbnail: 334206.jpg
 feature: Resor
@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: f885d20058826ac9e9c004c8d3544676c36a6e5c
+source-git-commit: 07b06306507534f793b0950a586925c34c6a2062
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '51'
 ht-degree: 1%
 
 ---
 
 
-# Användningsfall - Läsa segmentresan
+# Användningsfall - Lässegment
 
 Förstå tillämpliga användningsfall för lästa segmentresor. Lär dig hur du bygger batchbaserade resor och vilka metodtips som ska användas.
 
