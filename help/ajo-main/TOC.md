@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 1b001cbc9d83d5cc73c7ebb74182d3f359f39d9e
+source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 5%
+source-wordcount: '90'
+ht-degree: 6%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 5%
    + [Introduktion till Journey Optimizer](/help/introduction/introduction.md)
    + [Journey Optimizer - översikt, del 1](/help/introduction/journey-optimizer-overview-part-1.md)
    + [Journey Optimizer Overview Part 2](/help/introduction/journey-optimizer-overview-part-2.md)
+   + [Arkitektur](/help/introduction/architecture.md)
 + Kom igång {#get-started}
    + [Åtkomsthantering](/help/set-up-access/access-management.md)
    + Datakällans konfiguration {#data-source-configuration}
