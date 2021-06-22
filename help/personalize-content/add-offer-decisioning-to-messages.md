@@ -8,13 +8,13 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
+source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '111'
 ht-degree: 13%
 
 ---
-
 
 # Lägg till erbjudanden som personalisering
 
@@ -29,4 +29,4 @@ Lär dig hur du lägger till en offer decisioning i meddelanden i Journey Optimi
 * Dokumentation:
    * [Kom igång med beslutshantering i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
    * [Lägg till personaliserade erbjudanden i ett e-postmeddelande](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
-   * [Användningsfall: Konfigurera personaliserade erbjudanden så att de kan användas i ett e-postmeddelande](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/offers-e2e.html)
+   * [Användningsfall: Konfigurera personaliserade erbjudanden så att de kan användas i ett e-postmeddelande](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html)
