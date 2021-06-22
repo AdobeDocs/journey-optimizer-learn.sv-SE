@@ -1,20 +1,20 @@
 ---
 title: Publicera en resa
 description: Förstå olika tillstånd för en resa och effekten av publicering.
-kt: 75297528
+kt: 7528
 thumbnail: 334238.jpg
 feature: Resor
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: af22990a5b431366b6d4d89913932f495e164882
+exl-id: cf7fe165-b6eb-49f0-adb9-32d43efa43ca
+source-git-commit: f034a2ef8f339d5a3e1b1ecc9ee014ec05d667c9
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 3%
 
 ---
-
 
 # Publicera en resa
 
