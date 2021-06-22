@@ -8,16 +8,22 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 07b06306507534f793b0950a586925c34c6a2062
+exl-id: 7116a20e-f46a-4676-8b16-21699723828a
+source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 1%
+source-wordcount: '94'
+ht-degree: 3%
 
 ---
-
 
 # Användningsfall - Lässegment
 
 Förstå tillämpliga användningsfall för lästa segmentresor. Lär dig hur du bygger batchbaserade resor och vilka metodtips som ska användas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334206?quality=12)
+
+## Ytterligare resurser
+
+* [Skapa ett segment i Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/creating-a-segment.html)
+* [Använd ett segment i en resa](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-segment.html)
+* [Lär dig designa en resa](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/using-the-journey-designer.html)
