@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: f034a2ef8f339d5a3e1b1ecc9ee014ec05d667c9
+source-git-commit: 5bc7711f64af5d0dbffcb47d71996c3caa1a89d8
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 15%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 15%
 
 Lär dig mer om vad en datakälla är och hur du konfigurerar en Experience Platform och externa datakällor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3334256?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12)
