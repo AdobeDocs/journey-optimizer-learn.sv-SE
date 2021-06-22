@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 71fc3f87f0292f943b7c0b1db397848112b01223
+source-git-commit: f034a2ef8f339d5a3e1b1ecc9ee014ec05d667c9
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 4%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 
@@ -21,11 +21,13 @@ ht-degree: 4%
    + [Arkitektur](/help/introduction/architecture.md)
 + Kom igång {#get-started}
    + [Åtkomsthantering](/help/set-up-access/access-management.md)
-   + Datakällans konfiguration {#data-source-configuration}
+   + Datakonfiguration {#data-configuration}
    + Kanalkonfiguration {#channel-configuration}
    + Resursuppsättning {#resource-set-up}
    + Konfiguration för beslutshantering {#decision-management-configuration}
    + Resekonfiguration{#journey-configuration}
+      + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
+      + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
 + Skapa meddelanden {#create-messages}
    + [Skapa e-postinnehåll med meddelanderedigeraren](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importera och redigera HTML-e-postinnehåll](/help/create-messages/import-and-author-html-email-content.md)
