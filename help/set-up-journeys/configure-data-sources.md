@@ -1,6 +1,6 @@
 ---
 title: Konfigurera datakällor
-description: Förstå olika tillstånd för en resa och effekten av publicering.
+description: Lär dig mer om vad en datakälla är och hur du konfigurerar en Experience Platform och externa datakällor.
 kt: 7538
 thumbnail: 334256.jpg
 feature: Resor, datakällor
@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: 5bc7711f64af5d0dbffcb47d71996c3caa1a89d8
+source-git-commit: 359377095abbf30572f671b61f363abef67074aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 13%
 
 ---
 
