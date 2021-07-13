@@ -6,15 +6,15 @@ thumbnail: 334231.jpg
 feature: Resor
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: 07b06306507534f793b0950a586925c34c6a2062
+exl-id: e7626542-1399-4fcd-966a-cd9b3c7cd454
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 1%
 
 ---
-
 
 # Användningsfall - Segmentkvalificering
 
