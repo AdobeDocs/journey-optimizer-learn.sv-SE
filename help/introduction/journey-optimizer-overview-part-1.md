@@ -6,15 +6,15 @@ thumbnail: 334174.jpg
 feature: Översikt
 doc-type: value video
 team: Evangelism
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: ea9765d4cc39c5d5346c0a3f120c6d109f8d1052
+exl-id: 6977cc53-9dad-4dee-9cbf-90f7b11ea9c8
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 2%
 
 ---
-
 
 # Journey Optimizer del 1 - Leverera flerkanalsresor
 
