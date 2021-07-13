@@ -6,15 +6,15 @@ thumbnail: 334102.jpg
 feature: E-postdesign
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+exl-id: 6b8b5c30-5b12-486e-8787-352670e0b164
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 1%
 
 ---
-
 
 # Importera och redigera HTML-e-postinnehåll med meddelanderedigeraren
 
