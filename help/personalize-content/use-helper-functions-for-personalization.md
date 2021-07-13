@@ -6,9 +6,9 @@ thumbnail: 334244.jpg
 feature: Personalisering
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 3%
