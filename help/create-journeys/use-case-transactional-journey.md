@@ -6,10 +6,10 @@ thumbnail: 334202.jpg
 feature: Resor
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
-source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 3%
