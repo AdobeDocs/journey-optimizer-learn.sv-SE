@@ -6,15 +6,15 @@ thumbnail: 333998.jpg
 feature: Åtkomsthantering
 doc-type: feature video
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 8%
 
 ---
-
 
 # Åtkomsthantering
 
