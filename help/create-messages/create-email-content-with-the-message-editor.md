@@ -6,10 +6,10 @@ thumbnail: 334150.jpg
 feature: E-postdesign
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
-source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 1%
