@@ -6,9 +6,9 @@ thumbnail: 334343.jpg
 feature: Resor, datakällor
 doc-type: feature video
 team: PM
-role: Administrator, Developer
+role: Admin, Developer
 level: Beginner
-source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
