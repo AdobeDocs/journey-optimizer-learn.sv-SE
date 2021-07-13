@@ -6,10 +6,10 @@ thumbnail: 333745.jpg
 feature: Översikt
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 3%
