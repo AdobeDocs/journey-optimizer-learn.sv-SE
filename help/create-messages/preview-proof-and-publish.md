@@ -6,15 +6,15 @@ thumbnail: 334239.jpg
 feature: E-postdesign, inkorgsåtergivning, e-poståtergivning
 doc-type: feature video
 team: PM
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: 5d6431eea3239fbdceaf9485d6a21edee92f6c3b
+exl-id: 01c15f13-a804-45c3-94b0-ecd46586cc4f
+source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
-
 
 # Förhandsgranska, granska och publicera
 
