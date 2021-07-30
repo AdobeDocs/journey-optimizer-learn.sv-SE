@@ -2,10 +2,10 @@
 title: Journey Optimizer Videos och Tutorials
 description: Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 59a67f82a74618305ea1447f2be824173538b0e3
+source-git-commit: 2799f18144fc994e47f63368655006e8d1f09f79
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 1%
+source-wordcount: '177'
+ht-degree: 2%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 1%
 Journey Optimizer hjälper företag att leverera sammankopplade, kontextuella och personaliserade upplevelser till sina kunder. Kundresan är hela processen för en kunds interaktioner med varumärket, från det första kontaktytan tills kunden går ur.
 
 Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
+
+## Nyheter
+
+* **[Användningsfall - burst meddelande](/help/create-journeys/use-case-read-burst-message.md)**
+
+   *Förstå användningsexempel för felmeddelanden. Lär dig hur du konfigurerar en resa för burst-meddelanden och vilka metodtips som ska användas.*
 
 ## Personalens val
 
