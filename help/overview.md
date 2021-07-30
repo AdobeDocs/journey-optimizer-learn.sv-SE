@@ -2,9 +2,9 @@
 title: Journey Optimizer Videos och Tutorials
 description: Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2799f18144fc994e47f63368655006e8d1f09f79
+source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '193'
 ht-degree: 2%
 
 ---
@@ -19,6 +19,10 @@ Journey Optimizer hjälper företag att leverera sammankopplade, kontextuella oc
 Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 
 ## Nyheter
+
+* **[Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)**
+
+   *Förstå grunderna för att skapa en resa på arbetsytan.*
 
 * **[Användningsfall - burst meddelande](/help/create-journeys/use-case-read-burst-message.md)**
 
