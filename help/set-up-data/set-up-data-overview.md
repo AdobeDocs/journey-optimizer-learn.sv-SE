@@ -8,7 +8,7 @@ doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
+source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 3%
@@ -27,4 +27,4 @@ Lär dig mer om kundprofildata i realtid och vilka steg som krävs för att konf
 * [Skapa ett schema](/help/set-up-data/create-schema.md)
 * [Mappa identiteter](/help/set-up-data/map-identities.md)
 * [Skapa datauppsättningar och importera data](/help/set-up-data/create-datasets-and-ingest-data.md)
-* [Konfigurera källor](/help/set-up-data/configure-sources.md)
+* [Konfigurera källor](/help/set-up-data/configure-data-sources.md)
