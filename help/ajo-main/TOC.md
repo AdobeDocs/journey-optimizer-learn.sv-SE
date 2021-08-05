@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
+source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 5%
+source-wordcount: '160'
+ht-degree: 6%
 
 ---
 
@@ -23,8 +23,11 @@ ht-degree: 5%
    + [Åtkomsthantering](/help/set-up-access/access-management.md)
    + [Skapa och hantera sandlådor](/help/set-up-access/create-and-manage-sandboxes.md)
    + Datakonfiguration {#data-configuration}
-      + [Skapa ett schema](/help/set-up-data/create-schema.md)
+      + [Översikt](/help/set-up-data/set-up-data-overview.md)
+      + [[Skapa ett schema](/help/set-up-data/create-schema.md)
+      + [Mappa identiteter](/help/set-up-data/map-identities.md)
       + [Skapa datauppsättningar och importera data](/help/set-up-data/create-datasets-and-ingest-data.md)
+      + [Konfigurera källor](/help/set-up-data/configure-sources.md)
    + Kanalkonfiguration {#channel-configuration}
       + [Konfigurera e-postkanal](/help/set-up-email-channel/set-up-email-channel.md)
    + Konfiguration för beslutshantering {#decision-management-configuration}
