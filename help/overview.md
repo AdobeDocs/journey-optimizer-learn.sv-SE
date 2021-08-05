@@ -2,9 +2,9 @@
 title: Journey Optimizer Videos och Tutorials
 description: Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
+source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '265'
 ht-degree: 2%
 
 ---
@@ -19,6 +19,18 @@ Journey Optimizer hjälper företag att leverera sammankopplade, kontextuella oc
 Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 
 ## Nyheter
+
+* **[Konfigurera data - översikt](/help/set-up-data/set-up-data-overview.md)**
+
+   *Lär dig mer om kundprofildata i realtid och vilka steg som krävs för att konfigurera kundprofildata för Journey Optimizer.*
+
+* **[Mappa identiteter](/help/set-up-data/map-identities.md)**
+
+   *Lär dig hur och när ett schemafält ska etiketteras som en identitet, hur du skapar ett namnutrymme, när en identitet ska vara primär och hur du importerar och verifierar identitetsdata.*
+
+* **[Konfigurera datakällor](/help/set-up-data/configure-data-sources.md)**
+
+   *Lär dig mer om källanslutningar och hur du konfigurerar dem i Journey Optimizer*
 
 * **[Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)**
 
