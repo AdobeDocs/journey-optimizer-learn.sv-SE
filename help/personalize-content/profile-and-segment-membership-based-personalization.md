@@ -9,9 +9,9 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: a68e7eae1c38d7484e449de5cccb78ea8b892308
+source-git-commit: 4d8bf022ca43aa219719140f5b72bccf50c700d7
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '114'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Lär dig hur du lägger till profilbaserad personalisering i ett meddelande och 
 
 ## Ytterligare resurser
 
-* [Kom igång med personalisering i Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
+* [Kom igång med personalisering i Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html)
 * [Användningsfall: lägg till personalisering i ett push-meddelande](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-use-cases/personalization-use-case.html)
-* [Förstå personaliseringssyntax](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html)
-* [Använda hjälpfunktioner](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)
+* [Förstå personaliseringssyntax](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-syntax.html)
+* [Använda hjälpfunktioner](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html)
