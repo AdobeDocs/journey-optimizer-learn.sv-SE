@@ -2,9 +2,9 @@
 title: Journey Optimizer Videos och Tutorials
 description: Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
+source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '283'
 ht-degree: 2%
 
 ---
@@ -19,6 +19,10 @@ Journey Optimizer hjälper företag att leverera sammankopplade, kontextuella oc
 Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 
 ## Nyheter
+
+* ** [Skapa händelser](/help/set-up-journeys/create-events.md)**
+
+   *Lär dig hur du konfigurerar en händelse, anger slutpunkten för direktuppspelning och nyttolasten för en händelse.*
 
 * **[Konfigurera data - översikt](/help/set-up-data/set-up-data-overview.md)**
 
