@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: c60c70732efc32ff18137b56fc54bbfd43ef256b
+source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 7%
+ht-degree: 6%
 
 ---
 
@@ -19,22 +19,22 @@ ht-degree: 7%
    + [Journey Optimizer Overview Part 2](/help/introduction/journey-optimizer-overview-part-2.md)
    + [Viktiga funktioner och användargränssnittet](/help/introduction/key-capabilities-and-user-interface.md)
    + [Arkitektur](/help/introduction/architecture.md)
-+ Komma igång {#get-started}
++ Åtkomstkontroll {#access-control}
    + [Åtkomsthantering](/help/set-up-access/access-management.md)
    + [Skapa och hantera sandlådor](/help/set-up-access/create-and-manage-sandboxes.md)
-   + Datakonfiguration {#data-configuration}
-      + [Översikt](/help/set-up-data/set-up-data-overview.md)
-      + [Skapa ett schema](/help/set-up-data/create-schema.md)
-      + [Mappa identiteter](/help/set-up-data/map-identities.md)
-      + [Skapa datauppsättningar och importera data](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Konfigurera datakällor](/help/set-up-data/configure-data-sources.md)
-   + Kanalkonfiguration {#channel-configuration}
-      + [Konfigurera e-postkanal](/help/set-up-email-channel/set-up-email-channel.md)
-   + Konfiguration för beslutshantering {#decision-management-configuration}
-   + Resekonfiguration{#journey-configuration}
-      + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
-      + [Skapa händelser](/help/set-up-journeys/create-events.md)
-      + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
++ Datakonfiguration {#data-configuration}
+   + [Översikt](/help/set-up-data/set-up-data-overview.md)
+   + [Skapa ett schema](/help/set-up-data/create-schema.md)
+   + [Mappa identiteter](/help/set-up-data/map-identities.md)
+   + [Skapa datauppsättningar och importera data](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [Konfigurera datakällor](/help/set-up-data/configure-data-sources.md)
++ Kanalkonfiguration {#channel-configuration}
+   + [Konfigurera e-postkanal](/help/set-up-email-channel/set-up-email-channel.md)
++ Konfiguration för beslutshantering {#decision-management-configuration}
++ Resekonfiguration{#journey-configuration}
+   + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
+   + [Skapa händelser](/help/set-up-journeys/create-events.md)
+   + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
 + [Skapa segment](/help/set-up-resources/create-segments.md)
 + Skapa meddelanden {#create-messages}
    + [Skapa e-postinnehåll med meddelanderedigeraren](/help/create-messages/create-email-content-with-the-message-editor.md)
