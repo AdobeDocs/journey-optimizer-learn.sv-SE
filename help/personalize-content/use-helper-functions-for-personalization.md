@@ -3,15 +3,15 @@ title: Använd hjälpfunktioner för personalisering
 description: Lär dig omvandla personaliseringsvärden med hjälp av hjälpfunktioner för personalisering och förstå olika användningsexempel för hjälpfunktioner.
 kt: 8079
 thumbnail: 334244.jpg
-feature: Personalisering
+feature: Personalization
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 3%
+source-wordcount: '75'
+ht-degree: 2%
 
 ---
 
@@ -24,6 +24,5 @@ Lär dig omvandla personaliseringsvärden med hjälp av hjälpfunktioner för pe
 
 ## Ytterligare resurser
 
-* [Kom igång med personalisering i Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
-* [Mallar för språk och hjälpfunktioner](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)
-* [Användningsfall: Utnyttja olika typer av personalisering i ett meddelande](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
+* [Kom igång med personalisering i Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html)
+* [Mallar för språk och hjälpfunktioner](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html)
