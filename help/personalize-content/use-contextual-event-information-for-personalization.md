@@ -3,16 +3,16 @@ title: Använd sammanhangsbaserad händelseinformation för personalisering
 description: Lär dig hur du använder sammanhangsbaserad händelseinformation från en resa för att personalisera ett meddelande.
 kt: 8032
 thumbnail: 334165.jpg
-feature: Personalisering
+feature: Personalization
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
 exl-id: 45cb2057-fc8d-4c66-9da8-0ce7ab3a4033
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: 42d8c164d11e20527cb499645b2303870f503f2e
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 3%
+source-wordcount: '76'
+ht-degree: 2%
 
 ---
 
@@ -26,4 +26,3 @@ Lär dig hur du använder sammanhangsbaserad händelseinformation från en resa 
 
 * [Kom igång med personalisering i Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
 * [Lär dig hur du skapar en händelse under en resa](https://experienceleague.adobe.com/docs/journey-optimizer/using/get-started/configure-journeys/events-journeys/unitary-events/about-creating.html)
-* [Användningsfall: Utnyttja olika typer av personalisering i ett meddelande](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
