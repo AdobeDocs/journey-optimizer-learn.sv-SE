@@ -2,7 +2,7 @@
 title: Journey Optimizer Videos och Tutorials
 description: Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
+source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 3%
@@ -28,7 +28,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
    *Lär dig mer om källanslutningar och hur du konfigurerar dem i Journey Optimizer*
 
-* **[Användningsfall - burst meddelande](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Användningsfall - burst meddelande](/help/create-journeys/use-case-burst-message.md)**
 
    *Förstå användningsexempel för felmeddelanden. Lär dig hur du konfigurerar en resa för burst-meddelanden och vilka metodtips som ska användas.*
 
