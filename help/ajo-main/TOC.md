@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
+source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 6%
@@ -27,12 +27,12 @@ ht-degree: 6%
    + [Skapa ett schema](/help/set-up-data/create-schema.md)
    + [Mappa identiteter](/help/set-up-data/map-identities.md)
    + [Skapa datauppsättningar och importera data](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [Konfigurera datakällor](/help/set-up-data/configure-data-sources.md)
+   + [Konfigurera datakällor](/help/set-up-data/configure-source-connectors.md)
 + Kanalkonfiguration {#channel-configuration}
    + [Konfigurera e-postkanal](/help/set-up-email-channel/set-up-email-channel.md)
 + Konfiguration för beslutshantering {#decision-management-configuration}
 + Resekonfiguration{#journey-configuration}
-   + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
+   + [Konfigurera datakällor](/help/set-up-journeys/configure-source-connectors.md)
    + [Skapa händelser](/help/set-up-journeys/create-events.md)
    + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
 + [Skapa segment](/help/set-up-resources/create-segments.md)
