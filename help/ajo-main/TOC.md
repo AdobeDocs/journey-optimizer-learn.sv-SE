@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 117d45eabe14fdb736fb82d77c30467487b66816
+source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 4%
@@ -32,7 +32,7 @@ ht-degree: 4%
    + [Konfigurera e-postkanal](/help/set-up-email-channel/set-up-email-channel.md)
 + Konfiguration för beslutshantering {#decision-management-configuration}
 + Resekonfiguration{#journey-configuration}
-   + [Konfigurera datakällor](/help/set-up-journeys/configure-source-connectors.md)
+   + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
    + [Skapa händelser](/help/set-up-journeys/create-events.md)
    + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
 + [Skapa segment](/help/set-up-resources/create-segments.md)

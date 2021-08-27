@@ -2,7 +2,7 @@
 title: Journey Optimizer Videos och Tutorials
 description: Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
+source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 3%
@@ -24,7 +24,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
    *Lär dig hur du konfigurerar en händelse, anger slutpunkten för direktuppspelning och nyttolasten för en händelse.*
 
-* **[Konfigurera datakällor](/help/set-up-data/configure-source-connectors.md)**
+* **[Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)**
 
    *Lär dig mer om källanslutningar och hur du konfigurerar dem i Journey Optimizer*
 
