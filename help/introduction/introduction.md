@@ -1,24 +1,24 @@
 ---
 title: Introduktion till Adobe Journey Optimizer
-description: Förstå vad Adobe Journey Optimizer är, vilka utmaningar den här lösningen står inför och vilka de viktigaste användningsområdena är.
+description: Förstå vad Adobe Journey Optimizer är, vilka affärsutmaningar programmet löser och vilka de viktigaste användningsområdena är.
 kt: 7517
 thumbnail: 333745.jpg
-feature: Översikt
+feature: Overview
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: 74369d03b19125ebf26c708caf1cc4535cb09c38
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 3%
+source-wordcount: '75'
+ht-degree: 2%
 
 ---
 
 # Introduktion till Adobe Journey Optimizer
 
-Förstå vad Adobe Journey Optimizer är, vilka utmaningar den här lösningen står inför och vilka de viktigaste användningsområdena är.
+Förstå vad Adobe Journey Optimizer är, vilka affärsutmaningar programmet löser och vilka de viktigaste användningsområdena är.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12)
 
