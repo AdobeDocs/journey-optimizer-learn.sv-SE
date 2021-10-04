@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: acbdb0e3fa0da0cf7af56b3fdecd9662010e5d9b
+source-git-commit: 7b51c728a8c73a05e89f18e9e7c908a9f835f818
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 9%
+source-wordcount: '190'
+ht-degree: 18%
 
 ---
 
@@ -31,7 +31,16 @@ ht-degree: 9%
 + Kanalkonfiguration {#channel-configuration}
    + [Konfigurera e-postkanal](/help/set-up-email-channel/set-up-email-channel.md)
 + Konfiguration för beslutshantering {#decision-management-configuration}
-   + [Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=en)
+   + [Introduktion till [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
+   + [Demo med [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+   + [Skapa placeringar](/help/set-up-decision-management/create-placements.md)
+   + [Skapa regler](/help/set-up-decision-management/create-rules.md)
+   + [Skapa taggar](/help/set-up-decision-management/create-tags.md)
+   + [Skapa personaliserade erbjudanden](/help/set-up-decision-management/create-personalized-offers.md)
+   + [Skapa reserverbjudanden](/help/set-up-decision-management/create-fallback-offers.md)
+   + [Skapa samlingar](/help/set-up-decision-management/create-collections.md)
+   + [Skapa erbjudandeaktiviteter](/help/set-up-decision-management/create-offer-activities.md)
+   + [Leverera erbjudanden med besluts-API](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + Resekonfiguration{#journey-configuration}
    + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
    + [Skapa händelser](/help/set-up-journeys/create-events.md)
