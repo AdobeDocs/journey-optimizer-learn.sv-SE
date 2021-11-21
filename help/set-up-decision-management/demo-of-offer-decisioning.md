@@ -14,16 +14,16 @@ ht-degree: 11%
 
 # Demo med [!DNL Offer Decisioning]
 
-Läs om hur varumärken kan använda Adobe [!DNL Offer Decisioning]-tjänst för att definiera och hantera sina erbjudanden, tillämpa kunddata i realtid och leverera de rätta upplevelser som kunderna förväntar sig.
+Läs om hur varumärken kan använda Adobe [!DNL Offer Decisioning] för att definiera och hantera sina erbjudanden, tillämpa kunddata i realtid och leverera de rätta upplevelser som kunderna förväntar sig.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on)
 
 >[!INFO]
 >
-> Den här videon ingår i en kurs, [Getting Started with Offer decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), som är tillgänglig kostnadsfritt på Experience League!
+> Den här videon är en del av en kurs, [Komma igång med Offer decisioning för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
 
 
 ## Ytterligare resurser
 
 * [Introduktion till [!DNL Offer Decisioning] (video)](introduction-to-offer-decisioning.md)
-* [[!UICONTROL Beslutshantering]  (dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
+* [[!UICONTROL Beslutshantering] (dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)

@@ -8,13 +8,13 @@ doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-source-git-commit: 03519352f37b613e65f4f97c5a94320443b57def
+exl-id: 042d94dc-2906-4745-8375-02ff888165a8
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 15%
 
 ---
-
 
 # Konfigurera datakällor
 

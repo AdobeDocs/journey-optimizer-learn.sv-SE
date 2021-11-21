@@ -3,15 +3,16 @@ title: Introduktion till att skapa en resa
 description: Förstå grunderna för att skapa en resa på arbetsytan.
 kt: 7530
 thumbnail: 334522.jpg
-feature: Resor
+feature: Journeys
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
+exl-id: dc510572-96c8-42bd-b213-e8738510bb0c
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
 workflow-type: tm+mt
-source-wordcount: '33'
-ht-degree: 3%
+source-wordcount: '32'
+ht-degree: 0%
 
 ---
 

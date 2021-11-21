@@ -3,7 +3,7 @@ title: Arbeta med profil- och segmentmedlemskap för personalisering
 description: Lär dig hur du lägger till profilbaserad personalisering i ett meddelande och hur du använder segmentmedlemskap som en förutsättning för ett personaliseringsblock.
 kt: 8024
 thumbnail: 334078.jpg
-feature: Personalisering
+feature: Personalization
 doc-type: feature video
 team: PM
 role: User
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
 source-git-commit: 4d8bf022ca43aa219719140f5b72bccf50c700d7
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 2%
+source-wordcount: '113'
+ht-degree: 1%
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: Importera och redigera HTML-e-postinnehåll med meddelanderedigeraren
-description: Lär dig hur du importerar befintligt HTML-innehåll, ändrar designen, lägger till spegelsideslänkar och länkar för att avbryta prenumeration och hur du kodar ditt innehåll.
+title: Importera och redigera e-postinnehåll från HTML med meddelanderedigeraren
+description: Lär dig hur du importerar befintligt HTML-innehåll, ändrar designen, lägger till spegelsideslänkar och avbryter prenumerationen samt hur du kodar ditt innehåll.
 kt: 7535
 thumbnail: 334102.jpg
-feature: E-postdesign
+feature: Email Design
 doc-type: feature video
 team: PM
 role: User
@@ -11,14 +11,14 @@ level: Beginner
 exl-id: 6b8b5c30-5b12-486e-8787-352670e0b164
 source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '111'
 ht-degree: 1%
 
 ---
 
-# Importera och redigera HTML-e-postinnehåll med meddelanderedigeraren
+# Importera och redigera e-postinnehåll från HTML med meddelanderedigeraren
 
-Lär dig hur du importerar befintligt HTML-innehåll, ändrar designen, lägger till spegelsideslänkar och länkar för att avbryta prenumeration och hur du kodar ditt innehåll.
+Lär dig hur du importerar befintligt HTML-innehåll, ändrar designen, lägger till spegelsideslänkar och avbryter prenumerationen samt hur du kodar ditt innehåll.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334102?quality=12)
 

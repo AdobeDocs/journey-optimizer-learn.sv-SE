@@ -14,14 +14,14 @@ ht-degree: 40%
 
 # Introduktion till [!DNL Offer Decisioning]
 
-Få en översikt över [!DNL Offer Decisioning], en programtjänst som är byggd ovanpå Adobe Experience Platform. Videon handlar om de affärsutmaningar som [!DNL Offer Decisioning] löser, dess nyckelfunktioner, grundläggande arkitektur och huvudsakliga användningsområden.
+Få en översikt över [!DNL Offer Decisioning], en programtjänst som bygger på Adobe Experience Platform. Videon handlar om de affärsutmaningar som [!DNL Offer Decisioning] löser, dess nyckelfunktioner, grundläggande arkitektur och huvudsakliga användningsområden.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
 
 >[!INFO]
 >
-> Den här videon ingår i en kurs, [Getting Started with Offer decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), som är tillgänglig kostnadsfritt på Experience League!
+> Den här videon är en del av en kurs, [Komma igång med Offer decisioning för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
 
 ## Ytterligare resurser
 

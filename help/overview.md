@@ -30,7 +30,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 * **[Användningsfall - burst meddelande](/help/create-journeys/use-case-burst-message.md)**
 
-   *Förstå användningsexempel för felmeddelanden. Lär dig hur du konfigurerar en resa för burst-meddelanden och vilka metodtips som ska användas.*
+   *Förstå användningsexempel för felmeddelanden. Lär dig hur du konfigurerar en resa för burst-meddelanden och vilka bästa metoder som ska användas.*
 
 ## Personalens val
 
@@ -42,7 +42,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
     </a>
     <div>
       <a href="./introduction/journey-optimizer-overview-part-1.md">
-    <strong>Journey Optimizer - översikt, del 1  </strong>
+    <strong>Journey Optimizer - översikt, del 1 </strong>
     </a>
     </div>
     <p>
@@ -55,7 +55,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
     </a>
     <div>
       <a href="./introduction/journey-optimizer-overview-part-2.md">
-    <strong>Journey Optimizer Overview Part 2  </strong>
+    <strong>Journey Optimizer Overview Part 2 </strong>
     </a>
     </div>
     <p>

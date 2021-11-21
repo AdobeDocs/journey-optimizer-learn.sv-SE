@@ -1,7 +1,7 @@
 ---
 title: Skapa personaliserade erbjudanden
 seo-title: Create personalized offers in Offer Decisioning
-description: Lär dig hur du skapar personaliserade erbjudanden i [!DNL Offer Decisioning]. Personaliserade erbjudanden har tillhörande regler som hjälper dig att visa dem endast för relevanta kunder.
+description: Learn how to create personalized offers in [!DNL Offer Decisioning]. Personaliserade erbjudanden har tillhörande regler som hjälper dig att visa dem endast för relevanta kunder.
 feature: Offers
 kt: 6753
 thumbnail: 329375.jpg
@@ -15,16 +15,16 @@ ht-degree: 6%
 
 # Skapa personaliserade erbjudanden
 
-Lär dig hur du skapar personaliserade erbjudanden i [!DNL Offer Decisioning]. Personaliserade erbjudanden har tillhörande regler som hjälper dig att visa dem endast för relevanta kunder. Du kan till exempel begränsa ett erbjudande om snöskrapor till regioner där det snöar och bara under vintern.
+Lär dig skapa personaliserade erbjudanden i [!DNL Offer Decisioning]. Personalized offers have eligibility rules associated with them to help you show them only to relevant customers. For example, you can restrict an offer for snow shovels to regions where it snows and only during the winter time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on)
 
 >[!INFO]
 >
-> Den här videon ingår i en kurs, [Getting Started with Offer decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), som är tillgänglig kostnadsfritt på Experience League!
+> This video is part of a course, [Getting Started with Offer Decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), available for free on Experience League!
 
 
 ## Ytterligare resurser
 
-* [Skapa personaliserade erbjudanden (dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html)
-* [Skapa personaliserade erbjudanden med API (dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html)
+* [Create personalized offers (documentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html)
+* [Create personalized offers with API (documentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html)

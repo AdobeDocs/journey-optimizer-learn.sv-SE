@@ -3,7 +3,7 @@ title: Live- och globala rapporter
 description: Lär dig skillnaden mellan live- och globala rapporter, hur du får tillgång till och analyserar resan och de meddelandespecifika rapporterna samt hur du ändrar rapportpanelerna.
 kt: 7690
 thumbnail: 334108.jpg
-feature: Rapportering
+feature: Reporting
 doc-type: feature video
 team: PM
 role: Admin
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
 source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 3%
+source-wordcount: '90'
+ht-degree: 2%
 
 ---
 

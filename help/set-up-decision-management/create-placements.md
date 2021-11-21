@@ -14,13 +14,13 @@ ht-degree: 5%
 
 # Skapa placeringar
 
-Lär dig hur du skapar placeringar i [!DNL Offer Decisioning]. Placeringar är en av byggstenskomponenterna i erbjudandena. En placering är en kombination av innehållstyp och kanal, till exempel en bild i ett e-postmeddelande eller HTML-kod på en webbplats.
+Lär dig hur du skapar praktik i [!DNL Offer Decisioning]. Placeringar är en av byggstenskomponenterna i erbjudandena. En placering är en kombination av innehållstyp och kanal, till exempel en bild i ett e-postmeddelande eller HTML på en webbplats.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
 >[!INFO]
 >
-> Den här videon ingår i en kurs, [Getting Started with Offer decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), som är tillgänglig kostnadsfritt på Experience League!
+> Den här videon är en del av en kurs, [Komma igång med Offer decisioning för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
 
 
 ## Ytterligare resurser

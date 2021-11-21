@@ -3,18 +3,18 @@ title: Skapa datauppsättningar och importera data
 description: Lär dig hur du skapar en datauppsättning, mappar den till ett schema, lägger till data i den och bekräftar att data har importerats.
 kt: 7563
 thumbnail: 334293.jpg
-feature: Resor, datakällor
+feature: Journeys, Data Sources
 doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+exl-id: 55161113-3a69-4ba1-89a4-48cbaeef13f7
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '89'
 ht-degree: 2%
 
 ---
-
 
 # Skapa datauppsättningar och importera data
 

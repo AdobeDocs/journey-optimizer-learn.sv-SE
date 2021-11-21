@@ -20,7 +20,7 @@ Lär dig hur du skapar regler i [!DNL Offer Decisioning]. Regler eller&quot;besl
 
 >[!INFO]
 >
-> Den här videon ingår i en kurs, [Getting Started with Offer decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), som är tillgänglig kostnadsfritt på Experience League!
+> Den här videon är en del av en kurs, [Komma igång med Offer decisioning för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
 
 
 ## Ytterligare resurser

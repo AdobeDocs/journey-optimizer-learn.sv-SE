@@ -15,13 +15,13 @@ ht-degree: 8%
 
 # Leverera erbjudanden med besluts-API
 
-Lär dig leverera [!DNL Offer Decisioning]-erbjudanden med API:t för beslut. Ett API-anrop görs för att hämta behållar-ID med [!DNL Postman]. Därefter anpassas ett exempel på API-anrop för beslut med aktivitets-ID, placerings-ID, identitetsnamnutrymme och kund-ID för att hämta ett personaliserat erbjudande. När ni har fått ett personaliserat erbjudande med API:t för beslut kan ni integrera erbjudandeinnehållet med ert marknadsföringssystem.
+Lär dig leverera [!DNL Offer Decisioning] erbjudanden med API:t för beslut. Använda [!DNL Postman] för att visa att ett API-anrop görs för att hämta behållar-ID:t. Därefter anpassas ett exempel på API-anrop för beslut med aktivitets-ID, placerings-ID, identitetsnamnutrymme och kund-ID för att hämta ett personaliserat erbjudande. När ni har fått ett personaliserat erbjudande med API:t för beslut kan ni integrera erbjudandeinnehållet med ert marknadsföringssystem.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
 
 >[!INFO]
 >
-> Den här videon ingår i en kurs, [Getting Started with Offer decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), som är tillgänglig kostnadsfritt på Experience League!
+> Den här videon är en del av en kurs, [Komma igång med Offer decisioning för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
 
 
 ## Ytterligare resurser

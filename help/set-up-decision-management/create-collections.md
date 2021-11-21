@@ -14,13 +14,13 @@ ht-degree: 5%
 
 # Skapa samlingar
 
-Lär dig hur du skapar samlingar i [!DNL Offer Decisioning]. Samlingar används för att hantera erbjudanden i logiska grupper och krävs för att skapa [!DNL Offer Decisioning]-aktiviteter. Med dynamiska samlingar kan du gruppera erbjudanden baserat på taggar, medan statiska samlingar gör att du kan strukturera erbjudandena manuellt.
+Lär dig hur du skapar samlingar i [!DNL Offer Decisioning]. Samlingar används för att hantera erbjudanden i logiska grupper och krävs för att skapa [!DNL Offer Decisioning] verksamhet. Med dynamiska samlingar kan du gruppera erbjudanden baserat på taggar, medan statiska samlingar gör att du kan strukturera erbjudandena manuellt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on)
 
 >[!INFO]
 >
-> Den här videon ingår i en kurs, [Getting Started with Offer decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), som är tillgänglig kostnadsfritt på Experience League!
+> Den här videon är en del av en kurs, [Komma igång med Offer decisioning för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
 
 
 ## Ytterligare resurser

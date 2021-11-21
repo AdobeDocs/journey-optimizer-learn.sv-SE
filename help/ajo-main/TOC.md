@@ -30,7 +30,7 @@ ht-degree: 20%
    + [Konfigurera källanslutningar](/help/set-up-data/configure-source-connectors.md)
 + Kanalkonfiguration {#channel-configuration}
    + [Konfigurera e-postkanal](/help/set-up-email-channel/set-up-email-channel.md)
-+ Konfiguration för beslutshantering {#decision-management-configuration}
++ Konfiguration av beslutshantering {#decision-management-configuration}
    + [Introduktion till [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
    + [Demo med [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
    + [Skapa placeringar](/help/set-up-decision-management/create-placements.md)
