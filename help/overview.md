@@ -2,9 +2,9 @@
 title: Journey Optimizer Videos och Tutorials
 description: Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '201'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,10 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ## Nyheter
 
+* **[Delegera CName-underdomäner](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+
+   *Lär dig hur du skapar en underdomän med CNAME för att peka på Adobe-specifika poster.*
+
 * **[Skapa händelser](/help/set-up-journeys/create-events.md)**
 
    *Lär dig hur du konfigurerar en händelse, anger slutpunkten för direktuppspelning och nyttolasten för en händelse.*
@@ -28,9 +32,6 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
    *Lär dig mer om källanslutningar och hur du konfigurerar dem i Journey Optimizer*
 
-* **[Användningsfall - burst meddelande](/help/create-journeys/use-case-burst-message.md)**
-
-   *Förstå användningsexempel för felmeddelanden. Lär dig hur du konfigurerar en resa för burst-meddelanden och vilka bästa metoder som ska användas.*
 
 ## Personalens val
 
