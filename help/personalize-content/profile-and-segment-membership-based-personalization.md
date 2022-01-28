@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: 4d8bf022ca43aa219719140f5b72bccf50c700d7
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 1%
+source-wordcount: '60'
+ht-degree: 0%
 
 ---
 
@@ -21,10 +21,3 @@ ht-degree: 1%
 Lär dig hur du lägger till profilbaserad personalisering i ett meddelande och hur du använder segmentmedlemskap som en förutsättning för ett personaliseringsblock.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12)
-
-## Ytterligare resurser
-
-* [Kom igång med personalisering i Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html)
-* [Användningsfall: lägg till personalisering i ett push-meddelande](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-use-cases/personalization-use-case.html)
-* [Förstå personaliseringssyntax](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-syntax.html)
-* [Använda hjälpfunktioner](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html)

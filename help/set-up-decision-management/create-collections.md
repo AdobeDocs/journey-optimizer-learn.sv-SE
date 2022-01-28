@@ -1,14 +1,14 @@
 ---
 title: Skapa samlingar
 description: Lär dig hur du skapar samlingar i [!DNL Offer Decisioning]. För samlingar finns regler för behörighet kopplade till dem så att du kan visa dem endast för relevanta kunder.
-feature: Offers
+feature: Offers, Collections
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 5%
+source-wordcount: '92'
+ht-degree: 4%
 
 ---
 
@@ -21,9 +21,3 @@ Lär dig hur du skapar samlingar i [!DNL Offer Decisioning]. Samlingar används 
 >[!INFO]
 >
 > Den här videon är en del av en kurs, [Komma igång med Offer decisioning för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
-
-
-## Ytterligare resurser
-
-* [Skapa samlingar (dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-collections.html)
-* [Skapa samlingar med API (dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/collections/create.html)

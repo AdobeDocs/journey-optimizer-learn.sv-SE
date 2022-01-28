@@ -5,10 +5,10 @@ feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 40%
+source-wordcount: '79'
+ht-degree: 30%
 
 ---
 
@@ -22,8 +22,3 @@ Få en översikt över [!DNL Offer Decisioning], en programtjänst som bygger p�
 >[!INFO]
 >
 > Den här videon är en del av en kurs, [Komma igång med Offer decisioning för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
-
-## Ytterligare resurser
-
-* [Demo med [!DNL Offer Decisioning] (video)](demo-of-offer-decisioning.md)
-* [[!DNL Offer Decisioning] (dokumentation)](https://experienceleague.adobe.com/docs/offer-decisioning/using/get-started/starting-offer-decisioning.html?lang=sv)
