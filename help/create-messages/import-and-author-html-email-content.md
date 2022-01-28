@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 6b8b5c30-5b12-486e-8787-352670e0b164
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: cdf98075ebe732cadfbfc36b3c65683c64b15a02
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 1%
+source-wordcount: '64'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,3 @@ ht-degree: 1%
 Lär dig hur du importerar befintligt HTML-innehåll, ändrar designen, lägger till spegelsideslänkar och avbryter prenumerationen samt hur du kodar ditt innehåll.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334102?quality=12)
-
-## Ytterligare resurser
-
-* [Importera eller koda ditt e-postinnehåll (dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
-* [Kom igång med e-postdesign i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
-* [Använda e-postdesigners innehållskomponenter](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
