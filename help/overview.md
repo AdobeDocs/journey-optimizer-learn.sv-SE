@@ -3,10 +3,10 @@ title: Journey Optimizer Videos och Tutorials
 description: Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 3%
+source-wordcount: '215'
+ht-degree: 1%
 
 ---
 
@@ -21,6 +21,10 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ## Nyheter
 
+* **[Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+
+   *Lär dig hur du använder sparade personaliseringsbiblioteksobjekt i ett meddelande och hur du skapar och hanterar personaliseringsbiblioteksobjekt.*
+
 * **[Delegera CName-underdomäner](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *Lär dig hur du skapar en underdomän med CNAME för att peka på Adobe-specifika poster.*
@@ -28,10 +32,6 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 * **[Skapa händelser](/help/set-up-journeys/create-events.md)**
 
    *Lär dig hur du konfigurerar en händelse, anger slutpunkten för direktuppspelning och nyttolasten för en händelse.*
-
-* **[Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)**
-
-   *Lär dig mer om källanslutningar och hur du konfigurerar dem i Journey Optimizer*
 
 
 ## Personalens val
@@ -65,7 +65,3 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
     <p>
   </td>
 </table>
-
-
-
-
