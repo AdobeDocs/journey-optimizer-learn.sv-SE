@@ -3,9 +3,9 @@ title: Journey Optimizer Videos och Tutorials
 description: Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
+source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '210'
 ht-degree: 1%
 
 ---
@@ -21,6 +21,10 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ## Nyheter
 
+* **[Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)**
+
+   *Lär dig hur du konfigurerar prenumerationer och skapar landningssidor.*
+
 * **[Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
    *Lär dig hur du använder sparade personaliseringsbiblioteksobjekt i ett meddelande och hur du skapar och hanterar personaliseringsbiblioteksobjekt.*
@@ -28,11 +32,6 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 * **[Delegera CName-underdomäner](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *Lär dig hur du skapar en underdomän med CNAME för att peka på Adobe-specifika poster.*
-
-* **[Skapa händelser](/help/set-up-journeys/create-events.md)**
-
-   *Lär dig hur du konfigurerar en händelse, anger slutpunkten för direktuppspelning och nyttolasten för en händelse.*
-
 
 ## Personalens val
 
