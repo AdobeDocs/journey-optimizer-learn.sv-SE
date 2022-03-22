@@ -6,7 +6,7 @@ role: User
 level: Beginner
 kt: 9364
 thumbnail: 341280.jpg
-source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
+source-git-commit: 773cf0e4633a8b4fe0696d2d4a612c82dc7f8955
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -19,8 +19,8 @@ ht-degree: 0%
 Lär dig hur du konfigurerar prenumerationer och skapar landningssidor:
 
 * Skapa en prenumerationslista
-* De startsidor som kan användas för att erbjuda abonnemang på eller ta bort abonnemang på en tjänst
+* Konfigurera landningssidor för att erbjuda prenumerationer på eller ta bort prenumerationer på en tjänst
 * Integrera prenumerationsalternativet (un) i ditt meddelande
-* Konfigurera relevanta resor.
+* Konfigurera relevanta resor
 
 >[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on)
