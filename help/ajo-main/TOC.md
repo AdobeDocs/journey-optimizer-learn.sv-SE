@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
+source-git-commit: 43d3e290d3e481fd8ae88813fedd48692a85f118
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 18%
+source-wordcount: '217'
+ht-degree: 17%
 
 ---
 
@@ -47,7 +47,9 @@ ht-degree: 18%
    + [Skapa händelser](/help/set-up-journeys/create-events.md)
    + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
 + [Skapa segment](/help/set-up-resources/create-segments.md)
++ [Assets Essentials](/help/assets-essentials-overview.md)
 + Skapa meddelanden {#create-messages}
+   + [Översikt över massagedesigner](/help/create-messages/message-designer-overview.md)
    + [Skapa e-postinnehåll med meddelanderedigeraren](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importera och redigera e-postinnehåll från HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Förhandsgranska, granska och publicera](/help/create-messages/preview-proof-and-publish.md)
@@ -59,6 +61,7 @@ ht-degree: 18%
    + [Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + Skapa resor {#create-journeys}
+   + [Översikt över resans arbetsyta](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Användningsfall - Transaktionsresa](/help/create-journeys/use-case-transactional-journey.md)
    + [Användningsfall - Lässegment](/help/create-journeys/use-case-read-segment.md)
