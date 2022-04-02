@@ -1,14 +1,14 @@
 ---
 title: Mobile funktioner för marknadsförare
-description: Förstå Adobe Journey Optimizer mobilfunktioner. (mellan 60 och 160 tecken)
+description: Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder marknadsförare.
 feature: SMS, In App, Push
 role: Leader, User
 level: Beginner
 kt: 10169
 thumbnail: 342102.jpeg
-source-git-commit: 84e9f93b3bc22a6ebbe2993df28a1efa9ff88b84
+source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
 workflow-type: tm+mt
-source-wordcount: '23'
+source-wordcount: '26'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Mobile funktioner för marknadsförare
 
-Förstå Adobe Journey Optimizer mobilfunktioner.
+Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder marknadsförare.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342102?quality=12&learn=on)
