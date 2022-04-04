@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: ca3c1cd1741e2e42a6067013f670e10eb7ae1a2e
+source-git-commit: 3be357a7f91c08bf768d837f32c242ff8b181749
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 16%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 16%
    + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
    + [Skapa händelser](/help/set-up-journeys/create-events.md)
    + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
-+ Kundprofiler, segment och prenumerationer {profiler-segment-prenumerationer}
++ Kundprofiler, segment och prenumerationer {#profiles-segments-subscriptions}
    + [Enhetlig profil och segmentering - översikt](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Skapa segment](/help/set-up-resources/create-segments.md)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
