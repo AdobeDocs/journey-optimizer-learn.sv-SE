@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
+source-git-commit: ca3c1cd1741e2e42a6067013f670e10eb7ae1a2e
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 17%
+source-wordcount: '236'
+ht-degree: 16%
 
 ---
 
@@ -46,7 +46,10 @@ ht-degree: 17%
    + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
    + [Skapa händelser](/help/set-up-journeys/create-events.md)
    + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
-+ [Skapa segment](/help/set-up-resources/create-segments.md)
++ Kundprofiler, segment och prenumerationer {profiler-segment-prenumerationer}
+   + [Enhetlig profil och segmentering - översikt](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+   + [Skapa segment](/help/set-up-resources/create-segments.md)
+   + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Skapa meddelanden {#create-messages}
    + [Översikt över massagedesigner](/help/create-messages/message-designer-overview.md)
@@ -61,7 +64,6 @@ ht-degree: 17%
    + [Använd sammanhangsbaserad händelseinformation för personalisering](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Använd hjälpfunktioner för personalisering](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + Skapa resor {#create-journeys}
    + [Översikt över resans arbetsyta](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)
