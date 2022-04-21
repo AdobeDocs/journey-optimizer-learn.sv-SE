@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
+source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 15%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 15%
    + [Skapa personaliserade erbjudanden](/help/decision-management/create-personalized-offers.md)
    + [Skapa reserverbjudanden](/help/decision-management/create-fallback-offers.md)
    + [Skapa samlingar](/help/decision-management/create-collections.md)
-   + [Skapa erbjudandeaktiviteter](/help/decision-management/create-offer-activities.md)
+   + [Skapa beslut](/help/decision-management/create-decisions.md)
    + [Leverera erbjudanden med besluts-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + Resekonfiguration{#journey-configuration}
    + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
