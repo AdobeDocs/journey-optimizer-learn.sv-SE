@@ -1,20 +1,20 @@
 ---
-title: Introduktion till Offer Decisioning
-description: Få en översikt över Offer decisioning, en programtjänst som är byggd ovanpå Adobe Experience Platform.
+title: Introduktion till funktioner för beslutshantering
+description: Få en översikt över Journey Optimizer beslutsverktyg.
 feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
+source-git-commit: 8762d5fa187e549df0a6ccda4e42192fda07ebf6
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 30%
+source-wordcount: '75'
+ht-degree: 0%
 
 ---
 
-# Introduktion till [!DNL Offer Decisioning]
+# Introduktion till beslutsstyrningsfunktionerna
 
-Få en översikt över [!DNL Offer Decisioning], en programtjänst som bygger på Adobe Experience Platform. Videon handlar om de affärsutmaningar som [!DNL Offer Decisioning] löser, dess nyckelfunktioner, grundläggande arkitektur och huvudsakliga användningsområden.
+Få en översikt över Journey Optimizer beslutsverktyg. Videon handlar om de affärsutmaningar som beslutsprocesserna löser, dess nyckelfunktioner, den grundläggande arkitekturen och de huvudsakliga användningsområdena.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
