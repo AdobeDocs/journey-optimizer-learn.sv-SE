@@ -1,22 +1,22 @@
 ---
-title: Leverera erbjudanden med besluts-API
+title: Leverera erbjudanden med API:t för beslutshubben
 description: 'Lär dig hur ni kan leverera Offera decisioningar med API:t för beslut. '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
+source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 9%
+source-wordcount: '155'
+ht-degree: 1%
 
 ---
 
 
-# Leverera erbjudanden med besluts-API
+# Leverera erbjudanden med API:t för beslutshubben
 
-Lär dig leverera [!DNL Offer Decisioning] [erbjudanden med API:t för beslut](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html). Använda [!DNL Postman] för att visa att ett API-anrop görs för att hämta behållar-ID:t. Därefter anpassas ett exempel på API-anrop för beslut med aktivitets-ID, placerings-ID, identitetsnamnutrymme och kund-ID för att hämta ett personaliserat erbjudande. När ni har fått ett personaliserat erbjudande med API:t för beslut kan ni integrera erbjudandeinnehållet med ert marknadsföringssystem.
+Lär er hur ni kan leverera erbjudanden [med API:t för beslutshubben](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html). Använda [!DNL Postman] för att visa att ett API-anrop görs för att hämta behållar-ID:t. Därefter anpassas ett exempel på API-anrop för beslut med aktivitets-ID, placerings-ID, identitetsnamnutrymme och kund-ID för att hämta ett personaliserat erbjudande. När ni har fått ett personaliserat erbjudande med API:t för beslut kan ni integrera erbjudandeinnehållet med ert marknadsföringssystem.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
 
