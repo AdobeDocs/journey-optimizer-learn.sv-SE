@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: a2e8cc18c29df09ccd6ae6d0a54c28a04fe8d7bb
+source-git-commit: c9b0cea707ec96f4e89c0e0e38b1308f938c15fa
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 14%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 14%
 + Kanalkonfiguration {#channel-configuration}
    + [Konfigurera e-postkanal](/help/set-up-email-channel/set-up-email-channel.md)
    + [Delegera CName-underdomäner](/help/set-up-email-channel/delegate-cname-subdomains.md)
-+ Konfiguration av beslutshantering {#decision-management-configuration}
++ Beslutsledning {#decision-management}
    + [Introduktion till beslutshantering](/help/decision-management/introduction-to-decision-management.md)
    + [Demo av beslutsstyrningskapaciteten](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Skapa placeringar](/help/decision-management/create-placements.md)
