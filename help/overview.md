@@ -1,11 +1,11 @@
 ---
 title: Journey Optimizer Videos och Tutorials
-description: Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
+description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
+source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '213'
 ht-degree: 1%
 
 ---
