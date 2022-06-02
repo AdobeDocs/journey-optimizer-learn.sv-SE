@@ -1,11 +1,11 @@
 ---
 title: Skapa taggar
-description: Lär dig hur du skapar taggar i Offer decisioning. Taggar är valfria byggstenskomponenter i erbjudanden.
+description: Lär dig hur du skapar taggar i Beslutshantering. Taggar är valfria byggstenskomponenter i erbjudanden.
 feature: Offers
 kt: 6753
 thumbnail: 329374.jpg
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 3%
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 # Skapa taggar
 
-Lär dig hur [skapa taggar](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html) in [!DNL Offer Decisioning]. Taggar är valfria byggstenskomponenter i erbjudanden. De kan användas för att ordna erbjudanden och gruppera dem i dynamiska samlingar.
+Lär dig hur [skapa taggar](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html) in [!DNL Decision Management]. Taggar är valfria byggstenskomponenter i erbjudanden. De kan användas för att ordna erbjudanden och gruppera dem i dynamiska samlingar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on)
 
@@ -22,4 +22,4 @@ Mer information om hur du skapar taggar med ett API finns i [produktguide](https
 
 >[!INFO]
 >
-> Den här videon är en del av en kurs, [Komma igång med Offer decisioning för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
+> Den här videon är en del av en kurs, [Getting Started with Decision Management for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!

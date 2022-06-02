@@ -3,9 +3,9 @@ title: Journey Optimizer Videos och Tutorials
 description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '214'
 ht-degree: 1%
 
 ---
@@ -60,7 +60,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
     </a>
     </div>
     <p>
-    <em>Den här videon visar hur varumärken kan använda Adobe Journey Optimizations offer decisioning, segmentkvalificering i realtid och händelsehantering för att nå nya höjder på sina kundresor.</em>
+    <em>Den här videon visar hur varumärken kan använda Adobe Journey Optimizer funktioner för beslutshantering, segmentkvalificering i realtid och hantering av affärsevenemang för att nå nya höjder på sina kundresor.</em>
     <p>
   </td>
 </table>

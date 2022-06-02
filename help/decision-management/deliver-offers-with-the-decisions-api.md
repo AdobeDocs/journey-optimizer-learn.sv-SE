@@ -1,12 +1,12 @@
 ---
 title: Leverera erbjudanden med API:t för beslutshubben
-description: 'Lär dig hur ni kan leverera Offera decisioningar med API:t för beslut. '
+description: 'Lär dig hur ni kan leverera beslutsstöd med API:t för beslut. '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Lär er hur ni kan leverera erbjudanden [med API:t för beslutshubben](https://e
 
 >[!INFO]
 >
-> Den här videon är en del av en kurs, [Komma igång med Offer decisioning för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
+> Den här videon är en del av en kurs, [Getting Started with Decision Management for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
 
 ## Ytterligare resurser
 
