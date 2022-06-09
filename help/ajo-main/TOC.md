@@ -2,17 +2,17 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: c9b0cea707ec96f4e89c0e0e38b1308f938c15fa
+source-git-commit: 9b05bea0b409ad8d1f9ed39e9261e1cdf5524310
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 14%
+source-wordcount: '241'
+ht-degree: 13%
 
 ---
 
 
 # Journey Optimizer Learn Tutorials {#tutorials}
 
-+ [Översikt](/help/overview.md)
++ [Journey Optimizer Tutorials](/help/overview.md)
 + Introduktion till Journey Optimizer {#introduction-to-journey-optimizer}
    + [Introduktion till Journey Optimizer](/help/introduction/introduction.md)
    + [Journey Optimizer - översikt, del 1](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -56,8 +56,8 @@ ht-degree: 14%
    + [Skapa e-postinnehåll med meddelanderedigeraren](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importera och redigera e-postinnehåll från HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Förhandsgranska, granska och publicera](/help/create-messages/preview-proof-and-publish.md)
-   + [Mobile funktioner för marknadsförare](/help/create-messages/mobile-capabilities.md)
-   + [Mobile för designers](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Mobilfunktioner för marknadsförare](/help/create-messages/mobile-capabilities.md)
+   + [Mobilfunktioner för designers](/help/create-messages/mobile-capabilities-for-developers.md)
 + Anpassa innehåll {#personalize-content}
    + [Profil- och segmentmedlemskapsbaserad personalisering](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Lägg till erbjudanden som personalisering](/help/personalize-content/add-offer-decisioning-to-messages.md)
