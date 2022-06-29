@@ -3,7 +3,7 @@ title: Journey Optimizer Videos och Tutorials
 description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9b5107457b134a66b1464a3f6d26bd95a8211ec8
+source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 1%
@@ -25,7 +25,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 * **[Konfigurera regler för meddelandefrekvens](/help/administration/configure-frequency-rules.md)**
 
-   *Lär dig hur du skapar, aktiverar, testar och rapporterar frekvensregler. Förstå hur man avgör vilka frekvensregler som ärvs för ett meddelande*
+   *Lär dig hur du skapar, aktiverar, testar och rapporterar frekvensregler. Lär dig hur du avgör vilka frekvensregler som ärvs för ett meddelande.*
 
 * **[Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)**
 
