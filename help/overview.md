@@ -3,9 +3,9 @@ title: Journey Optimizer Videos och Tutorials
 description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 65d95deead594b27008efa2cf1751b6371f204e6
+source-git-commit: e5c8967245409984541e2e0ce9b489fd8d00f14e
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '406'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ### Självstudiekurser
 
+* **[Konfigurera regler för meddelandefrekvens](help/administration/configure-frequency-rules.md)**
+
+   *Lär dig hur du skapar, aktiverar, testar och rapporterar frekvensregler. Förstå hur man avgör vilka frekvensregler som ärvs för ett meddelande*
+
 * **[Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)**
 
    *Lär dig hur du konfigurerar prenumerationer och skapar landningssidor.*
@@ -31,16 +35,11 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
    *Lär dig hur du använder sparade personaliseringsbiblioteksobjekt i ett meddelande och hur du skapar och hanterar personaliseringsbiblioteksobjekt.*
 
-* **[Delegera CName-underdomäner](/help/set-up-email-channel/delegate-cname-subdomains.md)**
-
-   *Lär dig hur du skapar en underdomän med CNAME för att peka på Adobe-specifika poster.*
-
 ### Experience League Live Events
 
 * **[Push-meddelanden med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
 
    *I det här Experience League Live-avsnittet talar vi om vanliga användningsfall för push-meddelanden med Adobe Journey Optimizer och tittar närmare på den tekniska informationen om hur du konfigurerar en app för Push med Adobe Experience Platform.*
-
 
 ## Personalens val
 
