@@ -3,9 +3,9 @@ title: Journey Optimizer Videos och Tutorials
 description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ### Självstudiekurser
 
+* **[Konfigurera, redigera och leverera SMS-meddelanden](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+
+   *Lär dig hur du konfigurerar, redigerar och inkluderar SMS-meddelanden i dina kundresor.*
+
 * **[Konfigurera regler för meddelandefrekvens](/help/administration/configure-frequency-rules.md)**
 
    *Lär dig hur du skapar, aktiverar, testar och rapporterar frekvensregler. Lär dig hur du avgör vilka frekvensregler som ärvs för ett meddelande.*
@@ -30,10 +34,6 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 * **[Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)**
 
    *Lär dig hur du konfigurerar prenumerationer och skapar landningssidor.*
-
-* **[Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
-
-   *Lär dig hur du använder sparade personaliseringsbiblioteksobjekt i ett meddelande och hur du skapar och hanterar personaliseringsbiblioteksobjekt.*
 
 ### Experience League Live Events
 
