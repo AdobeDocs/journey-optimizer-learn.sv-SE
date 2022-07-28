@@ -4,7 +4,7 @@ solution: Journey Optimizer
 feature-set: Journey Optimizer
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/journey-optimizer-learn.sv-SE
+git-repo: https://github.com/AdobeDocs/journey-optimizer-learn.sv-SE
 index: true
 source-git-commit: a68e7eae1c38d7484e449de5cccb78ea8b892308
 workflow-type: tm+mt
