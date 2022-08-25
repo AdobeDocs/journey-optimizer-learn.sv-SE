@@ -3,9 +3,9 @@ title: Journey Optimizer Videos och Tutorials
 description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '394'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 * **[Skapa en kampanj](/help/create-champaigns/create-a-campaign.md)**
 
-   *Lär dig hur du levererar engångsinnehåll till ett visst användarsegment genom att köra åtgärder direkt eller enligt ett angivet schema.*
+   *Lär dig hur du levererar engångsinnehåll till en viss målgrupp genom att köra åtgärder direkt eller enligt ett angivet schema.*
 
 
 * **[Konfigurera, redigera och leverera SMS-meddelanden](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
