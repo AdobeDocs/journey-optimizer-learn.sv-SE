@@ -3,10 +3,10 @@ title: Journey Optimizer Videos och Tutorials
 description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 1%
+source-wordcount: '395'
+ht-degree: 2%
 
 ---
 
@@ -23,6 +23,11 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ### Självstudiekurser
 
+* **[Skapa en kampanj](/help/create-champaigns/create-a-campaign.md)**
+
+   *Lär dig hur du levererar engångsinnehåll till ett visst användarsegment genom att köra åtgärder direkt eller enligt ett angivet schema.*
+
+
 * **[Konfigurera, redigera och leverera SMS-meddelanden](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *Lär dig hur du konfigurerar, redigerar och inkluderar SMS-meddelanden i dina kundresor.*
@@ -30,10 +35,6 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 * **[Stöd för inkommande nyckelord för SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
    *Förstå hur inbyggt stöd för inkommande nyckelord (start, stop, unstop) fungerar för SMS.*
-
-* **[Konfigurera regler för meddelandefrekvens](/help/administration/configure-frequency-rules.md)**
-
-   *Lär dig hur du skapar, aktiverar, testar och rapporterar frekvensregler. Lär dig hur du avgör vilka frekvensregler som ärvs för ett meddelande.*
 
 ### Experience League Live Events
 

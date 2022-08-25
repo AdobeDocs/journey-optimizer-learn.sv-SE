@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '261'
+ht-degree: 12%
 
 ---
 
@@ -67,6 +67,8 @@ ht-degree: 0%
    + [Använd sammanhangsbaserad händelseinformation för personalisering](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Använd hjälpfunktioner för personalisering](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
++ Skapa kampanjer {#create-campaigns}
+   + [Skapa en kampanj](/help/create-champaigns/create-a-campaign.md)
 + Skapa resor {#create-journeys}
    + [Översikt över resans arbetsyta](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)
