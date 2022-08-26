@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+source-git-commit: 6b655e69f4533a433ddda130ade9ba0d09398dfa
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 12%
@@ -53,7 +53,7 @@ ht-degree: 12%
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Skapa meddelanden {#create-messages}
-   + [Översikt över massagedesigner](/help/create-messages/message-designer-overview.md)
+   + [Översikt över meddelandedesignern](/help/create-messages/message-designer-overview.md)
    + [Skapa e-postinnehåll med meddelanderedigeraren](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importera och redigera e-postinnehåll från HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Förhandsgranska, granska och publicera](/help/create-messages/preview-proof-and-publish.md)
