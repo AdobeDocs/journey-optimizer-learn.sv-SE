@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: bddd702254d7b804515723e15862521ff90b32ad
+source-git-commit: 9390fa4f69307f326df5946000240bf397152690
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 12%
@@ -58,7 +58,7 @@ ht-degree: 12%
    + [Importera och redigera e-postinnehåll från HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Förhandsgranska, granska och publicera](/help/create-messages/preview-proof-and-publish.md)
    + [Mobilfunktioner för marknadsförare](/help/create-messages/mobile-capabilities.md)
-   + [Mobilfunktioner för designers](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Mobilfunktioner för utvecklare](/help/create-messages/mobile-capabilities-for-developers.md)
    + [Konfigurera, redigera och leverera SMS-meddelanden](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [Stöd för inkommande nyckelord för SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
 + Anpassa innehåll {#personalize-content}
