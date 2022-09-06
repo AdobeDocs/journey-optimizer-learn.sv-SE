@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
-source-git-commit: bddd702254d7b804515723e15862521ff90b32ad
+source-git-commit: 5acd6d5adcb120d04cef5eda3cd043fe855e9047
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -21,3 +21,4 @@ ht-degree: 0%
 Lär dig hur du skapar e-postmeddelanden från grunden. Lär dig hur du använder resurser från AEM Assets Essentials-biblioteket, redigerar responsiv e-postdesign och skapar e-postmeddelanden från mallar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12)
+
