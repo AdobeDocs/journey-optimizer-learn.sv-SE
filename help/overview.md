@@ -3,9 +3,9 @@ title: Journey Optimizer Tutorials - översikt
 description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: e7b5e3dbf5ab9c4415320b5bd1ae6f1640a00687
+source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '396'
 ht-degree: 2%
 
 ---
@@ -126,7 +126,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
     </a>
     </div>
     <p>
-    <em>Lär dig skillnaden mellan live- och globala rapporter, hur du får tillgång till och analyserar resan och de meddelandespecifika rapporterna samt hur du ändrar rapportpanelerna.
+    <em>Lär dig skillnaden mellan live-rapporter och globala rapporter, hur du får tillgång till och analyserar resan och de meddelandespecifika rapporterna samt hur du ändrar rapportpanelerna.
 
 </em>
     <p>
