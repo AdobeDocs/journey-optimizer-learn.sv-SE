@@ -1,17 +1,17 @@
 ---
-title: Journey Optimizer Videos och Tutorials
+title: Journey Optimizer Tutorials - översikt
 description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
+source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '392'
 ht-degree: 2%
 
 ---
 
 
-# Journey Optimizer Videos och Tutorials
+# Journey Optimizer Tutorials - översikt
 
 ![](./assets/ajo-banner.png)
 
