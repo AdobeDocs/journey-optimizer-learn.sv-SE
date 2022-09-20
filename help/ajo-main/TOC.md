@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 9390fa4f69307f326df5946000240bf397152690
+source-git-commit: bd183ad89e6c1b13c28e1345e5130024fd788276
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '265'
 ht-degree: 12%
 
 ---
@@ -81,3 +81,5 @@ ht-degree: 12%
    + [Publicera en resa](/help/create-journeys/publish-a-journey.md)
 + Rapportera och övervaka {#report-and-monitor}
    + [Live- och globala rapporter](/help/report-and-monitor/live-and-global-reports.md)
++ Sekretess {#privacy}
+   + [Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)

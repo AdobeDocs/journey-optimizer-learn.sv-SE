@@ -3,9 +3,9 @@ title: Journey Optimizer Tutorials - översikt
 description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+source-git-commit: e7b5e3dbf5ab9c4415320b5bd1ae6f1640a00687
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '397'
 ht-degree: 2%
 
 ---
@@ -23,18 +23,17 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ### Självstudiekurser
 
+* **[Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)**
+
+   *Förstå vad datamaskering är och varför maskdata är. Lär dig maskera data i Journey Optimizer-meddelanden.*
+
 * **[Skapa en kampanj](/help/create-champaigns/create-a-campaign.md)**
 
    *Lär dig hur du levererar engångsinnehåll till en viss målgrupp genom att köra åtgärder direkt eller enligt ett angivet schema.*
 
-
 * **[Konfigurera, redigera och leverera SMS-meddelanden](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *Lär dig hur du konfigurerar, redigerar och inkluderar SMS-meddelanden i dina kundresor.*
-
-* **[Stöd för inkommande nyckelord för SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
-
-   *Förstå hur inbyggt stöd för inkommande nyckelord (start, stop, unstop) fungerar för SMS.*
 
 ### Experience League Live Events
 
