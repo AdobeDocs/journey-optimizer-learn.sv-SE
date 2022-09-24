@@ -4,10 +4,10 @@ description: Vi har en mängd videokurser som visar hur du kan dra nytta av för
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 2%
+source-wordcount: '417'
+ht-degree: 1%
 
 ---
 
@@ -23,6 +23,10 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 ## Nyheter
 
 ### Självstudiekurser
+
+* **[Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)**
+
+   *Lär dig hur du kopierar en resa och dess beroende objekt från en sandlåda till en annan.*
 
 * **[Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)**
 
