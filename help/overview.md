@@ -4,9 +4,9 @@ description: Vi har en mängd videokurser som visar hur du kan dra nytta av för
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
+source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '464'
 ht-degree: 1%
 
 ---
@@ -24,6 +24,10 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ### Självstudiekurser
 
+* **[Använd varningar](/help/administration/alerts.md)**
+
+   *Lär dig hur du prenumererar på fördefinierade aviseringar om oväntade resbeteenden och får meddelanden via e-post, i Journey Optimizer eller via ett API.*
+
 * **[Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)**
 
    *Lär dig hur du kopierar en resa och dess beroende objekt från en sandlåda till en annan.*
@@ -32,15 +36,12 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
    *Förstå vad datamaskering är och varför maskdata är. Lär dig maskera data i Journey Optimizer-meddelanden.*
 
-* **[Skapa en kampanj](/help/create-champaigns/create-a-campaign.md)**
-
-   *Lär dig hur du levererar engångsinnehåll till en viss målgrupp genom att köra åtgärder direkt eller enligt ett angivet schema.*
-
-* **[Konfigurera, redigera och leverera SMS-meddelanden](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
-
-   *Lär dig hur du konfigurerar, redigerar och inkluderar SMS-meddelanden i dina kundresor.*
 
 ### Experience League Live Events
+
+* **[Kör era kampanjer i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=en)**
+
+   *I det här Experience League Live-avsnittet, som ursprungligen hölls den 22 september 2022, ska du besöka Sandra Hausmann och produktexperterna Bridgette Darling och Frederic Mary när de diskuterar användningsexempel som den här nya funktionen omfattar och visa hur man enkelt kan starta och genomföra en kampanj i Journey Optimizer.*
 
 * **[Push-meddelanden med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
 
