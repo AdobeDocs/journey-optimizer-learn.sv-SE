@@ -4,7 +4,7 @@ description: Vi har en mängd videokurser som visar hur du kan dra nytta av för
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
 workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 1%
@@ -19,6 +19,8 @@ ht-degree: 1%
 Journey Optimizer hjälper företag att leverera sammankopplade, kontextuella och personaliserade upplevelser till sina kunder. Kundresan är hela processen för kundens interaktioner med varumärket, från första kontakten tills kunden lämnar webbplatsen.
 
 Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
+
+<div id="whats-new-section">
 
 ## Nyheter
 
@@ -40,6 +42,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
    *Förstå vad datamaskering är och varför maskdata är. Lär dig maskera data i Journey Optimizer-meddelanden.*
 
+</div>
 
 ### Experience League Live Events
 
@@ -50,6 +53,8 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 * **[Push-meddelanden med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
 
    *I det här Experience League Live-avsnittet talar vi om vanliga användningsfall för push-meddelanden med Adobe Journey Optimizer och tittar närmare på den tekniska informationen om hur du konfigurerar en app för Push med Adobe Experience Platform.*
+
+<div id="staff-picks-section">
 
 ## Personalens val
 
@@ -143,3 +148,5 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
   </td>
 </tr>
 </table>
+
+</div>

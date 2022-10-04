@@ -7,8 +7,8 @@ feature: Alerts
 doc-type: feature video
 team: PM
 role: Admin
-last-update-author: 20220928
-source-git-commit: 89df3aa5588c106ce3acde7fb08b03f4c56899e8
+last-substantial-update: 2022-09-28T00:00:00Z
+source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
