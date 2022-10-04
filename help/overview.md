@@ -4,9 +4,9 @@ description: Vi har en mängd videokurser som visar hur du kan dra nytta av för
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
+source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 ## Nyheter
 
 ### Självstudiekurser
+
+* **[Skapa dynamiskt innehåll med villkorsregelbyggaren](/help/personalize-content/create-dynamic-content.md)**
+
+   *Lär dig hur du skapar och sparar villkorsregler och hur du tillämpar dessa regler på innehåll i alla kanaler.*
 
 * **[Använd varningar](/help/administration/alerts.md)**
 
