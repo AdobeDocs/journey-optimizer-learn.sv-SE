@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 990ba063c251df6d0f191e5020937bfd6867634f
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '274'
 ht-degree: 12%
 
 ---
@@ -53,7 +53,6 @@ ht-degree: 12%
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Skapa meddelanden {#create-messages}
-   + [Message Designer - översikt](/help/create-messages/message-designer-overview.md)
    + [Skapa innehåll med e-postdesignern](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importera och redigera e-postinnehåll från HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Förhandsgranska, granska och publicera](/help/create-messages/preview-proof-and-publish.md)
@@ -77,7 +76,6 @@ ht-degree: 12%
    + [Användningsfall - Lässegment](/help/create-journeys/use-case-read-segment.md)
    + [Användningsfall - Affärshändelse](/help/create-journeys/use-case-business-event.md)
    + [Användningsfall - Segmentkvalificering](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Användningsfall - Burst-meddelande](/help/create-journeys/use-case-burst-message.md)
    + [Skapa en testprofil](/help/create-journeys/test-a-journey.md)
    + [Publicera en resa](/help/create-journeys/publish-a-journey.md)
    + [Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)
