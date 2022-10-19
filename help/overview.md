@@ -4,15 +4,15 @@ description: Vi har en mängd videokurser som visar hur du kan dra nytta av för
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
+source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 1%
+source-wordcount: '490'
+ht-degree: 0%
 
 ---
 
 
-# Journey Optimizer Tutorials - översikt
+# Journey Optimizer självstudiekurser
 
 ![](./assets/ajo-banner.png)
 
@@ -23,8 +23,6 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 <div id="whats-new-section">
 
 ## Nyheter
-
-### Självstudiekurser
 
 * **[Skapa dynamiskt innehåll med villkorsregelbyggaren](/help/personalize-content/create-dynamic-content.md)**
 
@@ -47,7 +45,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 <div id="events-section">
 
-### Experience League Live Events
+## Experience League Live-event
 
 * **[Kör era kampanjer i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=en)**
 
@@ -68,7 +66,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 <div id="staff-picks-section">
 
-## Personalens val
+## Personalval
 
 <table>
 <tr>
