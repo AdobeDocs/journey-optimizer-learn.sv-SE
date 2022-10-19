@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 990ba063c251df6d0f191e5020937bfd6867634f
+source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '279'
 ht-degree: 12%
 
 ---
@@ -60,6 +60,8 @@ ht-degree: 12%
    + [Mobilfunktioner för utvecklare](/help/create-messages/mobile-capabilities-for-developers.md)
    + [Konfigurera, redigera och leverera SMS-meddelanden](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [Stöd för inkommande nyckelord för SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
+   + I appen {#in-app}
+      + [Meddelanden i appen för kampanjer](/help/create-messages/in-app-messaging-for-campaigns.md)
 + Anpassa innehåll {#personalize-content}
    + [Profil- och segmentmedlemskapsbaserad personalisering](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Lägg till erbjudanden som personalisering](/help/personalize-content/add-offer-decisioning-to-messages.md)
