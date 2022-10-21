@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer Learn Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Learn Tutorials.
-source-git-commit: 66f4b0fabea40b5e8f2e5abd42ec89b945dd04e9
+source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 13%
 
 ---
@@ -38,11 +38,11 @@ ht-degree: 13%
    + [Skapa segment](/help/set-up-resources/create-segments.md)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + Skapa meddelanden {#create-messages}
-   + [Skapa e-postmeddelanden] {#create-emails}
+   + Skapa e-postmeddelanden {#create-emails}
       + [Skapa innehåll med e-postdesignern](/help/create-messages/create-content-with-the-email-designer.md)
       + [Importera och redigera e-postinnehåll från HTML](/help/create-messages/import-and-author-html-email-content.md)
       + [Förhandsgranska, granska och publicera](/help/create-messages/preview-proof-and-publish.md)
-   + Skapa SMS-meddelanden {#create-sms}
+   + Skapa SMS-textmeddelanden {#create-sms}
       + [Konfigurera, redigera och leverera SMS-meddelanden](/help/create-messages/configure-author-and-deliver-sms-messages.md)
       + [Stöd för inkommande nyckelord för SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
    + Skapa meddelanden i appen {#create-in-app}
