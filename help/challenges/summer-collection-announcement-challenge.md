@@ -6,13 +6,13 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
-source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
+exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
+source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '1250'
 ht-degree: 0%
 
 ---
-
 
 # Skapa ett meddelande om sommarkollektion - utmaning
 

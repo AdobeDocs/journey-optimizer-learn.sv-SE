@@ -6,13 +6,13 @@ feature: Segments
 role: User
 level: Beginner
 hide: true
-source-git-commit: 957515149af1281d29a45b24ca499ef097656eb8
+exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
+source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 0%
 
 ---
-
 
 # Problem med produktpåfyllnad
 

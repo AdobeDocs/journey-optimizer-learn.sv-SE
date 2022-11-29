@@ -7,13 +7,13 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: d82a80675230db561bc2fcb6613159bd5a898f32
+exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
+source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 2%
 
 ---
-
 
 # Konfigurera data manuellt
 

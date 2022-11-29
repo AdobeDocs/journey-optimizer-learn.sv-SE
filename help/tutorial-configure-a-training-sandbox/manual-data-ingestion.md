@@ -7,13 +7,13 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 93c5191d9bc0e5cc81d5892251df73251e6c6ea7
+exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
+source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 6%
 
 ---
-
 
 # Infoga data manuellt
 

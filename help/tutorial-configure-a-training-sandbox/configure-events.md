@@ -7,13 +7,13 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 93c5191d9bc0e5cc81d5892251df73251e6c6ea7
+exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
+source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 4%
 
 ---
-
 
 # Konfigurera händelser
 

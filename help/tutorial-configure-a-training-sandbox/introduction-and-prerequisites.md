@@ -6,13 +6,13 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
-source-git-commit: 79249cf6ecd08c38c075a4e27fa9cf74073491af
+exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
+source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 5%
 
 ---
-
 
 # Konfigurera en utbildningssandlåda - introduktion och krav
 

@@ -5,13 +5,13 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
+exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
+source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 0%
+source-wordcount: '391'
+ht-degree: 1%
 
 ---
-
 
 # Journey Optimizer-utmaningar - introduktion och krav
 
@@ -25,22 +25,23 @@ Varje utmaning i det här avsnittet åtgärdar ett unikt användningsfall som du
 
 ### Systemkrav
 
-* Åtkomst till en Journey Optimizer-sandlåda
-* Vi rekommenderar att du slutför utmaningen i en dedikerad utbildningssandlåda. Se [Ställa in en självstudiekurs om utbildningstandlådor](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) för instruktioner.
-* Du behöver följande åtkomsträttigheter:
-   * *Resechef* eller *Reseadministratör* rättigheter
-   * Visa testprofiler och deras attribut
+* Tillgång till en Journey Optimizer-sandlåda - vi rekommenderar att du slutför utmaningen i en dedikerad utbildningssandlåda.
 * AEM Assets Essentials måste etableras för din instans
 * E-postkanalen måste konfigureras för transaktions- och marknadsföringsmeddelanden
 
+### Åtkomsträttigheter
+
+Du behöver följande åtkomsträttigheter:
+* *Resechef* eller *Reseadministratör*
+* Visa testprofiler och deras attribut
+
 >[!NOTE]
-> Utövningarna utvecklades utifrån Lumas exempeldata. Vi rekommenderar att du konfigurerar en utbildningshandlåda som är konfigurerad med exempeldata. Gå till självstudiekursen [Importera exempeldata till Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=en) för detaljerade anvisningar.
+> Utövningarna utvecklades utifrån Lumas exempeldata. Vi rekommenderar att du konfigurerar en utbildningshandlåda som är konfigurerad med exempeldata. Gå till självstudiekursen [Konfigurera en utbildningssandlåda](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) för instruktioner för detaljerade instruktioner.
 
 ### Nödvändiga åtgärder
 
 * Om du inte har använt Adobe Journey Optimizer tidigare ska du slutföra kursen [Komma igång med Journey Optimizer för resechefer och administratörer](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
-* Innan du kan börja ladda ned [luma-assets.zip](/help/challenges/assets/email-assets/luma-assets.zip) -fil. Den innehåller alla resurser som krävs för att klara utmaningarna
-* Flytta `luma-assets.zip` till önskad plats på datorn och packa upp den.
+
 
 ## The Story
 
