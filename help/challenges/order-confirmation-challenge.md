@@ -7,12 +7,13 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '683'
 ht-degree: 0%
 
 ---
+
 
 # Skapa en orderbekräftelse via e-post
 
@@ -28,19 +29,25 @@ ht-degree: 0%
 
 Luma lanserar sin webbutik och vill säkerställa en bra kundupplevelse genom att skicka en orderbekräftelse via e-post när kunden har gjort en beställning.
 
-Skapa och anpassa ett bekräftelsemeddelande för transaktionsorder.
 
-## Har du allt du behöver?
 
 ## Din utmaning
 
-Skapa ett e-postmeddelande med orderbekräftelse som aktiveras när en Luma-kund slutför en onlineorder.
+Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en Luma-kund slutför en onlinebeställning.
 
-### Skapa e-postmeddelande med orderbekräftelse
+>[!BEGINTABS]
 
-Skapa ett nytt e-postmeddelande med namnet &quot;(ditt namn)_Luma - orderbekräftelse&quot;. Ämnesraden måste anpassas efter mottagarens förnamn och innehålla frasen&quot;Tack för ditt köp&quot;
+>[!TAB Uppgift]
 
-I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras på följande sätt:
+1. Skapa en resa med namnet&quot;ditt namn_orderbekräftelse&quot;
+2. Använd händelsen: LumaOnlinePurchase som utlösare
+
+3. Skapa e-post för orderbekräftelse:
+
+* Kategoritransaktion - se till att du väljer transaktionens e-postyta
+* Ämnesraden måste anpassas efter mottagarens förnamn och innehålla frasen&quot;Tack för ditt köp&quot;
+
+I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras enligt följande - du kan använda **Luma - ordersammanfattning** och ändra den:
 
 <table>
 <tr>
@@ -56,7 +63,6 @@ I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras på
     <li>Storlek 35 %, centrerad vit bakgrund </li>
     <li>Den ska ha en länk till lumas webbplats: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
-    Tips: Du hittar alla bilder i resursmappen som kallas meddelanderutor. <p>
     </td>
   </tr>
   <tr>
@@ -71,7 +77,7 @@ I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras på
     <li>Marginal: Överkant, nederkant (10)<div>
     <p>
     <strong>Text</strong><p>
-    <em>Tack för ditt köp!</em><p>
+    <em>Hej {förnamn}</em><p>
     <li>Justering: vänster  </li>
    <li>Textfärg: rgb(101, 106, 119), font-size:14px</li>
     <li>Utfyllnad: vänster (95), höger (95)</li><div>
@@ -82,10 +88,13 @@ I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras på
     <li>Justering: vänster  </li>
     <li>Textfärg: rgb(101, 106, 119), font-size:14px </li>
     <li>Utfyllnad: vänster (95), höger (95)</li><div>
-    </a>
-    <p>
-    <strong>Knapp:</strong>
-   <p><em>Visa din beställning</em></p>
+    </a><p>
+    <em>Leverera till:<p>
+    <p>Förnamn Efternamn</p>
+    Gata<p>
+    Ort, delstat, postnummer</p></em>
+    <strong>Knapp:</strong></p>
+   <p><em>Visa order</em></p>
       <li>Bakgrundsfärg: rgb(25, 121, 195)</li>
       <li>Textfärg: Vit</li>
       <li>Ingen kantlinje</li>
@@ -99,9 +108,10 @@ I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras på
      <strong>Avsnittet Orderinformation</strong>
       </div>
       <p>Tips:
-      <li>Det här är sammanhangsbaserad händelseinformation. Du kan bara lägga till i sammanhanget när du har lagt till meddelandet på din resa (se steg 2). Publicera inte ditt e-postmeddelande innan du har lagt till det på resan och ändrat det med kontextuell händelseinformation!</li>
+      <li>Det här är sammanhangsbaserad händelseinformation.</li>
       <li>Använd hjälpfunktionen: Varje</li>
-      <li>Använd kontextdata i redigeraren i HTML.Lägg in informationen i behållare med DIV-taggar.</li>
+      <li>Växla till kodredigeringsformatet för att lägga till kontextdata. <li>
+      <li>Lägg in informationen i behållare med DIV-taggar.</li>
   </td>
   <td>
     <strong>Sidhuvud</strong>
@@ -141,19 +151,13 @@ I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras på
   </tr>
 </table>
 
-### Skapa resan
-
-1. Anropa resan&quot;ditt namn _Luma-Order Confirmation&quot;
-1. Använd händelsen: LumaOnlinePurchase
-1. Åtgärd: Lägg till meddelandet som du skapade i steg 1
-1. Gå tillbaka till meddelandet och lägg till de sammanhangsberoende attributen
-1. Publicera e-postmeddelandet
 
 >[!TIP]
 >
 >För att du ska kunna felsöka dina resor bör du lägga till en alternativ sökväg till alla meddelandeåtgärder om en timeout eller fel inträffar.
 
-+++Villkor för lyckade försök
+
+>[!TAB Kontrollera ditt arbete]
 
 Trigga den resa du skapade i testläge och skicka e-postmeddelandet till dig själv:
 
@@ -181,17 +185,20 @@ Du bör få det personliga bekräftelsemeddelandet via e-post med den angivna pr
 
    43913 Thierer Terrace, Washington DC 2009
 
-+++
 
-+++Kontrollera ditt arbete
+>[!TAB Godtagandevillkor]
+
+** Resa
+
+![Resa](/help/challenges/assets/c2-journey.png)
+
+
+** E-post
 
 **Ärenderad:**
 
 {{ profile.person.name.firstName }}, tack för ditt köp!
 
-**Avsnittet Rubrik och bekräftelse:**
-
-![Header and Order confirmation](/help/challenges/assets/c2-header.png)
 
 **Mer detaljerad information:**
 
@@ -230,11 +237,4 @@ Personaliseringen bör se ut så här:
 {{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
 ```
 
-**Sidfot:**
-![sidfot](/help/challenges/assets/c2-footer.png)
-
-**Resa**
-
-![Resa](/help/challenges/assets/c2-journey.png)
-
-+++
+>[!ENDTABS]
