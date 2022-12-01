@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 1%
+source-wordcount: '449'
+ht-degree: 0%
 
 ---
 
@@ -61,11 +61,10 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
       </div>
   </td>
   <td>
-   <a href="summer-collection-announcement-challenge.md">
-    <strong>Skapa ett sommarsamlingsmeddelande </strong>
+   <strong><a href="summer-collection-announcement-challenge.md">Skapa ett sommarsamlingsmeddelande </strong>
     </a>
       <p>
-      <em>Främja nya Luma sommar-samlingen. </em>
+      <em>Skapa en resa som skickar ett meddelande om sommarkollektion till ett segment med befintliga kunder. </em>
       <p>
       <b>Nödvändiga färdigheter:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Skapa segment</li>
@@ -82,26 +81,29 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong>Skapa en orderbekräftelse</strong>
+    <strong><a href="order-confirmation-challenge.md">Skapa en orderbekräftelse</strong>
     </a>
     <div>
     <p>
-    <em>Skicka en orderbekräftelse via e-post när någon har slutfört ett onlineköp
+    <em>Testa dina kunskaper om hur du skapar och personaliserar transaktionsmeddelanden
     </em>
     <p>
+    <b>Nödvändiga färdigheter:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> Skapa e-postinnehåll med meddelanderedigeraren</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Använd sammanhangsbaserad händelseinformation för personalisering</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Använd hjälpfunktioner för personalisering</li>
   </td>
   </tr>
   <tr>
     <td>
     <div>
-    <a href="product-replenishment-challenge.md">
-      <img alt="Lumas webbplats" src="./assets/email-assets/luma-ProductReplenishment.png"/>
+    <a>
+      <img alt="Lumatproduktpåfyllnad" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="product-replenishment-challenge.md">
-    <strong>Skapa ett meddelande om produktpåfyllnad </strong>
+      <strong>Skapa ett meddelande om produktpåfyllnad (kommer snart)</strong>
     </a>
     </div>
     <p>
@@ -112,14 +114,14 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
   <tr>
     <td>
     <div>
-    <a href="loyalty-status-welcome-email-challenge.md">
+    <a>
       <img alt="Välkommen" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="loyalty-status-welcome-email-challenge.md">
-    <strong>Skapa ett välkomstmeddelande om lojalitetsstatus </strong>
+      <a>
+    <strong>Skapa ett välkomstmeddelande om lojalitetsstatus (kommer snart) </strong>
     </a>
     </div>
     <p>
