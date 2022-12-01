@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 52fb90247fa30d5b5c86d5a464d994e8e7075049
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -46,18 +46,17 @@ Du har fått i uppdrag att skapa en resa som automatiskt skickar ett välkomstme
 Skicka ett e-postmeddelande när en lojalitetskund flyttar till diamantskiktet för att gratulera och informera dem om deras nya fördelar. The
 
 1. Skapa ett segment i Journey Optimizer som kallas **ditt namn - Luma - diamantstatus**
-2. Skapa en resa som utlöses när en kund flyttar sig till den nya lojalitetsnivån i Diamond (särskilt när kunden går in i det segment som definierats för en ny medlem på diamantnivå) för att skicka e-postmeddelandet&quot;Luma - New Status - Diamond - Transactional&quot;
-1. Skapa ett transaktionsmejl med namnet `(your name)_Luma – New Status – Diamond – Transactional email message`.
-2. Ge e-postmeddelandet en ämnesrad `Welcome to Diamond Status, (recipient's first name)!`.
-3. Använd den angivna HTML-filen **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** för e-postbrödtexten.
-3. När du är klar sätter du resan i testläge och utlöser resan för att skicka den till dig själv  
+1. Skapa en resa som utlöses när en kund flyttar sig till den nya lojalitetsnivån i Diamond (särskilt när kunden går in i det segment som definierats för en ny medlem på diamantnivå) för att skicka e-postmeddelandet&quot;Luma - New Status - Diamond - Transactional&quot;
 
+   1. Skapa ett transaktionsmejl med namnet `(your name)_Luma – New Status – Diamond – Transactional email message`.
+   1. Ge e-postmeddelandet en ämnesrad `Welcome to Diamond Status, (recipient's first name)!`.
+   1. Använd den angivna HTML-filen **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** för e-postbrödtexten.
+
+1. När du är klar sätter du resan i testläge och utlöser resan för att skicka den till dig själv  
 
 ### Skapa Luma - ny status - romb - e-postmeddelande för transaktioner
 
 Skapa ett välkomstmeddelande
-
-1. 
 
 ### **Resa nr 3 - uppgradering av diamantstatus, välkomstmeddelande**
 
@@ -67,10 +66,10 @@ Skapa ett välkomstmeddelande
 Testa din resa:
 
 1. Kontrollera att segmentkvalificeringshändelsen har namnutrymmet = E-post
-2. Åsidosätt standardparametrarna för e-post och ange den som din egen e-postadress
-3. Ställ in resan till testläge
-4. Utlös en händelse
-5. Lägg till följande e-postadress i fältet Profilidentifierare: Jenna_Palmer9530@emailsim.io
+1. Åsidosätt standardparametrarna för e-post och ange den som din egen e-postadress
+1. Ställ in resan till testläge
+1. Utlös en händelse
+1. Lägg till följande e-postadress i fältet Profilidentifierare: Jenna_Palmer9530@emailsim.io
 
 Du bör få det anpassade e-postmeddelandet&quot;Luma - New Status - Diamond-Transactional&quot;.
 
