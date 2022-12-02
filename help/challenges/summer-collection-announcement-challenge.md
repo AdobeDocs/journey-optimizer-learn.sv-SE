@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
+source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
 workflow-type: tm+mt
-source-wordcount: '1138'
+source-wordcount: '1118'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,10 @@ Luma, ett fiktivt sportklädföretag, vill marknadsföra sin senaste uppsättnin
 
 ## Din utmaning
 
-Marknadsföringsteamet på Luma ber er att implementera en marknadsföringskampanj för sommarkollektionen i Journey Optimizer. Utmaningen är att skapa en resa i Journey Optimizer. Du måste skapa det önskade segmentet, skapa fyra meddelanden och bygga kundresan.
+Marknadsföringsteamet på Luma ber er att implementera en marknadsföringskampanj för sommarkollektionen i Journey Optimizer. Utmaningen är att
 
+* Skapa ett segment som definierar vilka profiler som är kvalificerade att ta emot kampanjen.
+* Bygg resan
 
 ### Steg 1: Definiera segmentet - aktiva kunder
 
@@ -39,15 +41,16 @@ Marknadsföringsteamet på Luma ber er att implementera en marknadsföringskampa
 
 >[!TAB Uppgift]
 
-Skapa ett segment i Journey Optimizer som kallas **Aktiva kunder**.
+#### Skapa ett segment i Journey Optimizer
 
+* Skapa ett segment i Journey Optimizer som kallas `Active Customers`.
 * Segmentet får endast innehålla aktiva Luma-kunder.
 * Aktiva kunder definieras som kunder som har ett skikt i Lumas lojalitetsprogram (silver, guld, platina eller diamant).
 
 
 >[!TAB Godtagandevillkor]
 
-I segmentbyggaren ser du det uppskattade antalet kvalificerade profiler.
+I segmentbyggaren ser du det uppskattade antalet kvalificerade profiler. Om du arbetar med data från utbildningshandlådan har du cirka 753 kvalificerade profiler av 1,29 K.
 
 >[!NOTE]
 >Det kan ta upp till 24 timmar innan segmentmedlemskapet visas för befintliga profiler, eftersom de befintliga profilerna behöver fyllas i i baklänges.
@@ -87,31 +90,38 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 >[!TAB Uppgift]
 
-Skicka ett meddelande om sommarkollektionen till ett segment av befintliga kunders e-postmeddelanden med reklam för nya Luma-sommarkollektionen.&quot;
+#### Skicka ett meddelande om sommarkollektionen
 
-En byrå försåg dig med fyra HTML-filer med design för e-postmeddelanden: [Ladda ned e-postfilerna för säsongssamlingen](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)
+En byrå försåg dig med fyra HTML-filer med design för e-postmeddelanden:
 
-Skapa en anropad resa `(your name) - Summer collection announcement` baserat på följande riktlinjer:
+* SeasonalCollectionEmail.html
+* Luma Men&#39;s Collection email
+* Luma Women&#39;s Collection email
+* Luma - 20 % rabatt på e-post för samling
 
-1. Skicka Luma - Ny säsongssamling Announcement-e-post till segmentet Luma-Active Customers, där 10 % av publiken hålls som en kontrollgrupp
-   * Meddelanderubrik `(your name)_Luma New Seasonal Collection Announcement`.
-   * Subject line `(recipient's first name), the new Luma collection is here!`.
-   * Använd den angivna HTML-filen *SäsongssamlingEmail.html* för e-postbrödtexten.
-2. Vänta i två dagar och skicka sedan ett uppföljningsmejl med mer riktat innehåll:
-   * Manliga kunder bör få **Luma Men&#39;s Collection email**
-      * Meddelanderubrik: **(ditt namn)_Luma Men&#39;s Collection**
-      * Ärenderad: **(mottagarens förnamn), utforska Men&#39;s New sportkugghjulet!**
-      * E-postbrödtext: *MensCollectionEmail.html* för e-postbrödtexten.
-   * Kunder som är kvinnor bör få **Luma Women&#39;s Collection email**
-      * Meddelanderubrik: **(ditt namn)_Luma Women&#39;s Collection**
-      * Ärenderad: **(mottagarens förnamn), utforska Lumas Women Collection!**
-      * E-postbrödtext: *WomensCollectionEmail.html*
-   * Andra kunder bör få **Luma - 20 % rabatt på e-post för samling**
-      * Meddelanderubrik: **(ditt namn)_Luma - 20 % rabatt på Collection**
-      * Ärenderad:**(mottagarens förnamn), få 20 % rabatt!**
-      * E-postbrödtext: *20OffCollectionEmail.html*
-3. När du har skickat de riktade e-postmeddelandena ovan väntar du två dagar på att e-postmeddelandet ska öppnas
-4. Om målmeddelandet inte öppnas inom två dagar skickar du **Luma - 20 %rabatt på e-post för samling** som ett sista försök till återmarknadsföring
+1. [Ladda ned e-postfilerna för säsongssamlingen](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
+
+2. Skapa en anropad resa `Luma - Summer collection announcement` baserat på följande riktlinjer:
+
+   1. Skicka *Luma - Meddelande om ny säsongssamling* e-post till *Aktiva kunder* som håller ut 10 % av publiken som kontrollgrupp
+      * Meddelanderubrik `Luma New Seasonal Collection Announcement`.
+      * Subject line `(recipient's first name), the new Luma collection is here!`.
+      * Använd den angivna HTML-filen *SäsongssamlingEmail.html* för e-postbrödtexten.
+   2. Vänta i två dagar och skicka sedan ett uppföljningsmejl med mer riktat innehåll:
+      * Manliga kunder bör få **Luma Men&#39;s Collection email**
+         * Meddelanderubrik: `Luma Men's Collection`
+         * Ärenderad: `(recipient's first name), explore Men's New athletic gear!`
+         * E-postbrödtext: *MensCollectionEmail.html* för e-postbrödtexten.
+      * Kunder som är kvinnor bör få **Luma Women&#39;s Collection email**
+         * Meddelanderubrik: `Luma Women's Collection`
+         * Ärenderad: `(recipient's first name), explore Luma's Women Collection!`
+         * E-postbrödtext: *WomensCollectionEmail.html*
+      * Andra kunder bör få **Luma - 20 % rabatt på e-post för samling**
+         * Meddelanderubrik: `Luma - 20 % off Collection`
+         * Ärenderad: `(recipient's first name), enjoy 20% off sales!`
+         * E-postbrödtext: *20OffCollectionEmail.html*
+   3. När du har skickat de riktade e-postmeddelandena ovan väntar du två dagar på att e-postmeddelandet ska öppnas
+   4. Om målmeddelandet inte öppnas inom två dagar skickar du **Luma - 20 %rabatt på e-post för samling** som ett sista försök till återmarknadsföring
 
 
 >[!TAB Godtagandevillkor]
