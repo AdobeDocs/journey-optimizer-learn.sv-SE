@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
 workflow-type: tm+mt
-source-wordcount: '1250'
+source-wordcount: '1138'
 ht-degree: 0%
 
 ---
@@ -24,21 +24,14 @@ ht-degree: 0%
 | Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | Resurser att hämta | [E-postfiler för säsongssamling](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
->[!NOTE]
-> Utövningarna utvecklades utifrån Lumas exempeldata. Vi rekommenderar att du konfigurerar en utbildningshandlåda som är konfigurerad med exempeldata. Gå till självstudiekursen [Importera exempeldata till Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html) för detaljerade anvisningar.
-
 ## The Story
 
 Luma, ett fiktivt sportklädföretag, vill marknadsföra sin senaste uppsättning kläder och utrustning och öka försäljningen för befintliga kunder. Luma lanserar den nya sommarkollektionen och vill särskilt inrikta sig på olika kundsegment.
 
 ## Din utmaning
 
-Marknadsföringsteamet på Luma ber er att implementera en marknadsföringskampanj för sommarkollektionen i Journey Optimizer.
+Marknadsföringsteamet på Luma ber er att implementera en marknadsföringskampanj för sommarkollektionen i Journey Optimizer. Utmaningen är att skapa en resa i Journey Optimizer. Du måste skapa det önskade segmentet, skapa fyra meddelanden och bygga kundresan.
 
-Utmaningen är att skapa en resa i Journey Optimizer. Du måste skapa det önskade segmentet, skapa fyra meddelanden och bygga kundresan.
-
->[!NOTE]
-> Om du arbetar i en delad utbildningssandlåda är det bäst att lägga till ditt namn eller dina initialer som ett prefix till namnet på det element du skapar.
 
 ### Steg 1: Definiera segmentet - aktiva kunder
 
@@ -46,7 +39,7 @@ Utmaningen är att skapa en resa i Journey Optimizer. Du måste skapa det önska
 
 >[!TAB Uppgift]
 
-Skapa ett segment i Journey Optimizer som kallas **ditt namn - Aktiva kunder**.
+Skapa ett segment i Journey Optimizer som kallas **Aktiva kunder**.
 
 * Segmentet får endast innehålla aktiva Luma-kunder.
 * Aktiva kunder definieras som kunder som har ett skikt i Lumas lojalitetsprogram (silver, guld, platina eller diamant).
@@ -54,7 +47,10 @@ Skapa ett segment i Journey Optimizer som kallas **ditt namn - Aktiva kunder**.
 
 >[!TAB Godtagandevillkor]
 
-I segmentbyggaren ser du det uppskattade antalet kvalificerade profiler. Om du arbetar i en träningssandlåda som använder Luma-exempeldata kan du [!UICONTROL uppskattade kvalificerade profiler] bör vara cirka 292 profiler på 500.
+I segmentbyggaren ser du det uppskattade antalet kvalificerade profiler.
+
+>[!NOTE]
+>Det kan ta upp till 24 timmar innan segmentmedlemskapet visas för befintliga profiler, eftersom de befintliga profilerna behöver fyllas i i baklänges.
 
 **En kvalificeringsprofil har lagts till i segmentet:**
 
@@ -66,9 +62,6 @@ På profilsidan markerar du [!UICONTROL Attribut] för att bekräfta att de är 
 
 Du kan även kontrollera [!UICONTROL Segmentmedlemskap] tab: Segmentet bör listas.
 
->[!NOTE]
->Det kan ta upp till 24 timmar innan segmentmedlemskapet visas för befintliga profiler, eftersom de befintliga profilerna behöver fyllas i i baklänges.
-
 ![Segmentmedlemskap](assets/C1-S1-profile-segment-membership.png)
 
 >[!TAB Kontrollera ditt arbete]
@@ -79,12 +72,10 @@ Så här ska ditt segment se ut:
 
 ![Segment - aktiva kunder](/help/challenges/assets/C1-S1.png)
 
-Kontrollera koden längst ned till höger på skärmen Redigera segment under Händelser.
-
 Koden ska se ut så här:
 
 ```javascript
-loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or loyalty.tier.equals("platinum", false) or loyalty.tier.equals("silver", false)
+stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"], false)
 ```
 
 >[!ENDTABS]
