@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
+source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1161'
 ht-degree: 0%
 
 ---
@@ -103,20 +103,20 @@ En byrå försåg dig med fyra HTML-filer med design för e-postmeddelanden:
 
 2. Skapa en anropad resa `Luma - Summer collection announcement` baserat på följande riktlinjer:
 
-   1. Skicka *Luma - Meddelande om ny säsongssamling* e-post till *Aktiva kunder* som håller ut 10 % av publiken som kontrollgrupp
-      * Meddelanderubrik `Luma New Seasonal Collection Announcement`.
-      * Subject line `(recipient's first name), the new Luma collection is here!`.
+   1. Skicka *Luma - Meddelande om nya sommarkollektionen* e-post till *Aktiva kunder* som håller ut 10 % av publiken som kontrollgrupp
+      * Meddelanderubrik `Luma - Summer Collection Announcement`.
+      * Subject line `(recipient's first name), the new Luma summer collection is here!`.
       * Använd den angivna HTML-filen *SäsongssamlingEmail.html* för e-postbrödtexten.
    2. Vänta i två dagar och skicka sedan ett uppföljningsmejl med mer riktat innehåll:
-      * Manliga kunder bör få **Luma Men&#39;s Collection email**
+      * Manliga kunder bör få **Luma Men&#39;s Collection** e-post.
          * Meddelanderubrik: `Luma Men's Collection`
          * Ärenderad: `(recipient's first name), explore Men's New athletic gear!`
          * E-postbrödtext: *MensCollectionEmail.html* för e-postbrödtexten.
-      * Kunder som är kvinnor bör få **Luma Women&#39;s Collection email**
+      * Kunder som är kvinnor bör få **Luma Women&#39;s Collection** e-post.
          * Meddelanderubrik: `Luma Women's Collection`
          * Ärenderad: `(recipient's first name), explore Luma's Women Collection!`
          * E-postbrödtext: *WomensCollectionEmail.html*
-      * Andra kunder bör få **Luma - 20 % rabatt på e-post för samling**
+      * Andra kunder bör få **Luma - 20 % rabatt på samling** e-post.
          * Meddelanderubrik: `Luma - 20 % off Collection`
          * Ärenderad: `(recipient's first name), enjoy 20% off sales!`
          * E-postbrödtext: *20OffCollectionEmail.html*
@@ -128,36 +128,48 @@ En byrå försåg dig med fyra HTML-filer med design för e-postmeddelanden:
 
 #### Förhandsgranska e-postmeddelanden
 
-**E-postmeddelande nr 1 - Meddelande om ny säsongsbunden samling**
+**E-postmeddelande nr 1 - Luma - Meddelande om sommarkollektion**
 
-Förhandsgranska e-postmeddelandet med identitetsnamnutrymmet: *E-post* och identitetsvärdet: *Jenna_Palmer9530@emailsim.io*
+Förhandsgranska e-postmeddelandet:
 
-* Ämnesraden ska vara: Jenna, nya Luma-samlingen är här!
+1. Lägg till en testprofil: Louise Petti:
+   1. Identitetsnamnutrymme: *Luma CRM-ID*
+   2. Identitetsvärde: *d1f132f9f9502bba047a6ec86c4b61f9*
+
+Resultat:
+* Ämnesraden ska vara: Louise, nya Luma-samlingen är här!
 * E-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Nytt säsongsbaserat samlingsmeddelande](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **E-postmeddelande nr 2 - Luma Men&#39;s Collection**
 
-Skicka ett bevis till dig själv
+Skicka ett bevis till dig själv:
 
-* Ange din e-postadress
-* Välj testprofil: Chris_Scott1244@emailsim.io
+1. Lägg till en testprofil: Stanleigh Stooke:
+   1. Identitetsnamnutrymme: *Luma CRM-ID*
+   2. Identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
+1. Välj testprofil: Stanleigh Stooke
+2. Skicka ett bevis till dig själv
 
-Du bör få ett e-postmeddelande. Ämnesraden ska vara &quot;Chris, explore Men&#39;s New athletic kugghjulet!&quot; och e-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Resultat:\
+Du bör få ett e-postmeddelande. Ämnesraden ska vara &quot;Stanleigh, explore Men&#39;s New athletic>!&quot; och e-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+
+>[!NOTE]
+>Det kan ta några minuter innan du får beviset.
 
 **E-postmeddelande nr 3 - Luma Women&#39;s Collection**
 
-Förhandsgranska e-postmeddelandet med identitetsnamnutrymmet: *E-post* och identitetsvärdet: *Jenna_Palmer9530@emailsim.io*
+Förhandsgranska e-postmeddelandet med testprofilen &quot;Louise Petti&quot;.
 
-* Ämnesraden ska vara: *Jenna, utforska Lumas Women Collection!*
+* Ämnesraden ska vara: *Louise, utforska Lumas Women Collection!*
 * E-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Luma Women&#39;s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 
 **E-postmeddelande nr 4 - Luma 20 % rabatt på samling**
 
-Förhandsgranska e-postmeddelandet med identitetsnamnutrymmet: *E-post* och identitetsvärdet: *Benny_Steer4909@emailsim.io*
+Förhandsgranska e-postmeddelandet med testprofilen &quot;Louise Petti&quot;.
 
-* Ämnesraden ska vara: *Benny, få 20 % rabatt!*
+* Ämnesraden ska vara: *Louise, få 20 % rabatt!*
 * E-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Luma 20 % rabatt på samling](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 **Glöm inte att publicera dina e-postmeddelanden!**
@@ -168,16 +180,16 @@ Förhandsgranska e-postmeddelandet med identitetsnamnutrymmet: *E-post* och iden
 >
 >Innan du ställer in resan i testläge:
 >
->1. Kontrollera att namnutrymmet för aktiviteten Läs segment är inställt på E-post
+>1. Kontrollera att namnutrymmet är inställt på för Läs segment-aktiviteten **Luma CRM-id (lumaCrmId)**
 >1. Åsidosätt standardparametrarna för e-post för varje e-post så att de skickas till din e-postadress:
->1. Visa dolda värden genom att klicka på ögonsymbolen.
->1. Klicka på T-symbolen (aktivera åsidosättning av parameter) i e-postparametrarna
+   >    * Visa dolda värden genom att klicka på ögonsymbolen.
+   >    * Klicka på T-symbolen (aktivera åsidosättning av parameter) i e-postparametrarna
 
-   >
-   >      ![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->1. Klicka i adressfältet
->1. På nästa skärm lägger du till din e-postadress inom parentes: *yourname@yourdomain* i uttrycksredigeraren och klicka på OK.
+      >
+      >      ![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Klicka i adressfältet
+   >    * På nästa skärm lägger du till din e-postadress inom parentes: `"yourname@yourdomain"` i uttrycksredigeraren och klicka på OK.
 
 >
 
@@ -189,9 +201,9 @@ Testa resan och få e-postmeddelandena skickade till ditt eget konto:
 3. Väntetid: Ställ in timern på 120 sekunder (skriv in den i fältet).
 4. Ingång till utlösarprofil
 5. Du kan testa varje gren genom att använda någon av följande e-postadresser som profilidentifierare:
-   * Kvinna: Jenna Palmer: Jenna_Palmer9530@emailsim.io
-   * Man: Chris Scott: Chris_Scott1244@emailsim.io
-   * Genus har inte angetts: Benny Steer: Benny_Steer4909@emailsim.io
+   * Kvinna: Louise Petti, identitetsvärde: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Man: Stanleigh Stooke, identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
+   * Genus har inte angetts: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
 
 6. När du utlöser profilentrén bör du få det första e-postmeddelandet, rubriken ska anpassas enligt den profil du väljer.
 7. Resan bör fortsätta till respektive avdelning och du bör få det relaterade e-postmeddelandet (om du till exempel väljer Jenna bör du få e-postmeddelandet&quot;Luma Women&#39;s Collection&quot;).
