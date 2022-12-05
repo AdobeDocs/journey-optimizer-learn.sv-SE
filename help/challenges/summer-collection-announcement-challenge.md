@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
+source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
 workflow-type: tm+mt
 source-wordcount: '1161'
 ht-degree: 0%
@@ -147,9 +147,9 @@ Skicka ett bevis till dig själv:
 
 1. Lägg till en testprofil: Stanleigh Stooke:
    1. Identitetsnamnutrymme: *Luma CRM-ID*
-   2. Identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
+   1. Identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
 1. Välj testprofil: Stanleigh Stooke
-2. Skicka ett bevis till dig själv
+1. Skicka ett bevis till dig själv
 
 Resultat:\
 Du bör få ett e-postmeddelande. Ämnesraden ska vara &quot;Stanleigh, explore Men&#39;s New athletic>!&quot; och e-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
