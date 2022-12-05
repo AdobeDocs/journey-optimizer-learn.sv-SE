@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
+source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1149'
 ht-degree: 0%
 
 ---
@@ -172,7 +172,6 @@ Förhandsgranska e-postmeddelandet med testprofilen &quot;Louise Petti&quot;.
 * Ämnesraden ska vara: *Louise, få 20 % rabatt!*
 * E-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Luma 20 % rabatt på samling](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
-**Glöm inte att publicera dina e-postmeddelanden!**
 
 #### Testa din resa
 
@@ -200,10 +199,10 @@ Testa resan och få e-postmeddelandena skickade till ditt eget konto:
 2. Markera en profil åt gången
 3. Väntetid: Ställ in timern på 120 sekunder (skriv in den i fältet).
 4. Ingång till utlösarprofil
-5. Du kan testa varje gren genom att använda någon av följande e-postadresser som profilidentifierare:
-   * Kvinna: Louise Petti, identitetsvärde: *d1f132f9f9502bba047a6ec86c4b61f9*
+5. Du kan testa varje gren med något av följande *Luma CRM ID* som profilidentifierare:
+   * Kvinna: Leora Dietsche, identitetsvärde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Man: Stanleigh Stooke, identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
-   * Genus har inte angetts: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
+   * Genus har inte angetts: Louise Petti, identitetsvärde: `d1f132f9f9502bba047a6ec86c4b61f9&#39;
 
 6. När du utlöser profilentrén bör du få det första e-postmeddelandet, rubriken ska anpassas enligt den profil du väljer.
 7. Resan bör fortsätta till respektive avdelning och du bör få det relaterade e-postmeddelandet (om du till exempel väljer Jenna bör du få e-postmeddelandet&quot;Luma Women&#39;s Collection&quot;).
@@ -216,9 +215,9 @@ Du bör få följande e-postmeddelanden:
 
 * Luma - Meddelande om ny säsongssamling
 * Beroende på vilken testprofil du använde bör du få något av följande e-postmeddelanden:
-   * Jenna: Luma Women&#39;s Collection
-   * Chris: Luma Men&#39;s Collection
-   * Benny: Luma - 20 % rabatt på samling
+   * Leora: Luma Women&#39;s Collection
+   * Stanleigh: Luma Men&#39;s Collection
+   * Lupp: Luma - 20 % rabatt på samling
 * Om du inte öppnade det andra e-postmeddelandet: Luma - 20 % rabatt på samlingen
 
 >[!TAB Kontrollera ditt arbete]
