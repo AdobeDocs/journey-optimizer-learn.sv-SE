@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
+source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -58,15 +58,15 @@ Testa din resa:
 2. Åsidosätt standardinställningen [!UICONTROL e-postparametrar] och ange din egen e-postadress
 
 +++ Klicka här om du vill ha mer information om hur du åsidosätter [!UICONTROL-e-postparametrar].
-   * Visa dolda värden genom att klicka på ögonsymbolen.
-   * I [!UICONTROL E-postparametrar]klickar du på T-symbolen (aktivera åsidosättning av parameter)
 
-   ![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-   * Klicka på [!UICONTROL Adressfält]
-   * På nästa skärm lägger du till din e-postadress inom parentes: `"yourname@yourdomain"` i uttrycksredigeraren och klicka på OK.
+    * Visa dolda värden genom att klicka på ögonsymbolen.
+    * I [!UICONTROL E-postparametrar]klickar du på T-symbolen (aktivera åsidosättning av parameter)
+    
+    ![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
+    
+    * Klicka på [!UICONTROL Adressfält]
+    * På nästa skärm lägger du till din e-postadress inom parentes: `&quot;yourname@yourdomain&quot; i uttrycksredigeraren och klicka på OK.
 +++
-
 
 3. Ställ in resan till testläge
 4. Utlös en händelse
