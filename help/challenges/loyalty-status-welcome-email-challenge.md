@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
+source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -59,18 +59,18 @@ Testa din resa:
 
 +++ Klicka här om du vill ha mer information om hur du åsidosätter [!UICONTROL-e-postparametrar].
 
-    * Visa dolda värden genom att klicka på ögonsymbolen.
-    * I [!UICONTROL E-postparametrar]klickar du på T-symbolen (aktivera åsidosättning av parameter)
-    
-    ![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
-    
-    * Klicka på [!UICONTROL Adressfält]
-    * På nästa skärm lägger du till din e-postadress inom parentes: `&quot;yourname@yourdomain&quot; i uttrycksredigeraren och klicka på OK.
+* Visa dolda värden genom att klicka på ögonsymbolen.
+* I [!UICONTROL E-postparametrar]klickar du på T-symbolen (aktivera åsidosättning av parameter)
+
+![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
+
+* Klicka på [!UICONTROL Adressfält]
+* På nästa skärm lägger du till din e-postadress inom parentes: `"yourname@yourdomain"` i uttrycksredigeraren och klicka på OK.
 +++
 
-3. Ställ in resan till testläge
-4. Utlös en händelse
-5. Lägg till följande [!DNL CRM ID] for [!DNL Stanleigh Stooke] till [!UICONTROL Profilidentifierare] fält: `4f34057d9d9e792c28ba18ecae378e98`
+1. Ställ in resan till testläge
+2. Utlös en händelse
+3. Lägg till följande [!DNL CRM ID] for [!DNL Stanleigh Stooke] till [!UICONTROL Profilidentifierare] fält: `4f34057d9d9e792c28ba18ecae378e98`
 
 Du bör få den personaliserade *Luma - platinumstatus - Välkommen* e-post.
 
