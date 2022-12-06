@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -21,65 +21,68 @@ ht-degree: 0%
 | Utmaning | Skapa ett välkomstmeddelande om lojalitetsstatus |
 |---|---|
 | Persona | Resechef |
-| Nödvändiga färdigheter | <ul><li>[Skapa e-postinnehåll med meddelanderedigeraren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en)</li> <li>[Använd sammanhangsbaserad händelseinformation för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Använd hjälpfunktioner för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
-| Resurser att hämta | [Orderbekräftelsetillgångar](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
+| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segmentkvalificering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Importera HTML-innehåll](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
+| Resurser att hämta | [platinumStatusEmail.zip](/help/challenges/assets/email-assets/platinumStatusEmail.zip) |
 
 ## The Story
 
-Luma erbjuder ett lojalitetsprogram som ett sätt att attrahera och behålla sina kunder. Programmet har fyra olika nivåer: Silver, guld, platina och diamant.
+Luma erbjuder ett lojalitetsprogram som ett sätt att attrahera och behålla sina kunder. Programmet har fyra olika nivåer: Brons, silver, guld och platina. Varje lojalitetsnivå får olika nivåer eller belöningar, rabatter och andra specialincitament som belöning för sin återkommande verksamhet.
 
-Varje lojalitetsnivå får olika nivåer eller belöningar, rabatter och andra specialincitament som belöning för sin återkommande verksamhet.
-
-Om du vill stryka under den särskilda diamantstatusen. Luma vill skicka ett välkomstmeddelande till kunderna när de når diamantnivån.
+Stryk under platinastatusen. Luma vill skicka ett välkomstmeddelande till kunderna när de når platinagruppen.
 
 ## Din utmaning
 
-Du har fått i uppdrag att skapa en resa som automatiskt skickar ett välkomstmeddelande till kunderna när de når diamantlojalitetsnivån.
-
->[!NOTE]
-> Om du arbetar i en delad utbildningssandlåda är det bäst att lägga till ditt namn eller dina initialer som en prefix till namnet på det element du skapar.
+Du har ombetts att konfigurera en resa som automatiskt skickar ett välkomstmeddelande till kunder när de når platinans lojalitetsnivå.
 
 >[!BEGINTABS]
 
 >[!TAB Uppgift]
 
-Skicka ett e-postmeddelande när en lojalitetskund flyttar till diamantskiktet för att gratulera och informera dem om deras nya fördelar. The
+När en lojalitetskund kvalificerar sig för platinagruppen bör de få och e-posta för att gratulera och informera dem om sina nya fördelar. Det kreativa teamet har tagit fram en HTML-fil **[Luma - statusuppgradering - välkomstmeddelande](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** med e-postbrödtexten.
 
-1. Skapa ett segment i Journey Optimizer som kallas **Luma - diamantstatus**
-2. Skapa en resa som utlöses när en kund flyttar sig till den nya lojalitetsnivån i Diamond (särskilt när kunden går in i det segment som definierats för en ny medlem på diamantnivå) för att skicka e-postmeddelandet&quot;Luma - New Status - Diamond - Transactional&quot;
-   1. Skapa ett transaktionsmejl med namnet `(your name)_Luma – New Status – Diamond – Transactional email message`.
-   2. Ge e-postmeddelandet en ämnesrad `Welcome to Diamond Status, (recipient's first name)!`.
-   3. Använd den angivna HTML-filen **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** för e-postbrödtexten.
-3. När du är klar sätter du resan i testläge och utlöser resan för att skicka den till dig själv  
+1. Skapa ett segment i Journey Optimizer som kallas `Luma – status upgrade`.
+2. Skapa en resa med namnet&quot;Luma - New Status - platinum&quot;.
+   1. En kund tar sig in på resan när de kvalificerar sig för platinans lojalitetsnivå.
+   2. Kunden bör få ett e-postmeddelande med etiketten `Luma – Platinum Status - Welcome`, med ämnesraden `Welcome to Platinum Status, (recipient's first name)!` med den kropp som det kreativa teamet tillhandahåller.
+   3. När du överför filen HTML lägger du märke till att e-postmeddelandet hänvisar till diamantstatus, i stället för till platina. Uppdatera e-postmeddelandet i e-postdesignern i stället för att begära en ny fil från det kreativa teamet.
 
-   1. Skapa ett transaktionsmejl med namnet `(your name)_Luma – New Status – Diamond – Transactional email message`.
-   1. Ge e-postmeddelandet en ämnesrad `Welcome to Diamond Status, (recipient's first name)!`.
-   1. Använd den angivna HTML-filen **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** för e-postbrödtexten.
-4. När du är klar sätter du resan i testläge och utlöser resan för att skicka den till dig själv  
-
-### Skapa Luma - ny status - romb - e-postmeddelande för transaktioner
-
-Skapa ett välkomstmeddelande
-
-### **Resa nr 3 - uppgradering av diamantstatus, välkomstmeddelande**
+>[TIPS!]
+> Kontrollera att Luma - Platinum Status - välkomstmeddelande är transaktionsbaserat.
 
 
 >[!TAB Villkor för lyckade]
 
 Testa din resa:
 
-1. Kontrollera att segmentkvalificeringshändelsen har namnutrymmet = E-post
-1. Åsidosätt standardparametrarna för e-post och ange den som din egen e-postadress
-1. Ställ in resan till testläge
-1. Utlös en händelse
-1. Lägg till följande e-postadress i fältet Profilidentifierare: Jenna_Palmer9530@emailsim.io
+1. Kontrollera att namnutrymmet är inställt på för Läs segment-aktiviteten **Luma CRM-id (lumaCrmId)**
+2. Åsidosätt standardparametrarna för e-post och ange den som din egen e-postadress
 
-Du bör få det anpassade e-postmeddelandet&quot;Luma - New Status - Diamond-Transactional&quot;.
++++ Klicka här om du vill ha mer information om hur du åsidosätter
+   * Visa dolda värden genom att klicka på ögonsymbolen.
+   * Klicka på T-symbolen (aktivera åsidosättning av parameter) i e-postparametrarna
+
+   ![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
+
+   * Klicka i adressfältet
+   * På nästa skärm lägger du till din e-postadress inom parentes: `"yourname@yourdomain"` i uttrycksredigeraren och klicka på OK.
++++
+
+
+3. Ställ in resan till testläge
+4. Utlös en händelse
+5. Lägg till följande CRM-ID för Stanleigh Stooke i fältet Profilidentifierare: `4f34057d9d9e792c28ba18ecae378e98`
+
+Du bör få den personaliserade *Luma - platinumstatus - Välkommen* e-post.
 
 >[!TAB Kontrollera ditt arbete]
 
 Så här ska din resa se ut:
 
-![Diamond-status-upgrade-travel](/help/challenges/assets/journey-luma-diamond-status-upgrade.png)
+![platinum-status-upgrade-travel](/help/challenges/assets/journey-luma-status-upgrade.png)
+
+
+Så här ska e-postmeddelandet se ut:
+
+![Luma - statusuppgradering - välkomstmeddelande](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]

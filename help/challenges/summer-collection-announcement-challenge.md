@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Marknadsföringsteamet på Luma ber er att implementera en marknadsföringskampa
 
 * Skapa ett segment i Journey Optimizer som kallas `Active Customers`.
 * Segmentet får endast innehålla aktiva Luma-kunder.
-* Aktiva kunder definieras som kunder som har ett skikt i Lumas lojalitetsprogram (silver, guld, platina eller diamant).
+* Aktiva kunder definieras som kunder som har ett skikt i Lumas lojalitetsprogram (brons, silver, guld eller platinum).
 
 
 >[!TAB Godtagandevillkor]

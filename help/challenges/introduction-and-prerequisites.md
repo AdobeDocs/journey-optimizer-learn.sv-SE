@@ -6,9 +6,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -72,6 +72,24 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Användningsfall - Lässegment</li>
   </td>
   </tr>
+   <tr>
+    <td>
+    <div>
+    <a>
+      <img alt="Välkommen" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
+    </a>
+    </div>
+    <td>
+    <div >
+      <a>
+    <strong>Skapa ett välkomstmeddelande om lojalitetsstatus (kommer snart) </strong>
+    </a>
+    </div>
+    <p>
+    <em>Skicka ett e-postmeddelande när en lojalitetskund flyttar till en ny nivå för att gratulera och informera dem om deras nya fördelar</em>
+    <p>
+  </td>
+  </tr>
   <tr>
   <td>
   <div>
@@ -93,40 +111,4 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Använd sammanhangsbaserad händelseinformation för personalisering</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Använd hjälpfunktioner för personalisering</li>
   </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="Lumatproduktpåfyllnad" src="./assets/email-assets/luma-ProductReplenishment.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <strong>Skapa ett meddelande om produktpåfyllnad (kommer snart)</strong>
-    </a>
-    </div>
-    <p>
-    <em>Meddela kunderna när en artikel som inte finns i lager är tillbaka</em>
-    <p>
-  </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="Välkommen" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <a>
-    <strong>Skapa ett välkomstmeddelande om lojalitetsstatus (kommer snart) </strong>
-    </a>
-    </div>
-    <p>
-    <em>Skicka ett e-postmeddelande när en lojalitetskund flyttar till en ny nivå för att gratulera och informera dem om deras nya fördelar</em>
-    <p>
-  </td>
-  </tr>
 </table>
