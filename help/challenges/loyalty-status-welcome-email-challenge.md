@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
+source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Testa din resa:
 1. Se till att [!UICONTROL Läs segmentaktivitet] har [!UICONTROL namespace] ange till **[!DNL Luma CRM id(lumaCrmId)]**
 2. Åsidosätt standardinställningen [!UICONTROL e-postparametrar] och ange din egen e-postadress
 
-+++ Klicka här om du vill ha mer information om hur du åsidosätter [!UICONTROL-e-postparametrar].
++++Klicka här om du vill ha mer information om hur du åsidosätter [!UICONTROL-e-postparametrar].
 
 * Visa dolda värden genom att klicka på ögonsymbolen.
 * I [!UICONTROL E-postparametrar]klickar du på T-symbolen (aktivera åsidosättning av parameter)
