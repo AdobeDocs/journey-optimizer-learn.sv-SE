@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
+source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1138'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Marknadsföringsteamet på Luma ber er att implementera en marknadsföringskampa
 
 >[!TAB Godtagandevillkor]
 
-I segmentbyggaren ser du det uppskattade antalet kvalificerade profiler. Om du arbetar med data från utbildningshandlådan har du cirka 753 kvalificerade profiler av 1,29 K.
+I segmentbyggaren ser du det uppskattade antalet kvalificerade profiler. Om du arbetar med träningssandlådans data har du cirka 753 kvalificerade profiler av 1,29 K.
 
 >[!NOTE]
 >Det kan ta upp till 24 timmar innan segmentmedlemskapet visas för befintliga profiler, eftersom de befintliga profilerna behöver fyllas i i baklänges.
@@ -202,7 +202,7 @@ Testa resan och få e-postmeddelandena skickade till ditt eget konto:
 5. Du kan testa varje gren med något av följande *Luma CRM ID* som profilidentifierare:
    * Kvinna: Leora Dietsche, identitetsvärde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Man: Stanleigh Stooke, identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
-   * Genus har inte angetts: Louise Petti, identitetsvärde: `d1f132f9f9502bba047a6ec86c4b61f9&#39;
+   * Genus har inte angetts: Louise Petti, identitetsvärde: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 6. När du utlöser profilentrén bör du få det första e-postmeddelandet, rubriken ska anpassas enligt den profil du väljer.
 7. Resan bör fortsätta till respektive avdelning och du bör få det relaterade e-postmeddelandet (om du till exempel väljer Jenna bör du få e-postmeddelandet&quot;Luma Women&#39;s Collection&quot;).
