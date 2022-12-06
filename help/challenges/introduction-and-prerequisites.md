@@ -6,9 +6,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Utmaningarna är ett scenario och de krav som krävs för att öva det du lärt dig. Utmaningarna hjälper er att utvärdera era färdigheter och identifiera kunskapsluckor.
 
-Varje utmaning i det här avsnittet åtgärdar ett unikt användningsfall som du ska implementera. Målgruppen (persona) och de kunskaper som krävs listas i början av varje utmaning.
+Varje utmaning i det här avsnittet åtgärdar ett unikt användningsfall som du implementerar. Målgruppen (persona) och de kunskaper som krävs listas i början av varje utmaning.
 
 ## Förutsättningar
 
@@ -68,8 +68,8 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
       <p>
       <b>Nödvändiga färdigheter:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Skapa segment</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importera och redigera e-postinnehåll från HTML</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Användningsfall - Lässegment</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Lässegment</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importera HTML-e-postinnehåll</li>
   </td>
   </tr>
    <tr>
@@ -82,12 +82,16 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
     <td>
     <div >
       <a>
-    <strong>Skapa ett välkomstmeddelande om lojalitetsstatus (kommer snart) </strong>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">Skapa ett välkomstmeddelande om lojalitetsstatus </strong>
     </a>
     </div>
     <p>
-    <em>Skicka ett e-postmeddelande när en lojalitetskund flyttar till en ny nivå för att gratulera och informera dem om deras nya fördelar</em>
+    <em>Skicka ett e-postmeddelande när en lojalitetskund flyttar till en ny nivå för att gratulera och informera dem om deras nya fördelar.</em>
     <p>
+    <b>Nödvändiga färdigheter:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Skapa segment</li>
+      <li><a [href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html">Segmentkvalificering</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importera och redigera e-postinnehåll från HTML</li>
   </td>
   </tr>
   <tr>
@@ -107,7 +111,7 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
     </em>
     <p>
     <b>Nödvändiga färdigheter:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> Skapa e-postinnehåll med meddelanderedigeraren</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html"> Skapa e-postinnehåll med meddelanderedigeraren</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Använd sammanhangsbaserad händelseinformation för personalisering</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Använd hjälpfunktioner för personalisering</li>
   </td>
