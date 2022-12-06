@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
+source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 |---|---|
 | Persona | Resechef |
 | Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segmentkvalificering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Importera HTML-innehåll](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
-| Resurser att hämta | [platinumStatusEmail.zip](/help/challenges/assets/email-assets/platinumStatusEmail.zip) |
+| Resurser att hämta | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## The Story
 
@@ -56,21 +56,18 @@ Testa din resa:
 
 1. Se till att [!UICONTROL Läs segmentaktivitet] har [!UICONTROL namespace] ange till **[!DNL Luma CRM id(lumaCrmId)]**
 2. Åsidosätt standardinställningen [!UICONTROL e-postparametrar] och ange din egen e-postadress
+   * Visa dolda värden genom att klicka på ögonsymbolen.
+   * I [!UICONTROL E-postparametrar]klickar du på T-symbolen (aktivera åsidosättning av parameter)
 
-+++Klicka här om du vill ha mer information om hur du åsidosätter [!UICONTROL-e-postparametrar].
+       ![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
+   
+   * Klicka på [!UICONTROL Adressfält]
+   * På nästa skärm lägger du till din e-postadress inom parentes: `"yourname@yourdomain"` i uttrycksredigeraren och klicka på OK.
 
-* Visa dolda värden genom att klicka på ögonsymbolen.
-* I [!UICONTROL E-postparametrar]klickar du på T-symbolen (aktivera åsidosättning av parameter)
 
-![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-* Klicka på [!UICONTROL Adressfält]
-* På nästa skärm lägger du till din e-postadress inom parentes: `"yourname@yourdomain"` i uttrycksredigeraren och klicka på OK.
-+++
-
-1. Ställ in resan till testläge
-2. Utlös en händelse
-3. Lägg till följande [!DNL CRM ID] for [!DNL Stanleigh Stooke] till [!UICONTROL Profilidentifierare] fält: `4f34057d9d9e792c28ba18ecae378e98`
+3. Ställ in resan till testläge
+4. Utlös en händelse
+5. Lägg till följande [!DNL CRM ID] for [!DNL Stanleigh Stooke] till [!UICONTROL Profilidentifierare] fält: `4f34057d9d9e792c28ba18ecae378e98`
 
 Du bör få den personaliserade *Luma - platinumstatus - Välkommen* e-post.
 
