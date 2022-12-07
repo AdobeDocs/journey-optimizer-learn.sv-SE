@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b358ede4a9855b290ce4efa8611173f44e689b61
+source-git-commit: f86140ed3d39462ec245303efecade64a610a938
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 2%
@@ -60,11 +60,11 @@ I det här steget definierar du strukturen för exempeldata genom att skapa sex 
 
 * [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
 
-* [[!DNL Luma CRM]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma CRM Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Product Interactions]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Web Events Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Test Profiles Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
@@ -224,7 +224,7 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
    * Visningsnamn: `Luma Product Catalog Field Group`
 
-2. Lägg till följande fält i **[!DNL Luma Product Catalog Field Group]**.
+1. Lägg till följande fält i **[!DNL Luma Product Catalog Field Group]**.
 
    * Fältnamn: `product`
 
@@ -234,9 +234,9 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
    * Fältgrupp: [!DNL Luma Product Catalog Field Group]
 
-3. Välj **[!UICONTROL Använd]**.
+1. Välj **[!UICONTROL Använd]**.
 
-4. Lägg till följande fält i **[!DNL Product]** objekt:
+1. Lägg till följande fält i **[!DNL Product]** objekt:
 
    | [!UICONTROL Fieldname] | [!UICONTROL Visningsnamn] | [!UICONTROL Typ] |
    |-------------|-----------|----------|
@@ -250,9 +250,9 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
    | `ImageURL` | `Image URL` | [!UICONTROL Sträng] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL Sträng] |
 
-5. Lägg till **[!UICONTROL Visningsnamn]** `Luma Product Catalog Field Group` till [!UICONTROL fältgrupp].
+1. Lägg till **[!UICONTROL Visningsnamn]** `Luma Product Catalog Field Group` till [!UICONTROL fältgrupp].
 
-6. Välj **[!UICONTROL Spara]**.
+1. Välj **[!UICONTROL Spara]**.
 
 
 ### Skapa [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
