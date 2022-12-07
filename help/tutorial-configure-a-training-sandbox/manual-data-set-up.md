@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: f86140ed3d39462ec245303efecade64a610a938
+source-git-commit: 2f4f214100e13265d839e2466063e0546e6408b9
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 2%
@@ -56,7 +56,7 @@ I det här steget definierar du strukturen för exempeldata genom att skapa sex 
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 
-* [[!DNL Luma Product catalog Schema]](-catalog)
+* [[!DNL Luma Product catalog Schema]](#create-luma-product-catalog-schema)
 
 * [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
 
