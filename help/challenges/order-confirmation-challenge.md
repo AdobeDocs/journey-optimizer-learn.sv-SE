@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '706'
 ht-degree: 0%
 
 ---
@@ -39,16 +39,15 @@ Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en 
 
 >[!TAB Uppgift]
 
-1. Skapa en resa med namnet&quot;ditt namn_orderbekräftelse&quot;
-2. Använd händelsen: [!DNL LumaOnlinePurchase] som utlösare
-
-3. Skapa e-post för orderbekräftelse:
+1. Skapa en anropad resa `Luma - Order Confirmation`
+1. Använd händelsen: [!DNL LumaOnlinePurchase] som utlösare
+1. Skapa e-postmeddelandet med orderbekräftelsen anropat `Luma - Order Confirmation`
 
 * Kategoritransaktion - se till att du väljer transaktionens e-postyta
 * Ämnesraden måste anpassas efter mottagarens förnamn och innehålla frasen&quot;Tack för ditt köp&quot;
+* Använd **Luma - ordersammanfattning** och ändra den:
 
-I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras enligt följande - du kan använda **Luma - ordersammanfattning** och ändra den:
-
+I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras på följande sätt:
 <table>
 <tr>
 <td>
@@ -79,22 +78,30 @@ I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras enl
     <strong>Text</strong><p>
     <em>Hej {förnamn}</em><p>
     <li>Justering: vänster  </li>
-   <li>Textfärg: rgb(101, 106, 119), font-size:14px</li>
-    <li>Utfyllnad: vänster (95), höger (95)</li><div>
+   <li>Textfärg: rgb(69, 97, 162) #4461a2; 
+   <li>font-size: 20px</li>
+   <div>
     <p>
      <em>Din beställning har lagts.
     <p>När ditt paket har skickats skickar vi ett e-postmeddelande med ett spårningsnummer så att du kan spåra din beställning.</p></em>
-    </strong><p>
-    <li>Justering: vänster  </li>
-    <li>Textfärg: rgb(101, 106, 119), font-size:14px </li>
-    <li>Utfyllnad: vänster (95), höger (95)</li><div>
-    </a><p>
-    <em>Leverera till:<p>
-    <p>Förnamn Efternamn</p>
-    Gata<p>
-    Ort, delstat, postnummer</p></em>
-    <strong>Knapp:</strong></p>
-   <p><em>Visa order</em></p>
+    </strong>
+    </tr>
+  </td>
+ <td>
+  <div>
+     <strong> Leverera till sektion</strong>
+      </div>
+      <p><li>Ersätt den hårdkodade adressen i mallen med adressnyttolasten från profilen
+      <li> Ta bort rabatt, summa, ankomst</p>
+  </td>
+  <td>
+  <p> Leverera till:</p>
+      <em>Förnamn Efternamn<br>
+      Gata<br>
+      Ort, delstat, postnummer</em></p>
+
+    &lt;strong>Knapp:&lt;/strong>&lt;/p>
+<p><em>Visa order</em></p>
       <li>Bakgrundsfärg: rgb(25, 121, 195)</li>
       <li>Textfärg: Vit</li>
       <li>Ingen kantlinje</li>
@@ -107,11 +114,13 @@ I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras enl
   <div>
      <strong>Avsnittet Orderinformation</strong>
       </div>
-      <p>Tips:
-      <li>Det här är sammanhangsbaserad händelseinformation.</li>
-      <li>Använd hjälpfunktionen: Varje</li>
-      <li>Växla till kodredigeringsformatet för att lägga till kontextdata. <li>
-      <li>Lägg in informationen i behållare med DIV-taggar.</li>
+       <p><li>Lägg till det här avsnittet mellan <b>Leverera till</b> och <b>Visa order</b> knapp
+      </p><br>
+      <p><b>Tips:</b>
+      <li>Det här är sammanhangsbaserad händelseinformation.
+      <li>Använd hjälpfunktionen !UICONTROL]: [!UICONTROL each]
+      <li>Växla till kodredigeringsformatet för att lägga till kontextdata.
+      <li>Lägg in informationen i behållare med DIV-taggar.
   </td>
   <td>
     <strong>Sidhuvud</strong>
@@ -156,8 +165,7 @@ I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras enl
 >
 >För att du ska kunna felsöka dina resor bör du lägga till en alternativ sökväg till alla meddelandeåtgärder om en timeout eller fel inträffar.
 
-
->[!TAB Kontrollera ditt arbete]
+>[!TAB Godtagandevillkor]
 
 Trigga den resa du skapade i testläge och skicka e-postmeddelandet till dig själv:
 
@@ -186,7 +194,8 @@ Du bör få det personliga bekräftelsemeddelandet via e-post med den angivna pr
    43913 Thierer Terrace, Washington DC 2009
 
 
->[!TAB Godtagandevillkor]
+
+>[!TAB Kontrollera ditt arbete]
 
 ** Resa
 

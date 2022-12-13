@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '224'
 ht-degree: 4%
 
 ---
@@ -37,7 +37,7 @@ Se videon [Skapa händelser](/help/set-up-journeys/create-events.md) för vägle
    | [!UICONTROL TYP] | [!UICONTROL Unitary] |
    | [!UICONTROL Typ av händelse-ID] | [!UICONTROL Regelbaserad] |
    | [!UICONTROL Schema] | Luma - produktinteraktioner |
-   | [!UICONTROL Fält] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>I produktlisteobjekt > Luma-produkter > _*[!DNL yourOrganizationID]* > Produkt:</b> <br> Namn<br>Pris<br>ProductImageURL<br>ProductURL |
+   | [!UICONTROL Fält] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>I produktlisteobjekt > Luma produktkatalogschema > _*[!DNL yourOrganizationID]* > Produkt:</b> <br> Namn<br>Pris<br>ProductImageURL<br>ProductURL |
 
 1. Lägg till [!UICONTROL Händelse-ID-villkor]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
 
@@ -49,9 +49,9 @@ Se videon [Skapa händelser](/help/set-up-journeys/create-events.md) för vägle
 
 ![Lägg till händelsevillkor](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-1. Välj [!UICONTROL NAMNUTRYMME]: `Email(Email)`
+1. Välj [!UICONTROL NAMNUTRYMME]: `Luma CRM ID (lumaCrmId)`
 
-1. Välj **[!UICONTROL Spara]**.
+2. Välj **[!UICONTROL Spara]**.
 
 ## Skapa *[!DNL Luma Wishlist Add]* Händelse
 

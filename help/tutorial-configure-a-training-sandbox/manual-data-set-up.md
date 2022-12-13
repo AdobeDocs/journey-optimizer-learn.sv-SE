@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 2f4f214100e13265d839e2466063e0546e6408b9
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1065'
 ht-degree: 2%
 
 ---
@@ -207,7 +207,6 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
 ### Skapa [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
 
-
 1. Gå till [!UICONTROL DATAHANTERING] -> **[!UICONTROL Scheman]** i den vänstra navigeringen.
 
 1. Välj **[!UICONTROL Skapa schema]** överst till höger.
@@ -250,9 +249,10 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
    | `ImageURL` | `Image URL` | [!UICONTROL Sträng] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL Sträng] |
 
-1. Lägg till **[!UICONTROL Visningsnamn]** `Luma Product Catalog Field Group` till [!UICONTROL fältgrupp].
+1. Ange **[!DNL SKU]** som primär identitet
+2. Lägg till **[!UICONTROL Visningsnamn]** `Luma Product Catalog Field Group` till [!UICONTROL fältgrupp].
 
-1. Välj **[!UICONTROL Spara]**.
+3. Välj **[!UICONTROL Spara]**.
 
 
 ### Skapa [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
@@ -266,7 +266,7 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
 1. Välj **[!UICONTROL Skapa ny klass]**.
 
-1. Lägg till visningsnamnet: `Luma Business Event`.
+1. Lägg till visningsnamnet: `Luma Business Event Class`.
 
 1. Välj typ: *[!UICONTROL Tidsserie]*.
 
@@ -274,11 +274,11 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
 1. Skapa en [!UICONTROL fältgrupp]:
 
-   * Visningsnamn: `Product Inventory Event Details`
+   * Visningsnamn: `Luma Product Inventory Event Details Field Group`
 
 1. Lägg till **[!UICONTROL Visningsnamn]** `Luma Product Inventory Event Schema` till schemat.
 
-1. Lägg till följande fält i fältgruppen Luma-produktinformation:
+1. Lägg till följande fält i **[!DNL Luma Product Inventory Event Details Field Group]**:
 
    * Fältnamn: `inventoryEvent`
 
@@ -286,53 +286,52 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
    * Typ: [!UICONTROL Objekt]
 
-   * Fältgrupp: [!DNL Product Inventory Event Details]
+   * Fältgrupp: [!DNLLFältgrupp för information om produktinventeringshändelser]
 
 1. Lägg till följande fält i **[!DNL Product Inventory Event Details]** objekt:
 
    | [!UICONTROL Fieldname] | [!UICONTROL Visningsnamn] | [!UICONTROL Typ] |
    |-------------|-----------|----------|
-   | `productId` | `Product ID` | [!UICONTROL Sträng] |
    | `sku` | `SKU` | [!UICONTROL Sträng] |
-   | `stockEventType` | `Stock Event Type` | **[!UICONTROL Enum]** med `restock` och `outOfStock` som värden |
+   | `stockEventType` | `Stock Event Type` | [!UICONTROL Sträng] |
 
    1. för att ange `stockEventType` till Enum, välj typ: `string`.
 
-   1. Bläddra nedåt till nederkanten av **[!UICONTROL Fältegenskaper]**.
+   2. Bläddra nedåt till nederkanten av **[!UICONTROL Fältegenskaper]**.
 
-   1. Aktivera **[!UICONTROL Enum]**.
+   3. Aktivera **[!UICONTROL Enum]**.
 
-   1. Retur **[!UICONTROL values] ([!UICONTROL etikett)]**: `restock` (`restock`).
+   4. Retur **[!UICONTROL values] ([!UICONTROL etikett)]**: `restock` (`restock`).
 
-   1. Välj **[!UICONTROL Lägg till rad]**.
+   5. Välj **[!UICONTROL Lägg till rad]**.
 
-   1. Retur **[!UICONTROL values] ([!UICONTROL etikett)]**: `outOfStock` (`out of stock`).
+   6. Retur **[!UICONTROL values] ([!UICONTROL etikett)]**: `outOfStock` (`out of stock`).
 
-   1. Välj **[!UICONTROL Använd]**.
+   7. Välj **[!UICONTROL Använd]**.
 
       ![enum](assets/enum.png)
 
-1. Ange `productId` fält som **[!UICONTROL primär identitet]** använda **[!DNL Luma Product namespace]**.
+2. Ange `productId` fält som **[!UICONTROL primär identitet]** använda **[!DNL Luma Product namespace]**.
 
-1. Välj `sku` fält och definiera en relation till `product.sku` i **[!DNL Luma Product catalog Schema]** Schema:
+3. Välj `sku` fält och definiera en relation till `product.sku` i **[!DNL Luma Product catalog Schema]** Schema:
 
    1. Bläddra nedåt till nederkanten av **[!UICONTROL Fältegenskaper]**.
 
-   1. Aktivera **[!UICONTROL Relation]**.
+   2. Aktivera **[!UICONTROL Relation]**.
 
       1. **[!UICONTROL Referensschema]**: [!DNL Luma Product catalog Schema].
 
-      1. **[!UICONTROL Namnutrymme för referensidentitet]**: [!DNL Luma Product].
-   1. Välj **[!UICONTROL Använd]**.
+      2. **[!UICONTROL Namnutrymme för referensidentitet]**: [!DNL Luma Product].
+   3. Välj **[!UICONTROL Använd]**.
 
       Schemat bör se ut så här:
 
       ![SKU-relation](assets/sku_relationship.png)
 
 
-1. Aktivera för **Profil**.
+4. Aktivera för **Profil**.
 
-1. Välj [!UICONTROL Spara] för att spara schemat.
+5. Välj [!UICONTROL Spara] för att spara schemat.
 
 ### Skapa [!DNL Luma CRM] och [!DNL Luma Product Interactions] scheman {#create-luma-crm-and-luma-product-interactions-schemas}
 
