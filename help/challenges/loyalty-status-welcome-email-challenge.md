@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
+source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -43,12 +43,8 @@ När en lojalitetskund kvalificerar sig för platinagruppen bör de få och e-po
 1. Skapa en [!UICONTROL segment] i Journey Optimizer `Luma – status upgrade`.
 2. Skapa en anropad resa `Luma – New Status – platinum`.
    1. En kund tar sig in på resan när de kvalificerar sig för platinans lojalitetsnivå.
-   2. Kunden bör få ett e-postmeddelande med etiketten `Luma – Platinum Status - Welcome`, med ämnesraden `Welcome to Platinum Status, (recipient's first name)!` med e-postmeddelandetexten från det kreativa teamet.
+   2. Kunden bör få ett e-postmeddelande med etiketten `Luma – Platinum Status - Welcome`, med ämnesraden `Welcome to Platinum Status, (recipient's first name)!` med e-postmeddelandetexten från det kreativa teamet. Det här är en [!UICONTROL transaktionsbaserad] e-post.
    3. När du överför filen HTML lägger du märke till att e-postmeddelandet hänvisar till diamantstatus, i stället för till platina. Uppdatera e-postmeddelandet i e-postdesignern i stället för att begära en ny fil från det kreativa teamet.
-
->[TIPS!]
-> Kontrollera att Luma - Platinum Status - välkomstmeddelande är[!UICONTROL transaktionsbaserad].
-
 
 >[!TAB Villkor för lyckade]
 
@@ -69,7 +65,7 @@ Testa din resa:
 4. Utlös en händelse
 5. Lägg till följande [!DNL CRM ID] for [!DNL Stanleigh Stooke] till [!UICONTROL Profilidentifierare] fält: `4f34057d9d9e792c28ba18ecae378e98`
 
-Du bör få den personaliserade *Luma - platinumstatus - Välkommen* e-post.
+**Resultat:** Du bör få den personaliserade *Luma - platinumstatus - Välkommen* e-post.
 
 >[!TAB Kontrollera ditt arbete]
 
