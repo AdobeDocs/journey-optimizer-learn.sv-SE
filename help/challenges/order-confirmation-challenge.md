@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '701'
 ht-degree: 0%
 
 ---
@@ -41,13 +41,13 @@ Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en 
 
 1. Skapa en anropad resa `Luma - Order Confirmation`
 1. Använd händelsen: [!DNL LumaOnlinePurchase] som utlösare
-1. Skapa e-postmeddelandet med orderbekräftelsen anropat `Luma - Order Confirmation`
+1. Skapa e-postmeddelandet med orderbekräftelsen anropat `Luma - Order Confirmation`:
 
 * Kategoritransaktion - se till att du väljer transaktionens e-postyta
 * Ämnesraden måste anpassas efter mottagarens förnamn och innehålla frasen&quot;Tack för ditt köp&quot;
 * Använd **Luma - ordersammanfattning** och ändra den:
 
-I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras på följande sätt:
+E-postmeddelandet ska struktureras på följande sätt:
 <table>
 <tr>
 <td>
@@ -118,7 +118,7 @@ I enlighet med Lumas varumärkesriktlinje ska e-postmeddelandet struktureras på
       </p><br>
       <p><b>Tips:</b>
       <li>Det här är sammanhangsbaserad händelseinformation.
-      <li>Använd hjälpfunktionen !UICONTROL]: [!UICONTROL each]
+      <li>Använd hjälpfunktionen [!UICONTROL]: [!UICONTROL each]
       <li>Växla till kodredigeringsformatet för att lägga till kontextdata.
       <li>Lägg in informationen i behållare med DIV-taggar.
   </td>

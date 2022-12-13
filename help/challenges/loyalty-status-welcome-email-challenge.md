@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## The Story
 
-Luma erbjuder ett lojalitetsprogram som ett sätt att attrahera och behålla sina kunder. Programmet har fyra olika nivåer: Brons, silver, guld och platina. Varje lojalitetsnivå får olika nivåer eller belöningar, rabatter och andra specialincitament som belöning för sin återkommande verksamhet.
+Luma erbjuder ett lojalitetsprogram som ett sätt att attrahera och behålla sina kunder. Programmet har fyra olika nivåer: Brons, silver, guld och platina. Varje lojalitetsnivå får olika belöningar, rabatter och andra specialincitament som belöning för sin återkommande verksamhet.
 
 Stryk under platinastatusen. Luma vill skicka ett välkomstmeddelande till kunderna när de når platinagruppen.
 
