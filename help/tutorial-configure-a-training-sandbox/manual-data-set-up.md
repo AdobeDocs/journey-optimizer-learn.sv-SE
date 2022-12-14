@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1058'
 ht-degree: 2%
 
 ---
@@ -286,9 +286,9 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
    * Typ: [!UICONTROL Objekt]
 
-   * Fältgrupp: [!DNLLFältgrupp för information om produktinventeringshändelser]
+   * Fältgrupp: `Luma Product Inventory Event Details Field Group`
 
-1. Lägg till följande fält i **[!DNL Product Inventory Event Details]** objekt:
+1. Lägg till följande fält i `Product Inventory Event Details` objekt:
 
    | [!UICONTROL Fieldname] | [!UICONTROL Visningsnamn] | [!UICONTROL Typ] |
    |-------------|-----------|----------|
@@ -311,9 +311,9 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
       ![enum](assets/enum.png)
 
-2. Ange `productId` fält som **[!UICONTROL primär identitet]** använda **[!DNL Luma Product namespace]**.
+1. Ange `productId` fält som **[!UICONTROL primär identitet]** använda **[!DNL Luma Product namespace]**.
 
-3. Välj `sku` fält och definiera en relation till `product.sku` i **[!DNL Luma Product catalog Schema]** Schema:
+1. Välj `sku` fält och definiera en relation till `product.sku` i **[!DNL Luma Product catalog Schema]** Schema:
 
    1. Bläddra nedåt till nederkanten av **[!UICONTROL Fältegenskaper]**.
 
@@ -329,9 +329,9 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
       ![SKU-relation](assets/sku_relationship.png)
 
 
-4. Aktivera för **Profil**.
+1. Aktivera för **Profil**.
 
-5. Välj [!UICONTROL Spara] för att spara schemat.
+1. Välj [!UICONTROL Spara] för att spara schemat.
 
 ### Skapa [!DNL Luma CRM] och [!DNL Luma Product Interactions] scheman {#create-luma-crm-and-luma-product-interactions-schemas}
 
