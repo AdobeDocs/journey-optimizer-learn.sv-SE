@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '204'
 ht-degree: 4%
 
 ---
@@ -36,10 +36,10 @@ Se videon [Skapa händelser](/help/set-up-journeys/create-events.md) för vägle
    | [!UICONTROL NAMN] | `LumaOnlinePurchase` |
    | [!UICONTROL TYP] | [!UICONTROL Unitary] |
    | [!UICONTROL Typ av händelse-ID] | [!UICONTROL Regelbaserad] |
-   | [!UICONTROL Schema] | Luma - produktinteraktioner |
-   | [!UICONTROL Fält] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>I produktlisteobjekt > Luma produktkatalogschema > _*[!DNL yourOrganizationID]* > Produkt:</b> <br> Namn<br>Pris<br>ProductImageURL<br>ProductURL |
+   | [!UICONTROL Schema] | `Luma Web Events Schema` |
+   | [!UICONTROL Fält] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. Lägg till [!UICONTROL Händelse-ID-villkor]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
+2. Lägg till [!UICONTROL Händelse-ID-villkor]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. Markera pennikonen för att redigera fältet
    2. På [!UICONTROL Lägg till ett händelse-id-villkor] modal, dra och släpp `eventType` på arbetsytan

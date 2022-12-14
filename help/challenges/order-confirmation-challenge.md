@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -33,19 +33,19 @@ Luma lanserar sin webbutik och vill säkerställa en bra kundupplevelse genom at
 
 ## Din utmaning
 
-Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en Luma-kund slutför en onlinebeställning.
+Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en Luma-kund slutför en onlinebeställning. The Luma
 
 >[!BEGINTABS]
 
 >[!TAB Uppgift]
 
 1. Skapa en anropad resa `Luma - Order Confirmation`
-1. Använd händelsen: [!DNL LumaOnlinePurchase] som utlösare
-1. Skapa e-postmeddelandet med orderbekräftelsen anropat `Luma - Order Confirmation`:
+2. Använd händelsen: `LumaOnlinePurchase` som utlösare
+3. Skapa e-postmeddelandet med orderbekräftelsen anropat `Luma - Order Confirmation`:
 
 * Kategoritransaktion - se till att du väljer transaktionens e-postyta
 * Ämnesraden måste anpassas efter mottagarens förnamn och innehålla frasen&quot;Tack för ditt köp&quot;
-* Använd **Luma - ordersammanfattning** och ändra den:
+* Använd `Luma - Order summary` och ändra den:
 
 E-postmeddelandet ska struktureras på följande sätt:
 <table>
@@ -59,7 +59,6 @@ E-postmeddelandet ska struktureras på följande sätt:
     <strong>Luma logo</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>Storlek 35 %, centrerad vit bakgrund </li>
     <li>Den ska ha en länk till lumas webbplats: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -71,9 +70,6 @@ E-postmeddelandet ska struktureras på följande sätt:
     </strong>
   </td>
   <td>
-    <strong>Bild</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>Marginal: Överkant, nederkant (10)<div>
     <p>
     <strong>Text</strong><p>
     <em>Hej {förnamn}</em><p>
@@ -91,23 +87,15 @@ E-postmeddelandet ska struktureras på följande sätt:
   <div>
      <strong> Leverera till sektion</strong>
       </div>
-      <p><li>Ersätt den hårdkodade adressen i mallen med adressnyttolasten från profilen
+      <p><li>Ersätt den hårdkodade adressen i mallen med leveransadressen 
+      <li>Detaljerna är sammanhangsberoende attribut från evenemanget (gata, ort, postnummer, delstat)
+      <li>Förnamn och efternamn kommer från profilen
       <li> Ta bort rabatt, summa, ankomst</p>
   </td>
   <td>
   <p> Leverera till:</p>
       <em>Förnamn Efternamn<br>
-      Gata<br>
-      Ort, delstat, postnummer</em></p>
-
-    &lt;strong>Knapp:&lt;/strong>&lt;/p>
-<p><em>Visa order</em></p>
-      <li>Bakgrundsfärg: rgb(25, 121, 195)</li>
-      <li>Textfärg: Vit</li>
-      <li>Ingen kantlinje</li>
-      <li>Höjd: 40</li>
-      <li>Lägg till en länk till en webbplats som du väljer </li>
-      <li>Vänsterjustera mot texten ovan (spets: använd behållarmarginalen)</li>
+      Adress<br></em></p>
   </td>
  <tr>
 <td>
