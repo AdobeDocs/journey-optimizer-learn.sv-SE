@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Testa din resa:
 
 3. Ställ in resan till testläge
 4. Utlös en händelse
-5. Lägg till följande [!DNL CRM ID] for [!DNL Stanleigh Stooke] till [!UICONTROL Profilidentifierare] fält: `4f34057d9d9e792c28ba18ecae378e98`
+5. Lägg till följande [!DNL CRM ID] for `Stanleigh Stooke` till [!UICONTROL Profilidentifierare] fält: `4f34057d9d9e792c28ba18ecae378e98`
 
 **Resultat:** Du bör få den personaliserade *Luma - platinumstatus - Välkommen* e-post.
 

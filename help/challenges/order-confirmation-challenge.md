@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '692'
 ht-degree: 0%
 
 ---
@@ -113,7 +113,7 @@ E-postmeddelandet ska struktureras på följande sätt:
   <td>
     <strong>Sidhuvud</strong>
     <p>
-    <em>Order {Purchase Order Number}</em>
+    <em>Ordning: `purchaseOrderNumber`</em>
     </p>
     <strong>Lista över beställda produkter:
   </strong>
@@ -164,7 +164,7 @@ Trigga den resa du skapade i testläge och skicka e-postmeddelandet till dig sj�
    3. På nästa skärm lägger du till din e-postadress inom parentes: *yourname@yourdomain* i uttrycksredigeraren och klicka på OK.
 2. Testa resan
 3. Utlös händelsen med följande parametrar:
-   * Ange profilidentifieraren till: Jenna_Palmer9530@emailsim.io
+   * Ange profilidentifieraren till: Identitetsvärde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Händelsetyp: commerce.purchase
    * Namn: Sprite Yoga Companion Kit
    * Antal: 1
@@ -172,12 +172,13 @@ Trigga den resa du skapade i testläge och skicka e-postmeddelandet till dig sj�
    * Ordernummer: 6253728
    * SKU: 24-WG080
    * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * 
 
 Du bör få det personliga bekräftelsemeddelandet via e-post med den angivna produkten.
 
-* Ämnesraden ska börja med din testprofils förnamn: Jenna
+* Ämnesraden ska ha testprofilens förnamn: Leora
 * Orderdetaljavsnittet ska fyllas i med den orderinformation du angav vid testningen
-* Kundinformationen ska ha din testprofils ort och postnummer:
+* The *Leverera till* -avsnittet ska ha din testprofils ort och postnummer:
 
    43913 Thierer Terrace, Washington DC 2009
 
@@ -185,17 +186,30 @@ Du bör få det personliga bekräftelsemeddelandet via e-post med den angivna pr
 
 >[!TAB Kontrollera ditt arbete]
 
-** Resa
+**Resa**
 
 ![Resa](/help/challenges/assets/c2-journey.png)
 
 
-** E-post
+**E-post**
 
 **Ärenderad:**
 
 {{ profile.person.name.firstName }}, tack för ditt köp!
 
+**Leverera till sektion:**
+
+Så här ska koden se ut:
+
+```javascript
+{{ profile.person.name.firstName }} {{ profile.person.name.lastName }}
+{{context.journey.events.454181416.commerce.shipping.address.street1}}
+{{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
+```
+
+*event.45481416* blir ett annat nummer för dig.
+
+TIPS: Personalisera varje rad separat
 
 **Mer detaljerad information:**
 
