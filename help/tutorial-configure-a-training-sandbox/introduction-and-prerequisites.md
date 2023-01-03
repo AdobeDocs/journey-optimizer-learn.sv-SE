@@ -43,7 +43,7 @@ Kontrollera att du har:
 
       Dessa filer innehåller exempeldata som du importerar till sandlådan.
 
-   1. Öppna varje fil och sök efter **`yourOrganizationID`** och ersätta den med [organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
+   1. Öppna varje fil och sök efter **`yourOrganizationID`** och ersätta den med [organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=sv).
 
    1. Spara filerna.
 

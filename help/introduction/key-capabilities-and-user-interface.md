@@ -1,6 +1,6 @@
 ---
-title: Key capabilities and the user interface
-description: Understand the Journey Optimizer's key capabilities and personas. Lär dig navigera i användargränssnittet.
+title: Viktiga funktioner och användargränssnittet
+description: Förstå Journey Optimizer nyckelfunktioner och personligheter. Lär dig navigera i användargränssnittet.
 kt: 7606
 thumbnail: 334201.jpg
 feature: Overview
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Viktiga funktioner och användargränssnittet
 
-Förstå Journey Optimizer nyckelfunktioner och personligheter. Learn how to navigate the user interface.
+Förstå Journey Optimizer nyckelfunktioner och personligheter. Lär dig navigera i användargränssnittet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334201?quality=12)

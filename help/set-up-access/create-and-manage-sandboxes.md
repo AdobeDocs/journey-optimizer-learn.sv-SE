@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Create and manage sandboxes
+# Skapa och hantera sandlådor
 
 Förstå vad sandlådor är och hur du skiljer mellan utvecklings- och produktionssandlådor. Lär dig hur du skapar, återställer och tar bort sandlådor.
 

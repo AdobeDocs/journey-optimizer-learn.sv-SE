@@ -1,6 +1,6 @@
 ---
 title: Leverera erbjudanden med API:t för beslutshubben
-description: 'Lär dig hur ni kan leverera beslutsstöd med API:t för beslut. '
+description: Lär dig hur ni kan leverera beslutsstöd med API:t för beslut.
 role: Developer
 feature: Offers
 kt: 6819

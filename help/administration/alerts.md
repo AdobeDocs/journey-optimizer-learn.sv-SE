@@ -8,13 +8,13 @@ doc-type: feature video
 team: PM
 role: Admin
 last-substantial-update: 2022-09-28T00:00:00Z
-source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
+exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
+source-git-commit: e1dc0c6b12812854368bba162eea4747a3d76db3
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Använd varningar
 

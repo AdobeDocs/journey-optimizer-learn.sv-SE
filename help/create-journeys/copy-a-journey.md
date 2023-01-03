@@ -9,13 +9,13 @@ team: TM
 role: User
 level: Beginner
 last-substantial-update: 2022-09-23T00:00:00Z
-source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
+exl-id: ae6dcd75-582c-47fd-9971-50a198df1fe9
+source-git-commit: e1dc0c6b12812854368bba162eea4747a3d76db3
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
 
 ---
-
 
 # Kopiera en resa till en annan sandlåda
 
