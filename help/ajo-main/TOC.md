@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Tutorials.
-source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
+source-git-commit: 8f2b7582a3d7bf4964d8780413b19e29f44b472b
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 15%
@@ -78,13 +78,13 @@ ht-degree: 15%
       + [Konfigurera källanslutningar](/help/set-up-data/configure-source-connectors.md)
    + Konfigurera kanaler {#channel-configuration}
       + [Konfigurera e-postkanal](/help/set-up-channels/set-up-email-channel.md)
-      + [Konfigurera SMS API-autentiseringsuppgifter och kanalytor](/help/set-up-channels/set-up-sms-channel.md)
       + [Delegera CName-underdomäner](/help/set-up-channels/delegate-cname-subdomains.md)
+      + [Konfigurera SMS API-autentiseringsuppgifter och kanalytor](/help/set-up-channels/set-up-sms-channel.md)
       + [Konfigurera regler för meddelandefrekvens](/help/administration/configure-frequency-rules.md)
    + Konfigurera resor {#journey-configuration}
-      + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
-      + [Skapa händelser](/help/set-up-journeys/create-events.md)
-      + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
+   + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
+   + [Skapa händelser](/help/set-up-journeys/create-events.md)
+   + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
 + Åtkomstkontroll {#access-control}
    + [Åtkomsthantering](/help/set-up-access/access-management.md)
    + [Skapa och hantera sandlådor](/help/set-up-access/create-and-manage-sandboxes.md)
