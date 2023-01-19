@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Tutorials.
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
+source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 13%
+source-wordcount: '291'
+ht-degree: 14%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 13%
    + [Arkitektur](/help/introduction/architecture.md)
    + [Mobilfunktioner för marknadsförare](/help/create-messages/mobile-capabilities.md)
    + [Mobilfunktioner för utvecklare](/help/create-messages/mobile-capabilities-for-developers.md)
-+ Skapa kampanjer {#create-campaigns}
++ Kampanjer {#create-campaigns}
    + [Skapa en kampanj](/help/create-champaigns/create-a-campaign.md)
-+ Skapa resor {#create-journeys}
++ Resor {#create-journeys}
    + [Översikt över resans arbetsyta](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Användningsfall - Transaktionsresa](/help/create-journeys/use-case-transactional-journey.md)
@@ -33,6 +33,10 @@ ht-degree: 13%
    + [Skapa en testprofil](/help/create-journeys/test-a-journey.md)
    + [Publicera en resa](/help/create-journeys/publish-a-journey.md)
    + [Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)
++ SMS-kanal{#sms-channel}
+   + [Konfigurera SMS API-autentiseringsuppgifter och kanalytor](/help/set-up-channels/set-up-sms-channel.md)
+   + [Skriv och leverera SMS-meddelanden](/help/channels/author-and-deliver-sms-messages.md)
+   + [Stöd för inkommande nyckelord för SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Kundprofiler, segment och prenumerationer {#profiles-segments-subscriptions}
    + [Enhetlig profil och segmentering - översikt](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Skapa segment](/help/set-up-resources/create-segments.md)
@@ -42,9 +46,6 @@ ht-degree: 13%
       + [Skapa innehåll med e-postdesignern](/help/create-messages/create-content-with-the-email-designer.md)
       + [Importera och redigera e-postinnehåll från HTML](/help/create-messages/import-and-author-html-email-content.md)
       + [Förhandsgranska, granska och publicera](/help/create-messages/preview-proof-and-publish.md)
-   + Skapa SMS-textmeddelanden {#create-sms}
-      + [Konfigurera, redigera och leverera SMS-meddelanden](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-      + [Stöd för inkommande nyckelord för SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
    + Skapa meddelanden i appen {#create-in-app}
       + [Meddelanden i appen för kampanjer](/help/create-messages/in-app-messaging-for-campaigns.md)
       + [Skriv ett meddelande i appen](/help/create-messages/author-in-app-messages.md)
@@ -78,8 +79,8 @@ ht-degree: 13%
       + [Skapa datauppsättningar och importera data](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [Konfigurera källanslutningar](/help/set-up-data/configure-source-connectors.md)
    + Konfigurera kanaler {#channel-configuration}
-      + [Konfigurera e-postkanal](/help/set-up-email-channel/set-up-email-channel.md)
-      + [Delegera CName-underdomäner](/help/set-up-email-channel/delegate-cname-subdomains.md)
+      + [Konfigurera e-postkanal](/help/set-up-channels/set-up-email-channel.md)
+      + [Delegera CName-underdomäner](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Konfigurera regler för meddelandefrekvens](/help/administration/configure-frequency-rules.md)
    + Konfigurera resor {#journey-configuration}
       + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
