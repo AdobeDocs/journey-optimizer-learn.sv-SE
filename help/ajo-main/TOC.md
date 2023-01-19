@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Här är Journey Optimizer Tutorials.
-source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
+source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 14%
+source-wordcount: '289'
+ht-degree: 15%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 14%
    + [Journey Optimizer Overview Part 2](/help/introduction/journey-optimizer-overview-part-2.md)
    + [Viktiga funktioner och användargränssnittet](/help/introduction/key-capabilities-and-user-interface.md)
    + [Arkitektur](/help/introduction/architecture.md)
-   + [Mobilfunktioner för marknadsförare](/help/create-messages/mobile-capabilities.md)
-   + [Mobilfunktioner för utvecklare](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Mobilfunktioner för marknadsförare](/help/channels/mobile-capabilities.md)
+   + [Mobilfunktioner för utvecklare](/help/channels/mobile-capabilities-for-developers.md)
 + Kampanjer {#create-campaigns}
-   + [Skapa en kampanj](/help/create-champaigns/create-a-campaign.md)
+   + [Skapa en kampanj](/help/create-campaigns/create-a-campaign.md)
 + Resor {#create-journeys}
    + [Översikt över resans arbetsyta](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -33,22 +33,20 @@ ht-degree: 14%
    + [Skapa en testprofil](/help/create-journeys/test-a-journey.md)
    + [Publicera en resa](/help/create-journeys/publish-a-journey.md)
    + [Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)
++ E-postkanal{#email-channel}
+   + [Skapa innehåll med e-postdesignern](/help/channels/create-content-with-the-email-designer.md)
+   + [Importera och redigera e-postinnehåll från HTML](/help/channels/import-and-author-html-email-content.md)
+   + [Förhandsgranska, granska och publicera](/help/channels/preview-proof-and-publish.md)
++ I appkanalen{#in-app-channel}
+   + [Meddelanden i appen för kampanjer](/help/channels/in-app-messaging-for-campaigns.md)
+   + [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
 + SMS-kanal{#sms-channel}
-   + [Konfigurera SMS API-autentiseringsuppgifter och kanalytor](/help/set-up-channels/set-up-sms-channel.md)
    + [Skriv och leverera SMS-meddelanden](/help/channels/author-and-deliver-sms-messages.md)
    + [Stöd för inkommande nyckelord för SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Kundprofiler, segment och prenumerationer {#profiles-segments-subscriptions}
    + [Enhetlig profil och segmentering - översikt](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Skapa segment](/help/set-up-resources/create-segments.md)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
-+ Skapa meddelanden {#create-messages}
-   + Skapa e-postmeddelanden {#create-emails}
-      + [Skapa innehåll med e-postdesignern](/help/create-messages/create-content-with-the-email-designer.md)
-      + [Importera och redigera e-postinnehåll från HTML](/help/create-messages/import-and-author-html-email-content.md)
-      + [Förhandsgranska, granska och publicera](/help/create-messages/preview-proof-and-publish.md)
-   + Skapa meddelanden i appen {#create-in-app}
-      + [Meddelanden i appen för kampanjer](/help/create-messages/in-app-messaging-for-campaigns.md)
-      + [Skriv ett meddelande i appen](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Anpassa innehåll {#personalize-content}
    + [Profil- och segmentmedlemskapsbaserad personalisering](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
@@ -80,6 +78,7 @@ ht-degree: 14%
       + [Konfigurera källanslutningar](/help/set-up-data/configure-source-connectors.md)
    + Konfigurera kanaler {#channel-configuration}
       + [Konfigurera e-postkanal](/help/set-up-channels/set-up-email-channel.md)
+      + [Konfigurera SMS API-autentiseringsuppgifter och kanalytor](/help/set-up-channels/set-up-sms-channel.md)
       + [Delegera CName-underdomäner](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Konfigurera regler för meddelandefrekvens](/help/administration/configure-frequency-rules.md)
    + Konfigurera resor {#journey-configuration}
