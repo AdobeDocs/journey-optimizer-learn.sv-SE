@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Det här är Journey Optimizer Tutorials.
-source-git-commit: 85e5e7365d49db2bc0a7c723b187fe4bb58e09d8
+source-git-commit: ac590d04a50f20f3767d82c17f9548a372044b6b
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 14%
+source-wordcount: '291'
+ht-degree: 15%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 14%
    + [Skapa innehåll med e-postdesignern](/help/channels/create-content-with-the-email-designer.md)
    + [Importera och redigera e-postinnehåll från HTML](/help/channels/import-and-author-html-email-content.md)
    + [Förhandsgranska, granska och publicera](/help/channels/preview-proof-and-publish.md)
-   + [Innehållsmallar](/help/channel/content-templates.md)
+   + [Innehållsmallar](/help/channels/content-templates.md)
 + I appkanalen{#in-app-channel}
    + [Meddelanden i appen för kampanjer](/help/channels/in-app-messaging-for-campaigns.md)
    + [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
