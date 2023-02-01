@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 4268144ade6588e48fc38cae7e542c227af96827
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '635'
 ht-degree: 1%
 
 ---
@@ -33,19 +33,21 @@ Luma lanserar sin webbutik och vill säkerställa en bra kundupplevelse genom at
 
 ## Din utmaning
 
-Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en Luma-kund slutför en onlinebeställning. The Luma
+Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en Luma-kund slutför en onlinebeställning.
 
 >[!BEGINTABS]
 
 >[!TAB Uppgift]
 
 1. Skapa en anropad resa `Luma - Order Confirmation`
-2. Använd händelsen: `LumaOnlinePurchase` som utlösare
+2. Använd händelsen: `LumaOnlinePurchase`
 3. Skapa e-postmeddelandet med orderbekräftelsen anropat `Luma - Order Confirmation`:
 
 * Kategoritransaktion - se till att du väljer transaktionens e-postyta
 * Ämnesraden måste anpassas efter mottagarens förnamn och innehålla frasen&quot;Tack för ditt köp&quot;
 * Använd `Luma - Order summary` och ändra den:
+   * Ta bort `You may also like` avsnitt
+   * Lägg till länken för att avbryta prenumerationen längst ned i e-postmeddelandet
 
 E-postmeddelandet ska struktureras på följande sätt:
 <table>
@@ -56,7 +58,6 @@ E-postmeddelandet ska struktureras på följande sätt:
       </div>
   </td>
   <td>
-    <strong>Luma logo</strong>
       <p>
      <li>luma_logo.png</li>
     <li>Den ska ha en länk till lumas webbplats: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
@@ -72,10 +73,7 @@ E-postmeddelandet ska struktureras på följande sätt:
   <td>
     <p>
     <strong>Text</strong><p>
-    <em>Hej {förnamn}</em><p>
-    <li>Justering: vänster  </li>
-   <li>Textfärg: rgb(69, 97, 162) #4461a2; 
-   <li>font-size: 20px</li>
+    <em>Hej {firstName}</em><p>
    <div>
     <p>
      <em>Din beställning har lagts.
@@ -87,28 +85,30 @@ E-postmeddelandet ska struktureras på följande sätt:
   <div>
      <strong> Leverera till sektion</strong>
       </div>
-      <p><li>Ersätt den hårdkodade adressen i mallen med leveransadressen 
-      <li>Adressinformationen är sammanhangsberoende attribut från evenemanget (gata, ort, postnummer, delstat)
+      <p>
       <li>Förnamn och efternamn kommer från profilen
+      <li>Ersätt den hårdkodade adressen i mallen med <b>leveransadress</b>
+      <li>Adressinformationen är sammanhangsberoende attribut från evenemanget (gata 1, ort, postnummer, delstat)
       <li> Ta bort rabatt, summa, ankomst</p>
   </td>
   <td>
   <p> Leverera till:</p>
-      <em>Förnamn Efternamn<br>
-     Adress</em></p>
+      <em>{firstName} {lastName}<br>
+     {Gata 1}<br>
+     {City}, {State} {mailCode}<br></em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>Avsnittet Orderinformation</strong>
       </div>
-       <p><li>Lägg till det här avsnittet efter <b>Leverera till</b> och <b>Visa order</b> -knappen.
+       <p><li>Lägg till det här avsnittet under <b>Leverera till</b> -avsnitt.
       </p><br>
       <p><b>Tips:</b>
+      <li>Använd strukturkomponenten "1:2 kolumn vänster" för detta avsnitt
       <li>Det här är sammanhangsbaserad händelseinformation.
       <li>Använd hjälpfunktionen [!UICONTROL]: [!UICONTROL each]
       <li>Växla till kodredigeringsformatet för att lägga till kontextdata.
-      <li>Lägg in informationen i behållare med DIV-taggar.
   </td>
   <td>
     <strong>Sidhuvud</strong>
@@ -120,30 +120,6 @@ E-postmeddelandet ska struktureras på följande sätt:
   <p>Alla objekt ska formateras så här:
    <img alt="order" src="./assets/c2-order.png"> 
 </p>
-<strong>Produktbild:</strong>
-<li>klass: vagnsstol
-<li>format: border-box: min-height:40px</li>
-<li>utfyllnad upptill och nedtill:20px</li>
-<li>padding-left:80px</li>
-<li>border-radius:0px</li>
-<li>Använd som bakgrundsbild för behållaren</li>
-<li>background-position: 0 % 50 %</li>
-<li>bakgrundsstorlek: 60px</li>
-<li>background-repeat: ingen upprepning</li>
-<p>
-<strong>Pris:</strong>
-<li>Format = H5</li>
-<li>style = box-size:border-box</li>
-<li>margin-bottom:5px</li>
-<li>margin-top:0px;</li>
-<p>
-<strong>Namn och antal:</strong>
-<li>class=text-small</li>
-<li>style=box-size: border-box</li>
-<li>padding-top: 5 px</li>
-<li>färg: rgb(101, 106, 119)</li>
-<li>font-size:14px</li>
-<p>
 </td>
   </tr>
 </table>
@@ -166,16 +142,14 @@ Trigga den resa du skapade i testläge och skicka e-postmeddelandet till dig sj�
 3. Utlös händelsen med följande parametrar:
    * Ange profilidentifieraren till: Identitetsvärde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Händelsetyp: commerce.purchase
-   * Namn: Sprite Yoga Companion Kit
-   * Antal: 1
-   * `Price Total:` 61
+   * `Quantity`: 1
+   * `Price Total:` 69
    * `Purchase Order Number:` 6253728
-   * `SKU:` 24-WG080
-   * `productImageURL:` <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
-   * `City:` San Jose
-   * `Postal Code:` 95110
-   * `State`: CA
-   * `Street:` 345 Park Ave
+   * `SKU:` LLMH09
+   * `City:` Washington
+   * `Postal Code:` 20099
+   * `State`: DC
+   * `Street:` Thierer Terrace
 
 Du bör få det personliga bekräftelsemeddelandet via e-post med den angivna produkten.
 
@@ -193,7 +167,11 @@ Du bör få det personliga bekräftelsemeddelandet via e-post med den angivna pr
 
 **Ärenderad:**
 
-{{ profile.person.name.firstName }}, tack för ditt köp!
+Tack för ditt köp, {{ profile.person.name.firstName }}!
+
+Så här ska din e-postbrödtext se ut:
+
+![E-post](//help/challenges/assets/c2-email.png)
 
 **Leverera till sektion:**
 
@@ -211,48 +189,25 @@ TIPS: Personalisera varje rad separat
 
 **Mer detaljerad information:**
 
-![Avsnittet Orderinformation](/help/challenges/assets/c2-order-detail-section.png)
-
 Så här ska koden se ut:
 
 Sidhuvud:
 
 ```javascript
-Order: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
+Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 ```
 
 **Produktförteckning:**
 
-Använd hjälpfunktionen &quot;each&quot; för att skapa produktlistan. Visa dem i en tabell. Så här ska koden se ut:
+Använd hjälpfunktionen &quot;each&quot; för att skapa produktlistan. Visa dem i en tabell. Så här ska koden se ut (med specifika variabler som ditt händelse-ID - i stället för `454181416` och din organisation I stället för `techmarketingdemos` ):
 
 ```javascript
-<div class="text-container" contenteditable="true">
-  <p><span class="acr-expression-field" contenteditable="false">{{#each context.journey.events.454181416.productListItems as |product|}}
-    </span></p>
-  <div class="cart-item-chair" style="box-sizing:border-box;min-height:40px;padding-top:20px;padding-bottom:20px;padding-left:80px;border-radius:0px;background-image:url({{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}});background-position:0% 50%;background-size:60px;background-repeat:no-repeat;">
-    <h5 style="box-sizing:border-box;margin-bottom:5px;font-size:16px;line-height:20px;margin-top:0px;">${{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</h5>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">{{product.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</div>
-    <div class="text-small" style="box-sizing:border-box;padding-top:5px;color:rgb(101, 106, 119);font-size:14px;">Quantity: {{product.quantity}}</div>
-  </div>
-  <div class="divider-small" style="box-sizing:border-box;height:1px;margin-top:10px;margin-bottom:10px;background-color:rgb(209, 213, 223);"> </div>
-  {{/each}}<p></p>
-  <p></p>
-</div>
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
 ```
 
 **Prissumma:**
 
-Totalt:`${{context.journey.events.1627840522.commerce.order.priceTotal}}`
+Totalt:`${{context.journey.events.1627840522.commerce.order.priceTotal}}.00`
 
-**Kundinformationssektion**
-
-![Kundadress](assets/c2-customer-information.png)
-
-Personaliseringen bör se ut så här:
-
-```javascript
-{{profile.homeAddress.street1}}
-{{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
-```
 
 >[!ENDTABS]

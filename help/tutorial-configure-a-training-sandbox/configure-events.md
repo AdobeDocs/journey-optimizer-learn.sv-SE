@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '198'
 ht-degree: 4%
 
 ---
@@ -23,13 +23,9 @@ Se videon [Skapa händelser](/help/set-up-journeys/create-events.md) för vägle
 
 ## Skapa Luma Online Purchase Event
 
-1. Navigera till vänster [!UICONTROL ADMINISTRATION] och markera *[!UICONTROL Konfiguration]*
-1. Från [!UICONTROL Kontrollpanel], markera *[!UICONTROL Hantera*]* Händelser
+När du använder den här händelsen får Journey Optimizer information när en person köper lumaprodukter online.
 
-![Hantera händelser](assets/create-events.png)
-
-1. Klicka *[!UICONTROL Skapa händelse]*
-1. Fyll i händelseinformation och parametrar:
+1. Skapa en händelse med följande parametrar:
 
    | [!UICONTROL Parameter] | [!UICONTROL Värde] |
    |-------------|-----------|
@@ -39,7 +35,7 @@ Se videon [Skapa händelser](/help/set-up-journeys/create-events.md) för vägle
    | [!UICONTROL Schema] | `Luma Web Events Schema` |
    | [!UICONTROL Fält] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. Lägg till [!UICONTROL Händelse-ID-villkor]: `LumaOnlinePurchase.eventType is commerce.purchases`
+2. Lägg till [!UICONTROL Händelse-ID-villkor]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. Markera pennikonen för att redigera fältet
    2. På [!UICONTROL Lägg till ett händelse-id-villkor] modal, dra och släpp `eventType` på arbetsytan
