@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '653'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 1%
 | Utmaning | Skapa en orderbekräftelse via e-post |
 |---|---|
 | Persona | Resechef |
-| Nödvändiga färdigheter | <ul><li>[Skapa e-postinnehåll med meddelanderedigeraren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en)</li> <li>[Använd sammanhangsbaserad händelseinformation för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Använd hjälpfunktioner för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
+| Nödvändiga färdigheter | <ul><li>[Skapa e-postinnehåll med meddelanderedigeraren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Använd sammanhangsbaserad händelseinformation för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Använd hjälpfunktioner för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
 | Resurser att hämta | [Orderbekräftelsetillgångar](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## The Story
@@ -117,7 +117,7 @@ E-postmeddelandet ska struktureras på följande sätt:
     <strong>Lista över beställda produkter:
   </strong>
   <p>Visa en lista över varje produkt i beställningen med en bild, pris och namn.
-  <p>Layouten för varje objekt bör se ut så här:
+  <p>Layouten för varje objekt ska se ut så här:
    <img alt="order" src="./assets/c2-order.png"> 
 <p><b>Lägg till länken i kundvagnen</b>
 <p>Ersätt order-ID i URL:en med inköpsordernummer:
@@ -129,7 +129,7 @@ E-postmeddelandet ska struktureras på följande sätt:
 
 >[!TIP]
 >
->För att du ska kunna felsöka dina resor bör du lägga till en alternativ sökväg till alla meddelandeåtgärder om en timeout eller fel inträffar.
+>För att du ska kunna felsöka dina resor är det bästa sättet att lägga till en alternativ sökväg till alla meddelandeåtgärder om det finns en tidsgräns eller ett fel.
 
 >[!TAB Godtagandevillkor]
 
@@ -137,7 +137,7 @@ Trigga den resa du skapade i testläge och skicka e-postmeddelandet till dig sj�
 
 1. Innan du växlar till testläge åsidosätter du e-postparametrarna som ska skickas till testmeddelandet till din e-postadress:
    1. Öppna vyn för e-postinformation.
-   2. Klicka på T-symbolen (aktivera åsidosättning av parameter) i e-postparametrarna
+   2. Klicka på T-symbolen (aktivera åsidosättning av parameter) i avsnittet E-postparametrar
    3. Klicka i adressfältet
    4. På nästa skärm lägger du till din e-postadress inom parentes: *&quot;yourname@yourdomain&quot;* i uttrycksredigeraren och klicka på OK.
 2. Testa resan
@@ -159,7 +159,7 @@ Du bör få en personlig inköpsbekräftelse via e-post.
 
 * Så här ska din e-postbrödtext se ut:
 
-![E-post](//help/challenges/assets/c2-email.png)
+![E-post](/help/challenges/assets/c2-email.png)
 
 >[!TAB Kontrollera ditt arbete]
 
@@ -184,11 +184,11 @@ Så här ska koden se ut:
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* blir ett annat nummer för dig.
+*event.45481416* är ett annat nummer för dig.
 
 TIPS: Personalisera varje rad separat
 
-**Mer detaljerad information:**
+**Avsnittet Orderinformation:**
 
 Så här ska koden se ut:
 
@@ -200,7 +200,7 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **Produktförteckning:**
 
-Använd hjälpfunktionen &quot;each&quot; för att skapa produktlistan. Visa dem i en tabell. Så här ska koden se ut (med specifika variabler som ditt händelse-ID - i stället för `454181416` och din organisation I stället för `techmarketingdemos` ):
+Använd hjälpfunktionen &quot;each&quot; för att skapa produktlistan. Visa dem i en tabell. Så här ska koden se ut (med specifika variabler som ditt händelse-ID - i stället för `454181416` och er organisation i stället för `techmarketingdemos` ):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
