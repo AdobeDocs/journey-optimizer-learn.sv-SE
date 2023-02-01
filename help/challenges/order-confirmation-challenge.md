@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '654'
 ht-degree: 1%
 
 ---
@@ -41,10 +41,9 @@ Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en 
 
 1. Skapa en anropad resa `Luma - Order Confirmation`
 2. Använd händelsen: `LumaOnlinePurchase`
-3. Skapa e-postmeddelandet med orderbekräftelsen anropat `Luma - Order Confirmation`:
+3. Skapa en **transaktionsbaserad**  e-postmeddelandet har anropats `Luma - Order Confirmation`
 
-* Kategoritransaktion - se till att du väljer transaktionens e-postyta
-* Ämnesraden måste anpassas efter mottagarens förnamn och innehålla frasen&quot;Tack för ditt köp&quot;
+* Ämnesraden&quot;Tack för ditt köp, `FirstName`&quot;
 * Använd `Luma - Order summary` och ändra den:
    * Ta bort `You may also like` avsnitt
    * Lägg till länken för att avbryta prenumerationen längst ned i e-postmeddelandet
@@ -60,7 +59,7 @@ E-postmeddelandet ska struktureras på följande sätt:
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>Den ska ha en länk till lumas webbplats: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
+    <li>Länka till lumas webbplats: https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -73,7 +72,7 @@ E-postmeddelandet ska struktureras på följande sätt:
   <td>
     <p>
     <strong>Text</strong><p>
-    <em>Hej {firstName}</em><p>
+    <em>Hej {firstName},</em><p>
    <div>
     <p>
      <em>Din beställning har lagts.
@@ -89,7 +88,7 @@ E-postmeddelandet ska struktureras på följande sätt:
       <li>Förnamn och efternamn kommer från profilen
       <li>Ersätt den hårdkodade adressen i mallen med <b>leveransadress</b>
       <li>Adressinformationen är sammanhangsberoende attribut från evenemanget (gata 1, ort, postnummer, delstat)
-      <li> Ta bort rabatt, summa, ankomst</p>
+      <li> Ta bort <i>Rabatt, summa, ankomst</i></p>
   </td>
   <td>
   <p> Leverera till:</p>
@@ -105,7 +104,7 @@ E-postmeddelandet ska struktureras på följande sätt:
        <p><li>Lägg till det här avsnittet under <b>Leverera till</b> -avsnitt.
       </p><br>
       <p><b>Tips:</b>
-      <li>Använd strukturkomponenten "1:2 kolumn vänster" för detta avsnitt
+      <li>Använda strukturkomponenten <b>1:2 kolumn vänster</b> för detta avsnitt
       <li>Det här är sammanhangsbaserad händelseinformation.
       <li>Använd hjälpfunktionen [!UICONTROL]: [!UICONTROL each]
       <li>Växla till kodredigeringsformatet för att lägga till kontextdata.
@@ -113,13 +112,16 @@ E-postmeddelandet ska struktureras på följande sätt:
   <td>
     <strong>Sidhuvud</strong>
     <p>
-    <em>Ordning: `purchaseOrderNumber`</em>
+  Ordning: <em>{purchaseOrderNumber}</em>
     </p>
     <strong>Lista över beställda produkter:
   </strong>
-  <p>Alla objekt ska formateras så här:
+  <p>Visa en lista över varje produkt i beställningen med en bild, pris och namn.
+  <p>Layouten för varje objekt bör se ut så här:
    <img alt="order" src="./assets/c2-order.png"> 
-</p>
+<p><b>Lägg till länken i kundvagnen</b>
+<p>Ersätt order-ID i URL:en med inköpsordernummer:
+   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>
@@ -133,28 +135,31 @@ E-postmeddelandet ska struktureras på följande sätt:
 
 Trigga den resa du skapade i testläge och skicka e-postmeddelandet till dig själv:
 
-1. Visa dolda värden genom att klicka på ögonsymbolen:
-   1. Klicka på T-symbolen (aktivera åsidosättning av parameter) i e-postparametrarna
-      ![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
-   2. Klicka i adressfältet
-   3. På nästa skärm lägger du till din e-postadress inom parentes: *yourname@yourdomain* i uttrycksredigeraren och klicka på OK.
+1. Innan du växlar till testläge åsidosätter du e-postparametrarna som ska skickas till testmeddelandet till din e-postadress:
+   1. Öppna vyn för e-postinformation.
+   2. Klicka på T-symbolen (aktivera åsidosättning av parameter) i e-postparametrarna
+   3. Klicka i adressfältet
+   4. På nästa skärm lägger du till din e-postadress inom parentes: *&quot;yourname@yourdomain&quot;* i uttrycksredigeraren och klicka på OK.
 2. Testa resan
 3. Utlös händelsen med följande parametrar:
    * Ange profilidentifieraren till: Identitetsvärde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Händelsetyp: commerce.purchase
    * `Quantity`: 1
    * `Price Total:` 69
-   * `Purchase Order Number:` 6253728
+   * `Purchase Order Number:` 90845952-c2ea-4872-8466-5289183e4607
    * `SKU:` LLMH09
-   * `City:` Washington
-   * `Postal Code:` 20099
-   * `State`: DC
-   * `Street:` Thierer Terrace
+   * `City:`San Jose
+   * `Postal Code:` 95119
+   * `State`: CA
+   * `Street:` 245 Park Avenue
 
-Du bör få det personliga bekräftelsemeddelandet via e-post med den angivna produkten.
+Du bör få en personlig inköpsbekräftelse via e-post.
 
 * Ämnesraden ska ha testprofilens förnamn: Leora
-* Orderdetaljavsnittet ska fyllas i med den orderinformation du angav vid testningen
+
+* Så här ska din e-postbrödtext se ut:
+
+![E-post](//help/challenges/assets/c2-email.png)
 
 >[!TAB Kontrollera ditt arbete]
 
@@ -168,10 +173,6 @@ Du bör få det personliga bekräftelsemeddelandet via e-post med den angivna pr
 **Ärenderad:**
 
 Tack för ditt köp, {{ profile.person.name.firstName }}!
-
-Så här ska din e-postbrödtext se ut:
-
-![E-post](//help/challenges/assets/c2-email.png)
 
 **Leverera till sektion:**
 
@@ -202,8 +203,12 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 Använd hjälpfunktionen &quot;each&quot; för att skapa produktlistan. Visa dem i en tabell. Så här ska koden se ut (med specifika variabler som ditt händelse-ID - i stället för `454181416` och din organisation I stället för `techmarketingdemos` ):
 
 ```javascript
-{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
 ```
+
+**Visa orderknapp:**
+
+`https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId={{context.journey.events.454181416.commerce.order.purchaseOrderNumber}}`
 
 **Prissumma:**
 

@@ -6,7 +6,7 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Varje utmaning i det här avsnittet åtgärdar ett unikt användningsfall som du
 
 * Tillgång till en Journey Optimizer-sandlåda - vi rekommenderar att du slutför utmaningen i en dedikerad utbildningssandlåda.
 * AEM Assets Essentials måste etableras för din instans
-* E-postkanalen måste konfigureras för transaktions- och marknadsföringsmeddelanden
+* E-postkanalerna måste konfigureras för transaktions- och marknadsföringsmeddelanden
 
 ### Åtkomsträttigheter
 
