@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 5%
 
 ---
@@ -33,18 +33,11 @@ Kontrollera att du har:
 1. [E-postmeddelandeförinställningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en) konfigurerad för marknadsföring och transaktionsmeddelanden.
 1. **[!UICONTROL Reseadministratör]** och **[!UICONTROL Datahanteraren]** rättigheter till utbildningshandlådan.
 1. Dina [organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=sv).
-
 1. JSON-filerna med exempeldata, konfigurerade till din Journey Optimizer-instans:
-
    1. Ladda ned `luma-sample-data.zip` fil [här](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), som innehåller alla JSON-filer som krävs för den här självstudiekursen.
-
-   1. Flytta `luma-data.zip` till önskad plats på datorn och packa upp den.
-
-      De här filerna innehåller exempeldata för din träningssandlåda.
-
-   2. Öppna varje fil och sök efter **`yourOrganizationID`** och ersätta den med [organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=sv).
-
-   3. Spara filerna.
+   1. Flytta `luma-data.zip` till önskad plats på datorn och packa upp den. Dessa filer innehåller exempeldata för din utbildnings-sandlåda.
+   1. Öppna varje fil och sök efter **`yourOrganizationID`** och ersätta den med [organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=sv).
+   1. Spara filerna.
 
 ## Kom så börjar vi
 

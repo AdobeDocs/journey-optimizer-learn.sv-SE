@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 1%
@@ -42,7 +42,6 @@ Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en 
 1. Skapa en anropad resa `Luma - Order Confirmation`
 2. Använd händelsen: `LumaOnlinePurchase`
 3. Skapa en **transaktionsbaserad**  e-postmeddelandet har anropats `Luma - Order Confirmation`
-
 * Ämnesraden&quot;Tack för ditt köp, `FirstName`&quot;
 * Använd `Luma - Order summary` och ändra den:
    * Ta bort `You may also like` avsnitt
