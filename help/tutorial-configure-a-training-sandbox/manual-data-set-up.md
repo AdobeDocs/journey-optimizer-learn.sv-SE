@@ -6,12 +6,12 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
-recommendations: noDisplay, noCatalog
 hide: true
+recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '1058'
+source-wordcount: '1031'
 ht-degree: 2%
 
 ---
@@ -56,15 +56,17 @@ I det här steget definierar du strukturen för exempeldata genom att skapa sex 
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 
-* [[!DNL Luma Product catalog Schema]](#create-luma-product-catalog-schema)
+* [[!DNL Luma Product Catalog Schema]](#create-luma-product-catalog-schema)
 
-* [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
+* [[!DNL Luma Product Inventory Events] Schema](#create-luma-product-inventory-event-schema)
 
 * [[!DNL Luma CRM Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 * [[!DNL Luma Web Events Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Test Profiles Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Offline Purchase Events Schema]](#create-additional-schemas)
+
+* [[!DNL Luma Test Profiles Schema]](#create-additional-schemas)
 
 >[!TIP]
 >
@@ -82,7 +84,6 @@ Börja med att skapa [!DNL Luma Loyalty] schema:
 
 1. Välj **[!UICONTROL Individuell XDM-profil]** eftersom du skapar modellattribut för en enskild kund (poäng, status osv.).
 
-   ![Skapa schema](assets/loyaltyCreateSchema.png)
 
 #### Lägg till befintliga fältgrupper
 
@@ -110,7 +111,7 @@ Därefter uppmanas du att lägga till fältgrupper i schemat. Du måste lägga t
 
 1. Retur `Luma Loyalty Schema` som [!UICONTROL Visningsnamn].
 
-#### Skapa en [!UICONTROL fältgrupp]
+#### Skapa ett nytt [!UICONTROL fältgrupp]
 
 Adobe rekommenderar att du hanterar alla systemidentifierare i en och samma grupp för att säkerställa konsekvens i alla scheman:
 
@@ -152,7 +153,7 @@ Den nya, tomma fältgruppen läggs till i ditt schema. Med +-knapparna kan du l�
 
    | [!UICONTROL Fieldname] | [!UICONTROL Visningsnamn] | [!UICONTROL Typ] |
    |-------------|-----------|----------|
-   | `loyaltyId` | `Loyalty ID` | [!UICONTROL Sträng] |
+   | `loyaltyId` | `Loyalty Id` | [!UICONTROL Sträng] |
    | `crmId` | `CRM Id` | [!UICONTROL Sträng] |
 
 ![fält](./assets/add_fields.png)
@@ -239,15 +240,16 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
    | [!UICONTROL Fieldname] | [!UICONTROL Visningsnamn] | [!UICONTROL Typ] |
    |-------------|-----------|----------|
-   | `sku` | `SKU` | [!UICONTROL Sträng] |
-   | `name` | `Name` | [!UICONTROL Sträng] |
-   | `category` | `Category` | [!UICONTROL Sträng] |
-   | `color` | `Color` | [!UICONTROL Sträng] |
-   | `size` | `Size` | [!UICONTROL Sträng] |
-   | `price` | `Price` | [!UICONTROL Dubbel] |
-   | `description` | `Description` | [!UICONTROL Sträng] |
-   | `ImageURL` | `Image URL` | [!UICONTROL Sträng] |
-   | `stockQuantity` | `Stock Quantity` | [!UICONTROL Sträng] |
+   | `sku` | `Product SKU` | [!UICONTROL Sträng] |
+   | `name` | `Product Name` | [!UICONTROL Sträng] |
+   | `category` | `Product Category` | [!UICONTROL Sträng] |
+   | `color` | `Product Color` | [!UICONTROL Sträng] |
+   | `size` | `Product Size` | [!UICONTROL Sträng] |
+   | `price` | `Product Price` | [!UICONTROL Dubbel] |
+   | `description` | `Product Description` | [!UICONTROL Sträng] |
+   | `imageURL` | `Product Image URL` | [!UICONTROL Sträng] |
+   | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL Sträng] |
+   | `url` | `Product URL` | [!UICONTROL Sträng] |
 
 1. Ange **[!DNL SKU]** som primär identitet
 1. Lägg till **[!UICONTROL Visningsnamn]** `Luma Product Catalog Field Group` till [!UICONTROL fältgrupp].
@@ -301,17 +303,17 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
    3. Aktivera **[!UICONTROL Enum]**.
 
-   4. Retur **[!UICONTROL values] ([!UICONTROL etikett)]**: `restock` (`restock`).
+   4. Retur **[!UICONTROL values] ([!UICONTROL etikett)]**: `restock` (`Restock`).
 
    5. Välj **[!UICONTROL Lägg till rad]**.
 
-   6. Retur **[!UICONTROL values] ([!UICONTROL etikett)]**: `outOfStock` (`out of stock`).
+   6. Retur **[!UICONTROL values] ([!UICONTROL etikett)]**: `outOfStock` (`Out of Stock`).
 
    7. Välj **[!UICONTROL Använd]**.
 
       ![enum](assets/enum.png)
 
-1. Ange `productId` fält som **[!UICONTROL primär identitet]** använda **[!DNL Luma Product namespace]**.
+1. Ange `inventory.Event.sku` fält som **[!UICONTROL primär identitet]** med **[!DNL LumaProductSKU namespace]**.
 
 1. Välj `sku` fält och definiera en relation till `product.sku` i **[!DNL Luma Product catalog Schema]** Schema:
 
@@ -319,9 +321,9 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
    2. Aktivera **[!UICONTROL Relation]**.
 
-      1. **[!UICONTROL Referensschema]**: [!DNL Luma Product catalog Schema].
+      1. **[!UICONTROL Referensschema]**: [!DNL Luma Product Catalog Schema].
 
-      2. **[!UICONTROL Namnutrymme för referensidentitet]**: [!DNL Luma Product].
+      2. **[!UICONTROL Namnutrymme för referensidentitet]**: [!DNL LumaProductSKU].
    3. Välj **[!UICONTROL Använd]**.
 
       Schemat bör se ut så här:
@@ -333,18 +335,17 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
 1. Välj [!UICONTROL Spara] för att spara schemat.
 
-### Skapa [!DNL Luma CRM] och [!DNL Luma Product Interactions] scheman {#create-luma-crm-and-luma-product-interactions-schemas}
+### Skapa ytterligare scheman {#create-additional-schemas}
 
 Skapa följande ytterligare [!UICONTROL scheman]:
 
-| [!UICONTROL Visningsnamn] | [!DNL Luma CRM] | [!DNL Luma Product Interactions] | [!DNL Luma Test Profiles] |
-|  ---| ------- | ---- |----|
-| **[!UICONTROL Typ]** | [!UICONTROL Individuell XDM-profil] | [!UICONTROL XDM Experience Event] | [!UICONTROL Individuell XDM-profil] |
-| **[!UICONTROL Lägg till befintlig fältgrupp]** | Lumaidentifierare<br>Demografiska detaljer<br>Kontaktinformation, privat | Identitetskarta<br>Handelsinformation | Lumaidentifierare<br>Demografiska detaljer<br>Kontaktinformation, privat<br>Profiltestdetaljer |
-| **[!UICONTROL Relation]** |  | *[!DNL productListItems.SKU]*:<br> Referensschema *[!DNL Luma Product catalog Schema]* <br>[!DNL Reference identity namespace] *[!DNL Luma Product]* schema |
-| **[!UICONTROL Primär identitet] [!UICONTROL namespace])** | systemIdentifier.crmId<br>(Luma CRM-ID) |  | personalEmail.address<br>(Email) |
-| **[!UICONTROL Sekundär identitet] [!UICONTROL namespace]** | personalEmail.address (Email)<br>mobilePhone.number (Phone) |  |
-| **[!UICONTROL Aktivera för profil]** | ja | ja | ja |
+| [!UICONTROL Visningsnamn] | [!DNL Luma CRM Schema] | [!DNL Luma Web Events Schema] | [!DNL Luma Test Profiles schema] | [!DNL Luma Offline Purchase Events Schema] |
+|  ---| ------- | ---- |----|----|
+| **[!UICONTROL Klass]** | [!UICONTROL Individuell XDM-profil] | [!UICONTROL XDM Experience Event] | [!UICONTROL Individuell XDM-profil] | [IUICONTROL XDM ExperienceEvent] |
+| **[!UICONTROL Lägg till befintlig fältgrupp]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`,br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
+| **[!UICONTROL Relation]** |  | `productListItems.SKU`:<br> Referensschema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> Referensschema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
+| **[!UICONTROL Primär identitet] [!UICONTROL namespace])** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL Aktivera för profil]** | ja | ja | ja | ja |
 
 ## Nästa steg
 

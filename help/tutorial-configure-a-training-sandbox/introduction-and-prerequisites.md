@@ -6,10 +6,11 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
+hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '341'
 ht-degree: 5%
 
 ---
@@ -35,17 +36,15 @@ Kontrollera att du har:
 
 1. JSON-filerna med exempeldata, konfigurerade till din Journey Optimizer-instans:
 
-   1. Ladda ned `luma-data.zip` fil [här](/help/tutorial-configure-a-training-sandbox/assets/luma-data.zip), som innehåller alla JSON-filer som krävs för den här självstudiekursen.
+   1. Ladda ned `luma-sample-data.zip` fil [här](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), som innehåller alla JSON-filer som krävs för den här självstudiekursen.
 
    1. Flytta `luma-data.zip` till önskad plats på datorn och packa upp den.
 
-      Det ska finnas tre JSON-filer: `luma-crm.json`, `luma-loyalty.json`, `luma-products.json`.
+      De här filerna innehåller exempeldata för din träningssandlåda.
 
-      Dessa filer innehåller exempeldata som du importerar till sandlådan.
+   2. Öppna varje fil och sök efter **`yourOrganizationID`** och ersätta den med [organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=sv).
 
-   1. Öppna varje fil och sök efter **`yourOrganizationID`** och ersätta den med [organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=sv).
-
-   1. Spara filerna.
+   3. Spara filerna.
 
 ## Kom så börjar vi
 

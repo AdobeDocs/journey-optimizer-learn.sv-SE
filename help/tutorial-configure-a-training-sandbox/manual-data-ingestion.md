@@ -6,88 +6,33 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
+hide: true
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 6%
+source-wordcount: '85'
+ht-degree: 2%
 
 ---
 
-# Infoga data manuellt
+# Skapa datauppsättningar och importera data
 
-I det här avsnittet får du hjälp med att skapa datauppsättningar och importera exempeldata.
+I följande videofilm förklaras hur du skapar datauppsättningar och importerar data manuellt:
 
->[!TIP]
->
-> Se videosjälvstudiekursen [Skapa datauppsättningar och importera data](/help/set-up-data/create-datasets-and-ingest-data.md) innan du börjar.
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
 
-Du skapar fem [!UICONTROL datauppsättningar] baserat på Luma [!UICONTROL scheman] du skapade i [föregående avsnitt](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). När datauppsättningarna har skapats kan du importera data från JSON-filerna som du hämtade och ändrade. (Se [Introduktion och krav](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) för instruktioner).
 
-## Skapa den första datauppsättningen
+Skapa följande datauppsättningar:
 
-Skapa en datauppsättning med namnet *[!DNL Luma Loyalty Data]* från [!DNL Luma Loyalty schema]
+![Skapa datauppsättningar](/help/tutorial-configure-a-training-sandbox/assets/datasets.png)
 
-1. Från vänster navigering, under [!UICONTROL DATAHANTERING], markera **[!UICONTROL Datauppsättningar]**.
+Om du inte redan har gjort det hämtar du följande JSON-filer med exempeldata och importerar data till respektive datauppsättning:
 
-1. Välj **[!UICONTROL Skapa datauppsättning]**.
-
-   ![Skapa en datauppsättning](assets/create-dataset.png)
-
-1. På nästa sida väljer du [!UICONTROL Skapa datauppsättning från schema].
-
-   ![Skapa en datauppsättning från schema](assets/create-dataset-from-schema.png)
-
-1. På nästa sida söker du efter *[!DNL Luma Loyalty]* schema som du skapade tidigare.
-
-1. Välj *[!DNL Luma Loyalty]*.
-
-1. Klicka på **[!UICONTROL Nästa]**.
-
-   ![Sök och välj schema](assets/create-dataset-select-schema.png)
-
-1. Konfigurera datauppsättningen:
-
-   * Namn: `Luma Loyalty Data`
-
-1. Klicka **[!UICONTROL Slutför]**.
-
-   ![Konfigurera datauppsättning](assets/create-dataset-configure.png)
-
-## Samplingsdata
-
-När du har skapat en datauppsättning kan du importera data till datauppsättningen.
-
-1. På [!DNL Luma Loyalty Data] bläddra nedåt i den högra panelen till [!UICONTROL LÄGG TILL DATA] och aktivera:
-
-   * **[!UICONTROL Feldiagnostik]** och
-
-   * **[!UICONTROL Delvis intag]**
-
-   ![Ingrediera data](assets/ingest-data.png)
-
-1. Dra och släpp `luma-loyalty.json` -fil för att överföra exempeldata till datauppsättningen.
-
-1. Uppdatera sidan och kontrollera batchstatusen för att bekräfta att filen har importerats korrekt.
-
-   375 poster borde ha importerats. Det kan ta några minuter innan data har importerats.
-
->[!TIP]
->
->Om batchen misslyckas kontrollerar du att du har ersatt organisations-ID:t i `luma-loyalty.json` med [organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=sv).
-
-## Skapa ytterligare fem [!UICONTROL datauppsättningar]
-
-Skapa sedan följande fem ytterligare [!UICONTROL datauppsättningar] och lägga in data i `Luma CRM Data`, `Luma Products Data`och `Luma Test Profiles` datauppsättningar.
-
-| Namn på datauppsättning | Från schema | Fil att importera | Poster |
-| -----| ------ | -------| ------- |
-| `Luma CRM Data` | `Luma CRM` | `luma-crm.json` | 500 |
-| `Luma Products Data` | `Luma Products` | `luma-products.json` | 92 |
-| `Luma Product Interactions Data` | `Luma Product Interactions` | ingen | 0 |
-| `Luma Product Inventory Events` | `Luma Product Inventory Events` | ingen | 0 |
-| `Luma Test Profiles` | `Luma Test Profiles` | `luma-test-profiles.json` | 3 |
+* [luma-crm-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm-data.json)
+* [luma-loyalty-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty-data.json)
+* [luma-product-catalog-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-product-catalog-data.json)
+* [luma-test-profile-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-test-profiles-data.json)
 
 ## Nästa steg
 

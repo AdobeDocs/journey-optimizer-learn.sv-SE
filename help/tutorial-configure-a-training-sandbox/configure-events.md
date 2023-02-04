@@ -7,10 +7,11 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+hide: true
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '191'
 ht-degree: 4%
 
 ---
@@ -19,7 +20,9 @@ ht-degree: 4%
 
 I det här avsnittet ställer du in de tre händelser som krävs för övningar i [Journey Optimizer Challenges](/help/challenges/introduction-and-prerequisites.md).
 
-Se videon [Skapa händelser](/help/set-up-journeys/create-events.md) för vägledning om hur du skapar händelser.
+I följande video förklaras hur du skapar händelser:
+
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
 
 ## Skapa Luma Online Purchase Event
 
@@ -61,7 +64,7 @@ När du använder den här händelsen får Journey Optimizer information när en
 | [!UICONTROL Villkor] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
 | [!UICONTROL Namnutrymme] | E-post (e-post) |
 
-## Skapa *[!DNL Luma Product Restock] Händelse
+## Skapa *[!DNL Luma Product Restock]* Händelse
 
 | [!UICONTROL Parameter] | [!UICONTROL Värde] |
 |-------------|-----------|
