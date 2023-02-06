@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
+source-git-commit: 8538fbc0a4e33991ce1f65aeb92d29cc4ac51a56
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 5%
@@ -41,4 +41,6 @@ Kontrollera att du har:
 
 ## Kom så börjar vi
 
-Börja med [Manuell datainställning](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). I det här steget definierar du den obligatoriska datastrukturen. När du är klar med datauppsättningen kan du importera data till sandlådan och sedan ställa in händelser.
+Börja med [Manuell datainställning](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md).
+
+I det här steget definierar du den obligatoriska datastrukturen. När du är klar med datauppsättningen kan du importera data till sandlådan och sedan ställa in händelser.
