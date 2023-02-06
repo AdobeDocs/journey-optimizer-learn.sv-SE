@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 2f7074e5d9109cdbc1db69f6f5c48667b2276da7
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ ht-degree: 0%
 | Utmaning | Produktpåfyllnad |
 |---|---|
 | Persona | Resechef |
-| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=en)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=en)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
+| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | Resurser att hämta | [E-postfil för produktomställning](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## The story
 
-När man surfar på Lumas webbplats kan man lägga in produkter man är intresserad av i en önskelista. Med det kan Luma skicka riktade marknadsföringsmeddelanden och produktinformation till kunderna.
+När kunderna surfar på Lumas webbplats kan de lägga till produkter de är intresserade av i en önskelista, vilket gör att Luma kan skicka riktade marknadsföringsmeddelanden och produktinformation till kunderna.
 
 ## Din utmaning
 
@@ -38,7 +38,7 @@ Luma ber dig implementera en resa i Journey Optimizer som meddelar kunder som ha
 
 För att rikta sig till potentiella intresserade kunder när produkterna återställs kan du skapa ett segment som består av kunder:
 
-* Vem har lagt till minst ett objekt i önskelistan (Använd händelsetypen: [!UICONTROL Spara för senare i Commerce])
+* Som har lagt till minst ett objekt i önskelistan (Använd händelsetypen: [!UICONTROL Spara för senare i Commerce])
 * som inte fanns i lager de senaste tre månaderna (använd lagerkvantitet = 0)
 * Och har inte köpt artikeln sedan dess.
 
@@ -54,14 +54,14 @@ När en artikel som inte finns i lager är tillbaka i lager ska du meddela kunde
 
 1. Ring resan: `Product Restock`
 2. Resan bör utlösas när en produkt är tillbaka i lager
-3. Skicka *E-post för produktretur* mejla till
+3. Skicka *E-post för produktretur* till
 4. Användare som lagt till det här objektet i sin önskelista medan det var slut
 
 >[!TAB Villkor för lyckade]
 
 Testa din resa:
 
-1. Kontrollera att readSegment-händelsen har Namespace = `Luma CRM ID`
+1. Kontrollera att read-segmenthändelsen har namnutrymmet = `Luma CRM ID`
 1. Åsidosätt standardparametrarna för e-post och ange den till din egen e-postadress (se e-postadress 1 för instruktioner)
 1. Ställ in resan till testläge
 1. Utlös en händelse - ange följande data:
@@ -116,7 +116,7 @@ Meddela kunder som lagt till en artikel som inte finns i lager med ett anrop att
 
 >[!TIP]
 >
-> Använd den befintliga affärshändelsen. Du måste lägga till ett villkor som kontrollerar att omgrupperings-SKU:n inkluderas i (valfri) händelsetyp som sparas för senare.
+> Använd den befintliga affärshändelsen. Lägg till ett villkor som kontrollerar att omställnings-SKU:n ingår i (valfri) händelsetypen save för senare.
 
 
 

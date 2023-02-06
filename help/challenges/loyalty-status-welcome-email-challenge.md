@@ -1,16 +1,16 @@
 ---
 title: Skapa ett välkomstmeddelande om lojalitetsstatus - Problem
-description: Förstå grunderna för att skapa en resa på arbetsytan.
+description: Förstå grunderna för att skapa en resa på researbetsytan.
 kt: 8109
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 0%
+source-wordcount: '425'
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 | Utmaning | Skapa ett välkomstmeddelande om lojalitetsstatus |
 |---|---|
 | Persona | Resechef |
-| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segmentkvalificering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Importera HTML-innehåll](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
+| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segmentkvalificering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Importera HTML-innehåll](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
 | Resurser att hämta | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## The Story
@@ -44,7 +44,7 @@ När en lojalitetskund kvalificerar sig för platinagruppen bör de få ett e-po
 2. Skapa en anropad resa `Luma – New Status – platinum`.
    1. En kund tar sig in på resan när de kvalificerar sig för platinans lojalitetsnivå.
    2. Kunden bör få ett e-postmeddelande med etiketten `Luma – Platinum Status - Welcome`, med ämnesraden `Welcome to Platinum Status, {firstName}!` med e-postmeddelandetexten från det kreativa teamet. Det här är en [!UICONTROL transaktionsbaserad] e-post.
-   3. När du överför filen HTML lägger du märke till att e-postmeddelandet hänvisar till diamantstatus, i stället för till platina. Uppdatera e-postmeddelandet i stället för att begära en ny fil från det kreativa teamet [!UICONTROL e-postdesigner].
+   3. När du överför filen HTML lägger du märke till att e-postmeddelandet hänvisar till diamantstatus, i stället för till platina. Uppdatera e-postmeddelandet i stället för att begära en ny fil från det kreativa teamet [!UICONTROL E-postdesigner].
 
 >[!TAB Villkor för lyckade]
 
