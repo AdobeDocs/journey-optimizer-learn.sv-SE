@@ -1,18 +1,18 @@
 ---
-user-guide-title: Journey Optimizer Tutorials
+user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Det här är Journey Optimizer Tutorials.
-source-git-commit: ac590d04a50f20f3767d82c17f9548a372044b6b
+user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
+source-git-commit: 31b554c145e78f1486e43dfb5f84d74751a0b966
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 15%
+source-wordcount: '294'
+ht-degree: 24%
 
 ---
 
 
-# Journey Optimizer Tutorials {#tutorials}
+# Självstudiekurser om Journey Optimizer {#tutorials}
 
-+ [Journey Optimizer Tutorials](/help/overview.md)
++ [Självstudiekurser om Journey Optimizer](/help/overview.md)
 + Introduktion till Journey Optimizer {#introduction-to-journey-optimizer}
    + [Introduktion till Journey Optimizer](/help/introduction/introduction.md)
    + [Journey Optimizer - översikt, del 1](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -56,7 +56,7 @@ ht-degree: 15%
    + [Använd hjälpfunktioner för personalisering](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Skapa dynamiskt innehåll med villkorsregelbyggaren](/help/personalize-content/create-dynamic-content.md)
-+ Beslutsledning {#decision-management}
++ Beslutshantering {#decision-management}
    + [Introduktion till beslutshantering](/help/decision-management/introduction-to-decision-management.md)
    + [Demo av beslutsstyrningskapaciteten](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Skapa placeringar](/help/decision-management/create-placements.md)
@@ -91,3 +91,4 @@ ht-degree: 15%
    + [Skapa och hantera sandlådor](/help/set-up-access/create-and-manage-sandboxes.md)
 + Sekretess {#privacy}
    + [Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)
++ [Summit Lab 2023 - Assets](/help/summit-lab-731/l731-assets.md)
