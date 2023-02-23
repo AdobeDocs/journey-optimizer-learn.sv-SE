@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 417efd939d9b2cbb0867854b9918175ca1bf4052
+source-git-commit: ce271a2bbddd7cd36d773cc9360d9a0724f0c77d
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '160'
 ht-degree: 3%
 
 ---
@@ -22,7 +22,7 @@ Den här sidan innehåller text och länkar som används i L731 Summit Lab. Du k
 
 ## Lektion 1 - Ladda ned och installera programmet
 
-http://ajolab.s3-website-us-east-1.amazonaws.com/index.html
+[http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
 
 ## Lektion 2 - Skapa mobilkampanjer
 
