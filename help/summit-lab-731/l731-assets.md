@@ -8,13 +8,13 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: ce271a2bbddd7cd36d773cc9360d9a0724f0c77d
+exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
+source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '178'
 ht-degree: 3%
 
 ---
-
 
 # Summit Lab L731
 
@@ -38,7 +38,12 @@ Den här sidan innehåller text och länkar som används i L731 Summit Lab. Du k
 
 ## Lektion 3 Skapa en flerkanalig resa
 
-| Meddelande | Text | Länkar |
+| Meddelande | Text | Länkar | Bild |
 |----|----|----|
 | SMS | Välkommen till Vegas. Hoppa över raden och checka in med mobilappen: lab://checkin |  |
-| Push | Välkommen till Vegas. Hoppa över raden och checka in med mobilappen | lab://checkin |
+| Push | Välkommen till Vegas. Hoppa över raden och checka in med mobilappen | lab://checkin |  |
+
+
+Det här är bilden som vi använder för SMS och push-meddelanden:
+
+![Incheckning online](/help/assets/vegas_online_check_in.jpeg)
