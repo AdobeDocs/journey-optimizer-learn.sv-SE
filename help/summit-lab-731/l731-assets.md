@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
+source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '188'
 ht-degree: 3%
 
 ---
@@ -38,12 +38,12 @@ Den här sidan innehåller text och länkar som används i L731 Summit Lab. Du k
 
 ## Lektion 3 Skapa en flerkanalig resa
 
-| Meddelande | Text | Länkar | Bild |
-|----|----|----|
+| Meddelande | Text | Djuplänk | Media |
+|----|----|----|----|
+| Push | Välkommen till Vegas. Hoppa över raden och checka in med mobilappen | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
 | SMS | Välkommen till Vegas. Hoppa över raden och checka in med mobilappen: lab://checkin |  |
-| Push | Välkommen till Vegas. Hoppa över raden och checka in med mobilappen | lab://checkin |  |
 
 
 Det här är bilden som vi använder för SMS och push-meddelanden:
 
-![Incheckning online](/help/assets/vegas_online_check_in.jpeg)
+![Incheckning online](/help/assets/vegas_online_check_in.jpg)
