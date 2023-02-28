@@ -1,7 +1,7 @@
 ---
 title: Introduktion till att skapa en resa
-description: Förstå grunderna för att skapa en resa på arbetsytan.
-landing-page-description: Förstå grunderna för att skapa en resa på arbetsytan.
+description: Förstå grunderna för att skapa en resa på researbetsytan.
+landing-page-description: Förstå grunderna för att skapa en resa på researbetsytan.
 kt: 7530
 thumbnail: 334522.jpg
 feature: Journeys
@@ -13,12 +13,12 @@ exl-id: dc510572-96c8-42bd-b213-e8738510bb0c
 source-git-commit: d7b1202abf3338c92b07c1049579d21945d16390
 workflow-type: tm+mt
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 76%
 
 ---
 
 # Introduktion till att skapa en resa
 
-Förstå grunderna för att skapa en resa på arbetsytan.
+Förstå grunderna för att skapa en resa på researbetsytan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334522?quality=12)
