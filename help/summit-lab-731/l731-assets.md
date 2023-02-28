@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
+source-git-commit: 01216aba7c23af67ad131aa24f017f95e6fa9025
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 3%
+source-wordcount: '214'
+ht-degree: 2%
 
 ---
 
@@ -20,13 +20,21 @@ ht-degree: 3%
 
 Den här sidan innehåller text och länkar som används i L731 Summit Lab. Du kan kopiera och klistra in innehållet i dina Journey Optimizer-meddelanden.
 
-## Lektion 1 - Ladda ned och installera programmet
+## Utgång 1.1 - Hämta och installera appen
 
-[http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
+[Klicka här för att installera programmet](https://testflight.apple.com/join/H0N5iWvW)
 
-## Lektion 2 - Skapa mobilkampanjer
+## Utövning 1.3: Logga in på Adobe Journey Optimizer
 
-### Exercise 2.1 Skapa en kampanj i appen
+[Klicka här för att logga in på Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+
+**Inloggningsinformation:**
+
+* Användarnamn: `L731+<your seat number>@summitlab.us`
+* Lösenord: Adobe2023!
+
+
+## Exercise 2.1 Skapa en kampanj i appen
 
 | Fält | Text | Länkar |
 |----|----|----|
@@ -34,6 +42,7 @@ Den här sidan innehåller text och länkar som används i L731 Summit Lab. Du k
 | Titel | Det är Händelse och det är Live! |  |
 | Brödtext | Adobe Summit återvänder till Las Vegas 21-23 mars 2023. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. |  |
 | Knapp | Boka hotell nu och spara 10 % | lab://booking?suite=presidential&amp;discount=10 |
+
 
 
 ## Lektion 3 Skapa en flerkanalig resa
