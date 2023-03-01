@@ -1,15 +1,15 @@
 ---
 title: Skapa ett e-postmeddelande med orderbekräftelse
-description: Testa dina kunskaper om hur du skapar och personaliserar transaktionsmeddelanden
+description: Testa dina kunskaper om hur du skapar och personaliserar transaktionsmeddelanden.
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
+source-git-commit: 6737f81f9cd9fc34740ce60e10c8036e29f97f68
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '657'
 ht-degree: 1%
 
 ---
@@ -25,13 +25,13 @@ ht-degree: 1%
 | Nödvändiga färdigheter | <ul><li>[Skapa e-postinnehåll med meddelanderedigeraren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Använd sammanhangsbaserad händelseinformation för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Använd hjälpfunktioner för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
 | Resurser att hämta | [Orderbekräftelsetillgångar](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-## The Story
+{style=&quot;table-layout:auto&quot;}
 
-Luma lanserar sin webbutik och vill säkerställa en bra kundupplevelse genom att skicka en orderbekräftelse via e-post när kunden har gjort en beställning.
+## The story
 
+Luma lanserar sin webbutik och vill säkerställa en bra kundupplevelse. De skickar en orderbekräftelse via e-post när kunden har lagt en order.
 
-
-## Din utmaning
+## Utmaningen
 
 Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en Luma-kund slutför en onlinebeställning.
 
@@ -39,20 +39,26 @@ Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en 
 
 >[!TAB Uppgift]
 
-1. Skapa en anropad resa `Luma - Order Confirmation`
-2. Använd händelsen: `LumaOnlinePurchase`
-3. Skapa en **transaktionsbaserad**  e-postmeddelandet har anropats `Luma - Order Confirmation`
-* Ämnesraden&quot;Tack för ditt köp, `FirstName`&quot;
-* Använd `Luma - Order summary` och ändra den:
-   * Ta bort `You may also like` avsnitt
-   * Lägg till länken för att avbryta prenumerationen längst ned i e-postmeddelandet
+1. Skapa en anropad resa `Luma - Order Confirmation`.
+
+1. Använd händelsen: `LumaOnlinePurchase`.
+
+1. Skapa en **transaktionsbaserad**  e-postmeddelandet har anropats `Luma - Order Confirmation`.
+
+   * Ämnesraden&quot;Tack för ditt köp, `FirstName`&quot;
+
+   * Använd `Luma - Order summary` och ändra den:
+
+      * Ta bort `You may also like` avsnitt
+
+      * Lägg till länken för att avbryta prenumerationen längst ned i e-postmeddelandet
 
 E-postmeddelandet ska struktureras på följande sätt:
 <table>
 <tr>
 <td>
   <div>
-     <strong> Rubrikavsnitt</strong>
+     <strong> Sidhuvudsavsnittet</strong>
       </div>
   </td>
   <td>
@@ -65,7 +71,7 @@ E-postmeddelandet ska struktureras på följande sätt:
   <tr>
   <td>
   <div>
-    <strong>Bekräftelsesektion
+    <strong>Orderbekräftelsesektion
     </strong>
   </td>
   <td>
@@ -125,7 +131,6 @@ E-postmeddelandet ska struktureras på följande sätt:
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >För att du ska kunna felsöka dina resor är det bästa sättet att lägga till en alternativ sökväg till alla meddelandeåtgärder om det finns en tidsgräns eller ett fel.
@@ -136,11 +141,11 @@ Trigga den resa du skapade i testläge och skicka e-postmeddelandet till dig sj�
 
 1. Innan du växlar till testläge åsidosätter du e-postparametrarna som ska skickas till testmeddelandet till din e-postadress:
    1. Öppna vyn för e-postinformation.
-   2. Klicka på T-symbolen (aktivera åsidosättning av parameter) i avsnittet E-postparametrar
-   3. Klicka i adressfältet
-   4. På nästa skärm lägger du till din e-postadress inom parentes: *&quot;yourname@yourdomain&quot;* i uttrycksredigeraren och klicka på OK.
-2. Testa resan
-3. Utlös händelsen med följande parametrar:
+   1. Klicka på T-symbolen (aktivera åsidosättning av parameter) i avsnittet E-postparametrar
+   1. Klicka i adressfältet
+   1. På nästa skärm lägger du till din e-postadress inom parentes: *&quot;yourname@yourdomain&quot;* i uttrycksredigeraren och klicka på OK.
+1. Testa resan
+1. Utlös händelsen med följande parametrar:
    * Ange profilidentifieraren till: Identitetsvärde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Händelsetyp: commerce.purchase
    * `Quantity`: 1
