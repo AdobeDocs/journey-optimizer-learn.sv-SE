@@ -9,9 +9,9 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 4df1bdca81a585f728aa68519aa7ec7cd0c2f014
 workflow-type: tm+mt
-source-wordcount: '1027'
+source-wordcount: '1020'
 ht-degree: 2%
 
 ---
@@ -29,7 +29,7 @@ I det här steget skapar du identitetsnamnutrymmen för [!DNL Luma] anpassade id
 
 Börja med att skapa en [!UICONTROL namespace] för [!DNL Luma Loyalty ID] schema:
 
-1. Gå till * i Journey Optimizer användargränssnitt **[!UICONTROL Kund]** > **[!UICONTROL Identiteter]** i den vänstra navigeringen.
+1. I Journey Optimizer användargränssnitt går du till **[!UICONTROL Kund]** > **[!UICONTROL Identiteter]** i den vänstra navigeringen.
 
 1. Välj **[!UICONTROL Skapa namnutrymme för identitet]**.
 
@@ -72,28 +72,27 @@ I det här steget definierar du strukturen för exempeldata genom att skapa sex 
 >
 >Se videosjälvstudiekursen: [Skapa ett schema](/help/set-up-data/create-schema.md) innan du börjar.
 
-### Skapa [!DNL Luma Loyalty] [!UICONTROL Schema] {#create-luma-loyalty-schema}
+### Skapa [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
+
+I det här avsnittet beskrivs hur du skapar [!DNL Luma Loyalty] schema och konfigurera fältgrupper.
 
 #### Skapa schemat
-
-Börja med att skapa [!DNL Luma Loyalty] schema:
 
 1. Gå till **[!UICONTROL DATAHANTERING]** > **[!UICONTROL Scheman]** i den vänstra navigeringen.
 
 1. Välj **[!UICONTROL Skapa schema]** överst till höger.
 
-1. Välj **[!UICONTROL Individuell XDM-profil]** eftersom du skapar modellattribut för en enskild kund (poäng, status osv.).
+1. Välj **[!UICONTROL Individuell XDM-profil]**.
 
+   Du väljer det här alternativet eftersom du modellerar attribut för en enskild kund (punkter, status och så vidare).
 
 #### Lägg till befintliga fältgrupper
 
-Därefter uppmanas du att lägga till fältgrupper i schemat. Lägg till alla fält i scheman med grupper. Du lägger till befintliga fältgrupper och måste skapa en fältgrupp.
+Därefter uppmanas du att lägga till fältgrupper i schemat med hjälp av grupper. Du måste lägga till befintliga fältgrupper och skapa en fältgrupp.
 
->[!NOTE]
->
->Om [!UICONTROL Fältgrupper] modal öppnas inte automatiskt på [!UICONTROL Scheman] sida, markera **[!UICONTROL Lägg till]** (vilket visas i följande bild).
+1. På [!UICONTROL Schema] om fältgruppernas modala inte öppnades automatiskt väljer du **[!UICONTROL Lägg till]**.
 
-![Lägg till fältgrupp](assets/add_field_group.png)
+   ![Lägg till fältgrupp](assets/add_field_group.png)
 
 1. På **[!UICONTROL Lägg till fältgrupper]** aktiverar du följande fältgrupper:
 
@@ -109,9 +108,9 @@ Därefter uppmanas du att lägga till fältgrupper i schemat. Lägg till alla f�
 
 1. Markera schemats översta nod.
 
-1. Retur `Luma Loyalty Schema` som [!UICONTROL Visningsnamn].
+1. Retur `Luma Loyalty Schema` som **[!UICONTROL Visningsnamn]**.
 
-#### Skapa en [!UICONTROL fältgrupp]
+#### Skapa en [!UICONTROL fältgrupp] {#create-field-group}
 
 Adobe rekommenderar att du hanterar alla systemidentifierare i en och samma grupp för att säkerställa konsekvens i alla scheman:
 
@@ -174,7 +173,7 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
    4. Aktivera **[!UICONTROL Primär identitet]** box.
 
-   5. Välj `Luma Loyalty Id` namnutrymme från **[!UICONTROL Identitetsnamnutrymmen]** listruta.
+   5. Välj `Luma Loyalty Id` namnutrymme från **[!UICONTROL Identitetsnamnutrymmen]** nedrullningsbar meny.
 
    6. Välj **[!UICONTROL Använd]**.
 
@@ -206,21 +205,21 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
 1. Välj **[!UICONTROL Spara]**.
 
-### Skapa [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
+### Skapa [!DNL Luma Product Catalog Schema] {#create-luma-product-catalog-schema}
 
-1. Gå till [!UICONTROL DATAHANTERING] -> **[!UICONTROL Scheman]** i den vänstra navigeringen.
+1. Gå till **[!UICONTROL DATAHANTERING]** > **[!UICONTROL Scheman]** i den vänstra navigeringen.
 
-1. Välj **[!UICONTROL Skapa schema]** överst till höger.
+1. Välj **[!UICONTROL Skapa schema]** (överst till höger).
 
-1. Välj **[!UICONTROL Bläddra bland alla schematyper]**, som gör att du kan skapa en klass.
+1. Om du vill skapa en klass väljer du **[!UICONTROL Bläddra bland alla schematyper]** i listrutan.
 
-1. Välj **[!UICONTROL Skapa ny klass].
+1. Välj **[!UICONTROL Skapa ny klass]**.
 
 1. Lägg till visningsnamnet: `Luma Product Catalog Class`.
 
 1. Tilldela klass.
 
-1. Skapa en [!UICONTROL fältgrupp]:
+1. Skapa en [!UICONTROL Fältgrupp]:
 
    * Visningsnamn: `Luma Product Catalog Field Group`
 
@@ -251,16 +250,14 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL Sträng] |
    | `url` | `Product URL` | [!UICONTROL Sträng] |
 
-1. Ange **[!DNL SKU]** som primär identitet
+1. Ange **[!DNL SKU]** som primär identitet.
 1. Lägg till **[!UICONTROL Visningsnamn]** `Luma Product Catalog Field Group` till [!UICONTROL fältgrupp].
 
 1. Välj **[!UICONTROL Spara]**.
 
-
 ### Skapa [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
 
-
-1. Gå till **[!UICONTROL DATAHANTERING]** -> **[!UICONTROL Scheman]** i den vänstra navigeringen.
+1. Gå till **[!UICONTROL DATAHANTERING]** > **[!UICONTROL Scheman]** i den vänstra navigeringen.
 
 1. Välj **[!UICONTROL Skapa schema]** överst till höger.
 

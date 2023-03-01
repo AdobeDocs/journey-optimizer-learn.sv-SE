@@ -1,5 +1,5 @@
 ---
-title: Infoga data manuellt
+title: Skapa datauppsättningar och importera data
 description: Skapa datauppsättningar och importera exempeldata manuellt.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
@@ -9,19 +9,18 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: 2a671ad01f1cdb60c731a707b0584bf2f4262d9b
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '88'
 ht-degree: 2%
 
 ---
 
 # Skapa datauppsättningar och importera data
 
-I följande videofilm förklaras hur du skapar datauppsättningar och importerar data manuellt:
+I följande videofilm förklaras hur du skapar datauppsättningar och manuellt infogar data:
 
 >[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
-
 
 Skapa följande datauppsättningar:
 

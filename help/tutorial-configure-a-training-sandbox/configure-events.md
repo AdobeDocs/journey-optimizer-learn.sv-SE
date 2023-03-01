@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 4df1bdca81a585f728aa68519aa7ec7cd0c2f014
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 4%
@@ -24,7 +24,7 @@ I följande video förklaras hur du skapar händelser:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
 
-## Skapa Luma Online Purchase Event
+## Skapa onlineköp för Luma
 
 När du använder den här händelsen får Journey Optimizer information när en person köper lumaprodukter online.
 
@@ -38,21 +38,22 @@ När du använder den här händelsen får Journey Optimizer information när en
    | [!UICONTROL Schema] | `Luma Web Events Schema` |
    | [!UICONTROL Fält] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-2. Lägg till [!UICONTROL Händelse-ID-villkor]: `LumaOnlinePurchase.eventType is commerce.purchases`
+1. Lägg till [!UICONTROL Händelse-ID-villkor]: `LumaOnlinePurchase.eventType is commerce.purchases`:
 
-   1. Markera pennikonen för att redigera fältet
-   2. På [!UICONTROL Lägg till ett händelse-id-villkor] modal, dra och släpp `eventType` på arbetsytan
-   3. Välj `commerce.purchases`
-   4. Välj OK på arbetsytan
-   5. Välj OK på spärren
+   1. Markera pennikonen om du vill redigera fältet.
 
-![Lägg till händelsevillkor](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
+   1. På **[!UICONTROL Lägg till ett händelse-id-villkor]** modal, dra och släpp `eventType` på arbetsytan.
+   1. Välj `commerce.purchases`.
+   1. Välj **[!UICONTROL OK]** på arbetsytan.
+   1. Välj **[!UICONTROL OK]** på modal.
+
+   ![Lägg till händelsevillkor](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
 1. Välj [!UICONTROL NAMNUTRYMME]: `Luma CRM ID (lumaCrmId)`
 
-2. Välj **[!UICONTROL Spara]**.
+1. Välj **[!UICONTROL Spara]**.
 
-## Skapa *[!DNL Luma Wishlist Add]* Händelse
+## Skapa *[!DNL Luma Wishlist Add]* event
 
 | [!UICONTROL Parameter] | [!UICONTROL Värde] |
 |-------------|-----------|
@@ -64,7 +65,7 @@ När du använder den här händelsen får Journey Optimizer information när en
 | [!UICONTROL Villkor] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
 | [!UICONTROL Namnutrymme] | E-post (e-post) |
 
-## Skapa *[!DNL Luma Product Restock]* Händelse
+## Skapa *[!DNL Luma Product Restock]* event
 
 | [!UICONTROL Parameter] | [!UICONTROL Värde] |
 |-------------|-----------|
@@ -74,6 +75,4 @@ När du använder den här händelsen får Journey Optimizer information när en
 | [!UICONTROL Fält] | SKU <br> stockEventType<br><b> ditt organisations-ID > produkt:</b> <br>name<br>pris<br> ImageURL<br>description |
 | [!UICONTROL Villkor] | LumaProductRestock._`your organization's ID`.InventEvent.stockEventType återskapas |
 
-## Grattis
-
-Din sandlåda är nu klar att användas!
+Grattis! Din sandlåda är nu klar att användas.
