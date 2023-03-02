@@ -6,9 +6,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '463'
 ht-degree: 3%
 
 ---
@@ -23,15 +23,18 @@ Varje utmaning i det här avsnittet åtgärdar ett unikt användningsfall som du
 
 ## Förutsättningar
 
+Kontrollera att följande krav är uppfyllda.
+
 ### Systemkrav
 
 * Tillgång till en Journey Optimizer-sandlåda - vi rekommenderar att du slutför utmaningen i en dedikerad utbildningshandlåda.
-* AEM Assets Essentials måste etableras för din instans
-* E-postkanalerna måste konfigureras för transaktions- och marknadsföringsmeddelanden
+* AEM Assets Essentials måste etableras för din instans.
+* E-postkanalerna måste konfigureras för transaktions- och marknadsföringsmeddelanden.
 
 ### Åtkomsträttigheter
 
 Du behöver följande åtkomsträttigheter:
+
 * *Resechef* eller *Reseadministratör*
 * Visa testprofiler och deras attribut
 
@@ -42,8 +45,7 @@ Du behöver följande åtkomsträttigheter:
 
 * Om du inte har använt Adobe Journey Optimizer tidigare ska du slutföra kursen [Komma igång med Journey Optimizer för resechefer och administratörer](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
 
-
-## The Story
+## The story
 
 Luma är ett fiktivt designföretag, med butiker i flera länder, en online-närvaro med en webbplats och mobilappar. Luma använder Adobe Journey Optimizer för att leverera sammankopplade, kontextuella och personaliserade upplevelser till sina kunder.
 
