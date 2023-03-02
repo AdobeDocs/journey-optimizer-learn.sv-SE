@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
+source-git-commit: fc439f6e3875e859f5c4b9a6012c98b8d5d4be32
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 0%
 | Persona | Resechef |
 | Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | Resurser att hämta | [E-postfiler för säsongssamling](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## The story
 
@@ -69,7 +71,7 @@ Du kan även kontrollera [!UICONTROL Segmentmedlemskap] tab: Segmentet bör list
 
 >[!TAB Kontrollera ditt arbete]
 
-Segmentfält: [!UICONTROL Attribut] > [!UICONTROL XDM individuell profil] > [!UICONTROL Lojalitet] > [!UICONTROL Nivå]
+Segmentfält: **[!UICONTROL Attribut]** > **[!UICONTROL XDM individuell profil]** > **[!UICONTROL Lojalitet]** > **[!UICONTROL Nivå]**
 
 Så här ska ditt segment se ut:
 
@@ -101,13 +103,13 @@ En byrå försåg dig med fyra HTML-filer med design för e-postmeddelanden:
 
 1. [Ladda ned e-postfilerna för säsongssamlingen](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
 
-2. Skapa en anropad resa *Luma - Meddelande om sommarkollektionen* baserat på följande riktlinjer:
+1. Skapa en anropad resa *Luma - Meddelande om sommarkollektionen* baserat på följande riktlinjer:
 
    1. Skicka *Luma - Meddelande om nya sommarkollektionen* e-post till *Aktiva kunder* som håller ut 10 % av publiken som kontrollgrupp
       * Meddelanderubrik *Luma - Meddelande om sommarkollektionen*
       * Subject line *(mottagarens förnamn) är nya Luma sommar-samlingen här!*
       * Använd den angivna HTML-filen `SeasonalCollectionEmail.html` för e-postbrödtexten.
-   2. Vänta i två dagar och skicka sedan ett uppföljningsmejl med mer riktat innehåll:
+   1. Vänta i två dagar och skicka sedan ett uppföljningsmejl med mer riktat innehåll:
       * Manliga kunder bör få **Luma Men&#39;s Collection** e-post.
          * Meddelanderubrik: *Luma Men&#39;s Collection*
          * Ärenderad: *(mottagarens förnamn), utforska Men&#39;s New sportkugghjulet!*
@@ -117,11 +119,11 @@ En byrå försåg dig med fyra HTML-filer med design för e-postmeddelanden:
          * Ärenderad: *(mottagarens förnamn), utforska Lumas Women Collection!*
          * E-postbrödtext: `WomensCollectionEmail.html`
       * Andra kunder bör få **Luma - 20 % rabatt på samling** e-post.
-         * Meddelanderubrik: *Luma - 20 % rabatt på samling*
-         * Ärenderad: *(mottagarens förnamn), få 20 % rabatt!*
-         * E-postbrödtext: `20OOffCollectionEmail.html`
-   3. När du har skickat de riktade e-postmeddelandena ovan väntar du två dagar på att e-postmeddelandet ska öppnas
-   4. Om målmeddelandet inte öppnas inom två dagar skickar du **Luma - 20 %rabatt på e-post för samling** som ett sista försök till återmarknadsföring
+      * Meddelanderubrik: *Luma - 20 % rabatt på samling*
+      * Ärenderad: *(mottagarens förnamn), få 20 % rabatt!*
+      * E-postbrödtext: `20OOffCollectionEmail.html`
+   1. När du har skickat de riktade e-postmeddelandena ovan väntar du två dagar på att e-postmeddelandet ska öppnas
+   1. Om målmeddelandet inte öppnas inom två dagar skickar du **Luma - 20 %rabatt på e-post för samling** som ett sista försök till återmarknadsföring
 
 
 >[!TAB Villkor för lyckade]
@@ -133,21 +135,21 @@ En byrå försåg dig med fyra HTML-filer med design för e-postmeddelanden:
 Förhandsgranska e-postmeddelandet:
 
 1. Lägg till en testprofil: Louise Petti:
-   1. Identitetsnamnutrymme: *Luma CRM-ID*
-   2. Identitetsvärde: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Identitetsnamnutrymme: *Luma CRM-ID*
+   * Identitetsvärde: *d1f132f9f9502bba047a6ec86c4b61f9*
 
 Resultat:
+
 * Ämnesraden ska vara: Louise, nya Luma-samlingen är här!
 * E-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Nytt säsongsbaserat samlingsmeddelande](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
-
 
 **E-postmeddelande nr 2 - Luma Men&#39;s Collection**
 
 Skicka ett bevis till dig själv:
 
 1. Lägg till en testprofil: Stanleigh Stooke:
-   1. Identitetsnamnutrymme: *Luma CRM-ID*
-   1. Identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
+   * Identitetsnamnutrymme: *Luma CRM-ID*
+   * Identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
 1. Välj testprofil: Stanleigh Stooke.
 1. Skicka ett bevis till dig själv.
 
@@ -164,14 +166,12 @@ Förhandsgranska e-postmeddelandet med testprofilen *Louise Petti.*
 * Ämnesraden ska vara: *Louise, utforska Lumas Women Collection!*
 * E-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Luma Women&#39;s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
-
 **E-postmeddelande nr 4 - Luma 20 % rabatt på samling**
 
 Förhandsgranska e-postmeddelandet med testprofilen *Louise Petti.*
 
 * Ämnesraden ska vara: *Louise, få 20 % rabatt!*
 * E-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Luma 20 % rabatt på samling](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
-
 
 #### Testa din resa
 
