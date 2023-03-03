@@ -4,9 +4,9 @@ description: Förstå grunderna för att skapa en resa på researbetsytan.
 feature: Journeys
 role: Admin
 level: Beginner
-hide: true
+last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
+source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
 workflow-type: tm+mt
 source-wordcount: '463'
 ht-degree: 3%

@@ -2,10 +2,10 @@
 user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
-source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 24%
+source-wordcount: '301'
+ht-degree: 23%
 
 ---
 
@@ -91,4 +91,7 @@ ht-degree: 24%
    + [Skapa och hantera sandlådor](/help/set-up-access/create-and-manage-sandboxes.md)
 + Sekretess {#privacy}
    + [Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)
++ Utövningar och utmaningar {#exercises-and-challenges}
+   + [Konfigurera en utbildningssandlåda](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
+   + [Utmaningar](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Summit Lab](/help/summit-lab-731/l731-assets.md)

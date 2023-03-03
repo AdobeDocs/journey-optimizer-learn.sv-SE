@@ -6,10 +6,9 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
-hide: true
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: 2a671ad01f1cdb60c731a707b0584bf2f4262d9b
+source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 2%

@@ -4,10 +4,9 @@ description: Skicka ett meddelande till några befintliga kunder om att de vill 
 kt: 8109
 role: User
 level: Beginner
-last-substantial-update: 2022-11-16T00:00:00Z
-hide: true
+last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: fc439f6e3875e859f5c4b9a6012c98b8d5d4be32
+source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
 workflow-type: tm+mt
 source-wordcount: '1178'
 ht-degree: 0%

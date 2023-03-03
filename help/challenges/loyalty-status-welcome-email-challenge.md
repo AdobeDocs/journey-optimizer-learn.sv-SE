@@ -5,9 +5,9 @@ kt: 8109
 feature: Journeys
 role: User
 level: Beginner
-hide: true
+last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: e9553da0fd85ee6e48d3089a93d51a994635de81
+source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 2%

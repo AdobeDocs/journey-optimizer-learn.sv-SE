@@ -6,8 +6,9 @@ feature: Segments
 role: User
 level: Beginner
 hide: true
+hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
