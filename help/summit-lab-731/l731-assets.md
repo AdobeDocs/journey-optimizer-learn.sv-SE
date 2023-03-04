@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c7cd250f01610e7a882b2a58676a931e7991e51a
+source-git-commit: 28da398f6813b1926c79b5cd45f415e2cfa9f40f
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '229'
 ht-degree: 3%
 
 ---
@@ -33,29 +33,34 @@ Den här sidan innehåller text och länkar som används i L731 Summit Lab. Du k
 
 **Inloggningsinformation:**
 
-* Användarnamn: `L731+<your seat number>@summitlab.us`
+* Användarnamn: `L731+<your seat number>@summitlab.us` (exempel: L731+001@summitlab.us)
 * Lösenord: Adobe2023!
 
 
 ## Exercise 2.1 Skapa en kampanj i appen
 
+
+
 | Fält | Text | Länkar |
 |----|----|----|
 | Kampanjnamn | `<your seat number> March Vegas Campaign` |  |
+| Matcher | känga |  |
 | Alternativet Media URL |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
 | Titel | Det är Händelse och det är Live! |  |
 | Brödtext | Adobe Summit återvänder till Las Vegas 21-23 mars 2023. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. |  |
 | Knapp | Boka hotell nu och spara 10 % | lab://booking?suite=presidential&amp;discount=10 |
+| Knapp: Interaktiv händelse | CTA i appen |  |
 | Bas-URL |  | lab:// |
 
 
 
 ## Lektion 3 Skapa en flerkanalig resa
 
-| Meddelande | Text | Djuplänk | Media |
-|----|----|----|----|
-| Push | Välkommen till Vegas. Hoppa över raden och checka in med mobilappen | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
-| SMS | Välkommen till Vegas. Hoppa över raden och checka in med mobilappen: lab://checkin |  |
+| Meddelande | Titel/ämnesrad | Text | Länk |
+|----|----|----|----|----|
+| Push | Välkommen till Vegas! | Hoppa över raden och checka in med mobilappen | lab://checkin |  |
+| SMS |  | Välkommen till Vegas. Hoppa över raden och checka in med mobilappen: lab://checkin |  |
+| e-post | {{profile.person.name.firstName}}, du är incheckad, kolla in våra erbjudanden för din vistelse! |  |  |
 
 
 Det här är bilden som vi använder för SMS och push-meddelanden:
