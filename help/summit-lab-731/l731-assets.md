@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
+source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '259'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ Skanna QR-koden för att hämta appen
 
 ![QR-kod för iOS](/help/assets/lab731-ios-qr-code.png)
 
->[!TAB Android]
+>[!TAB Android™]
 
 ![QR-kod för Android](/help/assets/lab731-android-qr-code.png)
 
@@ -57,7 +57,7 @@ Skanna QR-koden för att hämta appen
 | Brödtext | Adobe Summit återvänder till Las Vegas 21-23 mars 2023. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. |  |
 | Knapp | Boka hotell nu och spara 10 % | lab://booking?suite=presidential&amp;discount=10 |
 | Knapp: Interaktiv händelse | CTA i appen |  |
-| Bas-URL |  | iOS: lab:// <br>Android: https://lab |
+| Bas-URL |  | iOS: lab:// <br>Android™: https://lab |
 
 
 ## Lektion 3 Skapa en flerkanalig resa
@@ -79,7 +79,7 @@ Hoppa över raden och checka in med mobilappen
 https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-Det här är bilden som vi använder för push-meddelanden:
+Det här är bilden som vi använder för push-meddelandet:
 
 ![Incheckning online](/help/assets/vegas_online_check_in.jpg)
 
