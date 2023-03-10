@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
+source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '258'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ Skanna QR-koden för att hämta appen
 
 >[!TAB Android]
 
-![QR-kod för Android](/help/assets/lab731-ios-qr-code.png)
+![QR-kod för Android](/help/assets/lab731-android-qr-code.png)
 
 >[!ENDTABS]
 
@@ -82,8 +82,6 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 Det här är bilden som vi använder för push-meddelanden:
 
 ![Incheckning online](/help/assets/vegas_online_check_in.jpg)
-
-|SMS| || |e-post|{{profile.person.name.firstName}}är du incheckad, nu kan du kolla in våra erbjudanden!||
 
 >[!TAB SMS-meddelande]
 
