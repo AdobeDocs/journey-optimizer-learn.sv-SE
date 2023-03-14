@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
+source-git-commit: 55d91b1ebe1b55a2c0a7d2a7e4ff1a63187b7fdf
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '325'
 ht-degree: 1%
 
 ---
@@ -30,9 +30,21 @@ Skanna QR-koden för att hämta appen
 
 ![QR-kod för iOS](/help/assets/lab731-ios-qr-code.png)
 
+Du ombeds installera Testflight. När du har installerat Testflight följer du stegen för att installera Vegas Keep App:
+
+![steg för att installera iOS](/help/assets/lab731-install-ios.png)
+
 >[!TAB Android™]
 
 ![QR-kod för Android](/help/assets/lab731-android-qr-code.png)
+
+Använd den här länken om du använder Android-simulatorn: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+
+Eftersom appen inte är registrerad i Google Play Store får du ett varningsmeddelande:
+
+![Android-varningsskärm](/help/assets/lab731-install-android.png)
+
+Klicka **Installera ändå**
 
 >[!ENDTABS]
 
