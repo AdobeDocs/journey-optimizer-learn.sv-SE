@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
+source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '355'
 ht-degree: 1%
 
 ---
@@ -30,11 +30,97 @@ Skanna QR-koden för att hämta appen
 
 ![QR-kod för iOS](/help/assets/lab731-ios-qr-code.png)
 
-Du ombeds installera Testflight. När du har installerat Testflight följer du stegen för att installera Vegas Keep App:
+Du ombeds installera Testflight (steg 1 till 4). När du har installerat Testflight följer du steg 5-8 för att installera Vegas Keep App:
 
-![steg för att installera iOS](/help/assets/lab731-install-ios.png)
-
->[!TAB Android™]
+<table>
+<tr>
+</tr>
+<tr>
+<td>
+ <div>
+      <p>
+      <b>Steg 1 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Steg 2 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Steg 3 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Steg 4 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+  <tr>
+<td>
+ <div>
+      <p>
+      <b>Steg 5 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Steg 6 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Steg 7 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Steg 8 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+</table>
+&gt;[!TAB Android™]
 
 ![QR-kod för Android](/help/assets/lab731-android-qr-code.png)
 
@@ -74,9 +160,15 @@ Klicka **Installera ändå**
 
 ## Lektion 3 Skapa en flerkanalig resa
 
+**Reseetikett:**
+<your seat number> - Välkomstresa
+
 >[!BEGINTABS]
 
 >[!TAB Push-meddelande]
+
+**Etikett:**
+Välkomstmeddelande
 
 **Titel:**\
 Välkommen till Vegas!
@@ -97,10 +189,16 @@ Det här är bilden som vi använder för push-meddelandet:
 
 >[!TAB SMS-meddelande]
 
+**Etikett:**
+Välkomstmeddelande
+
 **Meddelande:**
 Välkommen till Vegas. Hoppa över raden och checka in med mobilappen: lab://checkin
 
 >[!TAB E-postmeddelande]
+
+**Etikett:**
+Bekräftelsemeddelande
 
 **Ämnesrad:**
 {{profile.person.name.firstName}}, du är incheckad, kolla in våra erbjudanden för din vistelse!
