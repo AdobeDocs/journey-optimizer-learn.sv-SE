@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 1%
@@ -120,7 +120,7 @@ Du ombeds installera Testflight (steg 1 till 4). När du har installerat Testfli
   </td>
   </tr>
 </table>
-&gt;[!TAB Android™]
+&gt;[!TAB Android]
 
 ![QR-kod för Android](/help/assets/lab731-android-qr-code.png)
 
@@ -155,13 +155,13 @@ Klicka **Installera ändå**
 | Brödtext | Adobe Summit återvänder till Las Vegas 21-23 mars 2023. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. |  |
 | Knapp | Boka hotell nu och spara 10 % | lab://booking?suite=presidential&amp;discount=10 |
 | Knapp: Interaktiv händelse | CTA i appen |  |
-| Bas-URL |  | iOS: lab:// <br>Android™: https://lab |
+| Bas-URL |  | iOS: lab:// <br>Android&amp;: https://lab |
 
 
 ## Lektion 3 Skapa en flerkanalig resa
 
 **Reseetikett:**
-<your seat number> - Välkomstresa
+`<your seat number>` - Välkomstresa
 
 >[!BEGINTABS]
 
