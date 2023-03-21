@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
+source-git-commit: b0c728e7dee77c16b2c0ad51f592d92f3f72491e
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 1%
 
 ---
@@ -120,7 +120,8 @@ Du ombeds installera Testflight (steg 1 till 4). När du har installerat Testfli
   </td>
   </tr>
 </table>
-&gt;[!TAB Android]
+
+>[!TAB Android]
 
 ![QR-kod för Android](/help/assets/lab731-android-qr-code.png)
 
