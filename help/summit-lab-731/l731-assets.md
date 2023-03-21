@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: b0c728e7dee77c16b2c0ad51f592d92f3f72491e
+source-git-commit: 3d39dc6e04992175331a3bf2855370359a8d4527
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 1%
@@ -42,7 +42,7 @@ Du ombeds installera Testflight (steg 1 till 4). När du har installerat Testfli
       <b>Steg 1 </b>
       <p>
       <a href="Step 1:">
-        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.PNG"/>
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.png"/>
       </a>
       </div>
   </td>
