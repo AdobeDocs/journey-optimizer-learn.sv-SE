@@ -1,6 +1,6 @@
 ---
 title: Utmaningar från Journey Optimizer - Introduktion och förutsättningar
-description: Utmaningarna är ett scenario och de krav som krävs för att öva det du lärt dig. Varje utmaning avser ett unikt användningsexempel som ni implementerar.
+description: Utmaningarna innehåller ett scenario och de nödvändiga kraven för att öva det du har lärt dig. Varje utmaning tar upp ett unikt användningsexempel som du implementerar.
 feature: Journeys
 role: Admin
 level: Beginner
@@ -9,7 +9,7 @@ exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
 source-wordcount: '475'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![AJO Challenges Banner](./assets/ajo-banner-challenges.png)
 
-Utmaningarna är ett scenario och de krav som krävs för att öva det du lärt dig. Utmaningarna hjälper er att utvärdera era färdigheter och identifiera kunskapsluckor.
+Utmaningarna innehåller ett scenario och de nödvändiga kraven för att öva det du har lärt dig. Utmaningarna hjälper er att utvärdera era färdigheter och identifiera kunskapsluckor.
 
 Varje utmaning i det här avsnittet åtgärdar ett unikt användningsfall som du implementerar. Målgruppen (persona) och de kunskaper som krävs listas i början av varje utmaning.
 
