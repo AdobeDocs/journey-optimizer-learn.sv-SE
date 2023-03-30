@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1021'
 ht-degree: 2%
 
 ---
@@ -245,7 +245,7 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
    | `size` | `Product Size` | [!UICONTROL Sträng] |
    | `price` | `Product Price` | [!UICONTROL Dubbel] |
    | `description` | `Product Description` | [!UICONTROL Sträng] |
-   | `imageURL` | `Product Image URL` | [!UICONTROL Sträng] |
+   | `imageUrl` | `Product Image URL` | [!UICONTROL Sträng] |
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL Sträng] |
    | `url` | `Product URL` | [!UICONTROL Sträng] |
 
@@ -345,4 +345,4 @@ Skapa följande ytterligare [!UICONTROL scheman]:
 
 ## Nästa steg
 
-Nu när du har skapat datastrukturen [skapa datauppsättningar och importera exempeldata](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+Nu när du har skapat datastrukturen kan du [skapa datauppsättningar och importera exempeldata](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).

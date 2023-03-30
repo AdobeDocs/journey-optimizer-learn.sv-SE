@@ -6,9 +6,9 @@ role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '482'
 ht-degree: 8%
 
 ---
@@ -29,7 +29,7 @@ Kontrollera att följande krav är uppfyllda.
 
 * Tillgång till en Journey Optimizer-sandlåda - vi rekommenderar att du slutför utmaningen i en dedikerad utbildningshandlåda.
 * AEM Assets Essentials måste etableras för din instans.
-* E-postkanalerna måste konfigureras för transaktions- och marknadsföringsmeddelanden.
+* The [e-postkanaler måste konfigureras](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) för transaktions- och marknadsföringsmeddelanden.
 
 ### Åtkomsträttigheter
 
