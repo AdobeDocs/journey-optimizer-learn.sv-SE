@@ -10,7 +10,7 @@ role: Admin, Developer
 level: Beginner
 last-substantial-update: 20230123
 exl-id: 923c0731-b172-44db-8a57-f7ac2101adde
-source-git-commit: 54866fbb3e8a122f10542de98a89da7c5809b5cf
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du ansluter Journey Optimizer till en SMS-tjänsteleverantör och hur du skapar en SMS-kanal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12&learn=on)

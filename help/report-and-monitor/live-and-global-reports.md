@@ -9,7 +9,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
-source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig skillnaden mellan live- och globala rapporter, hur du får tillgång till och analyserar resan och de meddelandespecifika rapporterna samt hur du ändrar rapportpanelerna.  
 
->[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on)

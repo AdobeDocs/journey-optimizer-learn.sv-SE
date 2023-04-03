@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: 76d4cb7e-a9ac-470b-bc9c-5792bf5d7482
-source-git-commit: 3f01d1ba1a0968d1daf69b44a0059e1b761d162e
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar, aktiverar, testar och rapporterar frekvensregler. Lär dig hur du avgör vilka frekvensregler som ärvs för ett meddelande.
 
->[!VIDEO](https://video.tv.adobe.com/v/344451?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/344451?quality=12&learn=on)

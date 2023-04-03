@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: b0725be6-2a3d-46cf-b78a-d53b6a88d112
-source-git-commit: 0da3158451836e67f9807365dbd5a59d50821230
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '22'
 ht-degree: 36%
@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Lär dig hur du skapar en testprofil.
 
->[!VIDEO](https://video.tv.adobe.com/v/334236?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334236?quality=12&learn=on)

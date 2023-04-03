@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: cf7fe165-b6eb-49f0-adb9-32d43efa43ca
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Förstå olika tillstånd för en resa och effekten av publicering.
 
->[!VIDEO](https://video.tv.adobe.com/v/334238?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334238?quality=12&learn=on)

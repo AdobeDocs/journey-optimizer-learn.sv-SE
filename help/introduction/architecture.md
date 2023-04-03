@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 33b8ee09-4cd8-475c-bf8e-a7934eff19a1
 hide: true
 hidefromtoc: true
-source-git-commit: 409a9f6406e64181845be79f6d9c5e650cbdcb87
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Förstå Adobe Journey Optimizer grundläggande arkitektur, integreringspunkter och förhållandet mellan Journey Optimizer och andra program från Adobe.
 
->[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on)

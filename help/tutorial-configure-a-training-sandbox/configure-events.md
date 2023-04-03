@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 4%
@@ -21,7 +21,7 @@ I det här avsnittet ställer du in de tre händelser som krävs för övningar 
 
 I följande video förklaras hur du skapar händelser:
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on)
 
 ## Skapa onlineköp för Luma
 
