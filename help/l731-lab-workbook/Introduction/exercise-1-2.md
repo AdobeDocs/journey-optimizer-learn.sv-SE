@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Utövning 1.2: Registrera som användare med appen
 
->[!IMPORTANT]\
+>[!IMPORTANT]
 >Registrera dig med en **e-postadress som du kan komma åt under labbsessionen** och **ditt mobiltelefonnummer**.
 >
 > Den här informationen krävs för att du ska kunna ta emot meddelanden som du ska skicka. Du kan även få åtkomst till dina uppgifter i Journey Optimizer. Den kommer inte att användas för något annat ändamål än för detta labb.
