@@ -2,10 +2,10 @@
 user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
-source-git-commit: d714492526fea082f88f09ad528f8725fb3af815
+source-git-commit: 3037e5364c0f4741d2399531603a2a730e4cba91
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 22%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 22%
    + [Förhandsgranska, granska och publicera](/help/channels/preview-proof-and-publish.md)
    + [Innehållsmallar](/help/channels/content-templates.md)
 + I appkanalen{#in-app-channel}
-   + [Meddelanden i appen för kampanjer](/help/channels/in-app-messaging-for-campaigns.md)
+   + [Skapa kampanjer i appen och i appen](/help/channels/create-an-in-app-campaign.md)
    + [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
 + SMS-kanal{#sms-channel}
    + [Skriv och leverera SMS-meddelanden](/help/channels/author-and-deliver-sms-messages.md)
