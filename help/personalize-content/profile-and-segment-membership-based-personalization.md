@@ -2,7 +2,7 @@
 title: Arbeta med profil- och segmentmedlemskap för personalisering
 description: Lär dig hur du lägger till profilbaserad personanpassning i ett meddelande och hur du använder segmentmedlemskap som en förutsättning för ett personanpassat block.
 landing-page-description: Lär dig hur du lägger till profilbaserad personanpassning i ett meddelande och hur du använder segmentmedlemskap som en förutsättning för ett personanpassat block.
-short-description: Learn how to add profile-based personalization to a message and how to use segment membership as a pre-condition to a personalization block.
+short-description: Lär dig hur du lägger till profilbaserad personanpassning i ett meddelande och hur du använder segmentmedlemskap som en förutsättning för ett personanpassat block.
 kt: 8034
 thumbnail: 334078.jpg
 feature: Personalization
@@ -13,8 +13,8 @@ level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
 source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 80%
+source-wordcount: '104'
+ht-degree: 84%
 
 ---
 
