@@ -2,10 +2,10 @@
 user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
-source-git-commit: a2bb2d9aa79887aad8b891e6460ecacf1b6536c7
+source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 22%
+source-wordcount: '321'
+ht-degree: 23%
 
 ---
 
@@ -74,16 +74,11 @@ ht-degree: 22%
    + [Mappa identiteter](/help/set-up-data/map-identities.md)
    + [Skapa datauppsättningar och importera data](/help/set-up-data/create-datasets-and-ingest-data.md)
    + [Konfigurera källanslutningar](/help/set-up-data/configure-source-connectors.md)
+   + [Exportera datauppsättningar till molnlagringsplatser](/help/set-up-data/export-datasets.md)
 + Rapportera och övervaka {#report-and-monitor}
    + [Live- och globala rapporter](/help/report-and-monitor/live-and-global-reports.md)
    + [Använd varningar](/help/administration/alerts.md)
 + Konfiguration {#configuration}
-   + Konfigurera data {#data-configuration}
-      + [Översikt](/help/set-up-data/set-up-data-overview.md)
-      + [Skapa ett schema](/help/set-up-data/create-schema.md)
-      + [Mappa identiteter](/help/set-up-data/map-identities.md)
-      + [Skapa datauppsättningar och importera data](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Konfigurera källanslutningar](/help/set-up-data/configure-source-connectors.md)
    + Konfigurera kanaler {#channel-configuration}
       + [Konfigurera e-postkanal](/help/set-up-channels/set-up-email-channel.md)
       + [Delegera CName-underdomäner](/help/set-up-channels/delegate-cname-subdomains.md)
