@@ -6,13 +6,13 @@ doc-type: article
 role: User
 recommendations: noDisplay, noCatalog
 hide: true
-source-git-commit: c3f1e87ad556d630d03a359408edb7c23f1cf3e9
+exl-id: 5c44c908-e7be-4513-bccd-b3273b214008
+source-git-commit: a03a7771aef6c9b3aa9e65d7c04267d11daf2254
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 1%
 
 ---
-
 
 # Utövning 1.1: Hämta och installera mobilappen
 

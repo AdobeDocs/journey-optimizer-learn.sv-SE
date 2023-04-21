@@ -2,9 +2,9 @@
 user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
-source-git-commit: e8f4f8bd1428bf6e4a9af88b2b7d11ca962db581
+source-git-commit: a2bb2d9aa79887aad8b891e6460ecacf1b6536c7
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '331'
 ht-degree: 22%
 
 ---
@@ -68,6 +68,12 @@ ht-degree: 22%
    + [Skapa beslut](/help/decision-management/create-decisions.md)
    + [Leverera erbjudanden med besluts-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Frekvensbegränsning](/help/decision-management/frequency-capping.md)
++ Datahantering {#data-management}
+   + [Översikt](/help/set-up-data/set-up-data-overview.md)
+   + [Skapa ett schema](/help/set-up-data/create-schema.md)
+   + [Mappa identiteter](/help/set-up-data/map-identities.md)
+   + [Skapa datauppsättningar och importera data](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [Konfigurera källanslutningar](/help/set-up-data/configure-source-connectors.md)
 + Rapportera och övervaka {#report-and-monitor}
    + [Live- och globala rapporter](/help/report-and-monitor/live-and-global-reports.md)
    + [Använd varningar](/help/administration/alerts.md)

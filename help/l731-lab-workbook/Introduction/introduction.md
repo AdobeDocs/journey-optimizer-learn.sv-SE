@@ -7,13 +7,13 @@ role: User
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: c3f1e87ad556d630d03a359408edb7c23f1cf3e9
+exl-id: eccdab83-cd1c-40d6-8c14-0587efba79b3
+source-git-commit: a03a7771aef6c9b3aa9e65d7c04267d11daf2254
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '395'
+ht-degree: 1%
 
 ---
-
 
 # Introduktion
 
