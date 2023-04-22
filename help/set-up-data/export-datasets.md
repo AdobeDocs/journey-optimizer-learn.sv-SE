@@ -9,13 +9,13 @@ last-substantial-update: 2023-04-21T00:00:00Z
 jira: KT-13113
 thumbnail: 3418688.jpeg
 badge: label="Beta" type="Informative"
-source-git-commit: a2bb2d9aa79887aad8b891e6460ecacf1b6536c7
+exl-id: 17e1d65c-2548-4d50-bc9f-4e30d729fb5b
+source-git-commit: eb45fa6fd3382ee842d5b0bc937a83e0e271bb44
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Exportera datauppsättningar till molnlagringsplatser
 
