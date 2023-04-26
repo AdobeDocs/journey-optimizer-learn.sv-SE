@@ -8,15 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-22T00:00:00Z
 jira: KT-13111
 thumbnail: 3418803.jpeg
-hide: true
-hidefromtoc: true
-source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
+exl-id: 7d623f14-505f-4f8d-a84a-6acd6c773d01
+source-git-commit: ddfc95c3e837b92df3f98598df04c515de22be34
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en webbkampanj
 
