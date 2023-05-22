@@ -5,9 +5,9 @@ feature: Offers
 kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: d19f1a6a913b93cfc98e12a012ad5364249404ee
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,4 @@ Läs om hur varumärken kan använda funktionerna för beslutshantering för att
 
 >[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on)
 
->[!INFO]
->
-> Den här videon är en del av en kurs, [Getting Started with Decision Management for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
+{{experienceplatform-u-1-2020-1-offerdecisioning}}
