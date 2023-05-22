@@ -6,9 +6,9 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '1126'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 | Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | Resurser att hämta | [E-postfiler för säsongssamling](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## The story
 
@@ -140,7 +140,6 @@ Förhandsgranska e-postmeddelandet:
 Resultat:
 
 * Ämnesraden ska vara: Louise, nya Luma-samlingen är här!
-* E-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Nytt säsongsbaserat samlingsmeddelande](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 **E-postmeddelande nr 2 - Luma Men&#39;s Collection**
 
@@ -149,11 +148,11 @@ Skicka ett bevis till dig själv:
 1. Lägg till en testprofil: Stanleigh Stooke:
    * Identitetsnamnutrymme: *Luma CRM-ID*
    * Identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
-1. Välj testprofil: Stanleigh Stooke.
-1. Skicka ett bevis till dig själv.
+2. Välj testprofil: Stanleigh Stooke.
+3. Skicka ett bevis till dig själv.
 
 Resultat:\
-Du bör få ett e-postmeddelande. Subject line should read *Stanleigh, utforska Men&#39;s New athletic>!* och e-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Du bör få ett e-postmeddelande. Subject line should read *Stanleigh, utforska Men&#39;s New athletic>!* och e-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen.
 
 >[!NOTE]
 >Det kan ta några minuter innan du får beviset.
@@ -163,14 +162,12 @@ Du bör få ett e-postmeddelande. Subject line should read *Stanleigh, utforska 
 Förhandsgranska e-postmeddelandet med testprofilen *Louise Petti.*
 
 * Ämnesraden ska vara: *Louise, utforska Lumas Women Collection!*
-* E-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Luma Women&#39;s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 **E-postmeddelande nr 4 - Luma 20 % rabatt på samling**
 
 Förhandsgranska e-postmeddelandet med testprofilen *Louise Petti.*
 
 * Ämnesraden ska vara: *Louise, få 20 % rabatt!*
-* E-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen: [Luma 20 % rabatt på samling](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 #### Testa din resa
 
