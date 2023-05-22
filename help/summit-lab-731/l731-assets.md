@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
+source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '357'
+ht-degree: 1%
 
 ---
 
@@ -202,6 +202,6 @@ Välkommen till Vegas. Hoppa över raden och checka in med mobilappen: lab://che
 Bekräftelsemeddelande
 
 **Ämnesrad:**
-{{profile.person.name.firstName}}, du är incheckad, kolla in våra erbjudanden för din vistelse!
+`{{profile.person.name.firstName}},` du är incheckad, kolla in våra erbjudanden för din vistelse!
 
 >[!ENDTABS]
