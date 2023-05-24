@@ -5,7 +5,7 @@ feature: Offers
 kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
-source-git-commit: d19f1a6a913b93cfc98e12a012ad5364249404ee
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
