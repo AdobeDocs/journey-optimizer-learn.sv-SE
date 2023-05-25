@@ -1,5 +1,5 @@
 ---
-title: Konfigurera innehållsexperiment för e-post
+title: Konfigurera innehållsexperiment för e-postkampanjer
 description: Lär dig hur du konfigurerar innehållsexperiment till A/B-tester och utforskar e-postinnehåll på bästa sätt för dina affärsmål.
 feature: Email
 role: User
@@ -10,12 +10,12 @@ jira: KT-11129
 thumbnail: 3419893.jpeg
 source-git-commit: 6a490db336065781dea510d25c3bf9fc8e0b3181
 workflow-type: tm+mt
-source-wordcount: '29'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
 
-# Konfigurera innehållsexperiment för e-post
+# Konfigurera innehållsexperiment för e-postkampanjer
 
 {{$include /help/_includes/inc-experimentation.md}}
