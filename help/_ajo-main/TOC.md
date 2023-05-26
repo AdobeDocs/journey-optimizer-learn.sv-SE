@@ -2,10 +2,10 @@
 user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
-source-git-commit: a14657c5dcc25588849daf988648526e7c3e7572
+source-git-commit: 1d7c1b264769d55a80755da9d9a15aaa5cb45a92
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 21%
+source-wordcount: '370'
+ht-degree: 20%
 
 ---
 
@@ -23,6 +23,8 @@ ht-degree: 21%
    + [Mobilfunktioner för utvecklare](/help/channels/mobile-capabilities-for-developers.md)
 + Kampanjer {#create-campaigns}
    + [Skapa en kampanj](/help/create-campaigns/create-a-campaign.md)
+   + [Skapa en kampanj i appen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html)
+   + [Skapa en webbkampanj](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
    + [Skapa innehållsexperiment för e-postkampanjer](/help/create-campaigns/content-experiments.md)
 + Resor {#create-journeys}
    + [Översikt över resans arbetsyta](/help/create-journeys/overview-over-the-journey-canvas.md)

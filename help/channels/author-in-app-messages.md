@@ -8,7 +8,7 @@ kt: 11161
 thumbnail: 3410471.jpg
 last-substantial-update: 2023-04-04T00:00:00Z
 exl-id: 4baf5361-c6ba-41f6-b2f8-476620ea0f57
-source-git-commit: f42f117b47a16536a045688a472f95afff46ecec
+source-git-commit: 1d7c1b264769d55a80755da9d9a15aaa5cb45a92
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 7%
@@ -23,4 +23,4 @@ Lär dig hur du skapar och testar ett meddelande i appen.
 
 ## Ytterligare resurser
 
-{{#exl-live-in-app}}
+{{exl-live-in-app}}
