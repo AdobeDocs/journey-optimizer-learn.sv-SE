@@ -9,7 +9,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
-source-git-commit: 89d88e2d6de5d23e1c4072c23c79ed7f74acfa34
+source-git-commit: e801ea853c84c1bfd95d5b5648682fff49d317b7
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 69%
@@ -21,5 +21,3 @@ ht-degree: 69%
 Förstå Adobe Journey Optimizer åtkomstkontrollssystem och de åtta [anpassade produktprofiler](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html). Lär dig hur du hanterar produktprofiler och behörigheter och hur du lägger till och hanterar användare.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12&learn=on)
-
-{{journeyoptimizer-a-1-2021-1}}
