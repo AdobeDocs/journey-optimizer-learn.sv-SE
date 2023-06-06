@@ -2,9 +2,9 @@
 user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
-source-git-commit: 42c9b46a628c8655fe56112cd3fad06fcaa8269f
+source-git-commit: f999fc9a893f88b0d1ed7a65c3dc4aebc483a843
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '382'
 ht-degree: 19%
 
 ---
@@ -100,6 +100,7 @@ ht-degree: 19%
    + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
 + Åtkomstkontroll {#access-control}
    + [Åtkomsthantering](/help/set-up-access/access-management.md)
+   + [Konfigurera attributbaserad åtkomstkontroll](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html)
    + [Skapa och hantera sandlådor](/help/set-up-access/create-and-manage-sandboxes.md)
 + Sekretess {#privacy}
    + [Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)
