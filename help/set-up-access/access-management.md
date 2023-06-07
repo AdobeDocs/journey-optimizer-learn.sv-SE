@@ -1,6 +1,6 @@
 ---
 title: Åtkomsthantering
-description: Förstå åtkomstkontrollssystemet i Adobe Journey Optimizer och de åtta anpassade produktprofilerna. Lär dig hur du hanterar produktprofiler och behörigheter och hur du lägger till och hanterar användare.
+description: Lär dig hur du hanterar produktprofiler och behörigheter och hur du lägger till och hanterar användare.
 kt: 7677
 thumbnail: 333998.jpg
 feature: Access Management
@@ -9,15 +9,15 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
-source-git-commit: e801ea853c84c1bfd95d5b5648682fff49d317b7
+source-git-commit: e7bf5f74400635c9f61b8cfc4ff3a428b2805488
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 69%
+source-wordcount: '34'
+ht-degree: 100%
 
 ---
 
 # Åtkomsthantering
 
-Förstå Adobe Journey Optimizer åtkomstkontrollssystem och de åtta [anpassade produktprofiler](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html). Lär dig hur du hanterar produktprofiler och behörigheter och hur du lägger till och hanterar användare.
+Lär dig hur du hanterar produktprofiler och behörigheter och hur du lägger till och hanterar användare.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12&learn=on)
