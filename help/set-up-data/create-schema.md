@@ -1,23 +1,25 @@
 ---
-title: Skapa ett schema
-description: Lär dig hur du skapar ett schema, lägger till fältgrupper, skapar och konfigurerar anpassade fältgrupper.
+title: Skapa scheman
+description: Lär dig hur du skapar scheman i Adobe Experience Platform med klassen XDM Individual Profile och olika fältgrupper.
 kt: 7565
-thumbnail: 334461.jpg
+thumbnail: 27012.jpg
 feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
 exl-id: 168550e9-e304-4a1a-96da-8aab9e4af4dd
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
+source-git-commit: 89a324312afc2f28aa63754ce8213d792ec705db
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# Skapa ett schema
+# Skapa scheman
 
-Lär dig hur du skapar ett schema, lägger till fältgrupper, skapar och konfigurerar anpassade fältgrupper.
+Lär dig hur du skapar scheman i Adobe Experience Platform med klassen XDM Individual Profile och olika fältgrupper.
 
->[!VIDEO](https://video.tv.adobe.com/v/334461?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27012?quality=12&learn=on)
+
+Detaljerad produktdokumentation finns på [komma igång med scheman](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html), [skapa ett schema i användargränssnittet](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html) och [skapa ett schema med API](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html).
