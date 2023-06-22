@@ -1,13 +1,13 @@
 ---
 title: Skapa ett e-postmeddelande med orderbekräftelse
 description: Testa dina kunskaper om hur du skapar och personaliserar transaktionsmeddelanden.
-kt: 7531
+jira: KT-7531
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -99,7 +99,7 @@ E-postmeddelandet ska struktureras på följande sätt:
   <p> Leverera till:</p>
       <em>{firstName} {lastName}<br>
      {Gata 1}<br>
-     {City}, {State} {mailCode}<br></em></p>
+     {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
 <td>

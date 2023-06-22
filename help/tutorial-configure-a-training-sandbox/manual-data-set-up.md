@@ -3,12 +3,12 @@ title: Konfigurera datastrukturen manuellt
 description: Skapa önskade identitetsnamnutrymmen och definiera datastrukturen för Luma-exemplet.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '1021'
 ht-degree: 2%
@@ -320,12 +320,12 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
       1. **[!UICONTROL Referensschema]**: [!DNL Luma Product Catalog Schema].
 
       2. **[!UICONTROL Namnutrymme för referensidentitet]**: [!DNL LumaProductSKU].
+
    3. Välj **[!UICONTROL Använd]**.
 
       Schemat bör se ut så här:
 
       ![SKU-relation](assets/sku_relationship.png)
-
 
 1. Aktivera för **Profil**.
 
@@ -340,7 +340,7 @@ Skapa följande ytterligare [!UICONTROL scheman]:
 | **[!UICONTROL Klass]** | [!UICONTROL Individuell XDM-profil] | [!UICONTROL XDM Experience Event] | [!UICONTROL Individuell XDM-profil] | [IUICONTROL XDM ExperienceEvent] |
 | **[!UICONTROL Lägg till befintlig fältgrupp]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL Relation]** |  | `productListItems.SKU`:<br> Referensschema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> Referensschema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
-| **[!UICONTROL Primär identitet] [!UICONTROL namespace])** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL Primär identitet] [!UICONTROL namespace])** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL Aktivera för profil]** | ja | ja | ja | ja |
 
 ## Nästa steg

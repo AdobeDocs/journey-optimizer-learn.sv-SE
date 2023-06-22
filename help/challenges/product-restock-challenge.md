@@ -1,14 +1,14 @@
 ---
 title: Problem med produktpåfyllnad
 description: Använd det du lärt dig om att skapa segment och testa dina färdigheter.
-kt: 8417
+jira: KT-8417
 feature: Segments
 role: User
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -101,7 +101,6 @@ Villkorskod:
 > * Välj SKU under Spara för senare i dialogrutan *Bläddra bland variabler* section
 > * Använd alternativet för att jämföra när du släpper SKU:n under Spara för senare i händelsefältet
 
-
 Kontrollera koden längst ned till höger på skärmen Redigera segment under Händelser. Koden ska se ut så här:
 
 Kod:
@@ -118,6 +117,7 @@ Meddela kunder som lagt till en artikel som inte finns i lager med ett anrop att
 >[!TIP]
 >
 > Använd den befintliga affärshändelsen. Lägg till ett villkor som kontrollerar att omställnings-SKU:n ingår i (valfri) händelsetypen save för senare.
+>
 
 
 

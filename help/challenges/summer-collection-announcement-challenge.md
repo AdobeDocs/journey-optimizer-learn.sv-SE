@@ -1,12 +1,12 @@
 ---
 title: Skapa en annons för sommarsamlingen - utmaning
 description: Skicka ett meddelande till några befintliga kunder om att de vill marknadsföra nya Luma Summer Collection.
-kt: 8109
+jira: KT-8109
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '1126'
 ht-degree: 0%
@@ -177,17 +177,14 @@ Förhandsgranska e-postmeddelandet med testprofilen *Louise Petti.*
 >
 >1. Se till att [!UICONTROL Läs segmentaktivitet] har namnutrymmet inställt på **Luma CRM-id (lumaCrmId)**
 >1. För varje e-postadress åsidosätter du e-postens standardparametrar så att de skickas till din e-postadress:
-   >    * Visa dolda värden genom att klicka på ögonsymbolen.
-   >    * Klicka på T-symbolen (aktivera åsidosättning av parameter) i e-postparametrarna.
-
-      >
-      >      ![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
-   > 
-   >    * Klicka på [!UICONTROL Adress] fält
-   >    * Lägg till din e-postadress inom parentes på nästa skärm: `"yourname@yourdomain"` i uttrycksredigeraren och klicka på OK.
-
+>    * Visa dolda värden genom att klicka på ögonsymbolen.
+>    * Klicka på T-symbolen (aktivera åsidosättning av parameter) i e-postparametrarna.
 >
-
+>      ![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
+> 
+>    * Klicka på [!UICONTROL Adress] fält
+>    * Lägg till din e-postadress inom parentes på nästa skärm: `"yourname@yourdomain"` i uttrycksredigeraren och klicka på OK.
+>
 
 Testa resan och få e-postmeddelandena skickade till ditt eget konto:
 

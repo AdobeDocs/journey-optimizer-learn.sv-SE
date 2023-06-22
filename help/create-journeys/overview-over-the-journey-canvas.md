@@ -4,10 +4,10 @@ description: Förstå funktioner och finesser i arbetsytan på Journey.
 feature: Journeys
 role: User
 level: Beginner
-kt: 10166
+jira: KT-10166
 thumbnail: 342099.jpeg
 exl-id: fb262c8d-7865-4a85-b620-a134e4cca7f8
-source-git-commit: ee8069e78c255e9efdad5dc6a8765aa385c07114
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 0%

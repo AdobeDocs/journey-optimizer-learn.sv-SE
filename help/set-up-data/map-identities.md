@@ -1,7 +1,7 @@
 ---
 title: Mappa identiteter
 description: Lär dig hur och när ett schemafält ska etiketteras som en identitet och hur du skapar ett namnutrymme. Lär dig när du ska göra en identitet primär och hur du importerar och verifierar identitetsdata.
-kt: 7564
+jira: KT-7564
 thumbnail: 335918.jpg
 feature: Identities, Data Ingestion
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: Developer
 level: Beginner
 exl-id: 05264e3e-7ed1-422e-8cde-f09c6d7e590b
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

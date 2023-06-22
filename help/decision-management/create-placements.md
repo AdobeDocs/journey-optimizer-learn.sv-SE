@@ -2,10 +2,10 @@
 title: Skapa placeringar
 description: Lär dig hur du skapar praktik för beslutshantering. Placeringar är en av de nödvändiga byggblockskomponenterna i erbjudandena.
 feature: Offers
-kt: 6736
+jira: KT-6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 4%

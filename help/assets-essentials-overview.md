@@ -4,10 +4,10 @@ description: Få en översikt över Assets Essentials funktioner och hur de kan 
 feature: Assets
 role: User
 level: Beginner
-kt: 10165
+jira: KT-10165
 thumbnail: 342098.jpeg
 exl-id: 78b7582b-76bc-4919-9e17-34966b5032f5
-source-git-commit: ee8069e78c255e9efdad5dc6a8765aa385c07114
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%

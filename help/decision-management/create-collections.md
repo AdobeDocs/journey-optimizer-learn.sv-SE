@@ -2,10 +2,10 @@
 title: Skapa samlingar
 description: Lär dig hur du skapar samlingar för beslutshantering. För samlingar finns regler för behörighet kopplade till dem så att du kan visa dem endast för relevanta kunder.
 feature: Offers
-kt: 6747
+jira: KT-6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 5%
