@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
+source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '342'
 ht-degree: 1%
 
 ---
@@ -125,8 +125,6 @@ Du ombeds installera Testflight, steg 1 till 4. När du har installerat Testflig
 
 ![QR-kod för Android](/help/assets/lab731-android-qr-code.png)
 
-Använd den här länken om du använder Android-simulatorn: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
-
 Eftersom appen inte är registrerad i Google Play Store får du ett varningsmeddelande:
 
 ![Android-varningsskärm](/help/assets/lab731-install-android.png)
@@ -149,14 +147,14 @@ Klicka **Installera ändå**
 
 | Fält | Text | Länkar |
 |----|----|----|
-| Kampanjnamn | `<your seat number> March Vegas Campaign` |  |
+| Kampanjnamn | `<your seat number> Vegas Stay Campaign` |  |
 | Matcher | känga |  |
 | Alternativet Media URL |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Titel | Det är Händelse och det är Live! |  |
-| Brödtext | Adobe Summit återvänder till Las Vegas 21-23 mars 2023. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. |  |
-| Knapp | Boka hotell nu och spara 10 % | lab://booking?suite=presidential&amp;discount=10 |
+| Titel | Få rabatt på fåglar tidigt! |  |
+| Brödtext | Adobe Summit återvänder till Las Vegas 2024. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. Boka din svit nu och få 10 % rabatt. |  |
+| Knapp | Boka nu | lab://booking?suite=presidential&amp;discount=10 |
 | Knapp: Interaktiv händelse | CTA i appen |  |
-| Bas-URL |  | iOS: lab:// <br>Android&amp;: https://lab |
+| Bas-URL |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## Lektion 3 Skapa en flerkanalig resa
