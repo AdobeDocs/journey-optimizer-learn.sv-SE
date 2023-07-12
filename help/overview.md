@@ -2,9 +2,12 @@
 title: Journey Optimizer Tutorials - översikt
 description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
+feature: Get Started
+role: User, Developer, Admin, Leader
+level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -25,20 +28,16 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 ## Nyheter
 
 * **[Skapa dynamiskt innehåll med villkorsregelbyggaren](/help/personalize-content/create-dynamic-content.md)**
-
-   *Lär dig hur du skapar och sparar villkorsregler och hur du tillämpar dessa regler på innehåll i alla kanaler.*
+  *Lär dig hur du skapar och sparar villkorsregler och hur du tillämpar dessa regler på innehåll i alla kanaler.*
 
 * **[Använd varningar](/help/administration/alerts.md)**
-
-   *Lär dig hur du prenumererar på fördefinierade aviseringar om oväntade resbeteenden och får meddelanden via e-post, i Journey Optimizer eller via ett API.*
+  *Lär dig hur du prenumererar på fördefinierade aviseringar om oväntade resbeteenden och får meddelanden via e-post, i Journey Optimizer eller via ett API.*
 
 * **[Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)**
-
-   *Lär dig hur du kopierar en resa och dess beroende objekt från en sandlåda till en annan.*
+  *Lär dig hur du kopierar en resa och dess beroende objekt från en sandlåda till en annan.*
 
 * **[Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)**
-
-   *Förstå vad datamaskering är och varför maskdata är. Lär dig maskera data i Journey Optimizer-meddelanden.*
+  *Förstå vad datamaskering är och varför maskdata är. Lär dig maskera data i Journey Optimizer-meddelanden.*
 
 </div>
 
@@ -48,12 +47,10 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 ## Experience League Live-event
 
 * **[Kör era kampanjer i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=en)**
-
-   *I det här Experience League Live-avsnittet, som ursprungligen hölls den 22 september 2022, ska du besöka Sandra Hausmann och produktexperterna Bridgette Darling och Frederic Mary när de diskuterar användningsexempel som den här nya funktionen omfattar och visa hur man enkelt kan starta och genomföra en kampanj i Journey Optimizer.*
+  *I det här Experience League Live-avsnittet, som ursprungligen hölls den 22 september 2022, ska du besöka Sandra Hausmann och produktexperterna Bridgette Darling och Frederic Mary när de diskuterar användningsexempel som den här nya funktionen omfattar och visa hur man enkelt kan starta och genomföra en kampanj i Journey Optimizer.*
 
 * **[Push-meddelanden med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
-
-   *I det här Experience League Live-avsnittet talar vi om vanliga användningsfall för push-meddelanden med Adobe Journey Optimizer och tittar närmare på den tekniska informationen om hur du konfigurerar en app för Push med Adobe Experience Platform.*
+  *I det här Experience League Live-avsnittet talar vi om vanliga användningsfall för push-meddelanden med Adobe Journey Optimizer och tittar närmare på den tekniska informationen om hur du konfigurerar en app för Push med Adobe Experience Platform.*
 
 </div>
 

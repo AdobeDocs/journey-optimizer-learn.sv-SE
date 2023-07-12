@@ -5,8 +5,10 @@ description: Lär dig hur du skapar personaliserade erbjudanden för beslutshant
 feature: Offers, Personalization
 jira: KT-6781
 thumbnail: 329375.jpg
+role: User
+level: Beginner
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 5%

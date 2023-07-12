@@ -3,10 +3,12 @@ title: Skapa beslut
 description: Lär dig hur du skapar beslut för beslutshantering. Ett beslut kombinerar era praktik och samlingar i en enda enhet, så att ni kan fatta beslut om att leverera det mest relevanta erbjudandet till kunden.
 feature: Offers
 jira: KT-6791
+role: User
+level: Beginner
 thumbnail: 329606.jpg
 last-substantial-update: 2022-09-30T00:00:00Z
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 3%
