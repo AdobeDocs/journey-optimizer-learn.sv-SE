@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
+source-git-commit: c3081f196d271f8b32084b0477639ba0fe889e92
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
@@ -162,6 +162,6 @@ Klicka **Installera ändå**
 | Fält | Text | Länkar |
 |----|----|----|
 | Kampanjnamn | `<your seat number> Max Push Campaign` |  |
-| Alternativet Media URL |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| Alternativet Media URL |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
 | Titel | Hej! |  |
 | Brödtext | Visste du att Adobe Max kommer tillbaka till Vegas? Boka ditt rum nu och få 10 % rabatt. |  |
