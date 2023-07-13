@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
+source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 2%
 
 ---
@@ -149,10 +149,10 @@ Klicka **Installera ändå**
 |----|----|----|
 | Kampanjnamn | `<your seat number> Vegas Stay Campaign` |  |
 | Matcher | känga |  |
-| Alternativet Media URL |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Alternativet Media URL |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | Titel | Få rabatt på fåglar tidigt! |  |
 | Brödtext | Adobe Max återvänder till Las Vegas. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. Boka din svit nu och få 10 % rabatt. |  |
-| Knapp | Boka nu | lab://booking?suite=presidential&amp;discount=10 |
+| Knapp | Få 10 % rabatt! | lab://booking?suite=presidential&amp;discount=10 |
 | Knapp: Interaktiv händelse | CTA i appen |  |
 | Bas-URL som ska användas för förhandsvisning på enheten |  | **iOS:** lab:// <br>**Android**: https://lab |
 
@@ -162,6 +162,6 @@ Klicka **Installera ändå**
 | Fält | Text | Länkar |
 |----|----|----|
 | Kampanjnamn | `<your seat number> Max Push Campaign` |  |
-| Alternativet Media URL |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Alternativet Media URL |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | Titel | Hej! |  |
 | Brödtext | Visste du att Adobe Max kommer tillbaka till Vegas? Boka ditt rum nu och få 10 % rabatt. |  |
