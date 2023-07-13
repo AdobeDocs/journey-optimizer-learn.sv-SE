@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 1%
+source-wordcount: '286'
+ht-degree: 2%
 
 ---
 
@@ -133,7 +133,7 @@ Klicka **Installera ändå**
 
 >[!ENDTABS]
 
-## Utövning 1.3: Logga in på Adobe Journey Optimizer
+## Utövning 1: Logga in på Adobe Journey Optimizer
 
 [Klicka här för att logga in på Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
@@ -143,63 +143,25 @@ Klicka **Installera ändå**
 * **Lösenord:** Adobe2023!
 
 
-## Exercise 2.1 Skapa en kampanj i appen
+## Utgång 2 Skapa en kampanj i appen
 
 | Fält | Text | Länkar |
 |----|----|----|
 | Kampanjnamn | `<your seat number> Vegas Stay Campaign` |  |
 | Matcher | känga |  |
-| Alternativet Media URL |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
+| Alternativet Media URL |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
 | Titel | Få rabatt på fåglar tidigt! |  |
-| Brödtext | Adobe Summit återvänder till Las Vegas 2024. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. Boka din svit nu och få 10 % rabatt. |  |
+| Brödtext | Adobe Max återvänder till Las Vegas. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. Boka din svit nu och få 10 % rabatt. |  |
 | Knapp | Boka nu | lab://booking?suite=presidential&amp;discount=10 |
 | Knapp: Interaktiv händelse | CTA i appen |  |
-| Bas-URL |  | **iOS:** lab:// <br>**Android**: https://lab |
+| Bas-URL som ska användas för förhandsvisning på enheten |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
-## Lektion 3 Skapa en flerkanalig resa
+## Utövning 3: Skapa ett push-meddelande
 
-**Reseetikett:**
-`<your seat number>` - Välkomstresa
-
->[!BEGINTABS]
-
->[!TAB Push-meddelande]
-
-**Etikett:**
-Välkomstmeddelande
-
-**Titel:**\
-Välkommen till Vegas!
-
-**Brödtext:**\
-Hoppa över raden och checka in med mobilappen
-
-**Deeplink:** iOS: lab://, Android&amp;: https://lab
-
-**Media:**
-
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
-
-
-Det här är bilden som vi använder för push-meddelandet:
-
-![Incheckning online](/help/assets/vegas_online_check_in.jpg)
-
->[!TAB SMS-meddelande]
-
-**Etikett:**
-Välkomstmeddelande
-
-**Meddelande:**
-Välkommen till Vegas. Hoppa över raden och checka in med mobilappen: lab://checkin
-
->[!TAB E-postmeddelande]
-
-**Etikett:**
-Bekräftelsemeddelande
-
-**Ämnesrad:**
-`{{profile.person.name.firstName}},` du är incheckad, kolla in våra erbjudanden för din vistelse!
-
->[!ENDTABS]
+| Fält | Text | Länkar |
+|----|----|----|
+| Kampanjnamn | `<your seat number> Max Push Campaign` |  |
+| Alternativet Media URL |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Titel | Hej! |  |
+| Brödtext | Visste du att Adobe Max kommer tillbaka till Vegas? Boka ditt rum nu och få 10 % rabatt. |  |
