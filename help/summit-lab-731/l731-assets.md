@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 152435650d2160fd6def2614d50fc06ade79f24c
+source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '305'
 ht-degree: 2%
 
 ---
@@ -30,10 +30,12 @@ Skanna QR-koden för att hämta appen
 
 ![QR-kod för iOS](/help/assets/lab731-ios-qr-code.png)
 
->[!Tip]
+>[!IMPORTANT]
 >
 >Om du tillfrågas om inlösenkoden stänger du appen TestFlight och skannar QR-koden igen.
->**Tillåt meddelanden.**
+>
+>Tillåt meddelanden.
+>
 
 Du ombeds installera Testflight, steg 1 till 4. När du har installerat Testflight följer du steg 5-8 för att installera Vegas Keep App:
 
