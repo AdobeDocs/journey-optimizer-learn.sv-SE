@@ -8,7 +8,7 @@ thumbnail: 329375.jpg
 role: User
 level: Beginner
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 5%
@@ -22,5 +22,3 @@ Lär dig hur du skapar [personaliserade erbjudanden](https://experienceleague.ad
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on)
 
 Mer information om hur du skapar personaliserade erbjudanden med ett API finns i [produktguide](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}

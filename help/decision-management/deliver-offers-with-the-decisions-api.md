@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 6f96590c66f14b3090b329fc631772f30b510c5a
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 1%
+source-wordcount: '126'
+ht-degree: 0%
 
 ---
 
@@ -24,9 +24,3 @@ Lär er hur ni kan leverera erbjudanden [med API:t för beslutshubben](https://e
 >[!INFO]
 >
 > Den här videon är en del av en kurs, [Getting Started with Decision Management for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kan köpas kostnadsfritt på Experience League!
-
-## Ytterligare resurser
-
-* [Autentisera och få åtkomst till Experience Platform API:er (självstudiekurs)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html)
-* [[!DNL Postman] Samling för icke-produktionsautentisering](https://github.com/adobe/experience-platform-postman-samples/tree/master/apis/ims)
-* [[!DNL Postman]](https://www.postman.com/)

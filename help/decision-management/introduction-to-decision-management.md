@@ -7,7 +7,7 @@ role: Admin, Developer, Leader, User
 level: Beginner
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: 035d568fc25119142b92e0caa8adfb0ae5e21be8
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 36%
@@ -20,6 +20,3 @@ Få en översikt över beslutshanteringsfunktionerna för Journey Optimizer. Vid
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}
-
