@@ -2,7 +2,7 @@
 user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
-source-git-commit: 7dd39b0bc8b2aa17522310d38140afff9bb1e727
+source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 20%
@@ -30,9 +30,9 @@ ht-degree: 20%
    + [Översikt över resans arbetsyta](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Användningsfall - Transaktionsresa](/help/create-journeys/use-case-transactional-journey.md)
-   + [Användningsfall - Lässegment](/help/create-journeys/use-case-read-segment.md)
    + [Användningsfall - Affärshändelse](/help/create-journeys/use-case-business-event.md)
-   + [Användningsfall - Segmentkvalificering](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Användningsfall - läs målgrupper](/help/create-journeys/use-case-read-audience.md)
+   + [Användningsfall - Målgruppskvalificering](/help/create-journeys/use-case-audience-qualification.md)
    + [Skapa en testprofil](/help/create-journeys/test-a-journey.md)
    + [Publicera en resa](/help/create-journeys/publish-a-journey.md)
    + [Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)
@@ -59,7 +59,7 @@ ht-degree: 20%
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Anpassa innehåll {#personalize-content}
-   + [Profil- och segmentmedlemskapsbaserad personalisering](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [Profil- och målgruppsbaserad personalisering](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Lägg till erbjudanden som personalisering](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Använd sammanhangsbaserad händelseinformation för personalisering](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Använd hjälpfunktioner för personalisering](/help/personalize-content/use-helper-functions-for-personalization.md)
@@ -95,9 +95,9 @@ ht-degree: 20%
       + [Konfigurera SMS API-autentiseringsuppgifter och kanalytor](/help/set-up-channels/set-up-sms-channel.md)
       + [Konfigurera regler för meddelandefrekvens](/help/administration/configure-frequency-rules.md)
    + Konfigurera resor {#journey-configuration}
-   + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
-   + [Skapa händelser](/help/set-up-journeys/create-events.md)
-   + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
+      + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
+      + [Skapa händelser](/help/set-up-journeys/create-events.md)
+      + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
 + Åtkomstkontroll {#access-control}
    + [Åtkomsthantering](/help/set-up-access/access-management.md)
    + [Konfigurera attributbaserad åtkomstkontroll](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html)
