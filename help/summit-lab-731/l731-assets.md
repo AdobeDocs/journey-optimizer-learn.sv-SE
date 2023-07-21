@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
+source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 2%
+source-wordcount: '326'
+ht-degree: 3%
 
 ---
 
@@ -142,7 +142,7 @@ Klicka **Installera ändå**
 
 ## Utövning 1: Logga in på Adobe Journey Optimizer
 
-[Klicka här för att logga in på Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[Klicka här för att logga in på Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
 **Inloggningsinformation:**
 
@@ -152,16 +152,16 @@ Klicka **Installera ändå**
 
 ## Utgång 2 Skapa en kampanj i appen
 
-| Fält | Text | Länkar |
-|----|----|----|
-| Kampanjnamn | `<your seat number> Vegas Stay Campaign` |  |
-| Matcher | känga |  |
-| Alternativet Media URL |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| Titel | Få rabatt på fåglar tidigt! |  |
-| Brödtext | Adobe Max återvänder till Las Vegas. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. Boka din svit nu och få 10 % rabatt. |  |
-| Knapp | Få 10 % rabatt! | lab://booking?suite=presidential&amp;discount=10 |
-| Knapp: Interaktiv händelse | CTA i appen |  |
-| Bas-URL som ska användas för förhandsvisning på enheten |  | **iOS:** lab:// <br>**Android**: https://lab |
+| Avsnitt | Fält | Text | Länkar |
+|----|----|----|----|
+| **Egenskaper** |  | Kampanjnamn | `<your seat number> Vegas Stay Campaign` |  |
+| **Utlösare** | Läge | känga |  |
+| **Redigera innehåll:** Media | Alternativet Media URL |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **Redigera innehåll:** Innehåll | Titel | Få rabatt på fåglar tidigt! |  |
+| **Redigera innehåll:** Innehåll | Brödtext | Adobe Max återvänder till Las Vegas. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. Boka din svit nu och få 10 % rabatt. |  |
+| **Redigera innehåll:** Knappar | Knapp | Få 10 % rabatt! | lab://booking?suite=presidential&amp;discount=10 |
+| **Redigera innehåll:** Innehåll |  | Knapp: Interaktionshändelse | CTA i appen |  |
+| **Förhandsgranska på enhet** |  | Bas-URL som ska användas för förhandsvisning på enheten |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## Utövning 3: Skapa ett push-meddelande
