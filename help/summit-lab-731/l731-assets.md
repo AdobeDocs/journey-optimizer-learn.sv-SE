@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 2f0412400db4d5bdddbb84d41e8bde17ea2533b2
+source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 3%
@@ -144,7 +144,7 @@ Klicka **Installera ändå**
 
 [Klicka här för att logga in på Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
-**Inloggningsinformation:**
+**Inloggningsinformation**
 
 * **Användarnamn:** `L731+<your seat number>@summitlab.us` (exempel: L731+001@summitlab.us)
 * **Lösenord:** Adobe2023!
@@ -161,7 +161,7 @@ Klicka **Installera ändå**
 | **Redigera innehåll:** Innehåll | Brödtext | Adobe Max återvänder till Las Vegas. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. Boka din svit nu och få 10 % rabatt. |  |
 | **Redigera innehåll:** Knappar | Knapp | Få 10 % rabatt! | lab://booking?suite=presidential&amp;discount=10 |
 | **Redigera innehåll:** Knappar | Interaktionshändelse | CTA i appen |  |
-| **Förhandsgranska på enhet** |  | Bas-URL som ska användas för förhandsvisning på enheten |  | **iOS:** lab:// <br>**Android**: https://lab |
+| **Förhandsgranska på enhet** | Bas-URL som ska användas för förhandsvisning på enheten |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 ## Utövning 3: Skapa ett push-meddelande
 
