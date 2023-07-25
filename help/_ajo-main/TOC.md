@@ -2,10 +2,10 @@
 user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
-source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
+source-git-commit: 16c874b46254d067795bc92bfe06e8f91fca3a10
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 20%
+source-wordcount: '390'
+ht-degree: 19%
 
 ---
 
@@ -47,6 +47,8 @@ ht-degree: 20%
    + [Skapa en kampanj i appen](/help/channels/create-an-in-app-campaign.md)
    + [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
    + [Konfigurera innehållsexperiment för meddelanden i appen](/help/experimentation/content-experiments-for-in-app-messages.md)
++ Push-kanal{#push-channel}
+   + [Konfigurera och skicka en push-kampanj](/help/channels/create-a-push-campaign.md)
 + SMS-kanal{#sms-channel}
    + [Konfigurera, redigera och leverera SMS-meddelanden](/help/channels/author-sms-messages.md)
    + [Stöd för inkommande nyckelord för SMS](/help/channels/inbound-keyword-support-for-sms.md)
@@ -87,7 +89,7 @@ ht-degree: 20%
    + [Exportera datauppsättningar till molnlagringsplatser](/help/set-up-data/export-datasets.md)
 + Rapportera och övervaka {#report-and-monitor}
    + [Live- och globala rapporter](/help/report-and-monitor/live-and-global-reports.md)
-   + [Använd varningar](/help/administration/alerts.md)
+   + [Använda varningar](/help/administration/alerts.md)
 + Konfiguration {#configuration}
    + Konfigurera kanaler {#channel-configuration}
       + [Konfigurera e-postkanal](/help/set-up-channels/set-up-email-channel.md)
