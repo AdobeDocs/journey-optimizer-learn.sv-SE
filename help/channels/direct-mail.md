@@ -1,14 +1,14 @@
 ---
 title: Direktreklam, kanal
 description: Lär dig hur du konfigurerar Direct Mail-kanalen och hur du skapar och förhandsgranskar direktreklamkampanjer.
-feature: Channel Configuration
+feature: Direct Mail
 role: User, Admin
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-07-26T00:00:00Z
 jira: KT-10585
 thumbnail: 3422019.jpeg
-source-git-commit: efd2bc95a7b4ef83663403ebe503743a03b6758c
+source-git-commit: 9ecbd093db359ca8051ca45d91f51ec2afe79360
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
