@@ -1,15 +1,15 @@
 ---
 title: Skapa en annons för sommarsamlingen - utmaning
-description: Skicka ett meddelande till några befintliga kunder om att de vill marknadsföra nya Luma Summer Collection.
+description: Skicka ett meddelande till en publik med kunder om att de vill marknadsföra nya Luma Summer Collection.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 035d568fc25119142b92e0caa8adfb0ae5e21be8
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1125'
 ht-degree: 0%
 
 ---
@@ -22,30 +22,30 @@ ht-degree: 0%
 |---|---|
 | Persona | Resechef |
 | Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
-| Resurser att hämta | [E-postfiler för säsongssamling](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+| Resurser att ladda ned | [E-postfiler för säsongssamling](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
 
-## The story
+## Artikeln
 
-Luma, ett fiktivt sportklädföretag, marknadsför sin senaste uppsättning kläder och utrustning och driver försäljningen för befintliga kunder. Luma lanserar den nya sommarsamlingen och vill särskilt inrikta sig på olika kundsegment.
+Luma, ett fiktivt sportklädföretag, marknadsför sin senaste uppsättning kläder och utrustning och driver försäljningen för befintliga kunder. Luma lanserar den nya sommarsamlingen och vill särskilt rikta sig till olika målgrupper.
 
 ## Utmaningen
 
 Marknadsföringsteamet på Luma ber er att implementera en marknadsföringskampanj för sommar Collection i Journey Optimizer. Utmaningen är att
 
-* Skapa ett segment som definierar vilka profiler som är kvalificerade att ta emot kampanjen.
+* Skapa en målgrupp som definierar vilka profiler som är kvalificerade att ta emot kampanjen.
 * Bygg resan.
 
-### Steg 1: Definiera segmentet - aktiva kunder
+### Steg 1: Definiera målgruppen - aktiva kunder
 
 >[!BEGINTABS]
 
 >[!TAB Uppgift]
 
-#### Skapa ett segment i [!DNL Journey Optimizer]
+#### Skapa en publik i [!DNL Journey Optimizer]
 
-* Skapa ett segment i [!DNL Journey Optimizer] anropad *Aktiva kunder*.
+* Skapa en publik i [!DNL Journey Optimizer] anropad *Aktiva kunder*.
 * Segmentet får endast innehålla aktiva Luma-kunder.
 * Aktiva kunder definieras som kunder som har ett skikt i Lumas lojalitetsprogram (brons, silver, guld eller platinum).
 
@@ -61,11 +61,11 @@ I segmentbyggaren ser du det uppskattade antalet kvalificerade profiler. Om du a
 
 Du kan kontrollera vilka profiler som har lagts till i segmentet genom att navigera till en av dem i profilerna som listas i segmentets detaljvy.
 
-På profilsidan markerar du [!UICONTROL Attribut] för att bekräfta att de är kvalificerade: Skiktet ska vara silver, guld, platina eller diamant.
+På profilsidan markerar du [!UICONTROL Attribut] för att bekräfta att de är kvalificerade: skiktet ska vara silver, guld, platina eller diamant.
 
 ![Profilattribut](assets/C1-S1-profile-attributes.png)
 
-Du kan även kontrollera [!UICONTROL Segmentmedlemskap] tab: Segmentet bör listas.
+Du kan även kontrollera [!UICONTROL Segmentmedlemskap] tab: Ditt segment ska listas.
 
 ![Segmentmedlemskap](assets/C1-S1-profile-segment-membership.png)
 
@@ -86,7 +86,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >[!ENDTABS]
 
 
-### Steg 2: Create the Journey - Sommarsamlingsmeddelande
+### Steg 2: Skapa meddelandet om resan - sommarsamlingen
 
 >[!BEGINTABS]
 
@@ -113,15 +113,15 @@ En byrå försåg dig med fyra HTML-filer med design för e-postmeddelanden:
       * Manliga kunder bör få **Luma Men&#39;s Collection** e-post.
          * Meddelanderubrik: *Luma Men&#39;s Collection*
          * Ärenderad: *(mottagarens förnamn), utforska Men&#39;s New sportkugghjulet!*
-         * E-postbrödtext: `MensCollectionEmail.html` för e-postbrödtexten.
+         * E-posttext: `MensCollectionEmail.html` för e-postbrödtexten.
       * Kunder som är kvinnor bör få **Luma Women&#39;s Collection** e-post.
          * Meddelanderubrik: *Luma Women&#39;s Collection*
          * Ärenderad: *(mottagarens förnamn), utforska Lumas Women Collection!*
-         * E-postbrödtext: `WomensCollectionEmail.html`
+         * E-posttext: `WomensCollectionEmail.html`
       * Andra kunder bör få **Luma - 20 % rabatt på samling** e-post.
       * Meddelanderubrik: *Luma - 20 % rabatt på samling*
       * Ärenderad: *(mottagarens förnamn), få 20 % rabatt!*
-      * E-postbrödtext: `20OOffCollectionEmail.html`
+      * E-posttext: `20OOffCollectionEmail.html`
    1. När du har skickat de riktade e-postmeddelandena ovan väntar du två dagar på att e-postmeddelandet ska öppnas
    1. Om målmeddelandet inte öppnas inom två dagar skickar du **Luma - 20 %rabatt på e-post för samling** som ett sista försök till återmarknadsföring
 
@@ -140,7 +140,7 @@ Förhandsgranska e-postmeddelandet:
 
 Resultat:
 
-* Ämnesraden ska vara: Louise, nya Luma-samlingen är här!
+* Subject line should read: Louise, the new Luma collection is here!
 
 **E-postmeddelande nr 2 - Luma Men&#39;s Collection**
 
@@ -189,14 +189,14 @@ Förhandsgranska e-postmeddelandet med testprofilen *Louise Petti.*
 
 Testa resan och få e-postmeddelandena skickade till ditt eget konto:
 
-1. Sätt resan i testläge.
+1. Förvandla resan till testläge.
 1. Välj **[!UICONTROL En profil åt gången]**.
-1. Väntetid: Ställ in timern på 120 sekunder (skriv in den i fältet).
+1. Vänta: Ställ in timern på 120 sekunder (skriv in den i fältet).
 1. Ingång till utlösarprofil
 1. Du kan testa varje gren med något av följande *Luma CRM ID* som profilidentifierare:
    * Kvinna: Leora Dietsche, identitetsvärde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Man: Stanleigh Stooke, identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
-   * Genus har inte angetts: Louise Petti, identitetsvärde: `d1f132f9f9502bba047a6ec86c4b61f9`
+   * Inget kön har angetts: Louise Petti, identitetsvärde: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 1. När du har utlöst profilingången bör du få det första e-postmeddelandet. Huvudet ska anpassas efter den profil du väljer.
 1. Resan bör fortsätta till respektive gren och du bör få det relaterade e-postmeddelandet (till exempel om du väljer *Jenna*, bör du få *Luma Women&#39;s Collection* e-post).
@@ -211,8 +211,8 @@ Du bör få följande e-postmeddelanden:
 * Beroende på vilken testprofil du använde bör du få något av följande e-postmeddelanden:
    * Leora: Luma Women&#39;s Collection
    * Stanleigh: Luma Men&#39;s Collection
-   * Lupp: Luma - 20 % rabatt på samling
-* Om du inte öppnade det andra e-postmeddelandet: Luma - 20 % rabatt på samlingen
+   * Luma: 20 % rabatt på samling
+* Om du inte öppnade det andra e-postmeddelandet: Luma - 20 % rabatt
 
 >[!TAB Kontrollera ditt arbete]
 

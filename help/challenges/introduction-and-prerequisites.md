@@ -6,7 +6,7 @@ role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 8%
@@ -45,7 +45,7 @@ Du behöver följande åtkomsträttigheter:
 
 * Om du inte har använt Adobe Journey Optimizer tidigare ska du slutföra kursen [Komma igång med Journey Optimizer för resechefer och administratörer](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
 
-## The story
+## Artikeln
 
 Luma är ett fiktivt designföretag, med butiker i flera länder, en online-närvaro med en webbplats och mobilappar. Luma använder Adobe Journey Optimizer för att leverera sammankopplade, kontextuella och personaliserade upplevelser till sina kunder.
 
@@ -66,7 +66,7 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
    <strong><a href="summer-collection-announcement-challenge.md">Skapa ett sommarsamlingsmeddelande </strong>
     </a>
       <p>
-      <em>Skapa en resa som skickar ett meddelande om sommarkollektion till ett segment med befintliga kunder. </em>
+      <em>Skapa en resa som skickar ett meddelande om sommarkollektion till en publik med befintliga kunder. </em>
       <p>
       <b>Nödvändiga färdigheter:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Skapa segment</li>
@@ -100,7 +100,7 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
   <td>
   <div>
     <a href="order-confirmation-challenge.md">
-      <img alt="Luma-e-post" src="./assets/email-assets/luma-transactional-order-confirmation.png"/>
+      <img alt="Luma Email" src="./assets/email-assets/luma-transactional-order-confirmation.png"/>
     </a>
   </td>
   <td>

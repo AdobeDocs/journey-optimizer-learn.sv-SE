@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: df055830da42b94d751890af6c19074ddfea2237
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 4%
+source-wordcount: '159'
+ht-degree: 3%
 
 ---
 
@@ -52,26 +52,14 @@ När du använder den här händelsen får Journey Optimizer information när en
 
 1. Välj **[!UICONTROL Spara]**.
 
-## Skapa *[!DNL Luma Wishlist Add]* event
-
-| [!UICONTROL Parameter] | [!UICONTROL Värde] |
-|-------------|-----------|
-| [!UICONTROL NAMN] | `LumaWishlistAdd` |
-| [!UICONTROL TYP] | [!UICONTROL Unitary] |
-| [!UICONTROL Typ av händelse-ID] | [!UICONTROL Regelbaserad] |
-| [!UICONTROL Schema] | `Luma Product Interactions` |
-| [!UICONTROL Fält] | EventType<br>productListItem.quantity<br><b>I produktlisteobjekt > Luma-produkter > _*[!DNL yourOrganizationID]* > Produkt:</b> <br>Namn<br>Pris<br> ProductImageURL<br>ProductURL |
-| [!UICONTROL Villkor] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
-| [!UICONTROL Namnutrymme] | E-post (e-post) |
-
 ## Skapa *[!DNL Luma Product Restock]* event
 
 | [!UICONTROL Parameter] | [!UICONTROL Värde] |
 |-------------|-----------|
 | [!UICONTROL NAMN] | `LumaProductRestock` |
 | [!UICONTROL TYP] | [!UICONTROL Företag] |
-| [!UICONTROL Schema] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL Fält] | SKU <br> stockEventType<br><b> ditt organisations-ID > produkt:</b> <br>name<br>pris<br> ImageURL<br>description |
+| [!UICONTROL Schema] | [!DNL Luma Product Inventory Event Schema] |
+| [!UICONTROL Fält] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>name<br>pris<br> ImageURL<br>description |
 | [!UICONTROL Villkor] | LumaProductRestock._`your organization's ID`.InventEvent.stockEventType återskapas |
 
 Grattis! Din sandlåda är nu klar att användas.
