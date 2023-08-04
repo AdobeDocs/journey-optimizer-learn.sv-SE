@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 * **[Skapa dynamiskt innehåll med villkorsregelbyggaren](/help/personalize-content/create-dynamic-content.md)**
   *Lär dig hur du skapar och sparar villkorsregler och hur du tillämpar dessa regler på innehåll i alla kanaler.*
 
-* **[Använd varningar](/help/administration/alerts.md)**
+* **[Använda varningar](/help/administration/alerts.md)**
   *Lär dig hur du prenumererar på fördefinierade aviseringar om oväntade resbeteenden och får meddelanden via e-post, i Journey Optimizer eller via ett API.*
 
 * **[Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)**
@@ -45,6 +45,12 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 <div id="events-section">
 
 ## Experience League Live-event
+
+* **[Maximera mobilappens potential med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)**
+  *Lär dig fördelarna med meddelanden i appen som en engagemangskanal i realtid och hur du konfigurerar och skapar personaliserade upplevelser för mobilappar i Adobe Journey Optimizer.*
+
+* **[Utforska framtiden för Adobe Journey Optimizer med webbkanalen och innehållsexperimenterande](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=en)**
+  *Den nya webbkanalen gör att marknadsförarna kan skapa webbkampanjer med en visuell WYSIWYG-designer. Dessutom kan du med Journey Optimizer nu experimentera med innehåll i alla kanaler - e-post, webben, push, i appen, SMS med mera.*
 
 * **[Kör era kampanjer i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=en)**
   *I det här Experience League Live-avsnittet, som ursprungligen hölls den 22 september 2022, ska du besöka Sandra Hausmann och produktexperterna Bridgette Darling och Frederic Mary när de diskuterar användningsexempel som den här nya funktionen omfattar och visa hur man enkelt kan starta och genomföra en kampanj i Journey Optimizer.*
