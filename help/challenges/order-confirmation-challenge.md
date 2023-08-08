@@ -7,7 +7,7 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 8b8d163b65dbd34f769a26231638f0bfeb6eb0b1
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -19,15 +19,15 @@ ht-degree: 1%
 
 ![Orderbekräftelse](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
 
-| Utmaning | Skapa en orderbekräftelse via e-post |
+| Utmaning | Skapa en orderbekräftelsetransaktion via e-post |
 |---|---|
 | Persona | Resechef |
 | Nödvändiga färdigheter | <ul><li>[Skapa e-postinnehåll med meddelanderedigeraren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Använd sammanhangsbaserad händelseinformation för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Använd hjälpfunktioner för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
-| Resurser att hämta | [Orderbekräftelsetillgångar](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
+| Resurser att ladda ned | [Orderbekräftelsetillgångar](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 {style="table-layout:auto"}
 
-## The story
+## Artikeln
 
 Luma lanserar sin webbutik och vill säkerställa en bra kundupplevelse. De skickar en orderbekräftelse via e-post när kunden har lagt en order.
 
@@ -43,7 +43,7 @@ Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en 
 
 1. Använd händelsen: `LumaOnlinePurchase`.
 
-1. Skapa en **transaktionsbaserad**  e-postmeddelandet har anropats `Luma - Order Confirmation`.
+1. Skapa en **transaktionsbaserad**  e-post anropad `Luma - Order Confirmation`.
 
    * Ämnesraden&quot;Tack för ditt köp, `FirstName`&quot;
 
@@ -54,17 +54,18 @@ Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en 
       * Lägg till länken för att avbryta prenumerationen längst ned i e-postmeddelandet
 
 E-postmeddelandet ska struktureras på följande sätt:
+
 <table>
 <tr>
 <td>
   <div>
-     <strong> Sidhuvudsavsnittet</strong>
+     <strong> Rubrikavsnitt</strong>
       </div>
   </td>
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>Länka till lumas webbplats: https://luma.enablementadobe.com/content/luma/us/en.html</li>
+    <li>Den ska länka till lumas webbplats: https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -109,7 +110,7 @@ E-postmeddelandet ska struktureras på följande sätt:
        <p><li>Lägg till det här avsnittet under <b>Leverera till</b> -avsnitt.
       </p><br>
       <p><b>Tips:</b>
-      <li>Använda strukturkomponenten <b>1:2 kolumn vänster</b> för detta avsnitt
+      <li>Använda strukturkomponenten <b>1:2 kolumn vänster</b> för det här avsnittet
       <li>Det här är sammanhangsbaserad händelseinformation.
       <li>Använd hjälpfunktionen [!UICONTROL]: [!UICONTROL each]
       <li>Växla till kodredigeringsformatet för att lägga till kontextdata.
@@ -123,7 +124,7 @@ E-postmeddelandet ska struktureras på följande sätt:
   </strong>
   <p>Visa en lista över varje produkt i beställningen med en bild, pris och namn.
   <p>Layouten för varje objekt ska se ut så här:
-   <img alt="order" src="./assets/c2-order.png"> 
+   <img alt="beställa" src="./assets/c2-order.png"> 
 <p><b>Lägg till länken i kundvagnen</b>
 <p>Ersätt order-ID i URL:en med inköpsordernummer:
    <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
@@ -176,7 +177,7 @@ Du bör få en personlig inköpsbekräftelse via e-post.
 
 **Ärenderad:**
 
-Tack för ditt köp, {{ profile.person.name.firstName }}!
+Tack för ditt köp, `{{ profile.person.name.firstName }}`!
 
 **Leverera till sektion:**
 
@@ -190,7 +191,7 @@ Så här ska koden se ut:
 
 *event.45481416* är ett annat nummer för dig.
 
-TIPS: Personalisera varje rad separat
+TIPS: Anpassa varje rad separat
 
 **Avsnittet Orderinformation:**
 
