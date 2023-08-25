@@ -7,7 +7,7 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: cc84bc66485a7136e433ea500352a0b029a71592
+source-git-commit: bbdfb4b2a6bea5043c5db99d7973ef8905a30153
 workflow-type: tm+mt
 source-wordcount: '627'
 ht-degree: 0%
@@ -42,6 +42,13 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 </div>
 
 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
 <div id="events-section">
 
 ## Experience League Live-event
@@ -62,13 +69,6 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
   *I det här Experience League Live-avsnittet talar vi om vanliga användningsfall för push-meddelanden med Adobe Journey Optimizer och tittar närmare på den tekniska informationen om hur du konfigurerar en app för Push med Adobe Experience Platform.*
 
 </div>
-
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 
