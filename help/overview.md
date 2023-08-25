@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
+source-git-commit: cc84bc66485a7136e433ea500352a0b029a71592
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '627'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,9 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 <div id="events-section">
 
 ## Experience League Live-event
+
+* **[API Triggered Messaging i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en)**
+  *Lär dig hur du använder REST API:er för sammanhangsbaserad, personlig kommunikation och marknadskommunikation i realtid.*
 
 * **[Maximera mobilappens potential med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)**
   *Lär dig fördelarna med meddelanden i appen som en engagemangskanal i realtid och hur du konfigurerar och skapar personaliserade upplevelser för mobilappar i Adobe Journey Optimizer.*
