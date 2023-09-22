@@ -8,9 +8,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-25T00:00:00Z
 jira: KT-9894
 thumbnail: 3422017.jpeg
-source-git-commit: 89d1c9fbc3e9932e7ebf15d01ab22b8894995d93
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar och skickar ett push-meddelande med en kampanj.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422017/?learn=on){trancript=true}

@@ -9,9 +9,9 @@ team: Evangelism
 role: User
 level: Beginner
 exl-id: 93266ba3-d90e-4d6e-8c43-4a421650e25f
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Den här videon visar hur varumärken kan använda Adobe Journey Optimizer funktioner för beslutshantering, segmentkvalificering i realtid och hantering av affärsevenemang för att nå nya höjder på sina kundresor.
 
->[!VIDEO](https://video.tv.adobe.com/v/334175?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334175?quality=12&learn=on){trancript=true}

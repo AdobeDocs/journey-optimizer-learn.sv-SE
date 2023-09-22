@@ -9,9 +9,9 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: 84a5a9944d26f1a11bb65b5caebec9aaa4316392
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du lägger till profilbaserad personalisering i ett meddelande och hur du använder målgruppsmedlemskap som en förutsättning för ett personaliseringsblock.
 
->[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12&learn=on){trancript=true}

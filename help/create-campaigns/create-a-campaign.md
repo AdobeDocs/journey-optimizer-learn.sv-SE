@@ -9,9 +9,9 @@ team: PM
 role: User
 level: Beginner
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '107'
 ht-degree: 41%
 
 ---
@@ -24,6 +24,6 @@ ht-degree: 41%
 
 Lär dig hur du levererar engångsinnehåll till en viss målgrupp genom att köra åtgärder direkt eller enligt ett angivet schema.
 
->[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){trancript=true}
 
-Se [produktdokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=en) om du vill ha mer information om den här funktionen.
+Läs mer i [produktdokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=en) för mer information om den här funktionen.

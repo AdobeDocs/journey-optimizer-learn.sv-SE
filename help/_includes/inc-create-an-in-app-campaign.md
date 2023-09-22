@@ -1,7 +1,7 @@
 ---
-source-git-commit: 42c9b46a628c8655fe56112cd3fad06fcaa8269f
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '23'
+source-wordcount: '25'
 ht-degree: 8%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 8%
 
 Förstå vad ett meddelande i appen är. Lär dig hur du skapar, konfigurerar och publicerar meddelanden i appen i kampanjer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on){trancript=true}
 
 ## Ytterligare resurser
 

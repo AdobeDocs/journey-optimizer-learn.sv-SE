@@ -9,9 +9,9 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
-source-git-commit: 7770f6c3ba68edcf11b0c2638d757b1cee2c32bd
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Förstå vad sandlådor är och hur du skiljer mellan utvecklings- och produktionssandlådor. Lär dig hur du skapar, återställer och tar bort sandlådor.
 
->[!VIDEO](https://video.tv.adobe.com/v/334355?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334355?quality=12&learn=on){trancript=true}

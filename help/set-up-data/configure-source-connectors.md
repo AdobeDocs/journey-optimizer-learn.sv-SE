@@ -9,9 +9,9 @@ team: PM
 role: Developer
 level: Beginner
 exl-id: dd557040-248f-4e52-b8d7-67b684c6e18b
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '32'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig mer om källanslutningar och hur du konfigurerar dem i Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/335919?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335919?quality=12&learn=on){trancript=true}

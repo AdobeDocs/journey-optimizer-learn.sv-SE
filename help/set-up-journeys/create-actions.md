@@ -9,9 +9,9 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 45206e23-46bf-4aaf-8d45-012ea0e64e92
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '31'
+source-wordcount: '33'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig vad en åtgärd är i Journey Optimizer och hur du konfigurerar en anpassad åtgärd.
 
->[!VIDEO](https://video.tv.adobe.com/v/334257?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334257?quality=12&learn=on){trancript=true}

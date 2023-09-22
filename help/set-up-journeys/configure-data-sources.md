@@ -9,10 +9,10 @@ team: PM
 role: Admin, Developer
 level: Beginner
 exl-id: 042d94dc-2906-4745-8375-02ff888165a8
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 15%
+source-wordcount: '42'
+ht-degree: 14%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 15%
 
 Lär dig mer om vad en datakälla är och hur du konfigurerar Experience Platform och externa datakällor.
 
->[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12&learn=on){trancript=true}

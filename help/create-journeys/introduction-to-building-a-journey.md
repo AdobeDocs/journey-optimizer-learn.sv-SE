@@ -11,10 +11,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: dc510572-96c8-42bd-b213-e8738510bb0c
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 81%
+source-wordcount: '56'
+ht-degree: 78%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 81%
 
 Förstå grunderna för att skapa en resa på researbetsytan.
 
->[!VIDEO](https://video.tv.adobe.com/v/334522?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334522?quality=12&learn=on){trancript=true}

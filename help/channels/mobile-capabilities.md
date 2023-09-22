@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10169
 thumbnail: 342102.jpeg
 exl-id: d5e04656-c99e-490e-872e-ea153a81dd98
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder marknadsförare.
 
->[!VIDEO](https://video.tv.adobe.com/v/342102?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342102?quality=12&learn=on){trancript=true}

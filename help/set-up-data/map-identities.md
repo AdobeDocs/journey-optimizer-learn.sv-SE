@@ -9,9 +9,9 @@ team: PM
 role: Developer
 level: Beginner
 exl-id: 05264e3e-7ed1-422e-8cde-f09c6d7e590b
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur och när ett schemafält ska etiketteras som en identitet, hur du skapar ett namnutrymme, när en identitet ska vara primär och hur du importerar och verifierar identitetsdata.
 
->[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12&learn=on){trancript=true}

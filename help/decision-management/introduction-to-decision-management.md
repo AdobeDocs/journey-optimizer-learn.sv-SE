@@ -7,10 +7,10 @@ role: Admin, Developer, Leader, User
 level: Beginner
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 36%
+source-wordcount: '52'
+ht-degree: 34%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 36%
 Få en översikt över beslutshanteringsfunktionerna för Journey Optimizer. Videon handlar om de affärsutmaningar som beslutsprocesserna löser, dess nyckelfunktioner, den grundläggande arkitekturen och de huvudsakliga användningsområdena.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on){trancript=true}

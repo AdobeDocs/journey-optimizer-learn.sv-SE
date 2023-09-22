@@ -1,6 +1,6 @@
 ---
 title: Innehållsmallar
-description: Lär dig hur du skapar, redigerar och använder innehållsmallar.
+description: Lär dig skapa, redigera och använda innehållsmallar.
 feature: Email
 role: User
 level: Beginner
@@ -8,15 +8,15 @@ jira: KT-10846
 thumbnail: 3413743.jpg
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 6c9bfc6b-4391-433c-82b2-427662766402
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 18%
+source-wordcount: '24'
+ht-degree: 16%
 
 ---
 
 # Innehållsmallar
 
-Lär dig hur du skapar, redigerar och använder innehållsmallar.
+Lär dig skapa, redigera och använda innehållsmallar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413743?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413743?quality=12&learn=on){trancript=true}

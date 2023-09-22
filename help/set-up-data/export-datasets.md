@@ -10,9 +10,9 @@ jira: KT-13113
 thumbnail: 3418688.jpeg
 badge: label="Beta" type="Informative"
 exl-id: 17e1d65c-2548-4d50-bc9f-4e30d729fb5b
-source-git-commit: eb45fa6fd3382ee842d5b0bc937a83e0e271bb44
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,6 @@ Lär dig hur du exporterar en datauppsättning från Journey Optimizer till ett 
 >[!NOTE]
 >Under betafasen är alla datauppsättningar synliga. När den här funktionen är allmänt tillgänglig begränsas den till enbart de systemgenererade datauppsättningarna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){trancript=true}
 
 Se [produktdokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=en) för mer information.

@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: 1309356c5626d54c70ddb07d31f2f53fe05c6793
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 42%
+source-wordcount: '52'
+ht-degree: 40%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 42%
 
 Förstå vad Adobe Journey Optimizer är, vilka affärsutmaningar programmet löser och vilka de viktigaste användningsområdena är.
 
->[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12&learn=on){trancript=true}
 
   <br>
