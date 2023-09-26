@@ -3,10 +3,10 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: eb4bbc4cd8eb511dbadc87cb9b7bc6c9838a8394
+source-git-commit: 076be9da7d5fd89e47852a6d275602f10a81d7bd
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 19%
+source-wordcount: '412'
+ht-degree: 18%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 19%
 + Webbkanal {#web-channel}
    + [Skapa en webbkampanj](/help/channels/create-a-web-campaign.md)
    + [Skapa en webbkampanj](/help/channels/author-a-web-campaign.md)
+   + [SPA i webbredigeraren](/help/channels/singel-page-application-support.md)
 + Profiler, målgrupper och prenumerationer {#profiles-segments-subscriptions}
    + [Enhetlig profil och segmentering - översikt](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Skapa segment](/help/set-up-resources/create-segments.md)
@@ -93,6 +94,7 @@ ht-degree: 19%
    + [Exportera datauppsättningar till molnlagringsplatser](/help/set-up-data/export-datasets.md)
 + Rapportera och övervaka {#report-and-monitor}
    + [Live- och globala rapporter](/help/report-and-monitor/live-and-global-reports.md)
+   + [Kanalnivårapporter](/help/report-and-monitor/channel-level-reports.md)
    + [Använda varningar](/help/administration/alerts.md)
 + Konfiguration {#configuration}
    + Konfigurera kanaler {#channel-configuration}
