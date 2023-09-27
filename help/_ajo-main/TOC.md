@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 72208c0530f1055f46a232773a3480f807a09f8b
+source-git-commit: bc127e90867bcda59a44881e7e4f462be2e88d5e
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 18%
