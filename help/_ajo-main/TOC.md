@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3b0b830bb1d5e813df49625c8125924a0bca9364
+source-git-commit: 72208c0530f1055f46a232773a3480f807a09f8b
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '422'
 ht-degree: 18%
 
 ---
@@ -96,6 +96,7 @@ ht-degree: 18%
 + Rapportera och övervaka {#report-and-monitor}
    + [Live- och globala rapporter](/help/report-and-monitor/live-and-global-reports.md)
    + [Kanalnivårapporter](/help/report-and-monitor/channel-level-reports.md)
+   + [Exportera rapporter i CSV-format](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Använda varningar](/help/administration/alerts.md)
 + Konfiguration {#configuration}
    + Konfigurera kanaler {#channel-configuration}
