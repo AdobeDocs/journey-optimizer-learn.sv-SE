@@ -5,11 +5,11 @@ feature: Web Channel
 role: Developer
 level: Intermediate
 doc-type: Feature Video
-last-substantial-update: 2023-09-25T00:00:00Z
+last-substantial-update: 2023-09-28T00:00:00Z
 jira: KT-14009
 thumbnail: 3424536.jpeg
 hidefromtoc: true
-source-git-commit: 5ab4e91cc116ce68839b2a67c80bce4a76723df2
+source-git-commit: c87b549fc6d72cbc9c94cdce4e12d48135041fa0
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
