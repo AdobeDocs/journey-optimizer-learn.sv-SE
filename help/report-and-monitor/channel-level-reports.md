@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-26T00:00:00Z
 jira: KT-14033
 thumbnail: 3424537.jpeg
-hidefromtoc: false
-source-git-commit: 472541ddc746d8663cfe02fe219e505b0269b669
+hidefromtoc: true
+source-git-commit: 5ab4e91cc116ce68839b2a67c80bce4a76723df2
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
