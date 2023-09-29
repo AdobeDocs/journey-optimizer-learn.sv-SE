@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
 source-wordcount: '1021'
 ht-degree: 2%
@@ -20,9 +20,9 @@ ht-degree: 2%
 I det här avsnittet skapar du de identitetsnamnutrymmen som krävs och definierar [!DNL Luma] exempeldatastrukturen genom att skapa [[!UICONTROL scheman]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html).
 
 >[!TIP]
->Se videosjälvstudiekursen [Mappa identiteter](/help/set-up-data/map-identities.md) innan du börjar.
+>Se videosjälvstudiekursen [Mappa identiteter](/help/data-management/map-identities.md) innan du börjar.
 
-## Steg 1: Skapa ID-namnutrymmen
+## Steg 1: Skapa identitetsnamnutrymmen
 
 I det här steget skapar du identitetsnamnutrymmen för [!DNL Luma] anpassade identitetsfält namngivna `lumaLoyaltyId`, `lumaCrmId`och `lumaProductSKU`. Identitetsnamnutrymmen spelar en viktig roll när det gäller att skapa kundprofiler i realtid, eftersom två matchande värden i samma namnutrymme gör att två datakällor kan bilda ett identitetsdiagram.
 
@@ -69,7 +69,7 @@ I det här steget definierar du strukturen för exempeldata genom att skapa sex 
 
 >[!TIP]
 >
->Se videosjälvstudiekursen: [Skapa ett schema](/help/set-up-data/create-schema.md) innan du börjar.
+>Se videosjälvstudiekursen: [Skapa ett schema](/help/data-management/create-schema.md) innan du börjar.
 
 ### Skapa [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
 
@@ -135,7 +135,7 @@ Den nya, tomma fältgruppen läggs till i ditt schema. Med +-knapparna kan du l�
 
 1. I **[!UICONTROL Fältegenskaper]** sidofältet, lägg till information om det nya fältet:
 
-   * **Fältnamn:** `systemIdentifier`
+   * **Fält:** `systemIdentifier`
 
    * **[!UICONTROL Visningsnamn]:** `System Identifier`
 
@@ -172,7 +172,7 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
    4. Aktivera **[!UICONTROL Primär identitet]** box.
 
-   5. Välj `Luma Loyalty Id` namnutrymme från **[!UICONTROL Identitetsnamnutrymmen]** nedrullningsbar meny.
+   5. Välj `Luma Loyalty Id` namnutrymme från **[!UICONTROL Identitetsnamnutrymmen]** listrutemeny.
 
    6. Välj **[!UICONTROL Använd]**.
 
@@ -188,7 +188,7 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
    3. I **[!UICONTROL Fältegenskaper]**, aktivera **[!UICONTROL Identitet]** box.
 
-   4. Välj `Luma CRM Id` namnutrymme från **[!UICONTROL Identitetsnamnutrymmen]** listruta.
+   4. Välj `Luma CRM Id` namnutrymme från **[!UICONTROL Identitetsnamnutrymmen]** nedrullningsbar meny.
 
    5. Välj **[!UICONTROL Använd]**.
 
@@ -220,13 +220,13 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
 1. Skapa en [!UICONTROL Fältgrupp]:
 
-   * Visningsnamn: `Luma Product Catalog Field Group`
+   * Visningsnamn `Luma Product Catalog Field Group`
 
 1. Lägg till följande fält i **[!DNL Luma Product Catalog Field Group]**.
 
-   * Fältnamn: `product`
+   * Fält: `product`
 
-   * Visningsnamn: `Product`
+   * Visningsnamn `Product`
 
    * Typ: [!UICONTROL Objekt]
 
@@ -272,15 +272,15 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
 1. Skapa en [!UICONTROL fältgrupp]:
 
-   * Visningsnamn: `Luma Product Inventory Event Details Field Group`
+   * Visningsnamn `Luma Product Inventory Event Details Field Group`
 
 1. Lägg till **[!UICONTROL Visningsnamn]** `Luma Product Inventory Event Schema` till schemat.
 
 1. Lägg till följande fält i **[!DNL Luma Product Inventory Event Details Field Group]**:
 
-   * Fältnamn: `inventoryEvent`
+   * Fält: `inventoryEvent`
 
-   * Visningsnamn: `Inventory Event`
+   * Visningsnamn `Inventory Event`
 
    * Typ: [!UICONTROL Objekt]
 
@@ -311,7 +311,7 @@ Nu har du [!UICONTROL namespace] och [!DNL Luma Loyalty schema] konfigurerad. In
 
 1. Ange `inventory.Event.sku` fält som **[!UICONTROL primär identitet]** med **[!DNL LumaProductSKU namespace]**.
 
-1. Välj `sku` fält och definiera en relation till `product.sku` i **[!DNL Luma Product catalog Schema]** Schema:
+1. Välj `sku` fält och definiera en relation till `product.sku` fältet i **[!DNL Luma Product catalog Schema]** Schema:
 
    1. Bläddra nedåt till nederkanten av **[!UICONTROL Fältegenskaper]**.
 

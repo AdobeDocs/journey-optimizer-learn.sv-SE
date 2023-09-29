@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bc127e90867bcda59a44881e7e4f462be2e88d5e
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '427'
 ht-degree: 18%
 
 ---
@@ -87,12 +87,13 @@ ht-degree: 18%
    + [Leverera erbjudanden med besluts-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Frekvensbegränsning](/help/decision-management/frequency-capping.md)
 + Datahantering {#data-management}
-   + [Översikt](/help/set-up-data/set-up-data-overview.md)
-   + [Skapa ett schema](/help/set-up-data/create-schema.md)
-   + [Mappa identiteter](/help/set-up-data/map-identities.md)
-   + [Skapa datauppsättningar och importera data](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [Konfigurera källanslutningar](/help/set-up-data/configure-source-connectors.md)
-   + [Exportera datauppsättningar till molnlagringsplatser](/help/set-up-data/export-datasets.md)
+   + [Översikt](/help/data-management/set-up-data-overview.md)
+   + [Skapa ett schema](/help/data-management/create-schema.md)
+   + [Mappa identiteter](/help/data-management/map-identities.md)
+   + [Skapa datauppsättningar och importera data](/help/data-management/create-datasets-and-ingest-data.md)
+   + [Konfigurera källanslutningar](/help/data-management/configure-source-connectors.md)
+   + [Konfigurera ett mål för datauppsättningsexport](/help/data-management/configure-dataset-export-destination.md)
+   + [Exportera datauppsättningar till molnlagringsplatser](/help/data-management/export-datasets.md)
 + Rapportera och övervaka {#report-and-monitor}
    + [Live- och globala rapporter](/help/report-and-monitor/live-and-global-reports.md)
    + [Kanalnivårapporter](/help/report-and-monitor/channel-level-reports.md)
