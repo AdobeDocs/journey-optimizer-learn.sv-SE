@@ -7,28 +7,26 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
 # Skapa ett välkomstmeddelande om lojalitetsstatus - Problem
 
-![Förmånsstatus, välkomstmeddelande - Challenge Banner](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
-
 | Utmaning | Skapa ett välkomstmeddelande om lojalitetsstatus |
 |---|---|
 | Persona | Resechef |
 | Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segmentkvalificering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Importera HTML-innehåll](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
-| Resurser att hämta | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
+| Resurser att ladda ned | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 {style="table-layout:auto"}
 
-## The story
+## Artikeln
 
-Luma erbjuder ett lojalitetsprogram som ett sätt att attrahera och behålla sina kunder. Programmet har fyra olika nivåer: Brons, silver, guld och platina. Varje lojalitetsnivå får olika belöningar, rabatter och andra specialincitament som belöning för sin återkommande verksamhet.
+Luma erbjuder ett lojalitetsprogram som ett sätt att attrahera och behålla sina kunder. Programmet har fyra olika nivåer: Bronze, Silver, Guld och Platinum. Varje lojalitetsnivå får olika belöningar, rabatter och andra specialincitament som belöning för sin återkommande verksamhet.
 
 För att understryka platinastatusen vill Luma skicka ett välkomstmeddelande till kunder när de når platinagruppen.
 
@@ -42,7 +40,7 @@ Du har ombetts att konfigurera en resa som automatiskt skickar ett välkomstmedd
 
 När en lojalitetskund kvalificerar sig för platinagruppen bör de få ett e-postmeddelande där de kan gratulera och informera om sina nya fördelar. Det kreativa teamet har tagit fram en HTML-fil **[Luma - statusuppgradering - välkomstmeddelande](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** med e-postbrödtexten.
 
-1. Skapa en [!UICONTROL segment] i Journey Optimizer `Luma - platinum status`.
+1. Skapa en [!UICONTROL segment] i JOURNEY OPTIMIZER `Luma - platinum status`.
 
 1. Skapa en anropad resa `Luma - New Status - platinum`.
 
