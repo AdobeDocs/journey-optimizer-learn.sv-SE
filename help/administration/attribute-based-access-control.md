@@ -2,12 +2,13 @@
 title: Konfigurera attributbaserad åtkomstkontroll
 description: Lär dig hur du konfigurerar attributbaserad åtkomstkontroll för att styra åtkomsten till specifika Experience Platform-resurser.
 feature: Access Management
-role: Admin, User
+role: Admin
 level: Beginner
 jira: KT-10336
 thumbnail: 345641.jpeg
 last-substantial-update: 2023-09-29T00:00:00Z
-source-git-commit: f08f646c2317cc17356594052d3174065ef00384
+exl-id: bfb62634-5a20-4f4f-b878-c03f978bc4e4
+source-git-commit: 1542a429d393d9d803976d1490a3bc09654b706b
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
