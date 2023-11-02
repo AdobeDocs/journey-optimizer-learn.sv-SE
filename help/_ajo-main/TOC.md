@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
+source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 17%
@@ -38,8 +38,10 @@ ht-degree: 17%
    + [Skapa en testprofil](/help/create-journeys/test-a-journey.md)
    + [Publicera en resa](/help/create-journeys/publish-a-journey.md)
    + [Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)
-+ Direktpostkanal{#direct-mail-channel}
-   + [Direktpostkanal](/help/channels/direct-mail.md)
++ Profiler, målgrupper och prenumerationer {#profiles-audiences-subscriptions}
+   + [Enhetlig profil och segmentering - översikt](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [Skapa målgrupper med regelverktyget](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + E-postkanal{#email-channel}
    + [Skapa innehåll med e-postdesignern](/help/channels/create-content-with-the-email-designer.md)
    + [Importera och redigera e-postinnehåll från HTML](/help/channels/import-and-author-html-email-content.md)
@@ -48,6 +50,8 @@ ht-degree: 17%
    + [Hantera, redigera och använda fragment](/help/content-management/manage-author-use-fragments.md)
    + [Skapa och använda uttrycksfragment](/help/content-management/expression-fragments.md)
    + [Konfigurera innehållsexperiment för e-post](/help/experimentation/content-experiments-for-emails.md)
++ Direktpostkanal{#direct-mail-channel}
+   + [Direktpostkanal](/help/channels/direct-mail.md)
 + I appkanalen{#in-app-channel}
    + [Skapa en kampanj i appen](/help/channels/create-an-in-app-campaign.md)
    + [Skapa ett meddelande i appen under en resa](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -62,10 +66,6 @@ ht-degree: 17%
    + [Skapa en webbkampanj](/help/channels/create-a-web-campaign.md)
    + [Skapa en webbkampanj](/help/channels/author-a-web-campaign.md)
    + [SPA i webbredigeraren](/help/channels/singel-page-application-support.md)
-+ Profiler, målgrupper och prenumerationer {#profiles-segments-subscriptions}
-   + [Enhetlig profil och segmentering - översikt](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [Skapa målgrupper med regelverktyget](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Anpassa innehåll {#personalize-content}
    + [Profil- och målgruppsbaserad personalisering](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
