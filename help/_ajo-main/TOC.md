@@ -3,10 +3,10 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e775fc958c65a001d3ca1e09b0b43b3c69084310
+source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 18%
+source-wordcount: '428'
+ht-degree: 17%
 
 ---
 
@@ -63,8 +63,8 @@ ht-degree: 18%
    + [Skapa en webbkampanj](/help/channels/author-a-web-campaign.md)
    + [SPA i webbredigeraren](/help/channels/singel-page-application-support.md)
 + Profiler, målgrupper och prenumerationer {#profiles-segments-subscriptions}
-   + [Enhetlig profil och segmentering - översikt](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
-   + [Skapa segment](/help/set-up-resources/create-segments.md)
+   + [Enhetlig profil och segmentering - översikt](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [Skapa målgrupper med regelverktyget](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Anpassa innehåll {#personalize-content}
