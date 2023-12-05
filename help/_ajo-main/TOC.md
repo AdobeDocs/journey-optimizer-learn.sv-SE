@@ -3,10 +3,10 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
+source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 17%
+source-wordcount: '463'
+ht-degree: 11%
 
 ---
 
@@ -74,7 +74,7 @@ ht-degree: 17%
    + [Använd hjälpfunktioner för personalisering](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Skapa dynamiskt innehåll med villkorsregelbyggaren](/help/personalize-content/create-dynamic-content.md)
-+ Beslutshantering {#decision-management}
++ Beslutsledning {#decision-management}
    + [Introduktion till beslutshantering](/help/decision-management/introduction-to-decision-management.md)
    + [Demo av beslutsstyrningskapaciteten](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Skapa placeringar](/help/decision-management/create-placements.md)
@@ -120,3 +120,9 @@ ht-degree: 17%
    + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
    + [Utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Summit Lab](/help/summit-lab-731/l731-assets.md)
++ Experience League Live-inspelningar{#experience-league-live-recordings}
+   + [API Triggered Messaging i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en){target="_blank"}
+   + [Maximera mobilappens potential med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en){target="_blank"}
+   + [Leverera rätt erbjudande vid rätt tidpunkt med beslutsstöd](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en){target="_blank"}
+   + [Kör era kampanjer i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en){target="_blank"}
+   + [Push-meddelanden med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en){target="_blank"}
