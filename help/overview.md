@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
+source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -20,25 +20,6 @@ ht-degree: 0%
 Journey Optimizer hjälper företag att leverera sammankopplade, kontextuella och personaliserade upplevelser till sina kunder. Kundresan är hela processen för kundens interaktioner med varumärket, från första kontakten tills kunden lämnar webbplatsen.
 
 Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner.
-
-<div id="whats-new-section">
-
-## Nyheter
-
-* **[Skapa dynamiskt innehåll med villkorsregelbyggaren](/help/personalize-content/create-dynamic-content.md)**
-  *Lär dig hur du skapar och sparar villkorsregler och hur du tillämpar dessa regler på innehåll i alla kanaler.*
-
-* **[Använda varningar](/help/administration/alerts.md)**
-  *Lär dig hur du prenumererar på fördefinierade aviseringar om oväntade resbeteenden och får meddelanden via e-post, i Journey Optimizer eller via ett API.*
-
-* **[Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)**
-  *Lär dig hur du kopierar en resa och dess beroende objekt från en sandlåda till en annan.*
-
-* **[Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)**
-  *Förstå vad datamaskering är och varför maskdata är. Lär dig maskera data i Journey Optimizer-meddelanden.*
-
-</div>
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
