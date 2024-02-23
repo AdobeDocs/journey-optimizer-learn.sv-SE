@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-02-17T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-14980
 thumbnail: KT-14980.jpeg
-source-git-commit: c35b58a488d37d0cba9aa79cdb04924162655a68
+source-git-commit: b94feb28ca606902d07d54db362145ef17cda229
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
