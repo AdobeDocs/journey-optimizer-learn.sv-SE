@@ -9,7 +9,7 @@ duration: 0
 last-substantial-update: 2024-02-17T00:00:00Z
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: c35b58a488d37d0cba9aa79cdb04924162655a68
+source-git-commit: c33bd4645e5482956e643a0b65fe5713917d4073
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%

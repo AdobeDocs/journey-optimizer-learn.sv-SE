@@ -9,7 +9,7 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 thumbnail: KT-14980.jpeg
-source-git-commit: b94feb28ca606902d07d54db362145ef17cda229
+source-git-commit: c33bd4645e5482956e643a0b65fe5713917d4073
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
