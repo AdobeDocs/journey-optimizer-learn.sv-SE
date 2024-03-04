@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizer Tutorials - översikt
+title: Självstudiekurser om Journey Optimizer
 description: Vi har en mängd videokurser som visar hur du kan dra nytta av fördelarna med Journey Optimizer.
 recommendations: noDisplay, noCatalog
 feature: Get Started
@@ -7,15 +7,15 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+source-git-commit: 53f92861c15c65dac900f279dd815efa314741a1
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 0%
+source-wordcount: '489'
+ht-degree: 1%
 
 ---
 
 
-# Journey Optimizer självstudiekurser
+# Självstudiekurser om Journey Optimizer
 
 Journey Optimizer hjälper företag att leverera sammankopplade, kontextuella och personaliserade upplevelser till sina kunder. Kundresan är hela processen för kundens interaktioner med varumärket, från första kontakten tills kunden lämnar webbplatsen.
 
