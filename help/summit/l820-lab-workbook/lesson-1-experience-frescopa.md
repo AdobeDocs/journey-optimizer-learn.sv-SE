@@ -1,6 +1,6 @@
 ---
-title: Lektion 1 - Upplev Frescopa
-description: Upplev de olika scenarierna på Frescopa-webbplatsen.
+title: Lesson 1 - Experience Fréscopa
+description: Upplev de olika scenarierna på Fréscopas webbplats.
 feature: Push, In App
 role: User
 level: Intermediate
@@ -9,48 +9,147 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
-source-git-commit: c33bd4645e5482956e643a0b65fe5713917d4073
+source-git-commit: df3355648178bf049df2f672528e207b53c90f28
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
 
 
-# Lektion 1 - Upplev Frescopa
+# Lesson 1 - Experience Fréscopa
 
 I den här lektionen kommer ni att uppleva interaktionen med varumärket som en konsument innan ni skapar mobilupplevelser som marknadsförare i följande lektioner.
 
-## Utbildningsmål 
+## Utbildningsmål
 
-* Skapa ett konto på Frescopa 
-* Hämta och installera mobilappen 
-* Upplev de olika scenarierna på Frescopa-webbplatsen 
-* Upplev de olika scenarierna i appen Frescopa
+* Skapa ett konto på Fréscopa.
+* Hämta och installera mobilappen.
+* Upplev de olika scenarierna på Fréscopas webbplats.
+* Upplev de olika scenarierna för appen Fréscopa.
 
-## Utövningar
+## Utgång 1.1 - Skapa ett konto
+
+1. Navigera till [Fréscopa-webbplatsen](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA5NjAyMzQzLCJleHAiOjE3MTE0MTY3NDN9.V3zEKnVL3vGpPqr_34XjnJ5PSYKApYviBE02zyBalsY){target="_blank"}
+
+1. På startsidan för Fréscopa klickar du på **[!UICONTROL Logga in]**.
+
+   ![Fréscopa homepage](/help/summit/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa homepage")
+
+1. Välj på inloggningssidan **[!UICONTROL Skapa ett konto]**.
+
+   ![Inloggningssida för Fréscopa](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa-inloggning")
+
+1. Fyll i dina uppgifter på nästa sida:
+
+   1. Lägg till **förnamn** och **efternamn**.
+
+   1. Ange en **e-postadress** som du kommer åt under labbet.
+
+      >[!IMPORTANT]
+      > Kom ihåg den e-postadress du registrerade dig med och att du kan komma åt e-postkontot under labbet. Du behöver det här för att logga in på webbplatsen och appen!
+
+   1. Om du vill få SMS-meddelanden som du skapar under labbet anger du **mobiltelefonnummer**, inklusive med landskoden:
+
+      Till exempel: `+14502741234`
+
+   1. Ange en **gatuadress** och **stad**.
+
+   1. Ange **platsnummer**. (Du kan hitta den på din labbdator.)
+
+      ![Skrivbordsdator med Lab](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+
+   1. Om du vill ange om du har en Fréscopa-dator väljer du antingen **Ja** eller **Nej**.
+
+1. Klicka **Registrera**.
+
+   ![Registreringssida för Fréscopa](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
+
+## Exercise 1.2 - Hämta och installera appen Fréscopa
+
+Installera mobilappen på din iOS- eller Android™-enhet genom att antingen skanna QR-koden från det meddelande du får när du registrerar dig eller nedan:
+
+![QR-koder för mobilappen Fréscopa](/help/summit/l820-lab-workbook/assets/1-2-1-qr-codes.png "QR-koder för mobilappen Fréscopa")
+
+Enhetsspecifik installation:
 
 >[!BEGINTABS]
 
->[!TAB Utgång 1.1 - Skapa ett konto och hämta och installera appen Frescopa ]
+>[!TAB iOS]
 
-### Utgång 1.1 - Skapa ett konto och hämta och installera appen Frescopa 
+### iOS:
+
+När du har installerat programmet måste du lita på utvecklaren av företagsprogrammet i Adobe:
+
+1. Gå till **Inställningar** > **Allmänt** > **VPN och enhetshantering**.
+
+   ![Inställningsskärm för enhetshantering](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Inställningsskärm för enhetshantering"){width="250" align="center" zoomable="yes"}
+
+1. Välj **Adobe Systems Inc** och **Lita på Adobe Systems Inc**.
+
+   ![Adobe Systems urvalsskärm](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems urvalsskärm"){width="250" align="center" zoomable="yes"}
+   <br>
+
+   ![Lita på Adobe Systems](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+
+   * Nu bör du kunna starta **appen Fréscopa** på din iPhone: ![Fréscopa App Icon](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
- 
->[!TAB Utövning 1.2 - Utforska webbplatsen]
+1. Öppna appen.
 
-### Utövning 1.2 - Utforska webbplatsen
+1. Klicka på i popup-fönstret **Tillåt**, så att DX Demo-appen kan skicka meddelanden till dig.
 
-Bekanta dig med Frescopas webbplats:
+   ![meddelandepopup](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
-Navigera till https://dsn.adobe.com/web/adobe-summit-2024/home
+>[!TAB Android]
 
-Här är saker du bör göra:
+### Android
 
-1. Fyll i kaffeundersökningen
-2. 5 webbaserade meddelanden i appen utlöses 
-3. Registrera dig för en kaffeprenumeration 
-4. Köpt en produkt
+Hämta och installera APK-filen på Android genom att följa de varningsinstruktioner som visas här:
+
+![Android - nedladdningsskärm](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android - nedladdningsskärm"){width="250" align="center" zoomable="yes"}
+<br>
+![Installationsskärm för Android](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+
+* Nu bör du kunna starta **appen Fréscopa** på din Android-enhet: ![Fréscopa App Icon](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
+
+## Utforska 1.3 - Utforska webbplatsen och appen
+
+Bekanta dig med [Fréscopa-webbplatsen](https://dsn.adobe.com/web/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA4NjQyNTU4LCJleHAiOjE3MTA0NTY5NTh9.m4N8Bs5ZB1jYbUSdl1B6MaYJvUiolIYI_T_TcR-xMfU){target="_blank"} och mobilappar. Upplev de olika meddelandena i appen, push och SMS som implementerats i AJO och utlöses via era interaktioner.
+
+Här är några saker du bör pröva:
+
+På webbplatsen:
+
+* Logga in.
+* Utforska webbplatsen för att utlösa webbaserade meddelanden i appen.
+* Lägg artiklar i kundvagnen.
+* Kolla in kundvagnen.
+
+På mobilapplikationen:
+
+* Logga in.
+* Utforska appen och aktivera upplevelser i appen.
+   * Fyll i kaffeundersökningen.
+   * Registrera dig för en kaffeprenumeration.
+   * Lägg artiklar i kundvagnen.
+   * Kolla in kundvagnen.
+
+Du får märken för var och en av dessa aktiviteter.
+
+>[!SUCCESS]
+>Kontrollera din status:
+>
+>På Frescopa-hemsidan klickar du på **Utmaningsförlopp för Adobe Summit Lab** (längst ned på sidan).
+> 
+>  ![Knappen Utmaningsförlopp](/help/summit/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
+>
+> Du kan se vilka märken du har fått:
+> 
+> ![Badges](/help/summit/l820-lab-workbook/assets/1-3-badges.png)
+
+I följande lektioner får du lära dig hur du skapar mobil- och webbupplevelser i Adobe Journey Optimizer.
+
+[def]: /help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG

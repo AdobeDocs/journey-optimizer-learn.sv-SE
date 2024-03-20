@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
+source-git-commit: ec5d79920c305ad77f042db845932a8b1671e65b
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 3%
+source-wordcount: '334'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Den här sidan innehåller text och länkar som används i L731 Summit Lab. Du kan kopiera och klistra in innehållet i dina Journey Optimizer-meddelanden.
 
-## Utgång 1.1 - Hämta och installera appen
+## Utövning 1.1 - Hämta och installera appen
 
 Skanna QR-koden för att hämta appen
 
@@ -140,7 +140,7 @@ Klicka **Installera ändå**
 
 >[!ENDTABS]
 
-## Utövning 1: Logga in på Adobe Journey Optimizer
+## Utgång 1: Logga in på Adobe Journey Optimizer
 
 [Klicka här för att logga in på Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
@@ -163,11 +163,11 @@ Klicka **Installera ändå**
 | **Redigera innehåll:** Knappar | Interaktionshändelse | CTA i appen |  |
 | **Förhandsgranska på enhet** | Bas-URL som ska användas för förhandsvisning på enheten |  | **iOS:** lab:// <br>**Android**: https://lab |
 
-## Utövning 3: Skapa ett push-meddelande
+## Utgång 3: Skapa ett push-meddelande
 
 | Fält | Text | Länkar |
 |----|----|----|
-| Kampanjnamn | `<your seat number> Max Push Campaign` |  |
+| Kampanjnamn | **`<your seat number> Max Push Campaign`** |  |
 | Titel | Hej! |  |
 | Brödtext | Visste du att Adobe Max kommer tillbaka till Vegas? Boka ditt rum nu och få 10 % rabatt. |  |
 | Alternativet Media URL |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |

@@ -1,17 +1,17 @@
 ---
 title: Lab Workbook - L820 - Bygg personliga mobilmöten med Adobe Journey Optimizer
-description: Utforska en mängd olika mobilscenarier och lär dig hur ni implementerar personaliserade upplevelser för webben och mobiler med Journey Optimizer.
+description: Utforska olika mobilscenarier och lär dig hur ni implementerar personaliserade upplevelser för webben och mobiler med Journey Optimizer.
 feature: Overview
 role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-02-17T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: c33bd4645e5482956e643a0b65fe5713917d4073
+source-git-commit: a447bd23478c2735642548ef573b627889becdf9
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -24,34 +24,36 @@ ht-degree: 0%
 
 ## L820 - Bygg personaliserade mobilstunder med Adobe Journey Optimizer
 
-I det här praktiska labbet kommer du att utforska en rad olika mobilscenarier och lära dig hur du implementerar personaliserade upplevelser för webben och mobiler med Journey Optimizer.
+I detta praktiska labb utforskar ni olika mobilscenarier och lär er hur ni implementerar personaliserade upplevelser för webben och mobiler med Journey Optimizer.
 
 ### Viktiga uppgifter
 
 * Förstå de olika mobilupplevelser som stöds.
+* Konfigurera en push-kampanj.
 * Lär dig hur du konfigurerar kampanjer i appen för mobiler.
 * Konfigurera webb-meddelanden i programmet.
-* Konfigurera push-kampanjer.
 * Testa era egna personaliserade scenarier.
 
 ### Förutsättningar
 
+* Ha koll på ditt platsnummer: Du hittar ditt platsnummer på labbdatorns skrivbord:
+
+![Sätsnummer](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 Du måste ha tillgång till:
 
-* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - inloggningsuppgifter kommer att anges under övningarna.
-* [Frescopa-webbplatsen](https://dsn.adobe.com/web/adobe-summit-2024/home){target="_blank"}
+* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - Inloggningsuppgifter finns tillgängliga under övningarna.
+* [Fréscopa-webbplatsen](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 
 ### Förstå användningsfallet
 
-Frescopa, ett dynamiskt och innovativt företag, är specialiserat på att revolutionera kaffeupplevelsen genom sin unika blandning av kaffeprenumerationstjänster och en mängd olika kafferelaterade produkter som finns på deras webbplats och i mobilappen. Med sitt engagemang för hög kvalitet och smak ger Frescopa kaffeentusiaster som vill ha bekvämlighet och premiumalternativ.
+Fréscopa, ett dynamiskt och innovativt företag, är specialiserat på att revolutionera kaffeupplevelsen genom sin unika blandning av kaffeprenumerationstjänster och en mängd olika kafferelaterade produkter som finns på deras webbplats och i mobilappen. Med sitt engagemang för att leverera enastående kvalitet och smak kan Fréscopa erbjuda kaffeentusiaster som vill ha bekvämlighet och premiumalternativ.
 
-Kärnan i Frescopas verksamhet ligger i deras kaffeprenumerationstjänster, som ger kunderna ett välstrukturerat urval av högkvalitativa bönor som levereras direkt till deras dörrar. Detta personaliserade tillvägagångssätt gör att kaffeälskare kan njuta av en fräsch och tilltalande upplevelse som är skräddarsydd efter deras önskemål.
+Kärnan i Fréscopas verksamhet ligger i deras kaffeprenumerationstjänster, som ger kunderna ett välstrukturerat urval av högkvalitativa bönor som levereras direkt till deras dörrar. Detta personaliserade tillvägagångssätt gör att kaffeälskare kan njuta av en fräsch och tilltalande upplevelse som är skräddarsydd efter deras önskemål.
 
-Som komplement till sina prenumerationstjänster erbjuder Frescopas webbplats och mobilapp ett omfattande utbud av kafferelaterade produkter, som gör det möjligt för kunderna att utforska och förbättra sina kafferitualer. Frescopa erbjuder allt från bryggutrustning till artistiska tillbehör en heltäckande lösning för kaffearbetare som vill ha kvalitet och bekvämlighet.
+Som komplement till sina prenumerationstjänster erbjuder Fréscopas webbplats och mobilapp ett omfattande utbud av kafferelaterade produkter, som gör det möjligt för kunderna att utforska och förbättra sina kafferitualer. Fréscopa är en komplett butik för kaffearbetare som vill ha kvalitet och bekvämlighet, från bryggningsutrustning till artistiska tillbehör.
 
-Frescopas engagemang för hög kvalitet sträcker sig bortom företagets produkter, eftersom företaget är hängivet att skapa en sömlös och njutbar kundresa. Kombinationen av innovativ teknik och en kundfokuserad strategi ställer Frescopa i täten i den framväxande kaffebranschen.
-Frescopa innefattar i själva verket sammanslagningen av passion och teknologi och omdefinierar det sätt på vilket individer upplever och njuter av sitt kaffe. Med fokus på kvalitet, bekvämlighet och personaliserade erbjudanden bjuder Frescopa in kaffeentusiaster att ge sig in på en smakresa som levereras direkt till deras dörrar.
+Fréscopas engagemang för hög kvalitet sträcker sig bortom dess produkter, eftersom företaget är hängivet att skapa en sömlös och njutbar kundresa. Kombinationen av innovativ teknik och en kundfokuserad strategi gör att Fréscopa ligger i täten i den framväxande kaffebranschen. Fréscopa bygger i själva verket på en fusion av passion och teknologi som omdefinierar det sätt på vilket individer upplever och gillar sitt kaffe. Med fokus på kvalitet, bekvämlighet och personaliserade erbjudanden bjuder Fréscopa in kaffeentusiaster att ge sig in på en smakresa som levereras direkt till deras dörrar.
 
 
 
