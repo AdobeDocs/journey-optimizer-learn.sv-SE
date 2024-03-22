@@ -9,9 +9,9 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: a447bd23478c2735642548ef573b627889becdf9
+source-git-commit: d53c2218ee69c81881b12dedc435826034a710e3
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,17 @@ ht-degree: 0%
 
 ![Adobe Summit - alternativ text](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
+>[!IMPORTANT]
+>
+>Var vänlig och undvik att publicera bilder eller skärmbilder från sessionen i sociala medier.
+>
+>**Sekretess för Adobe**
+>Den information och de produktinformation som delas ut idag under labbet är Adobe Konfidentiella uppgifter.
+>Deltagare får inte återge, använda, sprida eller lämna ut konfidentiella uppgifter till någon person eller enhet.
+>Produktinformation är avsedd endast för informationsändamål, utgör inte någon garanti för framtida funktioner och kan ändras när som helst. Sådana produktfunktioner är inte på något sätt en del av ditt avtal med Adobe eller på annat sätt knutna till dig.
+>
+>**Ansvarsfriskrivning**
+>Adobe ger dig tidig tillgång till funktionerna, som utnyttjar den generativa AI-tekniken. Observera att dessa funktioner fortfarande är under utveckling och kan ge oväntade eller felaktiga svar. Vi välkomnar dina synpunkter när vi lanserar den här funktionen.
 
 ## L820 - Bygg personaliserade mobilstunder med Adobe Journey Optimizer
 
