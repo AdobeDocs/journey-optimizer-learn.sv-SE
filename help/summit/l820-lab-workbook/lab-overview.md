@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: 654520e25814eb94c5b19cb13087c1b93b4e4683
+last-substantial-update: 2024-03-26T00:00:00Z
+exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
+source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
 
 ---
-
 
 # ARBETSBOK FÖR LAB
 
@@ -67,4 +67,3 @@ Kärnan i Fréscopas verksamhet ligger i deras kaffeprenumerationstjänster, som
 Som komplement till sina prenumerationstjänster erbjuder Fréscopas webbplats och mobilapp ett omfattande utbud av kafferelaterade produkter, som gör det möjligt för kunderna att utforska och förbättra sina kafferitualer. Fréscopa är en komplett butik för kaffearbetare som vill ha kvalitet och bekvämlighet, från bryggningsutrustning till artistiska tillbehör.
 
 Fréscopas engagemang för hög kvalitet sträcker sig bortom dess produkter, eftersom företaget är hängivet att skapa en sömlös och njutbar kundresa. Kombinationen av innovativ teknik och en kundfokuserad strategi gör att Fréscopa ligger i täten i den framväxande kaffebranschen. Fréscopa bygger i själva verket på en fusion av passion och teknologi som omdefinierar det sätt på vilket individer upplever och gillar sitt kaffe. Med fokus på kvalitet, bekvämlighet och personaliserade erbjudanden bjuder Fréscopa in kaffeentusiaster att ge sig in på en smakresa som levereras direkt till deras dörrar.
-
