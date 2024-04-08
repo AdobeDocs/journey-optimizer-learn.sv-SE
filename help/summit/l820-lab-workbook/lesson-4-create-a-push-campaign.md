@@ -8,13 +8,13 @@ doc-type: Tutorial
 duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
-source-git-commit: c590b47ad3dfc54badbac0d8fcaff6b9dd053cc1
+exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 0%
+source-wordcount: '781'
+ht-degree: 1%
 
 ---
-
 
 # Lektion 4 - Skapa en push-kampanj
 
@@ -203,8 +203,15 @@ Om du är nöjd med innehållet i ditt meddelande kan du aktivera meddelandet:
 >
 > ![push-resultat](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
+## Ytterligare resurser
 
-**Tack!**
+**Videofilmer:**
 
-Tack för ditt deltagande. Ge oss synpunkter på hur vi gjorde och om labbet uppfyllde dina förväntningar genom att fylla i Lab 820 Session-enkäten i Summit App.
+* [Konfigurera och skicka en push-kampanj](/help/channels/create-a-push-campaign.md)
 
+**Produktdokumentation:**
+
+* [Kom igång med push-meddelanden](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [Skapa ett push-meddelande](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [Utforma ett push-meddelande](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [Kontrollera och skicka push-meddelanden](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

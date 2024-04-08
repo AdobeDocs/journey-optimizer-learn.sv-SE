@@ -9,13 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: fe18eca7-229c-4867-ab34-1862bad63124
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '1395'
+source-wordcount: '1433'
 ht-degree: 0%
 
 ---
-
 
 # Lektion 2 - Skapa en mobilkampanj i appen
 
@@ -309,4 +309,18 @@ The **Duplicera kampanj** och **Förhandsgranska på enhet** funktioner är fär
 >
 > Ditt meddelande i appen visas på din enhet.
 >
-> *När du är ansluten bör ditt meddelande i appen visas varje gång du klickar på&#x200B;**[!UICONTROL Förhandsgranska på enhet] knapp**.*
+> *När du är ansluten bör ditt meddelande i appen visas varje gång du klickar på **[!UICONTROL Förhandsgranska på enhet] knapp**.
+
+## Ytterligare resurser
+
+**Videofilmer:**
+
+* [Skapa en kampanj i appen](/help/channels/create-an-in-app-campaign.md)
+* [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
+
+**Produktdokumentation:**
+
+* [Kom igång med kanalen i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Skapa ett meddelande i appen för mobiler](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Designa ditt innehåll i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Kontrollera och skicka meddelanden i appen](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

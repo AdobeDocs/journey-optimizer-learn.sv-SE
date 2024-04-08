@@ -9,14 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
-
-
 
 # Lektion 3 - Skapa en webbkampanj i appen
 
@@ -144,3 +143,18 @@ I det här avsnittet definierar du innehållet, utformningen och layouten för m
 >Om du klickar på knappen Skicka med ditt unika värde aktiveras webb-i-appmeddelandet. Och du bör se ditt webbaserade meddelande i appen visas på skärmen.
 >
 >Den här övningen simulerade en anpassad XDM-sändningshändelse som du såg genom din Fréscopa-kundupplevelse.
+
+
+## Ytterligare resurser
+
+**Videofilmer:**
+
+* [Skapa en kampanj i appen](/help/channels/create-an-in-app-campaign.md)
+* [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
+
+**Produktdokumentation:**
+
+* [Kom igång med kanalen i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Skapa ett meddelande i appen för webben](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Designa ditt innehåll i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Kontrollera och skicka meddelanden i appen](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
