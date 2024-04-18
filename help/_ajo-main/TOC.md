@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
+source-git-commit: e6b93c32b25c2976828d714ab7230c5cce14da51
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '482'
 ht-degree: 10%
 
 ---
@@ -61,7 +61,6 @@ ht-degree: 10%
    + [Konfigurera och skicka en push-kampanj](/help/channels/create-a-push-campaign.md)
 + SMS-kanal{#sms-channel}
    + [Konfigurera, redigera och leverera SMS-meddelanden](/help/channels/author-sms-messages.md)
-   + [Stöd för inkommande nyckelord för SMS](/help/channels/inbound-keyword-support-for-sms.md)
    + [SMS - Dubbel anmälan för Sinch och Infobip](/help/channels/sms-double-opt-in.md)
 + Webbkanal {#web-channel}
    + [Skapa en webbkampanj](/help/channels/create-a-web-campaign.md)
