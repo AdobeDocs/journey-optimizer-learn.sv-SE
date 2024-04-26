@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e6b93c32b25c2976828d714ab7230c5cce14da51
+source-git-commit: e1b7bd76b1f496b5f43f39004d393739f3e1e0c2
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '487'
 ht-degree: 10%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 10%
    + [Utlösa kampanjer med API:er](/help/create-campaigns/api-triggered-campaigns.md)
    + [Skapa innehållsexperiment för e-postkampanjer](/help/create-campaigns/content-experiments.md)
 + Resor {#create-journeys}
+   + [Upptäck den nya resedesignern](/help/create-journeys/new-journey-designer.md)
    + [Översikt över resans arbetsyta](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Användningsfall - Transaktionsresa](/help/create-journeys/use-case-transactional-journey.md)
