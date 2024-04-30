@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 1499ccefd78a34e8d6f930bae9d6d76db5af9da1
+source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '522'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ## Experience League Live-event
 
-* **[Ny kodbaserad upplevelsekanal i Journey Optimizer](/https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+* **[Ny kodbaserad upplevelsekanal i Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *Lär dig hur du aktiverar inkommande ytor och detaljstyrd personalisering med utvecklarcentrerade åtgärder.*
 
 * **[API Triggered Messaging i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en){target="_blank"}**
