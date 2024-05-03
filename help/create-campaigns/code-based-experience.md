@@ -7,7 +7,7 @@ level: Experienced
 doc-type: Feature Video
 duration: 338
 jira: KT-14044
-source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
+source-git-commit: c25f84966fa9c26ff649cdf01737a4d63e7d0298
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 # Skapa en kodbaserad upplevelsekampanj
 
-{{$include help/_includes/inc-create-a-code-based-experience-campaign.md}}
+{{$include /help/_includes/inc-create-a-code-based-experience-campaign.md}}
