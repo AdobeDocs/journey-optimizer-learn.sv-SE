@@ -8,16 +8,14 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-25T00:00:00Z
 jira: KT-9894
 thumbnail: 3422017.jpeg
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+exl-id: abd47e24-0878-437d-b5d0-e0d9dd1873bc
+source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '24'
 ht-degree: 0%
 
 ---
 
-
 # Konfigurera och skicka en push-kampanj
 
-Lär dig hur du konfigurerar och skickar ett push-meddelande med en kampanj.
-
->[!VIDEO](https://video.tv.adobe.com/v/3422017/?learn=on){trancript=true}
+{{$include /help/_includes/inc-configure-and-send-a-push-campaign.md}}

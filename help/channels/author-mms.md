@@ -1,5 +1,5 @@
 ---
-title: Skapa ett MMS-meddelande
+title: Skriv ett MMS-meddelande
 description: Lär dig hur du ansluter Journey Optimizer till en MMS-tjänsteleverantör och hur du skapar en MMS-kanalyta.
 feature: SMS
 role: Admin, User
@@ -9,14 +9,15 @@ duration: 63
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15444
 exl-id: 810c700b-d629-474c-8ffb-ea44ca187a03
-source-git-commit: f361136919df2a417041e471f33337e8e6536696
+source-git-commit: 5a6ece502b0638f5d160255dbc3f858d11c773da
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# Skapa ett MMS-meddelande
+
+# Skriv ett MMS-meddelande
 
 Lär dig hur du ansluter Journey Optimizer till en MMS-tjänsteleverantör och hur du skapar en MMS-kanalyta.
 

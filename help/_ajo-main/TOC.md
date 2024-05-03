@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 42e7d88fa169980445d537a85681858675023620
+source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '517'
 ht-degree: 10%
 
 ---
@@ -25,7 +25,9 @@ ht-degree: 10%
 + Kampanjer {#create-campaigns}
    + [Skapa en kampanj](/help/create-campaigns/create-a-campaign.md)
    + [Skapa en kampanj i appen](/help/create-campaigns/in-app.md)
-   + [Skapa en webbkampanj](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
+   + [Konfigurera och skicka en push-kampanj](/help/create-campaigns/push-campaign.md)
+   + [Skapa en webbkampanj](/help/create-campaigns/web-campaign.md)
+   + [Skapa en kodbaserad upplevelsekampanj](/help/create-campaigns/code-based-experience.md)
    + [Utlösa kampanjer med API:er](/help/create-campaigns/api-triggered-campaigns.md)
    + [Skapa innehållsexperiment för e-postkampanjer](/help/create-campaigns/content-experiments.md)
 + Resor {#create-journeys}
@@ -51,6 +53,8 @@ ht-degree: 10%
    + [Hantera, redigera och använda fragment](/help/content-management/manage-author-use-fragments.md)
    + [Skapa och använda uttrycksfragment](/help/content-management/expression-fragments.md)
    + [Konfigurera innehållsexperiment för e-post](/help/experimentation/content-experiments-for-emails.md)
++ Kodbaserad upplevelsekanal{#code-based-experience-channel}
+   + [Skapa en kodbaserad upplevelsekampanj](/help/channels/create-a-code-based-experience-campaign.md)
 + Direktpostkanal{#direct-mail-channel}
    + [Direktpostkanal](/help/channels/direct-mail.md)
 + I appkanalen{#in-app-channel}
@@ -62,7 +66,7 @@ ht-degree: 10%
    + [Konfigurera och skicka en push-kampanj](/help/channels/create-a-push-campaign.md)
 + SMS-kanal{#sms-channel}
    + [Konfigurera, redigera och leverera SMS-meddelanden](/help/channels/author-sms-messages.md)
-   + [Skapa ett MMS](/help/channels/author-mms.md)
+   + [Skriv ett MMS-meddelande](/help/channels/author-mms.md)
    + [SMS - Dubbel anmälan för Sinch och Infobip](/help/channels/sms-double-opt-in.md)
 + Webbkanal {#web-channel}
    + [Skapa en webbkampanj](/help/channels/create-a-web-campaign.md)
