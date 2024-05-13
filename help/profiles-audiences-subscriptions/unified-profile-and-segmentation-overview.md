@@ -6,11 +6,12 @@ role: User
 level: Beginner
 jira: KT-10183
 thumbnail: 342114.jpg
+hide: true
 exl-id: 53c853d7-c12e-4e77-aed3-c34039a13c5c
-source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
+source-git-commit: 5aca91806085dff189a1e9deda166be40eb88eb9
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -18,4 +19,4 @@ ht-degree: 0%
 
 Förstå hur man skapar en enhetlig profil och sedan bygger segment baserat på profilattribut för att personalisera kundresor.
 
->[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}
