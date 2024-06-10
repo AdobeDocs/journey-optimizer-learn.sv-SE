@@ -1,19 +1,19 @@
 ---
-user-guide-title: Självstudiekurser om Journey Optimizer
+user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
+user-guide-description: Det här är Journey Optimizer Tutorials.
 auto-video-transcripts: true
-source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
+source-git-commit: 11c852e7e52747306ccd3cfa692c142f631859f7
 workflow-type: tm+mt
 source-wordcount: '524'
-ht-degree: 9%
+ht-degree: 4%
 
 ---
 
 
-# Självstudiekurser om Journey Optimizer {#tutorials}
+# Journey Optimizer Tutorials {#tutorials}
 
-+ [Självstudiekurser om Journey Optimizer](/help/_ajo-main/overview.md)
++ [Journey Optimizer Tutorials](/help/_ajo-main/overview.md)
 + Introduktion till Journey Optimizer {#introduction-to-journey-optimizer}
    + [Introduktion till Journey Optimizer](/help/introduction/introduction.md)
    + [Journey Optimizer - översikt, del 1](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -31,8 +31,8 @@ ht-degree: 9%
    + [Utlösa kampanjer med API:er](/help/create-campaigns/api-triggered-campaigns.md)
    + [Skapa innehållsexperiment för e-postkampanjer](/help/create-campaigns/content-experiments.md)
 + Resor {#create-journeys}
-   + [Upptäck den nya resedesignern](/help/create-journeys/new-journey-designer.md)
    + [Översikt över resans arbetsyta](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [Upptäck den nya resedesignern](/help/create-journeys/new-journey-designer.md)
    + [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Användningsfall - Transaktionsresa](/help/create-journeys/use-case-transactional-journey.md)
    + [Användningsfall - Affärshändelse](/help/create-journeys/use-case-business-event.md)
@@ -122,7 +122,7 @@ ht-degree: 9%
    + [Åtkomsthantering](/help/set-up-access/access-management.md)
    + [Konfigurera attributbaserad åtkomstkontroll](/help/administration/attribute-based-access-control.md)
    + [Skapa och hantera sandlådor](/help/set-up-access/create-and-manage-sandboxes.md)
-+ Sekretess {#privacy}
++ Integritet {#privacy}
    + [Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)
 + Utövningar och utmaningar {#exercises-and-challenges}
    + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
