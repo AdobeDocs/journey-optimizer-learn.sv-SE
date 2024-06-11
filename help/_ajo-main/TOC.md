@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Det här är Journey Optimizer Tutorials.
 auto-video-transcripts: true
-source-git-commit: 11c852e7e52747306ccd3cfa692c142f631859f7
+source-git-commit: 640be5f146208fb7fc3729acbb36edf90aae06e4
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '525'
 ht-degree: 4%
 
 ---
@@ -45,33 +45,34 @@ ht-degree: 4%
    + [Enhetlig profil och segmentering - översikt](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Skapa målgrupper med regelverktyget](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
-+ E-postkanal{#email-channel}
-   + [Skapa innehåll med e-postdesignern](/help/channels/create-content-with-the-email-designer.md)
-   + [Importera och redigera e-postinnehåll från HTML](/help/channels/import-and-author-html-email-content.md)
-   + [Förhandsgranska, granska och publicera](/help/channels/preview-proof-and-publish.md)
-   + [Innehållsmallar](/help/channels/content-templates.md)
-   + [Hantera, redigera och använda fragment](/help/content-management/manage-author-use-fragments.md)
-   + [Skapa och använda uttrycksfragment](/help/content-management/expression-fragments.md)
-   + [Konfigurera innehållsexperiment för e-post](/help/experimentation/content-experiments-for-emails.md)
-+ Kodbaserad upplevelsekanal{#code-based-experience-channel}
-   + [Skapa en kodbaserad upplevelsekampanj](/help/channels/create-a-code-based-experience-campaign.md)
-+ Direktpostkanal{#direct-mail-channel}
-   + [Direktpostkanal](/help/channels/direct-mail.md)
-+ I appkanalen{#in-app-channel}
-   + [Skapa en kampanj i appen](/help/channels/create-an-in-app-campaign.md)
-   + [Skapa ett meddelande i appen under en resa](/help/channels/create-an-in-app-message-in-a-journey.md)
-   + [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
-   + [Konfigurera innehållsexperiment för meddelanden i appen](/help/experimentation/content-experiments-for-in-app-messages.md)
-+ Push-kanal{#push-channel}
-   + [Konfigurera och skicka en push-kampanj](/help/channels/create-a-push-campaign.md)
-+ SMS-kanal{#sms-channel}
-   + [Konfigurera, redigera och leverera SMS-meddelanden](/help/channels/author-sms-messages.md)
-   + [Skriv ett MMS-meddelande](/help/channels/author-mms.md)
-   + [SMS - Dubbel anmälan för Sinch och Infobip](/help/channels/sms-double-opt-in.md)
-+ Webbkanal {#web-channel}
-   + [Skapa en webbkampanj](/help/channels/create-a-web-campaign.md)
-   + [Skapa en webbkampanj](/help/channels/author-a-web-campaign.md)
-   + [SPA i webbredigeraren](/help/channels/singel-page-application-support.md)
++ Kanaler {#channels}
+   + Kodbaserad upplevelsekanal{#code-based-experience-channel}
+      + [Skapa en kodbaserad upplevelsekampanj](/help/channels/create-a-code-based-experience-campaign.md)
+   + Direktpostkanal{#direct-mail-channel}
+      + [Direktpostkanal](/help/channels/direct-mail.md)
+   + E-postkanal{#email}
+      + [Skapa innehåll med e-postdesignern](/help/channels/create-content-with-the-email-designer.md)
+      + [Importera och redigera e-postinnehåll från HTML](/help/channels/import-and-author-html-email-content.md)
+      + [Förhandsgranska, granska och publicera](/help/channels/preview-proof-and-publish.md)
+      + [Innehållsmallar](/help/channels/content-templates.md)
+      + [Hantera, redigera och använda fragment](/help/content-management/manage-author-use-fragments.md)
+      + [Skapa och använda uttrycksfragment](/help/content-management/expression-fragments.md)
+      + [Konfigurera innehållsexperiment för e-post](/help/experimentation/content-experiments-for-emails.md)
+   + I appkanalen{#in-app-channel}
+      + [Skapa en kampanj i appen](/help/channels/create-an-in-app-campaign.md)
+      + [Skapa ett meddelande i appen under en resa](/help/channels/create-an-in-app-message-in-a-journey.md)
+      + [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
+      + [Konfigurera innehållsexperiment för meddelanden i appen](/help/experimentation/content-experiments-for-in-app-messages.md)
+   + Push-kanal{#push-channel}
+      + [Konfigurera och skicka en push-kampanj](/help/channels/create-a-push-campaign.md)
+   + SMS-kanal{#sms-channel}
+      + [Konfigurera, redigera och leverera SMS-meddelanden](/help/channels/author-sms-messages.md)
+      + [Skriv ett MMS-meddelande](/help/channels/author-mms.md)
+      + [SMS - Dubbel anmälan för Sinch och Infobip](/help/channels/sms-double-opt-in.md)
+   + Webbkanal {#web-channel}
+      + [Skapa en webbkampanj](/help/channels/create-a-web-campaign.md)
+      + [Skapa en webbkampanj](/help/channels/author-a-web-campaign.md)
+      + [SPA i webbredigeraren](/help/channels/singel-page-application-support.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Anpassa innehåll {#personalize-content}
    + [Profil- och målgruppsbaserad personalisering](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
