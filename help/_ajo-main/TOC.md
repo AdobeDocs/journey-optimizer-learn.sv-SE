@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Det här är Journey Optimizer Tutorials.
 auto-video-transcripts: true
-source-git-commit: 0865b233b05eceab34881d42ab6b0182e30dc3f5
+source-git-commit: b48fa701b3291e0d6347d5e86110801a0a9aa1ff
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '526'
 ht-degree: 4%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 4%
    + Kodbaserad upplevelsekanal{#code-based-experience-channel}
       + [Skapa en kodbaserad upplevelsekampanj](/help/channels/create-a-code-based-experience-campaign.md)
    + Direktpostkanal{#direct-mail-channel}
-      + [Direktpostkanal](/help/channels/direct-mail.md)
+      + [Skapa direktreklam](/help/channels/direct-mail.md)
    + E-postkanal{#email-channel}
       + [Skapa innehåll med e-postdesignern](/help/channels/create-content-with-the-email-designer.md)
       + [Importera och redigera e-postinnehåll från HTML](/help/channels/import-and-author-html-email-content.md)
