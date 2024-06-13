@@ -13,9 +13,9 @@ hidefromtoc: true
 hide: true
 badgeBeta: label="Beta" type="Informative"
 exl-id: 90b80e5c-ce12-4298-b7be-20a94512062e
-source-git-commit: 507745fa63e82f8fde800c8538fdf8a2e2506c8d
+source-git-commit: 7e8c682b4c7163e659e2cdee62ea05d14d4db7d9
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ Lär dig hur du skapar och kör en IP-värmeringsplan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425965/?learn=on)
 
-Läs produktdokumentationen [Kom igång med planer för IP-värmare](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs.html) för mer information.
+Se [Handbok om bästa praxis för leverans](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/introduction) för bästa praxis om [Målkriterier](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [ISP-specifika överväganden under IP-uppvärmning](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming)och [Volym](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) under IP-uppvärmningen.
