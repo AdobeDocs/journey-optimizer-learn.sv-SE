@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Det här är Journey Optimizer Tutorials.
 auto-video-transcripts: true
-source-git-commit: b48fa701b3291e0d6347d5e86110801a0a9aa1ff
+source-git-commit: 93feb322403ee343686d901576a6c70b1a08287a
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '532'
 ht-degree: 4%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 4%
    + [Användningsfall - Målgruppskvalificering](/help/create-journeys/use-case-audience-qualification.md)
    + [Skapa en testprofil](/help/create-journeys/test-a-journey.md)
    + [Publicera en resa](/help/create-journeys/publish-a-journey.md)
+   + [Uppdatera innehåll i en direktresa](/help/create-journeys/update-content-in-live-journey.md)
    + [Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)
 + Profiler, målgrupper och prenumerationer {#profiles-audiences-subscriptions}
    + [Enhetlig profil och segmentering - översikt](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
