@@ -1,19 +1,19 @@
 ---
-user-guide-title: Journey Optimizer Tutorials
+user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Det här är Journey Optimizer Tutorials.
+user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 6a0f50992c7112be09f85cd4b87268c9441d0d4d
+source-git-commit: 3c32d6ade8353c7533d6d84f5c64325b9a2d778e
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 4%
+source-wordcount: '539'
+ht-degree: 9%
 
 ---
 
 
-# Journey Optimizer Tutorials {#tutorials}
+# Självstudiekurser om Journey Optimizer {#tutorials}
 
-+ [Journey Optimizer Tutorials](/help/_ajo-main/overview.md)
++ [Självstudiekurser om Journey Optimizer](/help/_ajo-main/overview.md)
 + Introduktion till Journey Optimizer {#introduction-to-journey-optimizer}
    + [Introduktion till Journey Optimizer](/help/introduction/introduction.md)
    + [Journey Optimizer - översikt, del 1](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -108,6 +108,7 @@ ht-degree: 4%
    + [Kanalnivårapporter](/help/report-and-monitor/channel-level-reports.md)
    + [Exportera rapporter i CSV-format](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Använda varningar](/help/administration/alerts.md)
+   + [Förbättrad rapportering med Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + Konfiguration {#configuration}
    + Konfigurera kanaler {#channel-configuration}
       + [Konfigurera e-postkanal](/help/set-up-channels/set-up-email-channel.md)
@@ -124,7 +125,7 @@ ht-degree: 4%
    + [Åtkomsthantering](/help/set-up-access/access-management.md)
    + [Konfigurera attributbaserad åtkomstkontroll](/help/administration/attribute-based-access-control.md)
    + [Skapa och hantera sandlådor](/help/set-up-access/create-and-manage-sandboxes.md)
-+ Integritet {#privacy}
++ Sekretess {#privacy}
    + [Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)
 + Utövningar och utmaningar {#exercises-and-challenges}
    + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
