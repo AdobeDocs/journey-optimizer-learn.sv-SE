@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3c32d6ade8353c7533d6d84f5c64325b9a2d778e
+source-git-commit: 823ba83b03a2886a755f0e475c39931f08c76fb2
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '544'
 ht-degree: 9%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 9%
    + [Arkitektur](/help/introduction/architecture.md)
    + [Mobilfunktioner för marknadsförare](/help/channels/mobile-capabilities.md)
    + [Mobilfunktioner för utvecklare](/help/channels/mobile-capabilities-for-developers.md)
+   + [Få hjälp med AI-assistenten](/help/ai-assistant.md)
 + Kampanjer {#create-campaigns}
    + [Skapa en kampanj](/help/create-campaigns/create-a-campaign.md)
    + [Skapa en kampanj i appen](/help/create-campaigns/in-app.md)
@@ -32,14 +33,14 @@ ht-degree: 9%
    + [Skapa innehållsexperiment för e-postkampanjer](/help/create-campaigns/content-experiments.md)
 + Resor {#create-journeys}
    + [Översikt över resans arbetsyta](/help/create-journeys/overview-over-the-journey-canvas.md)
-   + [Upptäck den nya resedesignern](/help/create-journeys/new-journey-designer.md)
+   + [Upptäck nya Journey Designer](/help/create-journeys/new-journey-designer.md)
    + [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Användningsfall - Transaktionsresa](/help/create-journeys/use-case-transactional-journey.md)
    + [Användningsfall - Affärshändelse](/help/create-journeys/use-case-business-event.md)
    + [Användningsfall - läs målgrupper](/help/create-journeys/use-case-read-audience.md)
    + [Användningsfall - Målgruppskvalificering](/help/create-journeys/use-case-audience-qualification.md)
    + [Skapa en testprofil](/help/create-journeys/test-a-journey.md)
-   + [Publicera en resa](/help/create-journeys/publish-a-journey.md)
+   + [Publish en resa](/help/create-journeys/publish-a-journey.md)
    + [Uppdatera innehåll i en direktresa](/help/create-journeys/update-content-in-live-journey.md)
    + [Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)
 + Profiler, målgrupper och prenumerationer {#profiles-audiences-subscriptions}
@@ -52,7 +53,7 @@ ht-degree: 9%
    + Direktpostkanal{#direct-mail-channel}
       + [Skapa direktreklam](/help/channels/direct-mail.md)
    + E-postkanal{#email-channel}
-      + [Skapa innehåll med e-postdesignern](/help/channels/create-content-with-the-email-designer.md)
+      + [Skapa innehåll med e-post-Designer](/help/channels/create-content-with-the-email-designer.md)
       + [Importera och redigera e-postinnehåll från HTML](/help/channels/import-and-author-html-email-content.md)
       + [Förhandsgranska, granska och publicera](/help/channels/preview-proof-and-publish.md)
       + [Innehållsmallar](/help/channels/content-templates.md)
