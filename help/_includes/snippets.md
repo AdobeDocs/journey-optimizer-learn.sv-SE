@@ -1,5 +1,5 @@
 ---
-source-git-commit: f42f117b47a16536a045688a472f95afff46ecec
+source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -25,5 +25,11 @@ Experience League LIVE:
 
 * [Maximera mobilappens potential med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)
 
-   *Lär dig fördelarna med meddelanden i appen som en engagemangskanal i realtid och hur du konfigurerar och redigerar personaliserade mobilappsupplevelser i Adobe Journey Optimizer.*
+  *Lär dig fördelarna med meddelanden i appen som en engagemangskanal i realtid och hur du konfigurerar och skapar personaliserade upplevelser för mobilappar i Adobe Journey Optimizer.*
+
+## Begränsad tillgänglighet {#limited-availability}
+
+>[!Note]
+>
+>Den här funktionen är för närvarande endast tillgänglig för en uppsättning organisationer (begränsad tillgänglighet). Kontakta din Adobe-representant för att få åtkomst.
 

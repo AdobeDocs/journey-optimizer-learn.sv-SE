@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 823ba83b03a2886a755f0e475c39931f08c76fb2
+source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '562'
 ht-degree: 9%
 
 ---
@@ -75,7 +75,11 @@ ht-degree: 9%
       + [Skapa en webbkampanj](/help/channels/create-a-web-campaign.md)
       + [Skapa en webbkampanj](/help/channels/author-a-web-campaign.md)
       + [SPA i webbredigeraren](/help/channels/singel-page-application-support.md)
-+ [Assets Essentials](/help/assets-essentials-overview.md)
++ Innehållshantering{#content-management}
+   + [Hantera Assets](/help/assets-essentials-overview.md)
+   + [Skapa och använda uttrycksfragment](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [Konfigurera innehållsexperiment för e-post](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)
+   + [Konfigurera flerspråkiga meddelanden](/help/content-management/set-up-multilingual-messages.md)
 + Anpassa innehåll {#personalize-content}
    + [Profil- och målgruppsbaserad personalisering](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Lägg till erbjudanden som personalisering](/help/personalize-content/add-offer-decisioning-to-messages.md)
