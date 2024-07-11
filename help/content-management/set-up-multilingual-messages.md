@@ -9,9 +9,9 @@ duration: 599
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-14034
 thumbnail: KT-14034.jpeg
-source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
+source-git-commit: 2233210765082361d33be8d01317ebf0afcd27dd
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
