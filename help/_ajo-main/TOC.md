@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 821dd99521bbeed642031c9f9d6a312c67afc454
+source-git-commit: 0feda01400ce1b8f87bb6143f1913fa6cdd54632
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '560'
 ht-degree: 9%
 
 ---
@@ -79,7 +79,7 @@ ht-degree: 9%
    + [Hantera Assets](/help/assets-essentials-overview.md)
    + [Skapa och använda uttrycksfragment](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
    + [Konfigurera flerspråkiga meddelanden](/help/content-management/set-up-multilingual-messages.md)
-   + [Skapa flerspråkiga meddelanden](/help/content-management/create-multilingual-messages.md)
+   + [Skapa ett flerspråkigt meddelande](/help/content-management/create-multilingual-messages.md)
 + Anpassa innehåll {#personalize-content}
    + [Profil- och målgruppsbaserad personalisering](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Lägg till erbjudanden som personalisering](/help/personalize-content/add-offer-decisioning-to-messages.md)
