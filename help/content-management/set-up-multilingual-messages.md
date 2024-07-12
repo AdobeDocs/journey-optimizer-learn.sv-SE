@@ -1,6 +1,6 @@
 ---
 title: Konfigurera flerspråkiga meddelanden
-description: Lär dig hur du konfigurerar flerspråkiga meddelanden för manuell och automatiserad översättning i Adobe Journey Optimizer.  
+description: Lär dig hur du ställer in översättningsprojekt för automatiserad översättning och de språkinställningar som krävs för manuell översättning och automatiserade översättningsprojekt för flerspråkiga meddelanden.
 feature: Multilingual Content
 role: Admin
 level: Beginner
@@ -9,9 +9,9 @@ duration: 599
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-14034
 thumbnail: KT-14034.jpeg
-source-git-commit: 2233210765082361d33be8d01317ebf0afcd27dd
+source-git-commit: 28cdf4939f12b981e2c3953814ca3ca612cdbe9d
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
