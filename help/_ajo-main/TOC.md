@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0feda01400ce1b8f87bb6143f1913fa6cdd54632
+source-git-commit: 45a973fa9700abbf254573906d5778ded9483316
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '550'
 ht-degree: 9%
 
 ---
@@ -48,24 +48,21 @@ ht-degree: 9%
    + [Skapa målgrupper med regelverktyget](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + Kanaler {#channels}
-   + Kodbaserad upplevelsekanal{#code-based-experience-channel}
+   + Kodbaserad upplevelsekanal {#code-based-experience-channel}
       + [Skapa en kodbaserad upplevelsekampanj](/help/channels/create-a-code-based-experience-campaign.md)
-   + Direktpostkanal{#direct-mail-channel}
+   + Direktpostkanal {#direct-mail-channel}
       + [Skapa direktreklam](/help/channels/direct-mail.md)
    + E-postkanal{#email-channel}
       + [Skapa innehåll med e-post-Designer](/help/channels/create-content-with-the-email-designer.md)
       + [Importera och redigera e-postinnehåll från HTML](/help/channels/import-and-author-html-email-content.md)
       + [Förhandsgranska, granska och publicera](/help/channels/preview-proof-and-publish.md)
-      + [Innehållsmallar](/help/channels/content-templates.md)
-      + [Hantera, redigera och använda fragment](/help/content-management/manage-author-use-fragments.md)
-      + [Skapa och använda uttrycksfragment](/help/content-management/expression-fragments.md)
       + [Konfigurera innehållsexperiment för e-post](/help/experimentation/content-experiments-for-emails.md)
-   + I appkanalen{#in-app-channel}
+   + I appkanalen {#in-app-channel}
       + [Skapa en kampanj i appen](/help/channels/create-an-in-app-campaign.md)
       + [Skapa ett meddelande i appen under en resa](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
       + [Konfigurera innehållsexperiment för meddelanden i appen](/help/experimentation/content-experiments-for-in-app-messages.md)
-   + Push-kanal{#push-channel}
+   + Skjut kanalen {#push-channel}
       + [Konfigurera och skicka en push-kampanj](/help/channels/create-a-push-campaign.md)
    + SMS-kanal{#sms-channel}
       + [Konfigurera, redigera och leverera SMS-meddelanden](/help/channels/author-sms-messages.md)
@@ -77,7 +74,9 @@ ht-degree: 9%
       + [SPA i webbredigeraren](/help/channels/singel-page-application-support.md)
 + Innehållshantering{#content-management}
    + [Hantera Assets](/help/assets-essentials-overview.md)
-   + [Skapa och använda uttrycksfragment](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [Hantera innehållsmallar](/help/content-management/content-templates.md)
+   + [Hantera fragment](/help/content-management/manage-fragments.md)
+   + [Skapa uttrycksfragment](/help/content-management/expression-fragments.md)
    + [Konfigurera flerspråkiga meddelanden](/help/content-management/set-up-multilingual-messages.md)
    + [Skapa ett flerspråkigt meddelande](/help/content-management/create-multilingual-messages.md)
 + Anpassa innehåll {#personalize-content}
@@ -87,7 +86,7 @@ ht-degree: 9%
    + [Använd hjälpfunktioner för personalisering](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Skapa dynamiskt innehåll med villkorsregelbyggaren](/help/personalize-content/create-dynamic-content.md)
-+ Beslutsledning {#decision-management}
++ Beslutshantering {#decision-management}
    + [Introduktion till beslutshantering](/help/decision-management/introduction-to-decision-management.md)
    + [Demo av beslutsstyrningskapaciteten](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Skapa placeringar](/help/decision-management/create-placements.md)
@@ -140,7 +139,7 @@ ht-degree: 9%
    + [API Triggered Messaging i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en){target="_blank"}
    + [Maximera mobilappens potential med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en){target="_blank"}
    + [Leverera rätt erbjudande vid rätt tidpunkt med beslutsstöd](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en){target="_blank"}
-   + [Kör era kampanjer i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en){target="_blank"}
+   + [Kör kampanjer i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en){target="_blank"}
    + [Push-meddelanden med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en){target="_blank"}
 + Summit Labs {#summit-labs}
-   + [Bygg personaliserade mobilstunder med Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [Skapa personliga mobilstunder med Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
