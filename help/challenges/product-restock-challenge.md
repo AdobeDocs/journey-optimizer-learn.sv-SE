@@ -10,7 +10,7 @@ hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 |---|---|
 | Persona | Resechef |
 | Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
-| Resurser att ladda ned | [E-postfil för produktomställning](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
+| Assets att ladda ned | [E-postfil för produktåterställning](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## Artikeln
 
@@ -29,7 +29,7 @@ När kunderna surfar på Lumas webbplats kan de lägga till produkter de är int
 
 ## Utmaningen
 
-Luma ber dig implementera en resa i Journey Optimizer som meddelar kunder som har ett objekt på sin önskelista som tidigare inte fanns på lager när det här objektet är tillbaka på lager. Det kreativa teamet ger dig [E-postfil för produktomställning](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
+Luma ber dig implementera en resa i Journey Optimizer som meddelar kunder som har ett objekt på sin önskelista som tidigare inte fanns på lager när det här objektet är tillbaka på lager. Det kreativa teamet tillhandahåller e-postfilen [Product restock](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
 
 >[!BEGINTABS]
 
@@ -39,14 +39,14 @@ Luma ber dig implementera en resa i Journey Optimizer som meddelar kunder som ha
 
 För att rikta sig till potentiella intresserade kunder när produkterna återställs kan ni skapa en målgrupp som består av kunder:
 
-* Som har lagt till minst ett objekt i önskelistan (Använd händelsetypen: [!UICONTROL Spara för senare i Commerce])
+* Som har lagt till minst ett objekt i önskelistan (använd händelsetypen: [!UICONTROL Commerce Spara för senare])
 * som inte fanns i lager de senaste tre månaderna (använd lagerkvantitet = 0)
 * Och har inte köpt artikeln sedan dess.
 
 >[!TIP]
->Uteslut alla Inköpshändelsetyper där SKU matchar SKU:n från *Spara för senare händelse*. Du hittar fältet i *Bläddra bland variabler* -avsnitt.
+>Uteslut alla Inköpshändelsetyper där SKU:n matchar SKU:n från händelsen *Spara för senare*. Du hittar fältet i avsnittet *Bläddra efter variabler*.
 
-Ge segmentet ett namn: `Out-of-stock-Wishlist`
+Namnge det här segmentet: `Out-of-stock-Wishlist`
 
 
 ### 2. Skapa resan - meddelande om produktåterställning
@@ -55,14 +55,14 @@ När en artikel som inte finns i lager är tillbaka i lager ska du meddela kunde
 
 1. Ring resan: `Product Restock`
 2. Resan bör utlösas när en produkt är tillbaka i lager
-3. Skicka *E-post för produktresumé* till
+3. Skicka e-postmeddelandet *Återställning av produkt* till
 4. Användare som lagt till det här objektet i sin önskelista medan det var slut
 
->[!TAB Villkor för lyckade]
+>[!TAB Slutförandevillkor]
 
 Testa din resa:
 
-1. Kontrollera att read-segmenthändelsen har namnutrymmet = `Luma CRM ID`
+1. Kontrollera att lässegmenthändelsen har namnutrymmet = `Luma CRM ID`
 1. Åsidosätt standardparametrarna för e-post och ange den till din egen e-postadress (se e-postadress 1 för instruktioner)
 1. Ställ in resan till testläge
 1. Utlös en händelse - ange följande data:
@@ -81,7 +81,7 @@ Du bör få e-postmeddelandet&quot;Luma Email Product Refillations&quot; med pro
 
 Så här ska ditt segment se ut:
 
-![Segment - objekt som inte finns i lager](/help/challenges/assets/C1-S2.png)
+![Segment - objekt utanför lagerlistan](/help/challenges/assets/C1-S2.png)
 
 
 Så här ska din resa se ut:
@@ -90,7 +90,7 @@ Så här ska din resa se ut:
 
 Villkor: I önskelista
 
-![Villkor - i önskelista](/help/challenges/assets/c3-j3-condition.png)
+![Villkor - i önskelistan](/help/challenges/assets/c3-j3-condition.png)
 
 Villkorskod:
 
@@ -98,7 +98,7 @@ Villkorskod:
 
 
 >[!TIP]
-> * Välj SKU under Spara för senare i dialogrutan *Bläddra bland variabler* section
+> * Välj SKU under Spara för senare i avsnittet *Bläddra efter variabler*
 > * Använd alternativet för att jämföra när du släpper SKU:n under Spara för senare i händelsefältet
 
 Kontrollera koden längst ned till höger på skärmen Redigera segment under Händelser. Koden ska se ut så här:

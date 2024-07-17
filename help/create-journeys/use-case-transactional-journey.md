@@ -15,7 +15,7 @@ hide: false
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Förstå tillämpliga användningsfall för transaktionsresor och lär dig hur man bygger transaktionsresor.
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}

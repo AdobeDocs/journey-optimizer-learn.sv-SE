@@ -13,7 +13,7 @@ exl-id: ae6dcd75-582c-47fd-9971-50a198df1fe9
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du kopierar en resa och dess beroende objekt från en sandlåda till en annan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409593?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409593?quality=12&learn=on){transcript=true}

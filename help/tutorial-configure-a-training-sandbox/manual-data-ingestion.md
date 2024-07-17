@@ -19,7 +19,7 @@ ht-degree: 2%
 
 I följande videofilm förklaras hur du skapar datauppsättningar och manuellt infogar data:
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
 
 Skapa följande datauppsättningar:
 

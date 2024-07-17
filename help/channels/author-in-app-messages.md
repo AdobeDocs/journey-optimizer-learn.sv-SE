@@ -11,7 +11,7 @@ exl-id: 4baf5361-c6ba-41f6-b2f8-476620ea0f57
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
 source-wordcount: '30'
-ht-degree: 6%
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 
 Lär dig hur du skapar och testar ett meddelande i appen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410471?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410471?quality=12&learn=on){transcript=true}
 
 ## Ytterligare resurser
 

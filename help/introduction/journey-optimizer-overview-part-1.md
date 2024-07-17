@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 6977cc53-9dad-4dee-9cbf-90f7b11ea9c8
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 3%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Den här videon visar hur varumärken kan använda Adobe Journey Optimizer för att leverera personaliserade flerkanalsresor till sina kunder.
 
->[!VIDEO](https://video.tv.adobe.com/v/334174?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334174?quality=12&learn=on){transcript=true}

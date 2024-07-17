@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 20dfc3a7-aa09-4ca2-a02e-3134fd680e2b
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '59'
+ht-degree: 3%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig omvandla personaliseringsvärden med hjälp av hjälpfunktioner för personalisering och förstå olika användningsexempel för hjälpfunktioner.
 
->[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12&learn=on){transcript=true}
 
 Läs produktguiden om du vill veta mer om [hjälpfunktioner](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=en).

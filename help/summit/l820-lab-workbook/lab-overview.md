@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # ARBETSBOK FÖR LAB
 
-![Adobe Summit - alternativ text](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+![Adobe Summit - alt-text](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 ## L820 - Bygg personaliserade mobilstunder med Adobe Journey Optimizer
 
@@ -47,14 +47,14 @@ I detta praktiska labb utforskar ni olika mobilscenarier och lär er hur ni impl
 * Konfigurera webb-meddelanden i programmet.
 * Testa era egna personaliserade scenarier.
 
-### Förutsättningar
+### Förhandskrav
 
 * Ha koll på ditt platsnummer: Du hittar ditt platsnummer på labbdatorns skrivbord:
 
-![Sätsnummer](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+![Platsnummer](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 Du måste ha tillgång till:
 
-* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - Inloggningsuppgifter finns tillgängliga under övningarna.
+* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - inloggningsinformation ges under övningarna.
 * [Fréscopa-webbplatsen](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 

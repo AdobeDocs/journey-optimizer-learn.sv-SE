@@ -19,6 +19,6 @@ ht-degree: 0%
 # Förbättrad rapportering med Customer Journey Analytics
 
 Rapporterings- och koordinationsmätningsfunktioner som drivs av Customer Journey Analytics är tillgängliga i Adobe Journey Optimizer. Bland dessa förbättringar av Journey Optimizer finns också ökad interoperabilitet och utökat värde med Customer Journey Analytics via ytterligare datakällor, avancerad anpassning, datamanipulering, analys med mera.
-Detaljerad dokumentation finns på [Kom igång med det nya rapporteringsgränssnittet](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channel-report/report-gs-cja).
+Mer detaljerad dokumentation finns i [Kom igång med det nya rapporteringsgränssnittet](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channel-report/report-gs-cja).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)

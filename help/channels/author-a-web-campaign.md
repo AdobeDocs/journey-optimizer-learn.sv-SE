@@ -8,11 +8,11 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-22T00:00:00Z
 jira: KT-13111
 thumbnail: 3418803.jpeg
-exl-id: 7d623f14-505f-4f8d-a84a-6acd6c773d01
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+exl-id: aa553256-2738-4f4b-b5d4-b8836bd6b8d0
+source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 0%
 Lär dig hur du skapar en webbupplevelse med den visuella webbredigeraren i Journey Optimizer-kampanjer.
 
 >[!NOTE]
-> Du måste installera [Adobe Experience Cloud Visual Editing Helper Chrome-tillägg](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca) för att kunna läsa in din webbplats i Adobe Journey Optimizer.
+> Du måste installera tillägget [Adobe Experience Cloud Visual Editing Helper Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca) för att kunna läsa in din webbplats till Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}

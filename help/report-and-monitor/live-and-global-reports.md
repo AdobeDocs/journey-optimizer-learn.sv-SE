@@ -12,7 +12,7 @@ exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig skillnaden mellan live- och globala rapporter, hur du får tillgång till och analyserar resan och de meddelandespecifika rapporterna samt hur du ändrar rapportpanelerna.  
 
->[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on){transcript=true}

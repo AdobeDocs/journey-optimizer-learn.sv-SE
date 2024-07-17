@@ -12,7 +12,7 @@ exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du lägger till en beslutshanteringskomponent i meddelanden i Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12&learn=on){transcript=true}

@@ -30,29 +30,29 @@ Nu när ni har skapat mobilupplevelser för appen skapar ni i den här lektionen
 
 I den här övningen skapar du kampanjen och definierar vilken webbsida meddelandet i appen ska visas på.
 
-1. I Journey Optimizer navigerar du till vänster under **RESEHANTERING** välj **Kampanjer**.
+1. I Journey Optimizer väljer du **Kampanjer** under **RESURSHANTERING** i den vänstra navigeringen.
 
-1. Klicka **Skapa kampanj**.
+1. Klicka på **Skapa kampanj**.
 
    ![CreateCampaign](/help/summit/l820-lab-workbook/assets/4-1-create-campaign.png)
 
-1. På **Skapa kampanj** sida, på **Åtgärd** väljer du **Meddelande i appen** kryssruta.
+1. På sidan **Skapa kampanj** markerar du kryssrutan **Meddelande i appen** i avsnittet **Åtgärd**.
 
-1. Från **Skicka till** listruta, välja **Webb.**
+1. I listrutan **Skicka till** väljer du **Webb.**
 
-1. Ange följande URL: **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *Det här är webbsidan som meddelandet kommer att visas på.*
+1. Ange följande URL: **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *Det här är den webbsida som ditt meddelande kommer att visas på.*
 
    ![URL i appen](/help/summit/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
-1. Klicka **[!UICONTROL Skapa]**.
+1. Klicka på **[!UICONTROL Skapa]**.
 
 ## Exercise 3.2 Konfigurera din kampanj
 
 På den här sidan definierar du kampanjens egenskaper och händelsen som utlöser att meddelandet i appen visas på webbsidan. Låt alla andra inställningar vara kvar som standard. För den här övningen behöver ni inte definiera en specifik målgrupp.
 
-### 3.2.1 [!UICONTROL Egenskapsavsnittet]
+### 3.2.1 [!UICONTROL Avsnittet Egenskaper]
 
-1. I **Egenskaper** -sektion, ge er kampanj ett unikt **Namn**:
+1. I avsnittet **Egenskaper** ger du kampanjen ett unikt **namn**:
 
    >[!NOTE]
    > Se till att du börjar med ditt platsnummer så att du enkelt kan
@@ -67,23 +67,23 @@ På den här sidan definierar du kampanjens egenskaper och händelsen som utlös
 
 I det här avsnittet definierar du vilka utlösare som ska användas för att visa meddelandet på webbplatsen. Du definierar en unik utlösare som gör att du kan skicka meddelandet precis till dig själv.
 
-1. Bläddra nedåt till **[!UICONTROL Avsnittet Utlösare]** och sedan klicka **[!UICONTROL Redigera utlösare]**.
+1. Bläddra ned till avsnittet **[!UICONTROL Utlösare]** och klicka sedan på **[!UICONTROL Redigera utlösare]**.
 
-   ![ändra](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![Ändra](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
-1. Klicka på **[!UICONTROL Programstart]** och välj  *Skickade data till plattformen*.
-   ![trigger event drop-down](/help/summit/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+1. Klicka på **[!UICONTROL Programstart]** i regelbyggaren och välj *Skickade data till plattform* i listrutan.
+   ![utlösarhändelse-listruta](/help/summit/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
-1. Lägg till ett villkor genom att klicka **[!UICONTROL + Lägg till villkor]**.
+1. Lägg till ett villkor genom att klicka på **[!UICONTROL + Lägg till villkor]**.
 
-   ![lägg till villkorsknapp](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![Lägg till villkorsknapp](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
-1. Från **[!UICONTROL Välj ett drag]** nedrullningsbar meny, välja **[!UICONTROL XDM-händelsetyp]**.
+1. Välj **[!UICONTROL XDM-händelsetyp]** i listrutan **[!UICONTROL Välj en egenskap]**.
 
    ![XDM-händelsetyp](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
-1. Lägg till en *`<custom string value>`* som du kommer ihåg och trycker **[!UICONTROL Lägg till]** `<custom string value>` för att spara värdet.
+1. Lägg till en *`<custom string value>`* som du kommer ihåg i följande textfält och tryck på **[!UICONTROL Lägg till]** `<custom string value>` för att spara värdet.
 
    Det här anpassade strängvärdet används senare för att utlösa ett meddelande.
 
@@ -95,7 +95,7 @@ I det här avsnittet definierar du vilka utlösare som ska användas för att vi
 
    ![lägg till ett anpassat strängvärde för utlösare](/help/summit/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
-1. Tryck på **[!UICONTROL Klar]** längst upp till höger.
+1. Tryck på knappen **[!UICONTROL Klar]** längst upp till höger.
 
 >[!SUCCESS]
 >
@@ -108,7 +108,7 @@ I det här avsnittet definierar du vilka utlösare som ska användas för att vi
 
 I det här avsnittet definierar du innehållet, utformningen och layouten för meddelandet.
 
-1. Klicka på **Redigera innehåll** knappen i **Åtgärd** för att komma åt redigeringskonstruktionen.
+1. Klicka på knappen **Redigera innehåll** i avsnittet **Åtgärd** för att komma åt redigeringskonstruktionen.
 
    ![Knappen Redigera innehåll](/help/summit/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
@@ -116,7 +116,7 @@ I det här avsnittet definierar du innehållet, utformningen och layouten för m
 
    Om du använder modal- eller helskärmslayout kan du lägga till en knapp. Du kan använda den här URL:en för att öppna produktsidan: **https://dsn.adobe.com/web/adobe-summit-2024/P2WsaDPf_**
 
-1. När du är klar med redigeringen av meddelandet klickar du på **[!UICONTROL Granska för aktivering]**.
+1. När du är klar med redigeringen av meddelandet klickar du på **[!UICONTROL Granska för att aktivera]**.
 
 1. Om allt ser bra ut på granskningsskärmen klickar du på **[!UICONTROL Aktivera]** för att publicera webb-i-app-meddelandet.
 
@@ -126,9 +126,9 @@ I det här avsnittet definierar du innehållet, utformningen och layouten för m
 
 ## Exercise 3.3 Trigger the web in-app message
 
-1. Gå till Fréscopas webbplats och navigera till **Utövning** i webbläsaren.
+1. Gå till Fréscopa-webbplatsen och navigera till sidan **Öva** i webbläsaren.
 
-   ![Länk till webbövningar](/help/summit/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+   ![Länk för webbövningar](/help/summit/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. Uppdatera webbsidan.
 
@@ -136,7 +136,7 @@ I det här avsnittet definierar du innehållet, utformningen och layouten för m
 
    ![träningssida](/help/summit/l820-lab-workbook/assets/4-2-exercise-page.png)
 
-1. Klicka **[!UICONTROL Skicka]**.
+1. Klicka på **[!UICONTROL Skicka]**.
 
 >[!SUCCESS]
 >
@@ -147,7 +147,7 @@ I det här avsnittet definierar du innehållet, utformningen och layouten för m
 
 ## Ytterligare resurser
 
-**Videofilmer:**
+**Så här gör du för videoklipp:**
 
 * [Skapa en kampanj i appen](/help/channels/create-an-in-app-campaign.md)
 * [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)

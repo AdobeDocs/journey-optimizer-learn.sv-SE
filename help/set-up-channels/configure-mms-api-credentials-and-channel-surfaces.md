@@ -8,13 +8,13 @@ doc-type: Feature Video
 duration: 85
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15386
-source-git-commit: 14ae4c98e2898efb1f0f543bb8f9b889b9222e98
+exl-id: cc02dacd-522a-47fa-9277-f73c896dd25f
+source-git-commit: d9507c5cc69375b1bae0d5582214d34601a55c75
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera MMS API-autentiseringsuppgifter och kanalytor
 

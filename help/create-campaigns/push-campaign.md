@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Feature Video
 jira: KT-9894
 thumbnail: 3422017.jpeg
-source-git-commit: ea568add286ad93212840247b5515c57cb6e17a4
+exl-id: 2920a913-116b-4f76-9916-b268a9e95bde
+source-git-commit: 9e74123437421075fbc62f08bbbf249e15fe67dc
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 0%

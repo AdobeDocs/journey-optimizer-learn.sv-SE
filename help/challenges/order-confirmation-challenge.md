@@ -9,8 +9,8 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: tm+mt
-source-wordcount: '652'
-ht-degree: 1%
+source-wordcount: '615'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 |---|---|
 | Persona | Resechef |
 | Nödvändiga färdigheter | <ul><li>[Skapa e-postinnehåll med meddelanderedigeraren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Använd sammanhangsbaserad händelseinformation för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Använd hjälpfunktioner för personalisering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
-| Resurser att ladda ned | [Orderbekräftelsetillgångar](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
+| Assets att ladda ned | [Beställa bekräftelseresurser](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 {style="table-layout:auto"}
 
@@ -37,17 +37,17 @@ Skapa en resa som skickar ett e-postmeddelande med en orderbekräftelse när en 
 
 >[!TAB Uppgift]
 
-1. Skapa en anropad resa `Luma - Order Confirmation`.
+1. Skapa en resa med namnet `Luma - Order Confirmation`.
 
 1. Använd händelsen: `LumaOnlinePurchase`.
 
-1. Skapa en **transaktionsbaserad**  e-post anropad `Luma - Order Confirmation`.
+1. Skapa ett **transaktionellt**-e-postmeddelande med namnet `Luma - Order Confirmation`.
 
    * Ämnesraden&quot;Tack för ditt köp, `FirstName`&quot;
 
-   * Använd `Luma - Order summary` och ändra den:
+   * Använd mallen `Luma - Order summary` och ändra den:
 
-      * Ta bort `You may also like` avsnitt
+      * Ta bort `You may also like`-avsnitten
 
       * Lägg till länken för att avbryta prenumerationen längst ned i e-postmeddelandet
 
@@ -57,7 +57,7 @@ E-postmeddelandet ska struktureras på följande sätt:
 <tr>
 <td>
   <div>
-     <strong> Rubrikavsnitt</strong>
+     <strong> Sidhuvudsavsnittet </strong>
       </div>
   </td>
   <td>
@@ -70,7 +70,7 @@ E-postmeddelandet ska struktureras på följande sätt:
   <tr>
   <td>
   <div>
-    <strong>Orderbekräftelsesektion
+    <strong>Bekräftelsesektion för beställning
     </strong>
   </td>
   <td>
@@ -90,25 +90,25 @@ E-postmeddelandet ska struktureras på följande sätt:
       </div>
       <p>
       <li>Förnamn och efternamn kommer från profilen
-      <li>Ersätt den hårdkodade adressen i mallen med <b>leveransadress</b>
+      <li>Ersätt den hårdkodade adressen i mallen med <b>leveransadressen</b>
       <li>Adressinformationen är sammanhangsberoende attribut från evenemanget (gata 1, ort, postnummer, delstat)
-      <li> Ta bort <i>Rabatt, summa, ankomst</i></p>
+      <li> Ta bort <i>rabatt, summa, ankomst</i></p>
   </td>
   <td>
   <p> Leverera till:</p>
       <em>{firstName} {lastName}<br>
-     {Gata 1}<br>
+     {Street 1}<br>
      {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
 <td>
   <div>
-     <strong>Avsnittet Orderinformation</strong>
+     <strong>Avsnittet med beställningsinformation</strong>
       </div>
-       <p><li>Lägg till det här avsnittet under <b>Leverera till</b> -avsnitt.
+       <p><li>Lägg till det här avsnittet under avsnittet <b>Leverera till</b>.
       </p><br>
       <p><b>Tips:</b>
-      <li>Använda strukturkomponenten <b>1:2 kolumn vänster</b> för det här avsnittet
+      <li>Använd strukturkomponenten <b>1:2 kolumn till vänster</b> för det här avsnittet
       <li>Det här är sammanhangsbaserad händelseinformation.
       <li>Använd hjälpfunktionen [!UICONTROL]: [!UICONTROL each]
       <li>Växla till kodredigeringsformatet för att lägga till kontextdata.
@@ -134,7 +134,7 @@ E-postmeddelandet ska struktureras på följande sätt:
 >
 >För att du ska kunna felsöka dina resor är det bästa sättet att lägga till en alternativ sökväg till alla meddelandeåtgärder om det finns en tidsgräns eller ett fel.
 
->[!TAB Godtagandevillkor]
+>[!TAB Slutförandevillkor]
 
 Trigga den resa du skapade i testläge och skicka e-postmeddelandet till dig själv:
 
@@ -142,7 +142,7 @@ Trigga den resa du skapade i testläge och skicka e-postmeddelandet till dig sj�
    1. Öppna vyn för e-postinformation.
    1. Klicka på T-symbolen (aktivera åsidosättning av parameter) i avsnittet E-postparametrar
    1. Klicka i adressfältet
-   1. På nästa skärm lägger du till din e-postadress inom parentes: *&quot;yourname@yourdomain&quot;* i uttrycksredigeraren och klicka på OK.
+   1. På nästa skärm lägger du till din e-postadress inom parentes: *&quot;yourname@yourdomain&quot;* i uttrycksredigeraren och klickar på OK.
 1. Testa resan
 1. Utlös händelsen med följande parametrar:
    * Ange profilidentifieraren till: Identitetsvärde:`a8f14eab3b483c2b96171b575ecd90b1`
@@ -173,7 +173,7 @@ Du bör få en personlig inköpsbekräftelse via e-post.
 
 **E-post**
 
-**Ärenderad:**
+**Ämnesrad:**
 
 Tack för ditt köp, `{{ profile.person.name.firstName }}`!
 
@@ -201,15 +201,15 @@ Sidhuvud:
 Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}}
 ```
 
-**Produktförteckning:**
+**Produktlista:**
 
-Använd hjälpfunktionen &quot;each&quot; för att skapa produktlistan. Visa dem i en tabell. Så här ska koden se ut (med specifika variabler som ditt händelse-ID - i stället för `454181416` och er organisation i stället för `techmarketingdemos` ):
+Använd hjälpfunktionen &quot;each&quot; för att skapa produktlistan. Visa dem i en tabell. Så här ska din kod se ut (med dina specifika variabler som ditt händelse-ID - i stället för `454181416` och din organisations-ID i stället för `techmarketingdemos` ):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
 ```
 
-**Visa orderknapp:**
+**Knappen Visa ordning:**
 
 `https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId={{context.journey.events.454181416.commerce.order.purchaseOrderNumber}}`
 

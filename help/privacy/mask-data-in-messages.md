@@ -13,7 +13,7 @@ exl-id: 17c56468-0fad-4717-bde7-78c12639c67a
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Förstå vad datamaskering är och när och varför du kan behöva maskera data. Lär dig maskera data i Journey Optimizer-meddelanden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12&learn=on){transcript=true}

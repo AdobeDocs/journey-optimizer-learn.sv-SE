@@ -13,7 +13,7 @@ exl-id: 923c0731-b172-44db-8a57-f7ac2101adde
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du ansluter Journey Optimizer till en SMS-tjänsteleverantör och hur du skapar en SMS-kanal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413355?quality=12&learn=on){transcript=true}

@@ -1,5 +1,5 @@
 ---
-title: Publicera en rese- och resestatus
+title: Publish en rese- och resestatus
 description: Förstå olika tillstånd för en resa och effekten av publicering.
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ---
 
-# Publicera en rese- och resestatus
+# Publish en rese- och resestatus
 
 Förstå olika tillstånd för en resa och effekten av publicering.
 

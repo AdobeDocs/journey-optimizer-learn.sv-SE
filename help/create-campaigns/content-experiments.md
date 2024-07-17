@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Feature Video
 jira: KT-11129
 thumbnail: 3419893.jpeg
-source-git-commit: ff61b570060bb04a9b17cd9e7e0062015363dce2
+exl-id: 8b9a73c3-3c36-43ec-a870-a3b113689e22
+source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera innehållsexperiment för e-postkampanjer
 

@@ -1,5 +1,5 @@
 ---
-title: Upptäck den nya resedesignern
+title: Upptäck nya Journey Designer
 description: Upptäck den nya omdesignade arbetsytan för resan och hur man kan utnyttja liverapporter under resor.
 feature: Journeys
 role: User
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 ---
 
-# Upptäck den nya resedesignern
+# Upptäck nya Journey Designer
 
 Upptäck den nya omdesignade arbetsytan för resan och hur man kan utnyttja liverapporter under resor.
 

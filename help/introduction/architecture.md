@@ -14,7 +14,7 @@ hidefromtoc: true
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Förstå Adobe Journey Optimizer grundläggande arkitektur, integreringspunkter och förhållandet mellan Journey Optimizer och andra program från Adobe.
 
->[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on){transcript=true}

@@ -10,13 +10,13 @@ exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 34%
+ht-degree: 21%
 
 ---
 
 # Introduktion till beslutsstyrningsfunktionerna
 
-Få en översikt över beslutshanteringsfunktionerna för Journey Optimizer. Videon handlar om de affärsutmaningar som beslutsprocesserna löser, dess nyckelfunktioner, den grundläggande arkitekturen och de huvudsakliga användningsområdena.
+Få en översikt över Journey Optimizer beslutsverktyg. Videon handlar om de affärsutmaningar som beslutsprocesserna löser, dess nyckelfunktioner, den grundläggande arkitekturen och de huvudsakliga användningsområdena.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on){transcript=true}

@@ -99,7 +99,7 @@ Du ombeds installera Testflight, steg 1 till 4. När du har installerat Testflig
  <div>
       <p>
       <a>
-      <b>Steg 6 </b>
+      <b> Steg 6 </b>
       <p>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
       </a>
@@ -109,7 +109,7 @@ Du ombeds installera Testflight, steg 1 till 4. När du har installerat Testflig
  <div>
       <p>
       <a>
-      <b>Steg 7 </b>
+      <b> Steg 7 </b>
       <p>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
       </a>
@@ -119,7 +119,7 @@ Du ombeds installera Testflight, steg 1 till 4. När du har installerat Testflig
  <div>
       <p>
       <a>
-      <b>Steg 8 </b>
+      <b> Steg 8 </b>
       <p>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
       </a>
@@ -134,9 +134,9 @@ Du ombeds installera Testflight, steg 1 till 4. När du har installerat Testflig
 
 Eftersom appen inte är registrerad i Google Play Store får du ett varningsmeddelande:
 
-![Android-varningsskärm](/help/assets/lab731-install-android.png)
+![Android varningsskärm](/help/assets/lab731-install-android.png)
 
-Klicka **Installera ändå**
+Klicka på **Installera ändå**
 
 >[!ENDTABS]
 
@@ -159,8 +159,8 @@ Klicka **Installera ändå**
 | **Redigera innehåll:** Media | Alternativet Media URL |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | **Redigera innehåll:** Innehåll | Titel | Få rabatt på fåglar tidigt! |  |
 | **Redigera innehåll:** Innehåll | Brödtext | Adobe Max återvänder till Las Vegas. Gör dig redo för inspirerande talare, spännande sessioner och nya kontakter. Boka din svit nu och få 10 % rabatt. |  |
-| **Redigera innehåll:** Knappar | Knapp | Få 10 % rabatt! | lab://booking?suite=presidential&amp;discount=10 |
-| **Redigera innehåll:** Knappar | Interaktionshändelse | CTA i appen |  |
+| **Redigera innehåll:**-knappar | Knapp | Få 10 % rabatt! | lab://booking?suite=presidential&amp;discount=10 |
+| **Redigera innehåll:**-knappar | Interaktionshändelse | CTA i appen |  |
 | **Förhandsgranska på enhet** | Bas-URL som ska användas för förhandsvisning på enheten |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 ## Utgång 3: Skapa ett push-meddelande
