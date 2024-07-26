@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
+source-git-commit: 208c3a57053d2a83961e84b8d7941e3a34b612a3
 workflow-type: tm+mt
 source-wordcount: '556'
 ht-degree: 8%
@@ -118,7 +118,7 @@ ht-degree: 8%
       + [Konfigurera e-postkanal](/help/set-up-channels/set-up-email-channel.md)
       + [Delegera CName-underdomäner](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Konfigurera SMS API-autentiseringsuppgifter och kanalytor](/help/set-up-channels/set-up-sms-channel.md)
-      + [Använd en egen SMS-leverantör (Beta)](help/set-up-channels/bring-your-own-sms-provider.md)
+      + [Använd en egen SMS-leverantör (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [Konfigurera regler för meddelandefrekvens](/help/administration/configure-frequency-rules.md)
       + [Skapa och köra en IP-värmersplan](/help/administration/create-and-execute-an-ip-warmup-plan.md)
       + [Konfigurera MMS API-autentiseringsuppgifter och kanalytor](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
