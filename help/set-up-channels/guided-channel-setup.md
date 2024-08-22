@@ -6,11 +6,11 @@ role: Admin, Developer
 level: Beginner
 doc-type: Feature Video
 duration: 337
-last-substantial-update: 2024-08-27T00:00:00Z
+last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16041
 hidefromtoc: true
 hide: true
-source-git-commit: dd701fc3223cd94201c79a4a3e56836d538e8910
+source-git-commit: 36dcb812f39f42d6eb960d7a725761c4c3fa45be
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
