@@ -10,9 +10,9 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16041
 hidefromtoc: true
 hide: true
-source-git-commit: 79e5376bdf570664ff308ae18b27168f8fefd891
+source-git-commit: bf17a3a7c03e1da68bb938a58fd626d0e5322425
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,5 @@ Lär dig hur du konfigurerar och validerar ett push-kanalsmeddelande för en exe
 
 Mer information finns i produktdokumentationen:
 
-* [Kom igång med konfiguration av guidad kanal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
-* [Konfigurera Android-mobilkonfiguration](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-android)
-* [Konfigurera iOS-mobilkonfiguration](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-ios)
-* [Konfigurera webbkonfiguration](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-web)
+* [Kom igång med konfiguration av guidade kanaler](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
+* [Skapa en kanalkonfiguration](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
