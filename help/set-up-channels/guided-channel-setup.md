@@ -8,15 +8,15 @@ doc-type: Feature Video
 duration: 337
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16041
-hidefromtoc: true
-hide: true
-source-git-commit: bf17a3a7c03e1da68bb938a58fd626d0e5322425
+hidefromtoc: false
+hide: false
+exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
+source-git-commit: 50f0641415818db8763e5de58a74b77b7eab5d16
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # Inställningar för guidad kanal
 
