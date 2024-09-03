@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 75582f34a3aa9372ebefbd72eb2d8019eeb1afe0
+source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '573'
 ht-degree: 8%
 
 ---
@@ -138,10 +138,11 @@ ht-degree: 8%
    + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
    + [Utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + Experience League Live-inspelningar{#experience-league-live-recordings}
+   + [Sommarspotlight - Tre måste prova funktioner i Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
    + [Ny kodbaserad upplevelsekanal i Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [API Triggered Messaging i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en){target="_blank"}
-   + [Maximera mobilappens potential med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en){target="_blank"}
    + [Leverera rätt erbjudande vid rätt tidpunkt med beslutsstöd](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en){target="_blank"}
+   + [Maximera mobilappens potential med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en){target="_blank"}
    + [Kör kampanjer i Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en){target="_blank"}
    + [Push-meddelanden med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en){target="_blank"}
 + Summit Labs {#summit-labs}
