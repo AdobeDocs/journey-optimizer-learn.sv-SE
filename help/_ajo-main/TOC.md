@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 406d57307ca700d0cf4e95a39d55665654c3de93
+source-git-commit: 25c9704ad0a1080d6796a6b1ec1557f986c2a786
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '579'
 ht-degree: 8%
 
 ---
@@ -128,7 +128,7 @@ ht-degree: 8%
       + [Konfigurera datakällor](/help/set-up-journeys/configure-data-sources.md)
       + [Skapa händelser](/help/set-up-journeys/create-events.md)
       + [Skapa funktionsmakron](/help/set-up-journeys/create-actions.md)
-   + Affärsregler {business-rules}
+   + Affärsregler {#business-rules}
       + [Konfigurera regler för frekvensbegränsning](/help/configuration/configure-frequency-capping-rules.md)
 + Åtkomstkontroll {#access-control}
    + [Åtkomsthantering](/help/set-up-access/access-management.md)
