@@ -8,11 +8,13 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
+hide: true
+hidefromtoc: true
 exl-id: 76d4cb7e-a9ac-470b-bc9c-5792bf5d7482
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 406d57307ca700d0cf4e95a39d55665654c3de93
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 3%
+source-wordcount: '56'
+ht-degree: 0%
 
 ---
 
