@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 066df8631872b0322a7b0622ce273f27fd612272
+source-git-commit: d0c3d37dc6c3e28cab4ecd6cc8b03cfe65ef51c3
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '592'
 ht-degree: 8%
 
 ---
@@ -73,6 +73,7 @@ ht-degree: 8%
       + [Skapa en webbkampanj](/help/channels/author-a-web-campaign.md)
       + [SPA i webbredigeraren](/help/channels/singel-page-application-support.md)
 + Innehållshantering{#content-management}
+   + [Skapa innehåll med AI Assistant i Journey Optimizer - Content Accelerator](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Hantera Assets](/help/assets-essentials-overview.md)
    + [Hantera innehållsmallar](/help/content-management/content-templates.md)
    + [Hantera fragment](/help/content-management/manage-fragments.md)
