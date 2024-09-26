@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 108dfe961f0bc7078e65e2d036734460a95de09f
+source-git-commit: 4add927932ca713a1812df56c70f07910dca44f6
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '606'
 ht-degree: 8%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 8%
       + [Skapa ett meddelande i appen under en resa](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
       + [Konfigurera innehållsexperiment för meddelanden i appen](/help/experimentation/content-experiments-for-in-app-messages.md)
+      + [Skapa innehållskort](/help/channels/create-content-cards.md)
    + Skjut kanalen {#push-channel}
       + [Konfigurera och skicka en push-kampanj](/help/channels/create-a-push-campaign.md)
    + SMS-kanal{#sms-channel}
