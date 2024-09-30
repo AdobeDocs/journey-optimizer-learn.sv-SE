@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
+source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '377'
 ht-degree: 2%
 
 ---
@@ -32,10 +32,13 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ## Senaste Experience League Live-event
 
+* **[AI Bash - Aktiverar kraften i AI Assistant i Adobe Experience Platform-program och Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+  *Upptäck hur AI Assistant omvandlar kundinteraktioner och förbättrar produktiviteten i Adobe Experience Cloud-program och Adobe Campaign.*
 * **[Sommarspotlight - Tre måste prova funktioner i Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
   *Utnyttja kundengagemanget i sommar med Adobe Journey Optimizer tre funktioner: reseexperiment, frekvensbegränsning och flerspråkiga meddelanden.*
 * **[Ny kodbaserad upplevelsekanal i Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *Lär dig hur du aktiverar inkommande ytor och detaljkontroll för personalisering med utvecklarcentrerade åtgärder.*
+
 </div>
 
 <div id="staff-picks-section">
