@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4261e738c5c539b387a5f05c48c581954fe11510
+source-git-commit: 0f286412ace011859fc5f1f79ef4baf61d83ac50
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '631'
 ht-degree: 7%
 
 ---
@@ -57,12 +57,13 @@ ht-degree: 7%
       + [Importera och redigera e-postinnehåll från HTML](/help/channels/import-and-author-html-email-content.md)
       + [Förhandsgranska, granska och publicera](/help/channels/preview-proof-and-publish.md)
       + [Konfigurera innehållsexperiment för e-post](/help/experimentation/content-experiments-for-emails.md)
+   + Innehållskort (#content-cards)
+      + [Skapa innehållskort](/help/channels/create-content-cards.md)
    + I appkanalen {#in-app-channel}
       + [Skapa en kampanj i appen](/help/channels/create-an-in-app-campaign.md)
       + [Skapa ett meddelande i appen under en resa](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
       + [Konfigurera innehållsexperiment för meddelanden i appen](/help/experimentation/content-experiments-for-in-app-messages.md)
-      + [Skapa innehållskort](/help/channels/create-content-cards.md)
    + Skjut kanalen {#push-channel}
       + [Konfigurera och skicka en push-kampanj](/help/channels/create-a-push-campaign.md)
    + SMS-kanal{#sms-channel}
