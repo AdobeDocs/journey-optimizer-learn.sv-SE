@@ -1,7 +1,7 @@
 ---
-source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
+source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -38,3 +38,9 @@ Experience League LIVE:
 >[!AVAILABILITY]
 >
 >Funktionen finns för närvarande i betaversion och är endast tillgänglig för betatestare. Om du vill gå med i betaprogrammet kontaktar du Adobe kundtjänst.
+
+## Plattformsvideo - profiler (#platform-video)
+
+>>[!NOTE]
+>>
+I videon visas den här funktionen i Adobe Experience Platform användargränssnitt. Samma funktionalitet finns i Journey Optimizer i avsnitten DATAHANTERING och SEKRETESS i den vänstra navigeringen.
