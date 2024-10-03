@@ -1,5 +1,5 @@
 ---
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -41,6 +41,6 @@ Experience League LIVE:
 
 ## Plattformsvideo - profiler (#platform-video)
 
->>[!NOTE]
->>
-I videon visas den här funktionen i Adobe Experience Platform användargränssnitt. Samma funktionalitet finns i Journey Optimizer i avsnitten DATAHANTERING och SEKRETESS i den vänstra navigeringen.
+>[!NOTE]
+>
+>I videon visas den här funktionen i Adobe Experience Platform användargränssnitt. Samma funktionalitet finns i Journey Optimizer i avsnitten DATAHANTERING och SEKRETESS i den vänstra navigeringen.
