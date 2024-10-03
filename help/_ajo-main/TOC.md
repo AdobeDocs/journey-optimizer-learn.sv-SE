@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '646'
 ht-degree: 7%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 7%
 + Datastyrning och sekretess {#data-governance-and-privacy}
    + [Ramverk för datastyrning](/help/privacy/data-governance-framework.md)
    + [Klassificera data med etiketter](/help/privacy/classify-data-using-lables.md)
+   + [Skapa dataanvändningsprinciper](/help/privacy/create-data-usage-policies.md)
    + [Använd dataanvändningspolicyer i Journey Optimizer-kanaler](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)
 + Utövningar och utmaningar {#exercises-and-challenges}
