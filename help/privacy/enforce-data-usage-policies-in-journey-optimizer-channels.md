@@ -10,9 +10,10 @@ last-substantial-update: 2024-10-01T00:00:00Z
 jira: KT-16264
 hide: true
 hidefromtoc: true
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+badgePrivateBeta: label="Private Beta" type="Informative"
+source-git-commit: aeb3d921358f3d45cf9fd17e485e0c4fdd4e3af8
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
