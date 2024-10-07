@@ -8,9 +8,9 @@ doc-type: Feature Video
 duration: 209
 last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
-hide: true
-hidefromtoc: true
-source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
+hide: false
+hidefromtoc: false
+source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

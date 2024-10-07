@@ -8,10 +8,10 @@ doc-type: Feature Video
 duration: 164
 last-substantial-update: 2024-10-01T00:00:00Z
 jira: KT-16264
-hide: true
-hidefromtoc: true
+hide: false
+hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
-source-git-commit: aeb3d921358f3d45cf9fd17e485e0c4fdd4e3af8
+source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
