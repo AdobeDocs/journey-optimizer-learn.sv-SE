@@ -7,11 +7,12 @@ level: Beginner
 jira: KT-10183
 thumbnail: 342114.jpg
 hide: true
+hidefromtoc: true
 exl-id: 53c853d7-c12e-4e77-aed3-c34039a13c5c
-source-git-commit: 5aca91806085dff189a1e9deda166be40eb88eb9
+source-git-commit: 30b2099c678b9d455383c6328513d362df4ec5fd
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 3%
+source-wordcount: '52'
+ht-degree: 0%
 
 ---
 

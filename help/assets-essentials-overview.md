@@ -6,11 +6,13 @@ role: User
 level: Beginner
 jira: KT-10165
 thumbnail: 342098.jpeg
+hidefromtoc: true
+hide: true
 exl-id: 78b7582b-76bc-4919-9e17-34966b5032f5
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: b88998c6bba3f21e1325e0e03025fb6066d7e89b
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 4%
+source-wordcount: '42'
+ht-degree: 0%
 
 ---
 

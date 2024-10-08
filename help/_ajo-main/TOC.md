@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
+source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '685'
 ht-degree: 7%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 7%
    + [Utlösa kampanjer med API:er](/help/create-campaigns/api-triggered-campaigns.md)
    + [Skapa innehållsexperiment för e-postkampanjer](/help/create-campaigns/content-experiments.md)
 + Resor {#create-journeys}
-   + [Översikt över resans arbetsyta](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [Journey Designer - översikt](/help/create-journeys/journey-designer-overview.md)
    + [Upptäck nya Journey Designer](/help/create-journeys/new-journey-designer.md)
    + [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Användningsfall - Transaktionsresa](/help/create-journeys/use-case-transactional-journey.md)
@@ -44,15 +44,19 @@ ht-degree: 7%
    + [Uppdatera innehåll i en direktresa](/help/create-journeys/update-content-in-live-journey.md)
    + [Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)
 + Profiler, målgrupper och prenumerationer {#profiles-audiences-subscriptions}
+   + [Profiler och målgrupper - översikt](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Enhetlig profil och segmentering - översikt](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Skapa målgrupper med regelverktyget](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + Kanaler {#channels}
+   + [Optimering av mobilappar - översikt](/help/channels/mobile-app-optimization-overview.md)
    + Kodbaserad upplevelsekanal {#code-based-experience-channel}
       + [Skapa en kodbaserad upplevelsekampanj](/help/channels/create-a-code-based-experience-campaign.md)
    + Direktpostkanal {#direct-mail-channel}
       + [Skapa direktreklam](/help/channels/direct-mail.md)
    + E-postkanal{#email-channel}
+      + [E-postkanal - översikt](/help/channels/email-channel-overview.md)
+      + [Design och personalisering av e-post - översikt](/help/channels/email-design-and-personalization-overview.md)
       + [Skapa innehåll med e-post-Designer](/help/channels/create-content-with-the-email-designer.md)
       + [Importera och redigera e-postinnehåll från HTML](/help/channels/import-and-author-html-email-content.md)
       + [Förhandsgranska, granska och publicera](/help/channels/preview-proof-and-publish.md)
@@ -60,31 +64,40 @@ ht-degree: 7%
    + Innehållskort{#content-cards}
       + [Skapa innehållskort](/help/channels/create-content-cards.md)
    + I appkanalen {#in-app-channel}
+      + [Meddelanden i appen - översikt](/help/channels/in-app-messages-overview.md)
       + [Skapa en kampanj i appen](/help/channels/create-an-in-app-campaign.md)
       + [Skapa ett meddelande i appen under en resa](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
       + [Konfigurera innehållsexperiment för meddelanden i appen](/help/experimentation/content-experiments-for-in-app-messages.md)
    + Skjut kanalen {#push-channel}
+      + [Push-meddelanden - översikt](/help/channels/push-notifications-overview.md)
       + [Konfigurera och skicka en push-kampanj](/help/channels/create-a-push-campaign.md)
    + SMS-kanal{#sms-channel}
+      + [SMS/MMS-meddelanden - översikt](/help/channels/sms-mms-messages-overview.md)
       + [Konfigurera, redigera och leverera SMS-meddelanden](/help/channels/author-sms-messages.md)
       + [Skriv ett MMS-meddelande](/help/channels/author-mms.md)
       + [SMS - Dubbel anmälan för Sinch och Infobip](/help/channels/sms-double-opt-in.md)
    + Webbkanal {#web-channel}
+      + [Webbpersonalisering - översikt](/help/channels/web-personalization-overview.md)
       + [Skapa en webbkampanj](/help/channels/create-a-web-campaign.md)
       + [Skapa en webbkampanj](/help/channels/author-a-web-campaign.md)
       + [SPA i webbredigeraren](/help/channels/singel-page-application-support.md)
 + Innehållshantering{#content-management}
-   + AI Assistant Content Accelerator{#content-accelerator}
-      + [Introduktion till AI Assistant Content Accelerator](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-      + [Skapa innehåll med AI Assistant i Journey Optimizer - Content Accelerator](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + [Utveckla meddelanden - Översikt](/help/content-management/message-authoring-overview.md)
+   + [Digital resurshantering - översikt](/help/content-management/digital-asset-management-overview.md)
    + [Hantera Assets](/help/assets-essentials-overview.md)
    + [Hantera innehållsmallar](/help/content-management/content-templates.md)
    + [Hantera fragment](/help/content-management/manage-fragments.md)
    + [Skapa uttrycksfragment](/help/content-management/expression-fragments.md)
-   + [Konfigurera flerspråkiga meddelanden](/help/content-management/set-up-multilingual-messages.md)
-   + [Skapa ett flerspråkigt meddelande](/help/content-management/create-multilingual-messages.md)
+   + [Experimentation - översikt](/help/content-management/experimentation-overview.md)
+   + Flerspråksmeddelanden {#multilingual-messaging}
+      + [Konfigurera flerspråkiga meddelanden](/help/content-management/set-up-multilingual-messages.md)
+      + [Skapa ett flerspråkigt meddelande](/help/content-management/create-multilingual-messages.md)
+   + AI Assistant Content Accelerator{#content-accelerator}
+      + [AI Assistant Content Accelerator - översikt](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Skapa innehåll med AI Assistant Content Accelerator](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Anpassa innehåll {#personalize-content}
+   + [Personalization editor - översikt](/help/personalize-content/personalization-editor-overview.md)
    + [Profil- och målgruppsbaserad personalisering](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Lägg till erbjudanden som personalisering](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Använd sammanhangsbaserad händelseinformation för personalisering](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -113,6 +126,7 @@ ht-degree: 7%
    + [Konfigurera ett mål för datauppsättningsexport](/help/data-management/configure-dataset-export-destination.md)
    + [Exportera datauppsättningar till molnlagringsplatser](/help/data-management/export-datasets.md)
 + Rapportera och övervaka {#report-and-monitor}
+   + [Mätning och rapportering - översikt](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [Live- och globala rapporter](/help/report-and-monitor/live-and-global-reports.md)
    + [Kanalnivårapporter](/help/report-and-monitor/channel-level-reports.md)
    + [Exportera rapporter i CSV-format](/help/report-and-monitor/export-reports-in-csv-format.md)
