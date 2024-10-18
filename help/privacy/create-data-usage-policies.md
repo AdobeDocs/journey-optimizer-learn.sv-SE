@@ -10,7 +10,7 @@ last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
+source-git-commit: da924ae1f11f87ef6d940d7ccfc0ac3b9cf3b896
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Skapa dataanvändningsprinciper
 
-Lär dig hur du skapar och hanterar principer för dataanvändning. Med dataanvändningspolicyer kan du begränsa dataanvändningen för specifika ändamål baserat på märkning av data. Mer information om API-baserad metod finns i [Skapa dataanvändningsprinciper med API:t|https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create].
+Lär dig hur du skapar och hanterar principer för dataanvändning. Med dataanvändningspolicyer kan du begränsa dataanvändningen för specifika ändamål baserat på märkning av data. Mer information om API-baserad metod finns i [Skapa dataanvändningsprinciper med API](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create).
 
 >[!NOTE]
 >
