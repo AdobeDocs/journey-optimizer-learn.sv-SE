@@ -7,7 +7,7 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2d0a573812fbcbce347821532d5ab254b3a4c98c
+source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 2%
@@ -47,30 +47,31 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 <table>
 <tr>
-  <td>
-    <a href="../introduction/journey-optimizer-overview.md">
-      <img alt="Journey Optimizer - översikt (video)" src="../assets/334174.jpg"/>
+    <td>
+    <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+      <img alt="Skapa innehåll med AI Assistant Content Accelerator (video)" src="../assets/3434635.jpg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-1.md">
-    <strong> Journey Optimizer - översikt, del 1 </strong>
+      <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+    <strong> Skapa innehåll med AI Assistant Content Accelerator </strong>
     </a>
     </div>
     <p>
-    <em>Den här videon visar hur varumärken kan använda Adobe Journey Optimization för att leverera personaliserade flerkanalsresor till sina kunder.</em>
+    <em>Lär dig hur du använder AI Assistant Content Accelerator för att generera proaktiva innehållsvariationsförslag för både text och bilder.
+</em>
     <p>
   </td>
     <td>
-    <a href="../introduction/journey-optimizer-overview-part-2.md">
-      <img alt="Journey Optimizer Overview Part 2 - Deliver omni channel travel (video)" src="../assets/334175.jpg"/>
+    <a href="../experimentation/content-experiments-for-emails.md">
+      <img alt="Konfigurera innehållsexperiment för e-postkampanjer (video)" src="../assets/3419893.jpeg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-2.md">
-    <strong> Journey Optimizer - översikt, del 2 </strong>
+      <a href="../experimentation/content-experiments-for-emails.md">
+    <strong> Konfigurera innehållsexperiment för e-postkampanjer </strong>
     </a>
     </div>
     <p>
-    <em>Den här videon visar hur varumärken kan använda Adobe Journey Optimizer funktioner för beslutshantering, segmentkvalificering i realtid och hantering av affärsevenemang för att nå nya höjder på sina kundresor.</em>
+    <em>Lär dig hur du konfigurerar innehållsexperiment till A/B-test och utforskar e-postinnehåll på bästa sätt för dina affärsmål.</em>
     <p>
   </td>
   </td>
