@@ -4,9 +4,9 @@ description: Experience League LIVE är ett direktuppspelningsprogram som produc
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 14dd8013baf67b65b77875735ba9a5b11d3e7f6f
+source-git-commit: f94e6ade711a52a9a34c9301ac57e4e258389a34
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" title="Visar innehållskort för Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?quality=12&format=jpeg&nocache=1731977644166" alt="Visar innehållskort för Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?quality=12&format=jpeg&nocache=1732050085097" alt="Visar innehållskort för Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -55,7 +55,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Harmonisera målgrupper i Experience Ecosystems - Federated Audience Composition i Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?quality=12&format=jpeg&nocache=1731977644169" alt="Harmonisera målgrupper i Experience Ecosystems - Federated Audience Composition i Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?quality=12&format=jpeg&nocache=1732050085110" alt="Harmonisera målgrupper i Experience Ecosystems - Federated Audience Composition i Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -78,7 +78,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" title="AI Bash - Frigör kraften i AI-assistenten i Adobe Experience Platform-program och Campaign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1731977644171" alt="AI Bash - Frigör kraften i AI-assistenten i Adobe Experience Platform-program och Campaign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1732050085112" alt="AI Bash - Frigör kraften i AI-assistenten i Adobe Experience Platform-program och Campaign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,6 +107,11 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en 
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en
   
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -116,7 +121,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" title="Spotlight - Tre måste prova funktioner i Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1731977644574" alt="Spotlight - Tre måste prova funktioner i Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1732050085568" alt="Spotlight - Tre måste prova funktioner i Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -139,7 +144,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24" title="Ny kodbaserad upplevelsekanal i Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?quality=12&format=jpeg&nocache=1731977644565" alt="Ny kodbaserad upplevelsekanal i Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?quality=12&format=jpeg&nocache=1732050085583" alt="Ny kodbaserad upplevelsekanal i Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -161,13 +166,13 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 
-<br>
-&lt;!— KORT
 
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en
+<!-- CARDS
+
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en 
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en
 
-—>
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="API Triggered Messaging in Adobe Journey Optimizer">
@@ -175,7 +180,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en" title="API Triggered Messaging i Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1731977645383" alt="API Triggered Messaging i Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1732050085961" alt="API Triggered Messaging i Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,7 +203,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en" title="Maximera mobilappens potential med Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?quality=12&format=jpeg&nocache=1731977645139" alt="Maximera mobilappens potential med Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?quality=12&format=jpeg&nocache=1732050085963" alt="Maximera mobilappens potential med Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,13 +224,13 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<br>
-&lt;!— KORT
+
+<!-- CARDS
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en
 
-—>
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Deliver the right offer at the right time with decision management">
@@ -233,7 +238,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en" title="Leverera rätt erbjudande vid rätt tidpunkt med beslutsstöd" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?quality=12&format=jpeg&nocache=1731977646047" alt="Leverera rätt erbjudande vid rätt tidpunkt med beslutsstöd"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?quality=12&format=jpeg&nocache=1732050086033" alt="Leverera rätt erbjudande vid rätt tidpunkt med beslutsstöd"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -256,7 +261,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en" title="Kör era kampanjer i Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?quality=12&format=jpeg&nocache=1731977646055" alt="Kör era kampanjer i Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?quality=12&format=jpeg&nocache=1732050085746" alt="Kör era kampanjer i Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -279,7 +284,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en" title="Push-meddelanden med Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?quality=12&format=jpeg&nocache=1731977646030" alt="Push-meddelanden med Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?quality=12&format=jpeg&nocache=1732050085969" alt="Push-meddelanden med Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -299,3 +304,6 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+
