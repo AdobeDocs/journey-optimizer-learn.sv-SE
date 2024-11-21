@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: a42991e258dd5f9964d7859003b1cc479bc79c21
+source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 8%
@@ -14,7 +14,6 @@ ht-degree: 8%
 # Självstudiekurser om Journey Optimizer {#tutorials}
 
 + [Självstudiekurser om Journey Optimizer](/help/_ajo-main/overview.md)
-+ [Experience League Live-spelinspelningar](/help/experience-league-live-show-recordings.md)
 + Introduktion till Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - översikt](/help/introduction/journey-optimizer-overview.md)
    + [Introduktion till Journey Optimizer](/help/introduction/introduction.md)
@@ -162,5 +161,6 @@ ht-degree: 8%
 + Utövningar och utmaningar {#exercises-and-challenges}
    + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
    + [Utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
++ [Experience League Live-spelinspelningar](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Skapa personliga mobilstunder med Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
