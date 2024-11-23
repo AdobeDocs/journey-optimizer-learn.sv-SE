@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
+source-git-commit: bf1a97a0950782838946ecf2e21d82e84913340f
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '597'
 ht-degree: 8%
 
 ---
@@ -151,7 +151,7 @@ ht-degree: 8%
 + Åtkomstkontroll {#access-control}
    + [Åtkomsthantering](/help/set-up-access/access-management.md)
    + [Konfigurera attributbaserad åtkomstkontroll](/help/administration/attribute-based-access-control.md)
-   + [Skapa och hantera sandlådor](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [Använda sandlådor](/help/set-up-access/create-and-manage-sandboxes.md)
 + Datastyrning och sekretess {#data-governance-and-privacy}
    + [Ramverk för datastyrning](/help/privacy/data-governance-framework.md)
    + [Klassificera data med etiketter](/help/privacy/classify-data-using-lables.md)
