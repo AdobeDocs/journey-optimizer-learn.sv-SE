@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: de27e7e7a1f5307e07ecd43ad578fab679c0c726
+source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '603'
 ht-degree: 8%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 8%
 # Självstudiekurser om Journey Optimizer {#tutorials}
 
 + [Självstudiekurser om Journey Optimizer](/help/_ajo-main/overview.md)
++ Användningsexempel {#use-cases}
+   + [Kundregistrering](/help/use-cases/customer-onboarding.md)
 + Introduktion till Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - översikt](/help/introduction/journey-optimizer-overview.md)
    + [Introduktion till Journey Optimizer](/help/introduction/introduction.md)
