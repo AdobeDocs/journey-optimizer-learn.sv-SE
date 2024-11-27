@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bf1a97a0950782838946ecf2e21d82e84913340f
+source-git-commit: de27e7e7a1f5307e07ecd43ad578fab679c0c726
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '599'
 ht-degree: 8%
 
 ---
@@ -131,6 +131,7 @@ ht-degree: 8%
    + [Exportera rapporter i CSV-format](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Använda varningar](/help/administration/alerts.md)
    + [Förbättrad rapportering med Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
+   + [Rapportera interaktivitet](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + Konfiguration {#configuration}
    + Konfigurera kanaler {#channel-configuration}
       + [Konfigurera kanaler](/help/set-up-channels/configure-channels.md)
