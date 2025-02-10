@@ -3,10 +3,10 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
+source-git-commit: 697fde1c593052ad9e2dc9eb0bc8f8bb6fafe1ff
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 8%
+source-wordcount: '621'
+ht-degree: 7%
 
 ---
 
@@ -42,18 +42,20 @@ ht-degree: 8%
    + [Användningsfall - läs målgrupper](/help/create-journeys/use-case-read-audience.md)
    + [Användningsfall - Målgruppskvalificering](/help/create-journeys/use-case-audience-qualification.md)
    + [Skapa en testprofil](/help/create-journeys/test-a-journey.md)
-   + [Publish en resa](/help/create-journeys/publish-a-journey.md)
+   + [Publicera en resa](/help/create-journeys/publish-a-journey.md)
    + [Uppdatera innehåll i en direktresa](/help/create-journeys/update-content-in-live-journey.md)
    + [Kopiera en resa till en annan sandlåda](/help/create-journeys/copy-a-journey.md)
 + Profiler, målgrupper och prenumerationer {#profiles-audiences-subscriptions}
    + [Profiler och målgrupper - översikt](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Enhetlig profil och segmentering - översikt](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Skapa målgrupper med regelverktyget](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [Skapa en målgrupp genom att överföra en CSV-fil](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + Kanaler {#channels}
    + [Optimering av mobilappar - översikt](/help/channels/mobile-app-optimization-overview.md)
    + Kodbaserad upplevelsekanal {#code-based-experience-channel}
       + [Skapa en kodbaserad upplevelsekampanj](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Använd beslut i den kodbaserade kanalen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direktpostkanal {#direct-mail-channel}
       + [Skapa direktreklam](/help/channels/direct-mail.md)
    + E-postkanal{#email-channel}
@@ -83,7 +85,7 @@ ht-degree: 8%
       + [Webbpersonalisering - översikt](/help/channels/web-personalization-overview.md)
       + [Skapa en webbkampanj](/help/channels/create-a-web-campaign.md)
       + [Skapa en webbkampanj](/help/channels/author-a-web-campaign.md)
-      + [SPA i webbredigeraren](/help/channels/singel-page-application-support.md)
+      + [SPA-stöd i webbredigeraren](/help/channels/singel-page-application-support.md)
 + Innehållshantering{#content-management}
    + [Utveckla meddelanden - Översikt](/help/content-management/message-authoring-overview.md)
    + [Digital resurshantering - översikt](/help/content-management/digital-asset-management-overview.md)
