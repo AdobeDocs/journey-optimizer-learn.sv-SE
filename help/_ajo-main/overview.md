@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
+source-git-commit: 66092b7d9d2a377dcd3ad1e5a9da7891b117f7be
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '378'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 # Självstudiekurser om Journey Optimizer
 
-Journey Optimizer hjälper företag att leverera sammankopplade, kontextuella och personaliserade upplevelser till sina kunder. Kundresan är hela processen för kundens interaktioner med varumärket, från första kontakten tills kunden lämnar webbplatsen.
+Med Journey Optimizer kan företag skapa sammanhängande, sammanhangsbaserade och personaliserade kundupplevelser. Det guidar kunderna genom hela kundresan med varumärket, från den första kontaktpunkten till det ögonblick de lämnar webbplatsen, och säkerställer en sammanhängande och tillfredsställande upplevelse vid varje kontaktyta.
 
 Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner. Upplev vad du lärt dig genom att ta [Journey Optimizer-utmaningar](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
 
