@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: b65e9640705ca4bf1b27edac9047b70600feb8b1
+source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Enhetsspecifik installation:
 
 >[!TAB iOS]
 
-### iOS:
+## iOS:
 
 När du har installerat appen måste du lita på Adobe Enterprise-utvecklare:
 
@@ -43,18 +43,17 @@ När du har installerat appen måste du lita på Adobe Enterprise-utvecklare:
 
    ![Lita på Adobe Systems-skärmen](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * Nu bör du kunna starta * SecureFinancial-appen** på din iPhone: ! SecureFinancial App-ikon](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   Nu bör du kunna starta * SecureFinancial-appen** på din iPhone:
 
+2. Öppna appen.
 
-1. Öppna appen.
-
-1. Klicka på **Tillåt** på popup-fönstret för att tillåta DX Demo-appen att skicka meddelanden till dig.
+3. Klicka på **Tillåt** på popup-fönstret för att tillåta DX Demo-appen att skicka meddelanden till dig.
 
    ![meddelande-popup](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
-### Android
+## Android
 
 Hämta och installera APK-filen i Android genom att följa de varningsinstruktioner som visas här:
 
@@ -62,6 +61,6 @@ Hämta och installera APK-filen i Android genom att följa de varningsinstruktio
 <br>
 ![Android installationsskärm](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* Nu bör du kunna starta * SecureFinancial-appen** på din Android-enhet: ! SecureFinancial App-ikon](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+Nu bör du kunna starta * SecureFinancial-appen** på din Android-enhet:
 
 >[!ENDTABS]
