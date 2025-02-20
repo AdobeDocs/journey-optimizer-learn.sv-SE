@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: c158039db46bf4337d73e2152ff9293ba364f8e3
+source-git-commit: b65e9640705ca4bf1b27edac9047b70600feb8b1
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Den här sidan innehåller text och länkar som används i L535 Summit Lab. Du k
 
 ![Mobiltelefon](/help/summit-lab-assets/assets/online-banking-app-01.png)
 
-## Installera appen
+Klicka [här](/help/summit-lab-assets/install-mobile-app.md) om du vill ha anvisningar om hur du installerar appen.
