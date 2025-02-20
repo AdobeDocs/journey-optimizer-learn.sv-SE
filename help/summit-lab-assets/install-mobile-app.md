@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
+source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,10 @@ När du har installerat appen måste du lita på Adobe Enterprise-utvecklare:
 
    Nu bör du kunna starta * SecureFinancial-appen** på din iPhone:
 
-2. Öppna appen.
+1. Öppna appen.
 
-3. Klicka på **Tillåt** på popup-fönstret för att tillåta DX Demo-appen att skicka meddelanden till dig.
+1. Klicka på **Tillåt** på popup-fönstret för att tillåta DX Demo-appen att skicka meddelanden till dig.
 
-   ![meddelande-popup](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
