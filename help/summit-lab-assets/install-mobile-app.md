@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
+source-git-commit: 9e0de40d26aa53dca190d469e51c9cf3345abcbb
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,11 @@ ht-degree: 0%
 
 # Hämta och installera SecureFinancial-appen
 
-Installera mobilappen på din iOS- eller Android™-enhet genom att skanna QR-koden nedan:
+Installera mobilappen på din iOS eller Android&amp;handel.
 
-![ecureFinancial-mobilappen QR-koder](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
+**Steg 1:** Skanna QR-koden för din enhet nedan:
+
+![SecureFinancial-mobilappen QR-koder](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
 
 Enhetsspecifik installation:
 
@@ -28,7 +30,18 @@ Enhetsspecifik installation:
 
 >[!TAB iOS]
 
-## iOS:
+## Steg 2: Installera appen på en iOS-enhet:
+
+1. Klicka på **Installera** på den spärra/knip som visas i kamerans app.
+
+   ![Installera popup-fönster](/help/summit-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
+
+2. Stäng appen **Camera** och leta efter appen DX Demo på skärmen
+
+   ![DX-Demo-app](/help/summit-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
+
+
+## Steg 3: Lita på Adobe Enterprise-utvecklare
 
 När du har installerat appen måste du lita på Adobe Enterprise-utvecklare:
 
@@ -45,16 +58,12 @@ När du har installerat appen måste du lita på Adobe Enterprise-utvecklare:
 
    Nu bör du kunna starta * SecureFinancial-appen** på din iPhone:
 
-1. Öppna appen.
-
-1. Klicka på **Tillåt** på popup-fönstret för att tillåta DX Demo-appen att skicka meddelanden till dig.
-
 
 >[!TAB Android]
 
-## Android
+## Installera appen på en Android-enhet:
 
-Hämta och installera APK-filen i Android genom att följa de varningsinstruktioner som visas här:
+Hämta och installera APP på Android genom att följa de varningsinstruktioner som visas här:
 
 ![Android nedladdningsskärm](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android nedladdningsskärm"){width="250" align="center" zoomable="yes"}
 <br>
@@ -63,3 +72,5 @@ Hämta och installera APK-filen i Android genom att följa de varningsinstruktio
 Nu bör du kunna starta * SecureFinancial-appen** på din Android-enhet:
 
 >[!ENDTABS]
+
+
