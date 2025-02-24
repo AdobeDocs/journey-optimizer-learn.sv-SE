@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3e27236efac68961a2bd0a12d1b6e78431de0655
+source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '632'
 ht-degree: 7%
 
 ---
@@ -97,9 +97,9 @@ ht-degree: 7%
    + Flerspråksmeddelanden {#multilingual-messaging}
       + [Konfigurera flerspråkiga meddelanden](/help/content-management/set-up-multilingual-messages.md)
       + [Skapa ett flerspråkigt meddelande](/help/content-management/create-multilingual-messages.md)
-   + AI Assistant Content Accelerator{#content-accelerator}
-      + [AI Assistant Content Accelerator - översikt](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [Skapa innehåll med AI Assistant Content Accelerator](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + AI-assistenten för innehållsgenerering {#content-accelerator}
+      + [AI Assistant för innehållsgenerering - översikt](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Skapa innehåll med AI-assistenten för innehållsgenerering](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Anpassa innehåll {#personalize-content}
    + [Personalization editor - översikt](/help/personalize-content/personalization-editor-overview.md)
    + [Profil- och målgruppsbaserad personalisering](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
