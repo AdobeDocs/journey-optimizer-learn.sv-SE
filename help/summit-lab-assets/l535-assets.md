@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: af70e8e589e3a4b48885d3ad1241ab8c140fa75a
+source-git-commit: 524ea3224bf72a6040f246c298f308584a4b0b38
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -33,7 +33,8 @@ Den här sidan innehåller text och länkar som används i L535 Summit Lab. Du k
 #### Fråga
 
 ```
-Generate a welcome email for new SecurFinancial customers who just opened a new savings account. Add a call to action to install the SecurFinancial mobile app.
+Generate a welcome email for new SecurFinancial customers who just opened a new savings account. 
+Add a call to action to install the SecurFinancial mobile app.
 ```
 
 ### Utgång 3.1 - Använd dynamiskt innehåll i SMS-meddelandet
