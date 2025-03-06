@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: 524ea3224bf72a6040f246c298f308584a4b0b38
+source-git-commit: c1a77892652df0a91a6add1ad0dc5a4bd0770d8b
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -62,13 +62,13 @@ s3.amazonaws.com/dxdemo/summit/index.html
 #### Titel
 
 ```
-Welcome to SecurFinancial"
+Welcome to SecurFinancial
 ```
 
 #### Brödtext
 
 ```
-Did you know you can find an ATM near in the SecurFinancial app? Try it now!"
+Did you know you can find an ATM near in the SecurFinancial app? Try it now!
 ```
 
 #### URL
