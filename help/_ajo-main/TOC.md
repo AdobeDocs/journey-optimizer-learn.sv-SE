@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
+source-git-commit: 88ceded69842b32d0d2ca5bfdce1e6e23cbd0c81
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '642'
 ht-degree: 7%
 
 ---
@@ -100,6 +100,9 @@ ht-degree: 7%
    + AI-assistenten för innehållsgenerering {#content-accelerator}
       + [AI Assistant för innehållsgenerering - översikt](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Skapa innehåll med AI-assistenten för innehållsgenerering](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + Innehållsmallar(#content-templates)
+      + [Skapa innehållsmallar](/help/content-management/templates/create-content-templates.md)
+      + [Lås innehåll i mallar](/help/content-management/templates/content-locking.md)
 + Anpassa innehåll {#personalize-content}
    + [Personalization editor - översikt](/help/personalize-content/personalization-editor-overview.md)
    + [Profil- och målgruppsbaserad personalisering](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
