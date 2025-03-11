@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: d48428397514f88e67e8608df19e487cbe6e49fa
+source-git-commit: 4ced5e5989b721940b602a06b638485c8db1577f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Lösenord:       Adobe4Summit!
 #### Fråga
 
 ```
-Generate a welcome email for new SecurFinancial customers who just opened a new savings account. 
+Generate a welcome email for new SecurFinancial customers who just opened a new checking account. 
 Add a call to action to install the SecurFinancial mobile app.
 ```
 
