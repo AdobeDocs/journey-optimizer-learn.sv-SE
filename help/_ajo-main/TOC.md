@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
+source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '635'
 ht-degree: 7%
 
 ---
@@ -110,9 +110,9 @@ ht-degree: 7%
    + [Använd hjälpfunktioner för personalisering](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Skapa dynamiskt innehåll med villkorsregelbyggaren](/help/personalize-content/create-dynamic-content.md)
-+ Beslutshantering {#decision-management}
-   + [Introduktion till beslutshantering](/help/decision-management/introduction-to-decision-management.md)
-   + [Demo av beslutsstyrningskapaciteten](/help/decision-management/demo-of-decision-management-capabilities.md)
++ Avgör {#decisioning}
+   + [Introduktion till beslut](/help/decision-management/introduction-to-decisioning.md)
+   + [Demo av beslutsfunktionerna](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Skapa placeringar](/help/decision-management/create-placements.md)
    + [Skapa regler](/help/decision-management/create-rules.md)
    + [Skapa taggar](/help/decision-management/create-tags.md)
