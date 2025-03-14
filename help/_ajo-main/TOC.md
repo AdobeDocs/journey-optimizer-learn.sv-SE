@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
+source-git-commit: 8727d3b84573f78ac28da260177aab607014f6fe
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '647'
 ht-degree: 7%
 
 ---
@@ -110,19 +110,23 @@ ht-degree: 7%
    + [Använd hjälpfunktioner för personalisering](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Skapa dynamiskt innehåll med villkorsregelbyggaren](/help/personalize-content/create-dynamic-content.md)
-+ Avgör {#decisioning}
-   + [Introduktion till beslut](/help/decision-management/introduction-to-decisioning.md)
-   + [Demo av beslutsfunktionerna](/help/decision-management/demo-of-decision-management-capabilities.md)
-   + [Skapa placeringar](/help/decision-management/create-placements.md)
-   + [Skapa regler](/help/decision-management/create-rules.md)
-   + [Skapa taggar](/help/decision-management/create-tags.md)
-   + [Skapa personaliserade erbjudanden](/help/decision-management/create-personalized-offers.md)
-   + [Skapa AI-modeller](/help/decision-management/create-ai-models.md)
-   + [Skapa reserverbjudanden](/help/decision-management/create-fallback-offers.md)
-   + [Skapa samlingar](/help/decision-management/create-collections.md)
-   + [Skapa beslut](/help/decision-management/create-decisions.md)
-   + [Leverera erbjudanden med besluts-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [Frekvensbegränsning](/help/decision-management/frequency-capping.md)
++ Beslutsfunktioner{#decision-capabilites}
+   + Avgör {#decisioning}
+      + [Introduktion till beslut](/help/decisioning/introduction-to-decisioning.md)
+      + [Genomgång av beslut från början till slut](/help/decisioning/decisioning-end-to-end.md)
+   + Beslutshantering {#decision-management}
+      + [Introduktion till beslutshantering](/help/decision-management/introduction-to-decision-management.md)
+      + [Demo av beslutsstyrningens kapacitet](/help/decision-management/demo-of-decision-management-capabilities.md)
+      + [Skapa placeringar](/help/decision-management/create-placements.md)
+      + [Skapa regler](/help/decision-management/create-rules.md)
+      + [Skapa taggar](/help/decision-management/create-tags.md)
+      + [Skapa personaliserade erbjudanden](/help/decision-management/create-personalized-offers.md)
+      + [Skapa AI-modeller](/help/decision-management/create-ai-models.md)
+      + [Skapa reserverbjudanden](/help/decision-management/create-fallback-offers.md)
+      + [Skapa samlingar](/help/decision-management/create-collections.md)
+      + [Skapa beslut](/help/decision-management/create-decisions.md)
+      + [Leverera erbjudanden med besluts-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+      + [Frekvensbegränsning](/help/decision-management/frequency-capping.md)
 + Datahantering {#data-management}
    + [Översikt](/help/data-management/set-up-data-overview.md)
    + [Skapa ett schema](/help/data-management/create-schema.md)
