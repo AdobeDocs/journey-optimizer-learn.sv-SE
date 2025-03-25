@@ -1,6 +1,6 @@
 ---
 title: Introduktion till beslut
-description: Beslutsfattandet förenklar personaliseringen genom att erbjuda en centraliserad katalog med marknadsföringserbjudanden som kallas beslutsposter och en avancerad beslutsmotor. Den här motorn använder regler och rankningskriterier för att välja ut och presentera de mest relevanta beslutsobjekten för varje enskild person. I den här videon får du en kort översikt över Adobe Journey Optimizer beslutsfunktioner&gt;
+description: Beslutsfattandet förenklar personanpassningen genom att erbjuda en centraliserad katalog med marknadsföringserbjudanden som kallas Beslutsposter och en avancerad beslutsmotor. Den här motorn använder regler och rankningskriterier för att välja ut och presentera de mest relevanta beslutsobjekten för varje enskild person. I den här videon får du en kort översikt över Adobe Journey Optimizer beslutsfunktioner&gt;
 feature: Decisioning
 topic: Integrations
 role: User
@@ -14,13 +14,13 @@ exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
 source-git-commit: e9e120f6eee45bb2aa466a4cd4c64332e4380197
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 53%
 
 ---
 
 # Introduktion till beslut
 
-Beslutsfattandet förenklar personaliseringen genom att erbjuda en centraliserad katalog med marknadsföringserbjudanden som kallas beslutsposter och en avancerad beslutsmotor. Den här motorn använder regler och rankningskriterier för att välja ut och presentera de mest relevanta beslutsobjekten för varje enskild person.
+Beslutsfattandet förenklar personanpassningen genom att erbjuda en centraliserad katalog med marknadsföringserbjudanden som kallas Beslutsposter och en avancerad beslutsmotor. Den här motorn använder regler och rankningskriterier för att välja ut och presentera de mest relevanta beslutsobjekten för varje enskild person.
 
 I den här videon får du en kort översikt över Adobe Journey Optimizer beslutsfunktioner
 
