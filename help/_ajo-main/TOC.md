@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bb6dc1a70df284f58645336e139d1b78c5cfe590
+source-git-commit: 943d35a082ec511fd389ad8c439b94fdd528eed4
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 7%
@@ -88,7 +88,6 @@ ht-degree: 7%
       + [SPA-stöd i webbredigeraren](/help/channels/singel-page-application-support.md)
 + Innehållshantering{#content-management}
    + [Utveckla meddelanden - Översikt](/help/content-management/message-authoring-overview.md)
-   + 
    + [Digital resurshantering - översikt](/help/content-management/digital-asset-management-overview.md)
    + [Hantera Assets](/help/assets-essentials-overview.md)
    + [Redigera resurser med Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
