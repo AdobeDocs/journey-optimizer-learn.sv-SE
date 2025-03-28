@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 943d35a082ec511fd389ad8c439b94fdd528eed4
+source-git-commit: fc1d1eeb472e4f9f5230425c16220df86db9dbb7
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '657'
 ht-degree: 7%
 
 ---
@@ -50,6 +50,7 @@ ht-degree: 7%
    + [Enhetlig profil och segmentering - översikt](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Skapa målgrupper med regelverktyget](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Skapa en målgrupp genom att överföra en CSV-fil](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+   + [Utvärdera målgrupper på begäran](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + Kanaler {#channels}
    + [Optimering av mobilappar - översikt](/help/channels/mobile-app-optimization-overview.md)
