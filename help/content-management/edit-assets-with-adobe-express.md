@@ -9,13 +9,16 @@ doc-type: Feature Video
 duration: 300
 last-substantial-update: 2025-03-27T00:00:00Z
 jira: KT-17529
-source-git-commit: 6f1e86b98dfa71330dcf15281d63c50b4b465a1f
+hidefromtoc: true
+hide: true
+index: false
+exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
+source-git-commit: 55f3c99e9c21155ee227d73add83b4790b904d83
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Redigera resurser med Adobe Express
 
