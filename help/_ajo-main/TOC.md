@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 602252c2f39bb97486460486ef9a6fec628a3aee
+source-git-commit: 4c7d047593ce5c8be7b8120ce65a9363a4e088fe
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 9%
@@ -105,7 +105,7 @@ ht-degree: 9%
       + [Skapa ett flerspråkigt meddelande](/help/content-management/create-multilingual-messages.md)
    + AI Assistant för innehållsgenerering {#content-accelerator}
       + [AI Assistant för innehållsgenerering - översikt](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [Skapa innehåll med AI-assistenten för innehållsgenerering](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+      + [Skapa innehåll med AI-assistenten för innehållsgenerering](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
    + [Experimentation - översikt](/help/content-management/experimentation-overview.md)
    + [Skapa ett e-postmeddelande med GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Anpassa innehåll {#personalize-content}
