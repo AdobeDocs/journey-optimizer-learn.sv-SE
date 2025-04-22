@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4c7d047593ce5c8be7b8120ce65a9363a4e088fe
+source-git-commit: bc284bc408bb05e9454b3de4193b05c95643797b
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 9%
@@ -96,7 +96,7 @@ ht-degree: 9%
    + Arbeta med fragment {#fragments}
       + [Hantera fragment](/help/content-management/manage-fragments.md)
       + [Skapa uttrycksfragment](/help/content-management/expression-fragments.md)
-      + [Använda AEM Content Fragments](/help/content-management/aem_content_fragments.md)
+      + [Använda AEM Content Fragments](/help/content-management/aem-content-fragments.md)
    + Innehållsmallar{#content-templates}
       + [Skapa innehållsmallar](/help/content-management/templates/create-content-templates.md)
       + [Lås innehåll i mallar](/help/content-management/templates/content-locking.md)
