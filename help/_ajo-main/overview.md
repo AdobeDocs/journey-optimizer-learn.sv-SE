@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 66092b7d9d2a377dcd3ad1e5a9da7891b117f7be
+source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '375'
 ht-degree: 2%
 
 ---
@@ -57,7 +57,7 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
     </a>
     </div>
     <p>
-    <em>Lär dig hur du använder AI Assistant Content Accelerator för att generera proaktiva innehållsvariationsförslag för både text och bilder.
+    <em>Lär dig hur du använder AI Assistant Content Accelerator för att generera proaktiva variantförslag för både text och bilder.
 </em>
     <p>
   </td>
