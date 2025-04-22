@@ -3,10 +3,10 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
+source-git-commit: 602252c2f39bb97486460486ef9a6fec628a3aee
 workflow-type: tm+mt
-source-wordcount: '662'
-ht-degree: 7%
+source-wordcount: '671'
+ht-degree: 9%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 7%
 # Självstudiekurser om Journey Optimizer {#tutorials}
 
 + [Självstudiekurser om Journey Optimizer](/help/_ajo-main/overview.md)
-+ Användningsexempel {#use-cases}
++ Användningsfall {#use-cases}
    + [Kundregistrering](/help/use-cases/customer-onboarding.md)
    + [Övergiven varukorg](/help/use-cases/abandoned-cart.md)
 + Introduktion till Journey Optimizer {#introduction-to-journey-optimizer}
@@ -54,10 +54,10 @@ ht-degree: 7%
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + Kanaler {#channels}
    + [Optimering av mobilappar - översikt](/help/channels/mobile-app-optimization-overview.md)
-   + Kodbaserad upplevelsekanal {#code-based-experience-channel}
+   + Kodbaserad upplevelsekanal{#code-based-experience-channel}
       + [Skapa en kodbaserad upplevelsekampanj](/help/channels/create-a-code-based-experience-campaign.md)
       + [Använd beslut i den kodbaserade kanalen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
-   + Direktpostkanal {#direct-mail-channel}
+   + Direktpostkanal{#direct-mail-channel}
       + [Skapa direktreklam](/help/channels/direct-mail.md)
    + E-postkanal{#email-channel}
       + [E-postkanal - översikt](/help/channels/email-channel-overview.md)
@@ -68,13 +68,13 @@ ht-degree: 7%
       + [Konfigurera innehållsexperiment för e-post](/help/experimentation/content-experiments-for-emails.md)
    + Innehållskort{#content-cards}
       + [Skapa innehållskort](/help/channels/create-content-cards.md)
-   + I appkanalen {#in-app-channel}
+   + I appkanalen{#in-app-channel}
       + [Meddelanden i appen - översikt](/help/channels/in-app-messages-overview.md)
       + [Skapa en kampanj i appen](/help/channels/create-an-in-app-campaign.md)
       + [Skapa ett meddelande i appen under en resa](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Skriv ett meddelande i appen](/help/channels/author-in-app-messages.md)
       + [Konfigurera innehållsexperiment för meddelanden i appen](/help/experimentation/content-experiments-for-in-app-messages.md)
-   + Skjut kanalen {#push-channel}
+   + Push-kanal{#push-channel}
       + [Push-meddelanden - översikt](/help/channels/push-notifications-overview.md)
       + [Konfigurera och skicka en push-kampanj](/help/channels/create-a-push-campaign.md)
    + SMS-kanal{#sms-channel}
@@ -89,22 +89,25 @@ ht-degree: 7%
       + [SPA-stöd i webbredigeraren](/help/channels/singel-page-application-support.md)
 + Innehållshantering{#content-management}
    + [Utveckla meddelanden - Översikt](/help/content-management/message-authoring-overview.md)
-   + [Digital resurshantering - översikt](/help/content-management/digital-asset-management-overview.md)
-   + [Hantera Assets](/help/assets-essentials-overview.md)
-   + [Redigera resurser med Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
-   + [Hantera fragment](/help/content-management/manage-fragments.md)
-   + [Skapa uttrycksfragment](/help/content-management/expression-fragments.md)
-   + [Experimentation - översikt](/help/content-management/experimentation-overview.md)
-   + [Skapa ett e-postmeddelande med GenStudio](/help/content-management/create-an-email-using-genstudio.md)
-   + Flerspråksmeddelanden {#multilingual-messaging}
-      + [Konfigurera flerspråkiga meddelanden](/help/content-management/set-up-multilingual-messages.md)
-      + [Skapa ett flerspråkigt meddelande](/help/content-management/create-multilingual-messages.md)
-   + AI-assistenten för innehållsgenerering {#content-accelerator}
-      + [AI Assistant för innehållsgenerering - översikt](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [Skapa innehåll med AI-assistenten för innehållsgenerering](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + [Hantera resurser]{#assets}
+      + [Digital resurshantering - översikt](/help/content-management/digital-asset-management-overview.md)
+      + [Hantera Assets](/help/assets-essentials-overview.md)
+      + [Redigera resurser med Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
+   + Arbeta med fragment {#fragments}
+      + [Hantera fragment](/help/content-management/manage-fragments.md)
+      + [Skapa uttrycksfragment](/help/content-management/expression-fragments.md)
+      + [Använda AEM Content Fragments](/help/content-management/aem_content_fragments.md)
    + Innehållsmallar{#content-templates}
       + [Skapa innehållsmallar](/help/content-management/templates/create-content-templates.md)
       + [Lås innehåll i mallar](/help/content-management/templates/content-locking.md)
+   + Flerspråkiga meddelanden {#multilingual-messaging}
+      + [Konfigurera flerspråkiga meddelanden](/help/content-management/set-up-multilingual-messages.md)
+      + [Skapa ett flerspråkigt meddelande](/help/content-management/create-multilingual-messages.md)
+   + AI Assistant för innehållsgenerering {#content-accelerator}
+      + [AI Assistant för innehållsgenerering - översikt](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Skapa innehåll med AI-assistenten för innehållsgenerering](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + [Experimentation - översikt](/help/content-management/experimentation-overview.md)
+   + [Skapa ett e-postmeddelande med GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Anpassa innehåll {#personalize-content}
    + [Personalization editor - översikt](/help/personalize-content/personalization-editor-overview.md)
    + [Profil- och målgruppsbaserad personalisering](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -114,7 +117,7 @@ ht-degree: 7%
    + [Använda och hantera sparade uttryck i personaliseringsbiblioteket](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Skapa dynamiskt innehåll med villkorsregelbyggaren](/help/personalize-content/create-dynamic-content.md)
 + Beslutsfunktioner{#decision-capabilities}
-   + Avgör {#decisioning}
+   + Beslut {#decisioning}
       + [Introduktion till beslut](/help/decisioning/introduction-to-decisioning.md)
       + [Genomgång av beslut från början till slut](/help/decisioning/decisioning-end-to-end.md)
    + Beslutshantering {#decision-management}
