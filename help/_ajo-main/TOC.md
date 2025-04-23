@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 6dd5b60426226724bb7855594fac387f7f6d8a7d
+source-git-commit: b85a915543769e5af2e873bc7c1cb57286d78fe8
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '675'
 ht-degree: 9%
 
 ---
@@ -92,6 +92,7 @@ ht-degree: 9%
    + Hantera resurser {#assets}
       + [Digital resurshantering - översikt](/help/content-management/digital-asset-management-overview.md)
       + [Hantera Assets](/help/assets-essentials-overview.md)
+      + [Integrering med AEM Dynamic Media](/help/content-management/aem-dynamic-media-integration.md)
       + [Redigera resurser med Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
    + Arbeta med fragment {#fragments}
       + [Hantera fragment](/help/content-management/manage-fragments.md)
