@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: da95a1a259523039308cc5c5beb6bd93cf5de0f4
+source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '696'
 ht-degree: 9%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 9%
 + Användningsfall {#use-cases}
    + [Kundregistrering](/help/use-cases/customer-onboarding.md)
    + [Övergiven varukorg](/help/use-cases/abandoned-cart.md)
+
 + Introduktion till Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - översikt](/help/introduction/journey-optimizer-overview.md)
    + [Introduktion till Journey Optimizer](/help/introduction/introduction.md)
@@ -182,6 +183,12 @@ ht-degree: 9%
    + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
    + [Utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Experience League Live-spelinspelningar](/help/experience-league-live-show-recordings.md)
++ Skapa målgrupper med Web SDK {#tutorial-creating-audiences}
+   + [Introduktion](../tutorial-creating-audience/introduction.md)
+   + [Skapa schema,Datauppsättningar..etc](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [Skapa AEP-taggar](../tutorial-creating-audience/create-aep-tags.md)
+   + [Skapa webbformulär](../tutorial-creating-audience/create-web-form.md)
+   + [Felsök lösningen](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
    + [Skapa personliga mobilstunder med Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Cheat Sheet](/help/summit-lab-assets/l535-assets.md)
