@@ -28,6 +28,6 @@ Mer information om [datastyrning](https://experienceleague.adobe.com/en/docs/jou
 
 ## Ytterligare utbildning
 
-* [Spellista: Kom igång med Adobe Experience Platform datastyrning](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-data-governance)
+* [Spellista: Kom igång med Adobe Experience Platform datastyrning](https://experienceleague.adobe.com/sv/playlists/experience-platform-get-started-with-data-governance)
 
   *Läs mer om datastyrning på Adobe Experience Platform och om hur du klassificerar data med hjälp av etiketter, skapar dataanvändningsprinciper och tillämpar dataanvändningsprinciper på Experience Platform.*

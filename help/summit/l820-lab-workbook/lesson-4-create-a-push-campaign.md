@@ -211,7 +211,7 @@ Om du är nöjd med innehållet i ditt meddelande kan du aktivera meddelandet:
 
 **Produktdokumentation:**
 
-* [Kom igång med push-meddelanden](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
-* [Skapa ett push-meddelande](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
-* [Designa ett push-meddelande](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
-* [Kontrollera och skicka push-meddelanden](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
+* [Kom igång med push-meddelanden](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/push/get-started-push)
+* [Skapa ett push-meddelande](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/push/create-push)
+* [Designa ett push-meddelande](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/push/design-push)
+* [Kontrollera och skicka push-meddelanden](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/push/send-push)

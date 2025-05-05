@@ -17,8 +17,8 @@ ht-degree: 8%
 
 # Skapa personaliserade erbjudanden
 
-Lär dig hur du skapar [personaliserade erbjudanden](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html) för beslutshantering. Personaliserade erbjudanden har tillhörande regler som hjälper dig att visa dem endast för relevanta kunder. Du kan till exempel begränsa ett erbjudande om snöskrapor till regioner där det snöar och bara under vintern.
+Lär dig hur du skapar [personaliserade erbjudanden](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=sv-SE) för beslutshantering. Personaliserade erbjudanden har tillhörande regler som hjälper dig att visa dem endast för relevanta kunder. Du kan till exempel begränsa ett erbjudande om snöskrapor till regioner där det snöar och bara under vintern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on){transcript=true}
 
-Mer information om hur du skapar anpassade erbjudandeaktiviteter med ett API finns i [produktguiden](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html)
+Mer information om hur du skapar anpassade erbjudandeaktiviteter med ett API finns i [produktguiden](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html?lang=sv-SE)

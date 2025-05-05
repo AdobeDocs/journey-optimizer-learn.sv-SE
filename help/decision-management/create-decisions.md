@@ -17,8 +17,8 @@ ht-degree: 6%
 
 # Skapa beslut
 
-Lär dig hur du skapar [beslut](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html) för beslutshantering. Ett beslut kombinerar era praktik och samlingar i en enda enhet, så att ni kan fatta beslut om att leverera det mest relevanta erbjudandet till kunden.
+Lär dig hur du skapar [beslut](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html?lang=sv-SE) för beslutshantering. Ett beslut kombinerar era praktik och samlingar i en enda enhet, så att ni kan fatta beslut om att leverera det mest relevanta erbjudandet till kunden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on){transcript=true}
 
-Mer information om hur du skapar beslut med hjälp av API:t för gruppbeslut finns i [produktguiden.](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html)
+Mer information om hur du skapar beslut med hjälp av API:t för gruppbeslut finns i [produktguiden.](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html?lang=sv-SE)

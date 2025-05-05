@@ -19,7 +19,7 @@ ht-degree: 2%
 
 Med Journey Optimizer kan företag skapa sammanhängande, sammanhangsbaserade och personaliserade kundupplevelser. Det guidar kunderna genom hela kundresan med varumärket, från den första kontaktpunkten till det ögonblick de lämnar webbplatsen, och säkerställer en sammanhängande och tillfredsställande upplevelse vid varje kontaktyta.
 
-Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner. Upplev vad du lärt dig genom att ta [Journey Optimizer-utmaningar](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
+Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner. Upplev vad du lärt dig genom att ta [Journey Optimizer-utmaningar](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,11 +32,11 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ## Senaste Experience League Live-event
 
-* **[AI Bash - Aktiverar kraften i AI Assistant i Adobe Experience Platform-program och Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+* **[AI Bash - Aktiverar kraften i AI Assistant i Adobe Experience Platform-program och Campaign](https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
   *Upptäck hur AI Assistant omvandlar kundinteraktioner och förbättrar produktiviteten i Adobe Experience Cloud-program och Adobe Campaign.*
-* **[Sommarspotlight - Tre måste prova funktioner i Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
+* **[Sommarspotlight - Tre måste prova funktioner i Adobe Journey Optimizer](https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
   *Utnyttja kundengagemanget i sommar med Adobe Journey Optimizer tre funktioner: reseexperiment, frekvensbegränsning och flerspråkiga meddelanden.*
-* **[Ny kodbaserad upplevelsekanal i Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+* **[Ny kodbaserad upplevelsekanal i Journey Optimizer](https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *Lär dig hur du aktiverar inkommande ytor och detaljkontroll för personalisering med utvecklarcentrerade åtgärder.*
 
 </div>

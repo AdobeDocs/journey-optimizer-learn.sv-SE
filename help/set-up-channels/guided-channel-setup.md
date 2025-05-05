@@ -28,5 +28,5 @@ Lär dig hur du konfigurerar och validerar ett push-kanalsmeddelande för en exe
 
 Mer information finns i produktdokumentationen:
 
-* [Kom igång med konfiguration av guidade kanaler](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
-* [Skapa en kanalkonfiguration](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
+* [Kom igång med konfiguration av guidade kanaler](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=sv-SE)
+* [Skapa en kanalkonfiguration](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=sv-SE)

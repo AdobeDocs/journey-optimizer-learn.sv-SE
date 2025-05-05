@@ -30,4 +30,4 @@ Lär dig hur du prenumererar på fördefinierade aviseringar om oväntade resbet
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=en).
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=sv-SE).

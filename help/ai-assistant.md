@@ -22,4 +22,4 @@ Läs om vad du kan göra med AI Assistant i Adobe Experience Platform-baserade p
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Se [Arbeta med AI-assistenten](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) för mer information om de användningsområden som stöds i Journey Optimizer. Detaljerad dokumentation finns i dokumentationen för [AI-assistenten i Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home).
+Se [Arbeta med AI-assistenten](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/get-started/ai-assistant) för mer information om de användningsområden som stöds i Journey Optimizer. Detaljerad dokumentation finns i dokumentationen för [AI-assistenten i Adobe Experience Platform](https://experienceleague.adobe.com/sv/docs/experience-platform/ai-assistant/home).

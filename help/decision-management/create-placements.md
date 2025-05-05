@@ -16,8 +16,8 @@ ht-degree: 7%
 
 # Skapa placeringar
 
-Lär dig hur du skapar [praktik](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html) för beslutshantering. Placeringar är en av byggstenskomponenterna i erbjudandena. En placering är en kombination av innehållstyp och kanal, till exempel en bild i ett e-postmeddelande eller HTML på en webbplats.
+Lär dig hur du skapar [praktik](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=sv-SE) för beslutshantering. Placeringar är en av byggstenskomponenterna i erbjudandena. En placering är en kombination av innehållstyp och kanal, till exempel en bild i ett e-postmeddelande eller HTML på en webbplats.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on){transcript=true}
 
-Mer information om hur du skapar placeringar med ett API finns i [produktguiden](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html)
+Mer information om hur du skapar placeringar med ett API finns i [produktguiden](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=sv-SE)

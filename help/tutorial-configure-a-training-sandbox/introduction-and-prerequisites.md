@@ -29,9 +29,9 @@ I slutet av den här självstudiekursen har du en sandlåda som har stöd för d
 
 Innan du kan börja konfigurera din utbildningssandlåda måste du se till att du har:
 
-1. En dedikerad [utvecklingssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en).
+1. En dedikerad [utvecklingssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=sv-SE).
 
-1. [Förinställningar för e-postmeddelanden](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html?lang=en) har konfigurerats för marknadsföring och transaktionsmeddelanden.
+1. [Förinställningar för e-postmeddelanden](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html?lang=sv-SE) har konfigurerats för marknadsföring och transaktionsmeddelanden.
 
 1. **[!UICONTROL Reseadministratör]** och **[!UICONTROL Datahanterare]** för utbildningssandlådan.
 

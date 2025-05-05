@@ -17,4 +17,4 @@ ht-degree: 26%
 + [Problem - Skapa en sommarkollektion](/help/challenges/summer-collection-announcement-challenge.md)
 + [Problem - Skapa ett välkomstmeddelande om lojalitetsstatus](/help/challenges/loyalty-status-welcome-email-challenge.md)
 + [Problem - Skapa ett e-postmeddelande med orderbekräftelse](/help/challenges/order-confirmation-challenge.md)
-+ [Självstudiekurser](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
++ [Självstudiekurser](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=sv-SE)

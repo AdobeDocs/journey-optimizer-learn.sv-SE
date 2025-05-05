@@ -22,4 +22,4 @@ Lär dig hur du skapar en regeluppsättning för begränsning av kundfrekvens so
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
 
-Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/rule-sets).
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configuration/rule-sets).

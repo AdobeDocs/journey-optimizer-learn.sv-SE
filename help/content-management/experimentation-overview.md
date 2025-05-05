@@ -22,4 +22,4 @@ Förstå hur ni kör tester och simuleringar i Journey Optimizer för att förfi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434963/?learn=on)
 
-Mer information finns i [Kom igång med innehållsexperiment](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/get-started-experiment).
+Mer information finns i [Kom igång med innehållsexperiment](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/content-experiment/get-started-experiment).

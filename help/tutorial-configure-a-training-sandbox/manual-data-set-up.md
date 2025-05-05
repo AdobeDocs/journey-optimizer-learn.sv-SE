@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Konfigurera data manuellt
 
-I det här avsnittet skapar du de identitetsnamnutrymmen som krävs och definierar [!DNL Luma]-exempeldatastrukturen genom att skapa [[!UICONTROL scheman]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html).
+I det här avsnittet skapar du de identitetsnamnutrymmen som krävs och definierar [!DNL Luma]-exempeldatastrukturen genom att skapa [[!UICONTROL scheman]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=sv-SE).
 
 >[!TIP]
 >Titta på videosjälvstudiekursen [Mappa identiteter](/help/data-management/map-identities.md) innan du börjar.
@@ -51,7 +51,7 @@ Börja med att skapa ett [!UICONTROL namnområde] för schemat [!DNL Luma Loyalt
 
 ## Steg 2: Skapa scheman
 
-I det här steget definierar du strukturen för exempeldata genom att skapa sex [[!UICONTROL scheman]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
+I det här steget definierar du strukturen för exempeldata genom att skapa sex [[!UICONTROL scheman]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=sv-SE):
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 

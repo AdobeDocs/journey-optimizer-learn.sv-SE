@@ -16,8 +16,8 @@ ht-degree: 9%
 
 # Skapa taggar
 
-Lär dig hur du [skapar taggar](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html) i [!DNL Decision Management]. Taggar är valfria byggstenskomponenter i erbjudanden. De kan användas för att ordna erbjudanden och gruppera dem i dynamiska samlingar.
+Lär dig hur du [skapar taggar](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=sv-SE) i [!DNL Decision Management]. Taggar är valfria byggstenskomponenter i erbjudanden. De kan användas för att ordna erbjudanden och gruppera dem i dynamiska samlingar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on){transcript=true}
 
-Mer information om hur du skapar taggar med ett API finns i [produktguiden](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html)
+Mer information om hur du skapar taggar med ett API finns i [produktguiden](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=sv-SE)

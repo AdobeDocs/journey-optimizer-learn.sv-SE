@@ -22,4 +22,4 @@ Lär dig omvandla personaliseringsvärden med hjälp av hjälpfunktioner för pe
 
 >[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12&learn=on){transcript=true}
 
-Läs produktguiden om du vill veta mer om [hjälpfunktioner](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=en).
+Läs produktguiden om du vill veta mer om [hjälpfunktioner](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=sv-SE).

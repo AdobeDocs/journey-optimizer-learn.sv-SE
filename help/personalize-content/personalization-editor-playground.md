@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Personalization Editor playground
 
-[Anpassningsredigerarens spelgrund](https://experienceleague.adobe.com/en/apps/journey-optimizer/ajo-personalization#) innehåller en simulerad miljö där personaliseringskoden kan skrivas och testas med exempeldata utan att det behövs några dynamiska datamängder.
+[Anpassningsredigerarens spelgrund](https://experienceleague.adobe.com/sv/apps/journey-optimizer/ajo-personalization#) innehåller en simulerad miljö där personaliseringskoden kan skrivas och testas med exempeldata utan att det behövs några dynamiska datamängder.
 
 Lär dig hur du använder fördefinierade kodexempel, redigerar nyttolaster för dummy-profiler och förhandsgranskar resultatet av din personaliseringskod i realtid.
 

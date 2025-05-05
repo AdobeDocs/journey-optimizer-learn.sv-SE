@@ -23,4 +23,4 @@ Lär dig hur du låser innehåll i mallar. I den här självstudiekursen beskriv
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
 
-Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/content-locking).
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/content-templates/content-locking).

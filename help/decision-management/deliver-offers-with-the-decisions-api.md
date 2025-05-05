@@ -17,10 +17,10 @@ ht-degree: 1%
 
 # Leverera erbjudanden med API:t för beslutshubben
 
-Lär dig hur du levererar erbjudanden [med API:t för beslutshubben](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html). [!DNL Postman] används för att visa att ett API-anrop görs för att hämta behållar-ID. Därefter anpassas ett exempel på API-anrop för beslut med aktivitets-ID, placerings-ID, identitetsnamnutrymme och kund-ID för att hämta ett personaliserat erbjudande. När ni har fått ett personaliserat erbjudande med API:t för beslut kan ni integrera erbjudandeinnehållet med ert marknadsföringssystem.
+Lär dig hur du levererar erbjudanden [med API:t för beslutshubben](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=sv-SE). [!DNL Postman] används för att visa att ett API-anrop görs för att hämta behållar-ID. Därefter anpassas ett exempel på API-anrop för beslut med aktivitets-ID, placerings-ID, identitetsnamnutrymme och kund-ID för att hämta ett personaliserat erbjudande. När ni har fått ett personaliserat erbjudande med API:t för beslut kan ni integrera erbjudandeinnehållet med ert marknadsföringssystem.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on){transcript=true}
 
 >[!INFO]
 >
-> Den här videon ingår i en kurs, [Getting Started with Decision Management for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), som är gratis på Experience League!
+> Den här videon ingår i en kurs, [Getting Started with Decision Management for Marketers](https://experienceleague.adobe.com/?lang=sv&recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), som är gratis på Experience League!

@@ -22,4 +22,4 @@ Lär dig vilka kanalkonfigurationer som är och hur de används i Adobe Journey 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433124/?learn=on)
 
-Mer information om hur du konfigurerar kanalkonfigurationer [finns i produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/channel-surfaces#set-up-channel-surfaces).
+Mer information om hur du konfigurerar kanalkonfigurationer [finns i produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configuration/channel-surfaces#set-up-channel-surfaces).

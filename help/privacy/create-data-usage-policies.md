@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Skapa dataanvändningsprinciper
 
-Lär dig hur du skapar och hanterar principer för dataanvändning. Med dataanvändningspolicyer kan du begränsa dataanvändningen för specifika ändamål baserat på märkning av data. Mer information om API-baserad metod finns i [Skapa dataanvändningsprinciper med API](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create).
+Lär dig hur du skapar och hanterar principer för dataanvändning. Med dataanvändningspolicyer kan du begränsa dataanvändningen för specifika ändamål baserat på märkning av data. Mer information om API-baserad metod finns i [Skapa dataanvändningsprinciper med API](https://experienceleague.adobe.com/sv/docs/experience-platform/data-governance/policies/create).
 
 >[!NOTE]
 >

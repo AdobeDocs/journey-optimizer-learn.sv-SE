@@ -28,6 +28,6 @@ I den här videon beskrivs hur du:
 * Använd webbplatsändringar på flera vyer eller på alla vyer som identifierats
 * Gör satsvisa åtgärder vid ändringar&quot;
 
-Mer information finns i [Kom igång med dokumentationen för webbkanalen](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html).
+Mer information finns i [Kom igång med dokumentationen för webbkanalen](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424536/?learn=on)

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig mer om konfiguration, arbetsflöde och användningsexempel för att exportera datauppsättningar från [!DNL Adobe Experience Platform] till en molnlagringsplats med en målanslutning.
 
-Mer information om hur du exporterar datauppsättningar till molnlagringsplatser från Adobe Journey Optimizer finns i [dokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=en).
+Mer information om hur du exporterar datauppsättningar till molnlagringsplatser från Adobe Journey Optimizer finns i [dokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)

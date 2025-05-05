@@ -23,4 +23,4 @@ Lär dig vad en åtgärd är, hur du använder åtgärden Redigera profil och Ho
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
 
-Mer information om hur du [konfigurerar en anpassad åtgärd](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"} finns i produktdokumentationen.
+Mer information om hur du [konfigurerar en anpassad åtgärd](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"} finns i produktdokumentationen.
