@@ -110,7 +110,7 @@ E-postmeddelandet ska struktureras på följande sätt:
       <p><b>Tips:</b>
       <li>Använd strukturkomponenten <b>1:2 kolumn till vänster</b> för det här avsnittet
       <li>Det här är sammanhangsbaserad händelseinformation.
-      <li>Använd hjälpfunktionen [!UICONTROL]: [!UICONTROL each]
+      <li>Använd hjälpfunktionen : [!UICONTROL each]
       <li>Växla till kodredigeringsformatet för att lägga till kontextdata.
   </td>
   <td>

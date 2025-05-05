@@ -337,7 +337,7 @@ Skapa följande ytterligare [!UICONTROL scheman]:
 
 | [!UICONTROL Visningsnamn] | [!DNL Luma CRM Schema] | [!DNL Luma Web Events Schema] | [!DNL Luma Test Profiles schema] | [!DNL Luma Offline Purchase Events Schema] |
 |  ---| ------- | ---- |----|----|
-| **[!UICONTROL Klass]** | [!UICONTROL Individuell XDM-profil] | [!UICONTROL XDM Experience Event] | [!UICONTROL Individuell XDM-profil] | [IUICONTROL XDM ExperienceEvent] |
+| **[!UICONTROL Klass]** | [!UICONTROL Individuell XDM-profil] | [!UICONTROL XDM Experience Event] | [!UICONTROL Individuell XDM-profil] | [!UICONTROL I XDM ExperienceEvent] |
 | **[!UICONTROL Lägg till befintlig fältgrupp]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL Relation]** |  | `productListItems.SKU`:<br> Referensschema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> Referensschema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
 | **[!UICONTROL Primär identitet] [!UICONTROL namnområde])** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |

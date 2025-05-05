@@ -204,6 +204,7 @@ När du klickar utanför värdefältet ska bilden visas.
          5. Egen placering
          6. Anpassad animering
          7. Runt hörn för meddelande
+
    <br>
 4. När du är klar med redigeringen av ditt innehåll och är nöjd med meddelandet klickar du på knappen **[!UICONTROL Granska för att aktivera]**.
 
