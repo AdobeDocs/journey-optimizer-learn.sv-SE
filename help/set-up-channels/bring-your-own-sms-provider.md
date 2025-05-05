@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Lär dig hur du lägger till och konfigurerar ytterligare SMS-leverantörer i Journey Optimizer utanför standardleverantörerna Sinch, Infobip och Twilio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432088/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443632/?learn=on&captions=swe)

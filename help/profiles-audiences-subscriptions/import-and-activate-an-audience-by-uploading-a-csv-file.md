@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du effektivt importerar och aktiverar en målgrupp genom att överföra en CSV-fil. Lär dig att personalisera ditt innehåll med anrikningsattribut från CSV-filen, vilket ger en mer skräddarsydd upplevelse för er målgrupp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444347/?learn=on&enablevpops&captions=swe)

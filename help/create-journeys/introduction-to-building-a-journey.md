@@ -22,4 +22,4 @@ ht-degree: 82%
 
 Förstå grunderna för att skapa en resa på researbetsytan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424996?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430354?quality=12&learn=on&captions=swe){transcript=true}

@@ -23,4 +23,4 @@ Lär dig hur du skapar en webbupplevelse med den visuella webbredigeraren i Jour
 >[!NOTE]
 > Du måste installera tillägget [Adobe Experience Cloud Visual Editing Helper Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca) för att kunna läsa in din webbplats till Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452639/?quality=12&learn=on&captions=swe){transcript=true}

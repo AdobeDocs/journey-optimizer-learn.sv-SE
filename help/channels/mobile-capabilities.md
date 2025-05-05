@@ -18,4 +18,4 @@ ht-degree: 7%
 
 Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder marknadsförare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430381?quality=12&learn=on&captions=swe){transcript=true}

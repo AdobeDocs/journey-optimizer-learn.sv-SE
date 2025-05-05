@@ -21,4 +21,4 @@ ht-degree: 2%
 
 Förstå vad ett meddelande i appen är och hur det kan användas under en resa. Lär dig hur du skapar ett meddelande i appen under en resa och hur du testar och publicerar din resa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423077/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451836/?learn=on&captions=swe){transcript=true}

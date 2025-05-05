@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Lär dig mer om IP-uppvärmning och hur du konfigurerar och genomför en IP-värmerappsplan i Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453844/?learn=on&captions=swe)
 
 Läs [Bästa praxis för leverans](https://experienceleague.adobe.com/sv/docs/deliverability-learn/deliverability-best-practice-guide/introduction) om [Målkriterier](https://experienceleague.adobe.com/sv/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [ISP-specifika överväganden under IP-uppvärmning](https://experienceleague.adobe.com/sv/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming) och [volym](https://experienceleague.adobe.com/sv/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) under IP-uppvärmning. 
 

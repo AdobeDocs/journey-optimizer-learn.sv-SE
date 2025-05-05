@@ -20,4 +20,4 @@ ht-degree: 4%
 
 Lär dig hur du konfigurerar Direct Mail-kanalen och hur du skapar och förhandsgranskar direktreklamkampanjer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449358/?learn=on&captions=swe){transcript=true}

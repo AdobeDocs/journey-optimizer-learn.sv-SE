@@ -9,4 +9,4 @@ ht-degree: 10%
 
 Lär dig hur du konfigurerar och skickar ett push-meddelande med en kampanj.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422017/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452705/?learn=on&captions=swe){transcript=true}

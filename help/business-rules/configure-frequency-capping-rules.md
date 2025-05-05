@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar regler för frekvensbegränsning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433399/?learn=on&captions=swe)
 
 Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configuration/frequency-rules).

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du hämtar en CSV-rapport för en rapport och för en enskild widget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439612/?learn=on&captions=swe)

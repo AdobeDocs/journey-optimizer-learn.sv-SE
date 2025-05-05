@@ -20,4 +20,4 @@ ht-degree: 4%
 
 Lär dig hur du konfigurerar och analyserar innehållsexperiment i A/B-testmeddelanden i appen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419898/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445292/?learn=on&captions=swe){transcript=true}

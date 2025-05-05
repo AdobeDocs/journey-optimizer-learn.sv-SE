@@ -27,6 +27,6 @@ ht-degree: 7%
 
 Upptäck processen att exportera en e-postmall från [!DNL Journey Optimizer] till [!DNL GenStudio for Performance Marketing], skapa varumärkeskompatibla e-postmeddelanden med mallen i [!DNL GenStudio] och importera dem smidigt tillbaka till [!DNL Journey Optimizer].
 
->[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456053/?learn=on&enablevpops&captions=swe)
 
 Mer information om [!DNL GenStudio for Performance Marketing] finns i [[!DNL Adobe GenStudio for Performance Marketing] användarhandboken](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} eller i [Adobe GenStudio for Performance Marketing-självstudiekurserna](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing-learn/tutorials/overview).

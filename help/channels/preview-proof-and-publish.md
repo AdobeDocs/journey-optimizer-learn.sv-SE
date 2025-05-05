@@ -21,4 +21,4 @@ ht-degree: 3%
 
 Lär dig hur du testar e-poståtergivning i olika inkorgar med Litmus, hur du förhandsgranskar anpassade e-postmeddelanden mot testprofiler, skickar korrektur och publicerar e-postmeddelanden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430343?quality=12&learn=on&captions=swe){transcript=true}

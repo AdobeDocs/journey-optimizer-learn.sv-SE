@@ -28,6 +28,6 @@ ht-degree: 0%
 
 Lär dig hur du redigerar resurser i Adobe Journey Optimizer med Adobe Express verktyg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455527/?learn=on&enablevpops&captions=swe)
 
 Mer information om hur du kommer åt den här funktionen från innehållsredigeraren finns i [Journey Optimizer-produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/assets-images/express). Mer information om Adobe Express finns i [den här dokumentationen](https://helpx.adobe.com/se/express/user-guide.html).

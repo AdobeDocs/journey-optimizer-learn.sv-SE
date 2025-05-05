@@ -30,4 +30,4 @@ I den här videon beskrivs hur du:
 
 Mer information finns i [Kom igång med dokumentationen för webbkanalen](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html?lang=sv-SE).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424536/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446889/?learn=on&captions=swe)

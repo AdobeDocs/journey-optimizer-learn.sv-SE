@@ -21,6 +21,6 @@ ht-degree: 2%
 
 Lär dig vad en åtgärd är, hur du använder åtgärden Redigera profil och Hoppa i i Journey Optimizer och hur du konfigurerar en anpassad åtgärd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430273?quality=12&learn=on&captions=swe){transcript=true}
 
 Mer information om hur du [konfigurerar en anpassad åtgärd](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"} finns i produktdokumentationen.

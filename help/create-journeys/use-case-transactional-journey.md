@@ -23,4 +23,4 @@ ht-degree: 5%
 
 Förstå tillämpliga användningsfall för transaktionsresor och lär dig hur man bygger transaktionsresor.
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432207?quality=12&learn=on&captions=swe){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 4%
 
 Lär dig konfigurera, skapa och leverera SMS-meddelanden i Journey Optimizer kampanjer och resor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420509?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428916?quality=12&learn=on&captions=swe){transcript=true}

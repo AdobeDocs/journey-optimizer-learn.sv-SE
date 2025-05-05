@@ -21,4 +21,4 @@ ht-degree: 4%
 Lär dig hur du skapar en AI-modell för Offer decisioning och hur du tillämpar den på ett beslut.
 funktion: Erbjudanden
 
->[!VIDEO](https://video.tv.adobe.com/v/3419959/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444674/?learn=on&captions=swe){transcript=true}

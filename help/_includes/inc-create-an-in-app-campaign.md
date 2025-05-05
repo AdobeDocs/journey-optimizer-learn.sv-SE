@@ -9,7 +9,7 @@ ht-degree: 16%
 
 Förstå vad ett meddelande i appen är. Lär dig hur du skapar, konfigurerar och publicerar meddelanden i appen i kampanjer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451886?quality=12&learn=on&captions=swe){transcript=true}
 
 ## Ytterligare resurser
 

@@ -21,4 +21,4 @@ ht-degree: 5%
 
 Förstå olika tillstånd för en resa och effekten av publicering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427940?quality=12&learn=on&captions=swe){transcript=true}

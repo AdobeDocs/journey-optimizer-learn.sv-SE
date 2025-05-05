@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du skapar en regeluppsättning för begränsning av kundfrekvens som begränsar antalet meddelanden som skickas till kunder baserat på kommunikationstyp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444730/?learn=on&enablevpops&captions=swe)
 
 Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configuration/rule-sets).

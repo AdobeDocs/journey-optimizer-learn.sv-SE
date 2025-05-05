@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Läs om hur dataanvändningsprinciper tillämpas i Journey Optimizer-kanaler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434909/?learn=on&captions=swe)
 
 Mer information om [datastyrning](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) och hur du [arbetar med policyer för samtycke](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted) i Journey Optimizer finns i produktdokumentationen.

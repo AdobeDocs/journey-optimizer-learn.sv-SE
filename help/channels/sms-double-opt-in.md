@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar dubbel anmälan för SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427129/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440280/?learn=on&captions=swe)

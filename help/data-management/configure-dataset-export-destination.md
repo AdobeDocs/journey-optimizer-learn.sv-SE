@@ -22,4 +22,4 @@ Lär dig mer om konfiguration, arbetsflöde och användningsexempel för att exp
 
 Mer information om hur du exporterar datauppsättningar till molnlagringsplatser från Adobe Journey Optimizer finns i [dokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=sv-SE).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448822/?learn=on&captions=swe)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du får åtkomst till, navigerar och exporterar rapporter på kanalnivå. Mer information finns i [dokumentationen för kanalrapporter](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424537/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448043/?learn=on&captions=swe)

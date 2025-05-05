@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Lär dig hur du låser innehåll i mallar. I den här självstudiekursen beskrivs hur du låser mallar helt eller delvis med hjälp av skrivskyddat läge och innehållslås, samt hur du hanterar redigerbara områden i en låst mall.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451611/?learn=on&enablevpops&captions=swe){transcript=true}
 
 Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/content-templates/content-locking).

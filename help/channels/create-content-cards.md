@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar innehållskort för ditt program.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434787/?learn=on&captions=swe)
