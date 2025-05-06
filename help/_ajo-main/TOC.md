@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0b3b022f682c7835d726b6f75bf26430b0b9de9a
+source-git-commit: e985a7f89f2432cb29a46b69bd1490b84419fc2b
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 8%
@@ -32,7 +32,7 @@ ht-degree: 8%
    + [Skapa en kampanj i appen](/help/create-campaigns/in-app.md)
    + [Konfigurera och skicka en push-kampanj](/help/create-campaigns/push-campaign.md)
    + [Skapa en webbkampanj](/help/create-campaigns/web-campaign.md)
-   + [Skapa en kodbaserad upplevelsekampanj](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+   + [Skapa en kodbaserad upplevelsekampanj](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [Utlösa kampanjer med API:er](/help/create-campaigns/api-triggered-campaigns.md)
    + [Skapa innehållsexperiment för e-postkampanjer](/help/create-campaigns/content-experiments.md)
 + Resor {#create-journeys}
@@ -52,13 +52,13 @@ ht-degree: 8%
    + [Enhetlig profil och segmentering - översikt](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Skapa målgrupper med regelverktyget](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Skapa en målgrupp genom att överföra en CSV-fil](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [Utvärdera målgrupper på begäran](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [Utvärdera målgrupper på begäran](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + Kanaler {#channels}
    + [Optimering av mobilappar - översikt](/help/channels/mobile-app-optimization-overview.md)
    + Kodbaserad upplevelsekanal{#code-based-experience-channel}
       + [Skapa en kodbaserad upplevelsekampanj](/help/channels/create-a-code-based-experience-campaign.md)
-      + [Använd beslut i den kodbaserade kanalen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [Använd beslut i den kodbaserade kanalen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direktpostkanal{#direct-mail-channel}
       + [Skapa direktreklam](/help/channels/direct-mail.md)
    + E-postkanal{#email-channel}
@@ -106,7 +106,7 @@ ht-degree: 8%
    + Flerspråkiga meddelanden {#multilingual-messaging}
       + [Konfigurera flerspråkiga meddelanden](/help/content-management/set-up-multilingual-messages.md)
       + [Skapa ett flerspråkigt meddelande](/help/content-management/create-multilingual-messages.md)
-   + AI Assistant för innehållsgenerering {#content-accelerator}
+   + AI Assistant för innehållsgenerering {#ai-assistant}
       + [AI Assistant för innehållsgenerering - översikt](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Skapa innehåll med AI-assistenten för innehållsgenerering](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
    + [Experimentation - översikt](/help/content-management/experimentation-overview.md)
@@ -181,8 +181,8 @@ ht-degree: 8%
    + [Använd dataanvändningspolicyer i Journey Optimizer-kanaler](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)
 + Utövningar och utmaningar {#exercises-and-challenges}
-   + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=sv-SE)
-   + [Utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=sv-SE)
+   + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
+   + [Utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Experience League Live-spelinspelningar](/help/experience-league-live-show-recordings.md)
 + Skapa målgrupper med Web SDK {#tutorial-creating-audiences}
    + [Introduktion](../tutorial-creating-audience/introduction.md)
