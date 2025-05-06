@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du använder AI-assistenten för att generera proaktiva variantförslag för både text och bilder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434639/?learn=on&captions=swe)
