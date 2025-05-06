@@ -5,9 +5,9 @@ role: User
 level: Beginner,Intermediate
 breadcrumb-title: scaling-orchestration-to-omnichannel-engagement
 breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
-source-git-commit: e7c9cc0861f3c0b94e08c82d5ae5d71ce8143aaa
+source-git-commit: 5d16504842320184344186e21a9ae08ef0b19837
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '83'
 ht-degree: 1%
 
 ---
@@ -15,11 +15,10 @@ ht-degree: 1%
 
 # Anpassa orkestreringen till flerkanalsengagemang{#scaling-orchestration-to-omnichannel-engagement}
 
-[Översikt över självstudiekursen]{#overview}
 + [Introduktion](/help/summit-lab-2025/introduction.md)
-+ [Lektion 1 - Upplev resan]&#x200B;(/help/Summit-lab-2025/lektion-1-experience -the-travel.md)
++ [Lektion 1 - Upplev resan](/help/summit-lab-2025/lesson-1-experience-the-journey.md)
 + [Lektion 2 - Skapa en välkomstresa](/help/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
 + [Lektion 3 - Skapa dynamiskt innehåll](/help/summit-lab-2025/lesson-3-create-dynamic-content.md)
 + [Lektion 4 - Skapa ett innehållsexperiment](/help/summit-lab-2025/lesson-4-create-a-content-experiment.md)
 + [Lektion 5 - Testa din resa](/help/summit-lab-2025/lesson-5-test-your-journey.md)
-+ [Lektion 6 - Skapa en kampanj för innehållskort]&#x200B;(/help/Summit-lab-2025/lektion-6-create-a content-card-campaign.md)
++ [Lektion 6 - Skapa en kampanj för innehållskort](/help/summit-lab-2025/lesson-6-create-a-content-card-campaign.md)
