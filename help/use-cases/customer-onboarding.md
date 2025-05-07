@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig implementera en kundintroduktionsresa i Journey Optimizer. Processen riktar sig till nya lojalitetsmedlemmar som levererar personaliserade e-postmeddelanden och SMS för att uppmuntra appnedladdningar. Det innehåller ett välkomstmeddelande, en kontroll av programinstallationen och påminnelser. &#x200B;Den här självstudiekursen visar också hur du använder AI-innehållsassistenten för att skapa och anpassa innehåll.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440654/?learn=on&enablevpops&captions=swe)
