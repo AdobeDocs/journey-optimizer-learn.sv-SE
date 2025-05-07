@@ -5,7 +5,8 @@ role: User
 level: Beginner,Intermediate
 breadcrumb-title: scaling-orchestration-to-omnichannel-engagement
 breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
-source-git-commit: 5d16504842320184344186e21a9ae08ef0b19837
+auto-video-transcripts: true
+source-git-commit: 007d349d95e4fa2a84dfb4f0830fba8af4cf106b
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 1%

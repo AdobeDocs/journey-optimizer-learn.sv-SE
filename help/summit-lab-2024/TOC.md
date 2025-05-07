@@ -2,7 +2,8 @@
 user-guide-title: Adobe Summit - ARBETSBÖCKER FÖR LAB
 breadcrumb-title: Adobe Summit - ARBETSBÖCKER FÖR LAB
 breadcrumb-url: /docs/journey-optimizer-learn/adobe-summit-lab-workbooks/overview.html
-source-git-commit: fd50ce73503ca6b42e0171d8476ea08928ebd165
+auto-video-transcripts: true
+source-git-commit: 007d349d95e4fa2a84dfb4f0830fba8af4cf106b
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
