@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: 5a3133830b3606008764ccb2c7130dea063d48f1
+source-git-commit: b5577da9a983594cb34edf5c53e2995024e30e78
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Den här sidan innehåller text och länkar som används i L535 Summit Lab. Du k
 
 * [SecurFinancial-webbplats](https://dsn.adobe.com/web/hausmann-FTTN?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsIm5hbWUiOiJBbm9ueW1vdXMiLCJpc1N1cGVyVXNlciI6ZmFsc2UsImlzc3VlciI6ImhhdXNtYW5uIiwicHJvamVjdHMiOnsiaGF1c21hbm4tRlRUTiI6InZpZXcifSwiaWF0IjoxNzQwNzU2NTYxLCJleHAiOjE3NDMzNDg1NjF9.ryOTsqDH9B33436RlIo4AHFxx8aGjNEMqv9FAxLZb9U){target="_blank"}
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:ajo-summit-lab/journey-optimizer/journeys){target="_blank"}
-* [L535-arbetsbok](/help/summit-lab-assets/assets/summit_lab-manual-l535-final.pdf){target="_blank"}
+* [L535-arbetsbok](/help/summit-lab-2024-lab-assets/assets/summit_lab-manual-l535-final.pdf){target="_blank"}
 * [Hämta appen](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html){target="_blank"}
 
 ## Kopiera och klistra in för övningar
@@ -121,9 +121,9 @@ dxdemo://atm
 
 ## Bilder
 
-![SecureFinancial-logotyp](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
+![SecureFinancial-logotyp](/help/summit-lab-2024-lab-assets/assets/SecureFinancial-logo.png)
 
 
-![Mobiltelefon](/help/summit-lab-assets/assets/online-banking-app-01.png)
+![Mobiltelefon](/help/summit-lab-2024-lab-assets/assets/online-banking-app-01.png)
 
 
