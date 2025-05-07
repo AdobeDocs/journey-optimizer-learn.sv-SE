@@ -1,0 +1,94 @@
+---
+title: Skapa en webbsida för att testa lösningen
+description: webbsida för att testa personaliserade erbjudanden som levereras genom beslut.
+role: User
+level: Beginner
+doc-type: Tutorial
+feature: Decisioning
+last-substantial-update: 2025-05-05T00:00:00Z
+jira: KT-17728
+source-git-commit: 9695a4db0d0caa44a8c7d49e069320309ffc40a6
+workflow-type: tm+mt
+source-wordcount: '224'
+ht-degree: 0%
+
+---
+
+
+# Skapa en webbsida för att testa lösningen
+
+Den här webbsidan skapades för att testa personaliserade erbjudanden som levereras via Adobe Journey Optimizer Decisioning. Den ger en kontrollerad miljö där sendEvent-anropet kan utlösas och det returnerade erbjudandeinnehållet återges, vilket hjälper till att validera konfigurationen av hela personaliseringen och säkerställa att besluten fungerar som förväntat.
+
+Följande skript ansvarar för att hämta och visa ett personaliserat erbjudande på en webbsida med Adobe Journey Optimizer.
+
+1. Avkoda HTML-enheter: Det finns en hjälpfunktion som säkert konverterar specialtecken i erbjudandeinnehållet till läsbara HTML.
+
+2. Kör personalisering:
+När det anropas skickas en begäran (sendEvent) till Adobe Web SDK för att få anpassat innehåll för ett visst område på sidan (elementet #ajo-offer).
+Om ett erbjudande returneras avkodas HTML och infogas på sidan.
+Om inget returneras loggas en varning.
+
+3. Vänta på SDK:
+Eftersom Adobe SDK (legering) läses in asynkront väntar skriptet tills det är helt inläst innan begäran görs.
+Den kontrollerar om det finns legeringar var 200:e millisekund, upp till 20 gånger, för att undvika fel.
+
+4. Vid sidinläsning: När sidan har lästs in startar skriptet processen genom att anropa waitForAlloy().
+
+
+
+```javascript
+< script >
+    function decodeHtmlEntities(html) {
+        const txt = document.createElement("textarea");
+        txt.innerHTML = html;
+        return txt.value;
+    }
+
+
+function runPersonalization() {
+    console.log("🚀 Sending personalization request to AJO...");
+    alloy("sendEvent", {
+        renderDecisions: true,
+        personalization: {
+            surfaces: ["#ajo-offer"]
+        }
+    }).then(result => {
+        console.log("🔍 Web SDK decision response:", result);
+
+        const decision = result.propositions?.[0];
+        const html = decision?.items?.[0]?.data?.content;
+
+        const container = document.getElementById("ajo-offer");
+        if (html && container) {
+            const decodedHtml = decodeHtmlEntities(html);
+            console.log("✅ Offer HTML content (decoded):", decodedHtml);
+            container.innerHTML = decodedHtml;
+        } else {
+            console.warn("⚠️ No personalized offer returned.");
+        }
+
+
+    }).catch(error => {
+        console.error("❌ sendEvent failed:", error);
+    });
+}
+
+function waitForAlloy(callback, retries = 20) {
+    if (typeof alloy === "function") {
+        callback();
+    } else if (retries > 0) {
+        console.log("⌛ Waiting for Alloy...");
+        setTimeout(() => waitForAlloy(callback, retries - 1), 200);
+    } else {
+        console.error("❌ alloy is not loaded after waiting.");
+    }
+}
+
+// Trigger initial personalization on page load
+document.addEventListener("DOMContentLoaded", function() {
+    waitForAlloy(() => runPersonalization());
+}); <
+/script>
+```
+
+[Här kan du hämta exempelsidan för HTML och relaterade resurser](assets/web-page-assets.zip)
