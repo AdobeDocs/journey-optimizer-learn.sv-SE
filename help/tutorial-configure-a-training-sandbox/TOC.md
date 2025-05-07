@@ -19,9 +19,9 @@ ht-degree: 25%
 
 + [Konfigurera en utbildningssandlåda](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
 + Steg 1: Konfigurera datastrukturen och importera exempeldata {#set-up-data-structure-and-ingest-data}
-   + [Konfigurera datastrukturen och importera exempeldata med Postman](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html)
+   + [Konfigurera datastrukturen och importera exempeldata med Postman](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=sv-SE)
    + [Ställa in datastruktur (manuellt)](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
    + [Importera exempeldata (manuellt)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + [Steg 2: Konfigurera händelser](/help/tutorial-configure-a-training-sandbox/configure-events.md)
-+ [Självstudiekurser](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
-+ [Utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
++ [Självstudiekurser](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=sv-SE)
++ [Utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=sv-SE)
