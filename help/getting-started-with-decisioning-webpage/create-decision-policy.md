@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: a675979bc590190e0481e63efbc2cfd30752b7c0
+exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
+source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # Skapa beslutspolicy
 
@@ -42,4 +42,4 @@ I det här skedet kan du inkludera alla obligatoriska beslutsattribut direkt i k
 Den här koden går igenom en lista med personliga erbjudanden som valts ut för användaren och visar texten för varje erbjudande på webbsidan. Det visar meddelandet (så kallat offerText) från varje erbjudande inuti ett stycke, så att användarna kan se sitt skräddarsydda innehåll tydligt.
 Om det inte finns något personligt erbjudande visas ett reserverbjudande som säkerställer att inget utrymme lämnas tomt.
 
-Klicka på Spara och sedan på Aktivera kampanjen
+Klicka på Spara och sedan på Aktivera kampanjen.
