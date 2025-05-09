@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dessa är självstudiekurser om Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
+source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '714'
 ht-degree: 8%
 
 ---
@@ -17,10 +17,8 @@ ht-degree: 8%
 + Användningsfall {#use-cases}
    + [Kundregistrering](/help/use-cases/customer-onboarding.md)
    + [Övergiven varukorg](/help/use-cases/abandoned-cart.md)
-   + [Skapa målgrupper baserat på användarinställningar](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [Beslut på webbsida](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
-   + [Skalning av orkestrering till flerkanalsengagemang](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-
+   + [Förbättra kundengagemanget](/help/use-cases/enhance-customer-engagement.md)
+   + [Skalning av orkestrering till flerkanalsengagemang](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Introduktion till Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - översikt](/help/introduction/journey-optimizer-overview.md)
    + [Introduktion till Journey Optimizer](/help/introduction/introduction.md)
@@ -34,7 +32,7 @@ ht-degree: 8%
    + [Skapa en kampanj i appen](/help/create-campaigns/in-app.md)
    + [Konfigurera och skicka en push-kampanj](/help/create-campaigns/push-campaign.md)
    + [Skapa en webbkampanj](/help/create-campaigns/web-campaign.md)
-   + [Skapa en kodbaserad upplevelsekampanj](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+   + [Skapa en kodbaserad upplevelsekampanj](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [Utlösa kampanjer med API:er](/help/create-campaigns/api-triggered-campaigns.md)
    + [Skapa innehållsexperiment för e-postkampanjer](/help/create-campaigns/content-experiments.md)
 + Resor {#create-journeys}
@@ -55,13 +53,14 @@ ht-degree: 8%
    + [Enhetlig profil och segmentering - översikt](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Skapa målgrupper med regelverktyget](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Skapa en målgrupp genom att överföra en CSV-fil](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [Utvärdera målgrupper på begäran](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [Skapa målgrupper med Web SDK (självstudiekurs)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)
+   + [Utvärdera målgrupper på begäran](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + Kanaler {#channels}
    + [Optimering av mobilappar - översikt](/help/channels/mobile-app-optimization-overview.md)
    + Kodbaserad upplevelsekanal{#code-based-experience-channel}
       + [Skapa en kodbaserad upplevelsekampanj](/help/channels/create-a-code-based-experience-campaign.md)
-      + [Använd beslut i den kodbaserade kanalen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [Använd beslut i den kodbaserade kanalen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direktpostkanal{#direct-mail-channel}
       + [Skapa direktreklam](/help/channels/direct-mail.md)
    + E-postkanal{#email-channel}
@@ -140,6 +139,7 @@ ht-degree: 8%
       + [Skapa beslut](/help/decision-management/create-decisions.md)
       + [Leverera erbjudanden med besluts-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Frekvensbegränsning](/help/decision-management/frequency-capping.md)
+   + [Använd beslutsfattande för att anpassa webberbjudanden (självstudiekurs)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction)
 + Datahantering {#data-management}
    + [Översikt](/help/data-management/set-up-data-overview.md)
    + [Skapa ett schema](/help/data-management/create-schema.md)
@@ -184,28 +184,10 @@ ht-degree: 8%
    + [Använd dataanvändningspolicyer i Journey Optimizer-kanaler](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)
 + Utövningar och utmaningar {#exercises-and-challenges}
-   + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=sv-SE)
-   + [Utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=sv-SE)
+   + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
+   + [Utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Experience League Live-spelinspelningar](/help/experience-league-live-show-recordings.md)
-+ Skapa målgrupper med Web SDK {#tutorial-creating-audiences}
-   + [Introduktion](../tutorial-creating-audience/introduction.md)
-   + [Skapa schema,Datauppsättningar..etc](../tutorial-creating-audience/create-schema-and-dataset.md)
-   + [Skapa AEP-taggar](../tutorial-creating-audience/create-aep-tags.md)
-   + [Skapa webbformulär](../tutorial-creating-audience/create-web-form.md)
-   + [Felsök lösningen](../tutorial-creating-audience/debug.md)
-+ Beslut på webbsida {#getting-started-with-decisioning-webpage}
-   + [Introduktion](../getting-started-with-decisioning-webpage/introduction.md)
-   + [Skapa taggar](../getting-started-with-decisioning-webpage/create-tags.md)
-   + [Skapa erbjudande](../getting-started-with-decisioning-webpage/create-offers.md)
-   + [Skapa samling](../getting-started-with-decisioning-webpage/create-collection.md)
-   + [Skapa urvalsstrategi](../getting-started-with-decisioning-webpage/create-selection-strategy.md)
-   + [Skapa kanal](../getting-started-with-decisioning-webpage/create-channel.md)
-   + [Skapa kampanj](../getting-started-with-decisioning-webpage/create-campaign.md)
-   + [Skapa beslutspolicy](../getting-started-with-decisioning-webpage/create-decision-policy.md)
-   + [Skapa AEP-taggar](../getting-started-with-decisioning-webpage/create-aep-tags.md)
-   + [Skapa webbsida](../getting-started-with-decisioning-webpage/create-web-page.md)
-
 + Summit Labs {#summit-labs}
-   + [Skapa personliga mobilstunder med Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Skalning av orkestrering till flerkanalsengagemang i Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Skapa personliga mobilstunder med Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [Skalning av orkestrering till flerkanalsengagemang i Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
