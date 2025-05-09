@@ -20,7 +20,7 @@ ht-degree: 0%
 
 * Logga in på Adobe Experience Platform
 
-* Skapa ett XDM-händelsebaserat schema som kallas ekonomiska rådgivare i Journey Optimizer. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Skapa ett XDM-händelsebaserat schema som kallas ekonomiska rådgivare i Journey Optimizer. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 * Lägg till följande struktur i ditt schema. Elementet PreferredFinancialInstrument lagrar användarens inställningar för Stocks, Bonds, CD
   ![xdm-schema](assets/xdm-schema.png)

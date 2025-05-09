@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Adobe Experience Platform Tags (tidigare Adobe Launch) hjälper er att hantera och driftsätta* marknadsförings- och analystekniker på er webbplats utan att behöva ändra webbplatsens kod.
 
-I den här [videon beskrivs processen att skapa Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
+I den här [videon beskrivs processen att skapa Adobe Experience Tags](https://experienceleague.adobe.com/sv/playlists/experience-platform-get-started-with-tags)
 
 * Logga in i datainsamling
 * Klicka på Taggar -> Ny egenskap
