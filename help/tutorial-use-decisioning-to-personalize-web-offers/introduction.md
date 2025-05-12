@@ -1,6 +1,6 @@
 ---
-title: Använd beslut för att personalisera webberbjudanden
-description: Lär dig använda Adobe Journey Optimizer (AJO) Decisioning för att leverera personaliserade erbjudanden på en webbsida genom att utnyttja målgruppssegmentering som är inbyggd i Adobe Experience Platform (AEP).
+title: Anpassa webblösningar med beslutande
+description: Lär dig använda Journey Optimizer (AJO) Decisioning för att leverera personaliserade erbjudanden på en webbsida genom att utnyttja målgruppssegmentering som är inbyggd i Experience Platform (AEP).
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 0c42bf9a9af53bf80a14d904733ae0c1f03be0ee
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -35,11 +35,11 @@ Du kan testa de personaliserade AJO-erbjudandena live via länken nedan.
 * Möjlighet att använda DevTools för webbläsare (flikarna Konsol och Nätverk)
 
 
-## MÅL
+## Mål
 
 Den här självstudiekursen vägleder dig genom att leverera skräddarsydda investeringserbjudanden - som Stock, Bonds och CD - på en webbplats med Adobe Journey Optimizer (AJO). Genom att utnyttja strategier för målgruppssegmentering och -beslutsfattande kan ni se till att varje besökare ser det mest relevanta erbjudandet baserat på deras önskemål.
 
-## Använda verktyg
+## Verktyg som används
 
 * Adobe Experience Platform (AEP)
 * Adobe Journey Optimizer (AJO)
