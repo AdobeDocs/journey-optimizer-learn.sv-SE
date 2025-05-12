@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 3528d8be-dc0b-4049-bca6-4a4a5fd0909f
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -18,8 +18,6 @@ ht-degree: 0%
 # Skapa en urvalsstrategi
 
 En urvalsstrategi är en återanvändbar konfiguration som kombinerar en samling erbjudanden med berättiganderegler och en rangordningsmetod för att avgöra vilka erbjudanden som visas när strategin används i en beslutspolicy.
-
-
 
 ![selection-strategy](assets/fine_wise_selection_strategy.png)
 

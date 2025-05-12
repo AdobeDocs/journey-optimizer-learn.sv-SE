@@ -1,6 +1,6 @@
 ---
-title: Skapa samling
-description: En samling används för att gruppera relaterade erbjudandeobjekt vid beslut, vilket gör det enklare att hantera och ordna innehåll kring ett specifikt tema, en viss målgrupp eller ett visst kampanjmål.
+title: Skapa en samling
+description: Lär dig att använda samlingar för att gruppera relaterade offertobjekt vid beslut. Samlingar gör det enklare att hantera och ordna innehåll kring ett specifikt tema, en viss målgrupp eller ett visst kampanjmål.
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,19 +8,19 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 5c08ff99-b4d5-48c1-8b84-19f43c613880
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 3%
 
 ---
 
-# Skapa samling
+# Skapa en samling
 
 Med samlingar kan du kategorisera och gruppera dina beslutsobjekt enligt dina önskemål. Dessa kategorier skapas genom att regler som utnyttjar attributen för beslutsposter skapas.
 
-* Logga in på Journey Optimizer
-* Beslut -> Kataloger -> Samlingar ->Skapa samling
-* Ange samlingens namn och samlingsregler som de visas på skärmbilden
+1. Logga in på Journey Optimizer.
+1. Klicka på **[!UICONTROL Beslut]** > **[!UICONTROL Kataloger]** > **[!UICONTROL Samlingar]** > **[!UICONTROL Skapa samling]**.
+1. Ange samlingens namn och samlingsregler så som visas på följande skärmbild.
 
-![create-collection](assets/fin-wise-collection.png)
+   ![create-collection](assets/fin-wise-collection.png)

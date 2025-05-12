@@ -1,6 +1,6 @@
 ---
-title: Skapa beslutspolicy
-description: En beslutspolicy definierar logiken som används för att avgöra vilka erbjudanden som skickas till en användare under personaliseringen.
+title: Skapa en beslutspolicy
+description: Använd en beslutspolicy för att definiera logiken för att avgöra vilka erbjudanden som skickas till en användare under personaliseringen.
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,38 +8,41 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
-# Skapa beslutspolicy
+# Skapa en beslutspolicy
 
-Beslutspolicyer är behållare för era erbjudanden som utnyttjar beslutsmotorn för att välja det bästa innehållet att leverera, beroende på målgruppen.
+Beslutsprinciper är behållare för dina erbjudanden som utnyttjar motorn [!UICONTROL Decisioning] för att välja det bästa innehållet som ska levereras, beroende på målgruppen.
 
-Klicka på alternativet Beslutsprincip i den vänstra navigeringsrutan i personaliseringsredigeraren och klicka sedan på Lägg till beslutsprincip
+1. Klicka på objektet **[!UICONTROL Beslutsprincip]** i den vänstra navigeringsredigeraren och klicka sedan på **[!UICONTROL Lägg till beslutsprincip]**.
 
-![create-Decision-policy](assets/decision-policy.png)
+   ![create-Decision-policy](assets/decision-policy.png)
 
-Klicka på Lägg till för att välja urvalsstrategi
-Klicka på Välj reservlösning för att välja reserverbjudandet.
-Klicka på Nästa för att granska beslutsprincipen och klicka på Skapa för att slutföra processen att skapa beslutsprincipen.
+1. Klicka på **[!UICONTROL Lägg till]** för att välja urvalsstrategi.
 
+   ![beslutspolicy](assets/decision-policy2.png)
 
-![beslutspolicy](assets/decision-policy2.png)
-
+1. Klicka på **[!UICONTROL Välj reservlösning]** för att välja reserverbjudandet.
+1. Klicka på **[!UICONTROL Nästa]** om du vill granska beslutsprincipen.
+1. Klicka på **[!UICONTROL Skapa]** för att slutföra processen att skapa beslutsprincipen.
 
 ## Använd beslutsprincipen i kodredigeraren
 
-Klicka på Infoga-princip i personaliseringsredigeraren. Koden som motsvarar beslutsprincipen läggs till.
+1. Klicka på **[!UICONTROL Infoga princip]** i personaliseringsredigeraren.
 
-I det här skedet kan du inkludera alla obligatoriska beslutsattribut direkt i koden. Dessa attribut definieras i det schema som används av katalogen Offers. Standardattribut ordnas under namnutrymmet __experience, medan anpassade attribut som är specifika för din organisation lagras under namnutrymmet `_<imsOrg>`.
+   Koden som motsvarar beslutspolicyn läggs till.
 
-![using_Decision_policy](assets/Insert-policy.png)
+   I det här skedet kan du inkludera alla obligatoriska beslutsattribut direkt i koden. Dessa attribut definieras i det schema som används av katalogen Offers. Standardattribut ordnas under namnutrymmet `__experience`, medan anpassade attribut som är specifika för din organisation lagras under namnutrymmet `_<imsOrg>`.
 
-Den här koden går igenom en lista med personliga erbjudanden som valts ut för användaren och visar texten för varje erbjudande på webbsidan. Det visar meddelandet (så kallat offerText) från varje erbjudande inuti ett stycke, så att användarna kan se sitt skräddarsydda innehåll tydligt.
-Om det inte finns något personligt erbjudande visas ett reserverbjudande som säkerställer att inget utrymme lämnas tomt.
+   ![using_Decision_policy](assets/Insert-policy.png)
 
-Klicka på Spara och sedan på Aktivera kampanjen.
+   Den här koden går igenom en lista med personliga erbjudanden som valts ut för användaren och visar texten för varje erbjudande på webbsidan. Det visar meddelandet (kallat `offerText`) från varje erbjudande inuti ett stycke, så att användarna kan se sitt skräddarsydda innehåll tydligt.
+
+   Om det inte finns något personligt erbjudande visas ett reserverbjudande som säkerställer att utrymmet inte lämnas tomt.
+
+1. Klicka på **[!UICONTROL Spara]** och aktivera sedan kampanjen.
