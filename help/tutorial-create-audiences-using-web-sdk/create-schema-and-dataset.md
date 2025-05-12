@@ -22,7 +22,7 @@ ht-degree: 0%
 * Logga in på Adobe Experience Platform
 * Datahantering -> Scheman -> Skapa schema
 
-* Skapa ett XDM-händelsebaserat schema med namnet _Finansiella rådgivare_. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Skapa ett XDM-händelsebaserat schema med namnet _Finansiella rådgivare_. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 * Lägg till följande struktur i ditt schema. Elementet PreferredFinancialInstrument lagrar användarens inställning för Stocks, Bonds, CD. **__techmarketingdemos_**&#x200B;är klient-ID:t och kommer att vara annorlunda i din miljö.
   ![xdm-schema](assets/xdm-schema.png)
