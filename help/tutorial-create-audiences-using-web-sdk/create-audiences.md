@@ -34,7 +34,7 @@ Målgrupper i Adobe Experience Platform är grupper med användare som skapats u
    * Kunder som är intresserade av CD
 
 
-* Kontrollera att utvärderingsmetoden för varje målgrupp är inställd på _**Edge**_ för realtidskvalifikation.
+* Kontrollera att utvärderingsmetoden för varje målgrupp är inställd på _&#x200B;**Edge**&#x200B;_ för realtidskvalifikation.
   ![målgrupp](assets/audience-edge.png)
 
 * Använd fältet PreferredFinancialInstrument för att segmentera användare baserat på deras valda investeringsintressen, till exempel aktier, obligationer eller CD
@@ -48,7 +48,7 @@ Målgrupper i Adobe Experience Platform är grupper med användare som skapats u
 
 >[!NOTE]
 >
->>Om fältet PreferredFinancialInstrument inte visas på fliken Händelser klickar du på inställningsikonen och växlar till Visa hela XDM-schemat.
+>&#x200B;>Om fältet PreferredFinancialInstrument inte visas på fliken Händelser klickar du på inställningsikonen och växlar till Visa hela XDM-schemat.
 
 
 
