@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: d705992a-0d47-4bb9-b3d8-b925974e64cb
-source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
+source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,8 @@ Schemat:
    För varje erbjudande kopierar och klistrar du in motsvarande erbjudandetext som finns i slutet av artikeln i det aktuella erbjudandeobjektet.
 
 1. Tagga erbjudandena med taggen som skapades i föregående steg.
-
+1. Lägg till rätt målgrupp för varje erbjudande.
+   ![offer-eligibility](assets/offer-eligibility.png)
 1. Godkänn erbjudandena.
 
 Slutfört erbjudande med definierade standardattribut och anpassade attribut:
