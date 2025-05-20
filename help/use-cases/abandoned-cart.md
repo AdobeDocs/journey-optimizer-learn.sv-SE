@@ -22,4 +22,4 @@ Lär dig hur du implementerar det övergivna användningsexemplet för kundvagn 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
 
-Mer information finns på [Konfigurera en spelningsbokssandlåda](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} och [Skapa och publicera spelningsboksinstanser](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.
+Mer information finns på [Konfigurera en spelningsbokssandlåda](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} och [Skapa och publicera spelningsboksinstanser](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.
