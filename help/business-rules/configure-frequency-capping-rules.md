@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du använder Adobe Journey Optimizer affärsregler för att skapa frekvensbegränsning och förhindra att dina kunder överbelastas. I den här videon går vi igenom hur man skapar både globala och anpassade regeluppsättningar - som att begränsa alla e-postmeddelanden till en per dag eller kapa reklamutskick separat - och visar hur man tillämpar dessa regler på kampanjer för att hantera kundens trötthet effektivt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433399/?learn=on&captions=swe)
 
 Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configuration/frequency-rules).
