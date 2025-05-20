@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17874
 index: false
 exl-id: c4f9447b-e79f-45ea-bd93-ed299da7aef6
-source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
+source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 2%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,4 @@ I den här övningen börjar du bygga den välkomstresan, baserat på en befintl
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
 
-## Ytterligare resurser
-
-* [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md)
-* [Användningsfall - Målgruppskvalificering](/help/create-journeys/use-case-audience-qualification.md)
+Mer information om det här ämnet finns i [Introduktion till att skapa en resa](/help/create-journeys/introduction-to-building-a-journey.md) och [Use Case - Audience eligibility](/help/create-journeys/use-case-audience-qualification.md) .
