@@ -22,4 +22,4 @@ Lär dig hur du använder Adobe Journey Optimizer affärsregler för att skapa f
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
 
-Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules).
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configuration/frequency-rules).
