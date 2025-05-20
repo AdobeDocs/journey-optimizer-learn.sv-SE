@@ -8,16 +8,18 @@ doc-type: Tutorial
 duration: 373
 last-substantial-update: 2025-02-04T00:00:00Z
 jira: KT-16346
-source-git-commit: be0838d1d46606570994bc2a38f86cd678d1f2c2
+exl-id: 01216374-2457-4dcd-b970-42315578bb1a
+source-git-commit: 7d10b8f053f981cea8997f35e069acadde99ee2c
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
-
 
 # Use Case Playbook - Abandoned shopping cart
 
 Lär dig hur du implementerar det övergivna användningsexemplet för kundvagn med Playbook-funktionen i Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443968/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+
+Mer information finns på [Konfigurera en spelningsbokssandlåda](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} och [Skapa och publicera spelningsboksinstanser](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.
