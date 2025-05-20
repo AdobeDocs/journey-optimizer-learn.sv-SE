@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: use-decisioning-to-personalize-web-offers
 breadcrumb-url: /docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction
 auto-video-transcripts: true
-source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
+source-git-commit: 1515e674301a7453d89c94de32143f2b837cac98
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 12%
