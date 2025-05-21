@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Dessa självstudiekurser fokuserar på att förbättra kundengagemang och personalisering genom att använda målgruppsframtagning i realtid och personaliserad beslutsfattande via webbformulär och webbsidor. Genom att integrera dessa kraftfulla tekniker kan företag säkerställa att rätt budskap når rätt målgrupp vid rätt tidpunkt, vilket förbättrar kundengagemanget och driver på personaliserade marknadsföringssatsningar.
 
-1. [Skapa målgrupper med Web SDK (självstudiekurs)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+1. [Skapa målgrupper med Web SDK (självstudiekurs)](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
 
    Lär dig mer om:
 
@@ -27,7 +27,7 @@ Dessa självstudiekurser fokuserar på att förbättra kundengagemang och person
    * Sortera automatiskt användarna i specifika målgrupper baserat på deras val.
 
 
-2. [Använd beslutsfattande för att anpassa webberbjudanden (självstudiekurs)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+2. [Använd beslutsfattande för att anpassa webberbjudanden (självstudiekurs)](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 
 Lär dig använda en centraliserad katalog med marknadsföringserbjudanden och en smart beslutsmotor som visar varje person de mest relevanta erbjudandena utifrån den första självstudiekursen.
 
