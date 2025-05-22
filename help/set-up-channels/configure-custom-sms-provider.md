@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar en anpassad SMS-leverantör i Adobe Journey Optimizer, konfigurerar API-autentiseringsuppgifter och webhooks för inkommande meddelanden, hanterar nyckelord för anmälan/avanmälan och startar personaliserade SMS-kampanjer med inbyggda verktyg och anpassade nyttolaster.
 
-Mer information finns i [Konfigurera en anpassad SMS-provider](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom).
+Mer information finns i [Konfigurera en anpassad SMS-provider](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
