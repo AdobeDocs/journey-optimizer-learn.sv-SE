@@ -22,4 +22,4 @@ Lär dig hur du konfigurerar en annan SMS-leverantör än Sinch, Twilio och Info
 
 Mer information finns i [Konfigurera en anpassad SMS-provider](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom).
 
->[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443610/?learn=on&enablevpops&captions=swe)
