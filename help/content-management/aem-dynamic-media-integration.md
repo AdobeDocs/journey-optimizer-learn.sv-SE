@@ -12,20 +12,15 @@ jira: KT-17533
 hidefromtoc: false
 hide: false
 index: true
-badge: label="Begränsad tillgänglighet" type="Informative"
 exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
-source-git-commit: 948d5467594acb7d3e0a4e0cc64fcf68285a71ba
+source-git-commit: dbe14c7a6a4a2197a6954a9920508a152dc65fc5
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 # Integrering med Adobe Experience Manager Dynamic Media
-
->[!AVAILABILITY]
->
->Den här integreringen är endast tillgänglig för en uppsättning organisationer (begränsad tillgänglighet). Kontakta din Adobe-representant för att få åtkomst.
 
 Lär dig integrera Adobe Experience Manager Dynamic Media med Adobe Journey Optimizer för att möjliggöra innehållsuppdateringar och personalisering i realtid.
 
