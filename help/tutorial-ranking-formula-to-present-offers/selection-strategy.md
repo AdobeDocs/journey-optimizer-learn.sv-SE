@@ -5,12 +5,11 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-05T00:00:00Z
-jira: KT-17728
-exl-id: 3528d8be-dc0b-4049-bca6-4a4a5fd0909f
-source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
+last-substantial-update: 2025-05-31T00:00:00Z
+jira: KT-18188
+source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -25,8 +24,8 @@ Skapa en urvalsstrategi
 
 * Navigera till Beslutsfattare > Strategi ->Urvalsstrategier ->Skapa urvalsstrategi
 
-* Ange namnet på urvalsstrategin, samlingen, behörighets- och rangordningsmetoden så som visas på skärmbilden
+* Ange namnet på urvalsstrategin, samlingen, behörigheten och rangordningsmetoden så som visas på skärmbilden
 
 
-![selection-strategy](assets/fine_wise_selection_strategy1.png)
-
+Se till att använda formel som rangordningsmetod
+![selection-strategy](assets/selection-strategy.png)
