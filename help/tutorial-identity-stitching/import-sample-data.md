@@ -48,7 +48,7 @@ Lägg till ett identitetsfält **_crmid_** under SystemIdentifier-objektet. Mark
 * Skapa en datauppsättning med namnet **_FinWiseCustomerDataSetWithAnnualIncome_** baserat på det **_FinWiseProfileSchema_** som skapades i det tidigare steget
 
 * Navigera till Anslutningar -> Källor -> Lokalt system
-* Välj **_Lägg till data_** under den lokala filöverföringen. Se till att välja _**FinWiseCustomerDataSetWithAnnualIncome**_ som måldatamängd.
+* Välj **_Lägg till data_** under den lokala filöverföringen. Se till att välja _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ som måldatamängd.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Gå till nästa skärm. Överför [csv-filen](assets/finwise_profiles.csv) och verifiera mappningarna
   ![mappningar](assets/mappings.png)
