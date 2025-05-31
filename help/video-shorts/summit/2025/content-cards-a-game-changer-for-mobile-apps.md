@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck hur innehållskort i Adobe Journey Optimizer kan leverera personaliserat, icke-påträngande innehåll direkt inifrån appen för att öka engagemanget och konverteringsgraden.
 
 <!-- 62_S603_3442534_58_content-cards-a-gamechanger-for-mobile-apps -->
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460087/?learn=on&enablevpops=true&captions=swe)

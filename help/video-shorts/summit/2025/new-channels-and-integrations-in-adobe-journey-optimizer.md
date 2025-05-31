@@ -20,4 +20,4 @@ ht-degree: 0%
 Utforska de senaste kanalinnovationerna och integreringarna i Adobe Journey Optimizer, inklusive whatsApp, iOS Live Activities och RCS messaging, för att öka kundengagemanget.
 
 <!-- 62_S520_3442520_207_new-channels-and-integrations-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458234/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460346/?learn=on&enablevpops=true&captions=swe)

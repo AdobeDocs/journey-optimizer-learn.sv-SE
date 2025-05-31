@@ -20,4 +20,4 @@ ht-degree: 0%
 Läs om hur Adobe Journey Optimizer utnyttjar AI och maskininlärning för de näst bästa åtgärderna, optimering av kundresan och beslut för att leverera personaliserade kundupplevelser.
 
 <!-- 62_S520_3442520_184_aipowered-decisioning-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458219/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460268/?learn=on&enablevpops=true&captions=swe)

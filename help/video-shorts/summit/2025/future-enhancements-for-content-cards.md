@@ -20,4 +20,4 @@ ht-degree: 0%
 Ta en smygtitt på kommande funktioner för innehållskort, inklusive nya mallar, inkorgar med mera.
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460324/?learn=on&enablevpops=true&captions=swe)

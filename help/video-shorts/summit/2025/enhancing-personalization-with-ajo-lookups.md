@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck hur ni kan använda postbaserade datauppsättningar för personaliserade meddelanden utan att behöva skapa kundprofiler i Adobe Journey Optimizer.
 
 <!-- 62_S522_3442522_70_enhancing-personalization-with-ajo-lookups -->
->[!VIDEO](https://video.tv.adobe.com/v/3458226/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460335/?learn=on&enablevpops=true&captions=swe)

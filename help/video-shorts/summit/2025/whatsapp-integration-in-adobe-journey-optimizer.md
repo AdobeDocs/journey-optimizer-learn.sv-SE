@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck hur AJO inbyggda integrering med WhatsApp Business möjliggör smidig marknadsföring och transaktionskommunikation.
 
 <!-- 72_S520_3442520_49_whatsapp-integration-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458215/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460471/?learn=on&enablevpops=true&captions=swe)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Lär dig hur du hanterar timeout och fel i Adobe Journey Optimizer genom att konfigurera timeout-sökvägar så att profilerna rör sig under resan.
 
 <!-- 62_S522_3442522_36_using-timeout-paths-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458213/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460472/?learn=on&enablevpops=true&captions=swe)

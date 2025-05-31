@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck hur AI Assistant i Adobe Journey Optimizer revolutionerar arbetsflödena genom att tillhandahålla omedelbara datainsikter och felsökningsfunktioner, vilket sparar timmar av manuell arbetsinsats.
 
 <!-- 65_S653_3442539_33_transforming-workflows-with-ai-assistant-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458195/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460436/?learn=on&enablevpops=true&captions=swe)

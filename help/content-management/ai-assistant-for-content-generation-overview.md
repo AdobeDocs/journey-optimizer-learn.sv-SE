@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Förstå hur AI Assistant för innehållsgenerering kan hjälpa marknadsförare genom att tillhandahålla proaktiva variantförslag för både text och bilder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463104/?learn=on&captions=swe)
