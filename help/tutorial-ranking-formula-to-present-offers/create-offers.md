@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
+source-git-commit: fb0ef6d502c6e3ba37ef528683a8888ed83f2990
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Skapa platsbaserade erbjudanden med målanpassning för postnummer
 
@@ -73,12 +73,9 @@ Erbjudandetexten för det allmänna erbjudandet, utan någon postkod kopplad til
 </div>
 ```
 
-Gruppera erbjudandena i en samling med namnet **_GenericOffers_**
+Gruppera erbjudandena i en samling som kallas **inkomstrelaterade erbjudanden**
 
 Erbjudandena är tillgängliga för alla besökare, vilket innebär att det inte finns några strikta behörighetskrav. Därför blir rangordningsformeln avgörande för att avgöra vilket erbjudande som ska visas baserat på profilkontext.
 Eftersom reglerna för behörighet inte filtrerar erbjudandena behandlas alla tre som kandidater.
 Markeringsstrategin hämtar alla tre.
 Rankningsformeln betygsätter dem baserat på profilattribut (som zipcode och annualIncome) för att välja den bästa.
-
-
-

@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
+source-git-commit: 666d25d1ed06ab76331d197a1677731516f73d7c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '607'
 ht-degree: 0%
 
 ---
-
 
 # Skapa en kampanj
 
@@ -88,11 +88,14 @@ Den här inställningen använder ECID som primär identitet för att identifier
      Ett logikuttryck som ger poäng för varje erbjudande. Erbjudandet med högsta poäng återges i den personaliserade upplevelsen.
 
 
+6. **Infoga beslutspolicy**
 
-6. **Publicera kampanjen**\
+   ![personaliseringsredigerare](assets/personalization-editor.png)
+
+   Handlebars-koden gör en slinga genom erbjudanden som returneras av en specifik beslutsprincip i Adobe Journey Optimizer och skapar en `<div>` för varje erbjudande. Varje `<div>` använder ett data-tags-attribut med erbjudandets interna namn för att hjälpa karusellgruppen att organisera erbjudandena efter kategori för smidig navigering. Innehållet i varje `<div>` visar den anpassade erbjudandetexten, vilket möjliggör dynamisk och visuellt segmenterad presentation av flera erbjudanden.
+
+
+7. **Publicera kampanjen**\
    Aktivera kampanjen för att börja leverera personaliserade erbjudanden i realtid.
 
-
-
-
-
+![img](assets/personalization-editor.png)

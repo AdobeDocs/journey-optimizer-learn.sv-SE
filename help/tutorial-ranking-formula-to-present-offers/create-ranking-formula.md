@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
+source-git-commit: 69868d1f303fa0c67530b3343a678a850a8e493b
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Skapa rankningsformel
 
@@ -31,35 +31,34 @@ Ett kriterium i en rankningsformel refererar till en villkorsregel som används 
 
 
 Kriterium 1
-![condition_one](assets/criteria1.png)
 
-Kriterium 1 innehåller tre kriterier:
-
-* erbjudande._techmarketingdemos.offerDetails.zipCode == &quot;92128&quot; - kontrollerar det postnummer som är associerat med erbjudandet.
-
-* _techmarketingdemos.zipCode == &quot;92128&quot; - kontrollerar postnumret i användarens profil.
-
-* _techmarketingdemos.annualIncome > 100000 - kontrollerar inkomstnivån från användarens profil.
-
-Om alla dessa kriterier uppfylls får erbjudandet poäng på 40.
+Det här villkoret filtrerar beslutsobjekt (erbjudanden) **så att endast** erbjudanden som är taggade med IncomeLevel inkluderas.
+Dessa filtrerade erbjudanden fortsätter sedan till nästa steg - till exempel rankning eller leverans - baserat på den ytterligare logik du definierar.
+![condition_one](assets/income-related-formula.png)
 
 
+Följande uttryck används för att skapa rankningspoängen
+
+```pql
+if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCode,   _techmarketingdemos.annualIncome / 1000 + 10000,   if(     not offer._techmarketingdemos.offerDetails.zipCode,     _techmarketingdemos.annualIncome / 1000,     -9999   ) )
+```
+
+Vad formeln gör
+
+* Om erbjudandet har samma ZIP-kod som användaren ger det ett mycket högt poäng så att det plockas först.
+
+* Om erbjudandet inte innehåller någon postnummer alls (det är ett allmänt erbjudande), ger du det en normal poäng baserad på användarens intäkter.
+
+* Om erbjudandet har en annan ZIP-kod än användaren kan du ge det en mycket låg poäng så att det inte väljs.
+
+På det här sättet kan systemet
+
+* Försöker alltid visa ett ZIP-matchande erbjudande först,
+
+* Fallar tillbaka till ett allmänt erbjudande om ingen matchning hittas och undviker att visa erbjudanden som är avsedda för andra ZIP-koder.
 
 
-
-
-Kriterium 2
-![condition_two](assets/criteria2.png)
-
-Kriterium 2 innehåller tre kriterier:
-
-* erbjudande._techmarketingdemos.offerDetails.zipCode == &quot;92126&quot; - kontrollerar det postnummer som är associerat med erbjudandet.
-
-* _techmarketingdemos.zipCode == &quot;92126&quot; - kontrollerar postnumret i användarens profil.
-
-* _techmarketingdemos.annualIncome &lt; 100000 - kontrollerar inkomstnivån från användarens profil.
-
-Om alla dessa kriterier uppfylls får erbjudandet 30 poäng.
+Om ett erbjudandeobjekt inte uppfyller något av filtervillkoren (som att inte ha taggen &quot;IncomeLevel&quot;) får erbjudandet standardpoängen 10.
 
 
 
