@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck hur du testar anpassade åtgärder direkt i Adobe Journey Optimizer utan att behöva göra en hel resa, vilket sparar tid och arbete.
 
 <!-- 62_S522_3442522_39_testing-custom-actions-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458211/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460439/?learn=on&enablevpops=true&captions=swe)

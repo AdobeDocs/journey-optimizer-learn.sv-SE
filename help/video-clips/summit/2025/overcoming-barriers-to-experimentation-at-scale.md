@@ -20,4 +20,4 @@ ht-degree: 0%
 Läs om hur Adobe identifierade och åtgärdade viktiga hinder för skalning av experiment, från idé till genomförande, med plattformsdrivna lösningar.
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460378/?learn=on&enablevpops=true&captions=swe)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Lär dig hur du optimerar direktuppspelningssegment och använder arbetsytan i Journey för beslutsfattande utan att överbelasta systemet.
 
 <!-- 62_S522_3442522_52_streamlining-journey-segments-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458244/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460457/?learn=on&enablevpops=true&captions=swe)

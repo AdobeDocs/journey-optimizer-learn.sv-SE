@@ -20,4 +20,4 @@ ht-degree: 0%
 Läs om hur Adobe Journey Optimizer hjälper er att leverera personaliserat innehåll i olika appar och enheter för att öka användarengagemanget och kundlojaliteten.
 
 <!-- 72_S603_3442534_32_boost-app-engagement-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458221/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460009/?learn=on&enablevpops=true&captions=swe)

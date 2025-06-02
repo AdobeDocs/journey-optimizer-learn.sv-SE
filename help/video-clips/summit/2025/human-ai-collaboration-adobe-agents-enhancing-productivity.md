@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck hur Adobe-agenter samarbetar med andra för att leverera åtgärdbara insikter, optimera arbetsflöden och proaktivt hantera utmaningar i realtid.
 
 <!-- 62_S653_3442539_98_humanai-collaboration-adobe-agents-enhancing-productivity -->
->[!VIDEO](https://video.tv.adobe.com/v/3458189/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460401/?learn=on&enablevpops=true&captions=swe)
