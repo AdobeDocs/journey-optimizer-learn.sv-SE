@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 5%
@@ -22,7 +23,7 @@ En AEP Tags-egenskap med namnet FinWise skapas. Följande tillägg har lagts til
 
 ![tags-extensions](assets/tags-extensions.png)
 
-Konfigurera AEP Web SDK-tillägget med hjälp av DataStream för finansiella rådgivare som skapades i den tidigare kursen.
+Konfigurera AEP Web SDK-tillägget med hjälp av DataStream för finansiella rådgivare som skapades i föregående steg.
 Experience Cloud ID-tjänsten är ett valfritt tillägg som läggs till i taggegenskapen i felsökningssyfte.
 
 ## Tagga dataelement
@@ -51,4 +52,3 @@ Skicka händelseåtgärd
 ## Spara och bygg
 
 Spara ändringarna, skapa och bygg biblioteket.
-

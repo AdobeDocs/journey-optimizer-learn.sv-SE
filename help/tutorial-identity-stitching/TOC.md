@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: självstudie-on-identity-stitching-in-aep
 breadcrumb-url: /docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction
 auto-video-transcripts: true
-source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '57'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 1%
 
 + [Introduktion](./introduction.md)
 + [Importera exempeldata](./import-sample-data.md)
++ [Skapa schema, datauppsättning osv](./create-schema-and-dataset.md)
 + [Skapa AEP-taggar](./create-aep-tags.md)
 + [Skicka CRMID från webbsida](./send-crmid.md)
 + [Testa lösningen](./test-solution.md)
