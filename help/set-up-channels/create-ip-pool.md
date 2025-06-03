@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig skapa en IP-pool för att skydda avsändarens rykte och förbättra e-postleveransen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463253/?learn=on&enablevpops&captions=swe)

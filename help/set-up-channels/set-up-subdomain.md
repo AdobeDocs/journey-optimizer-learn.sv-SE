@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar en underdomän för din e-postkanal i Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463229/?learn=on&enablevpops&captions=swe)
