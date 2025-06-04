@@ -6,9 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: d705992a-0d47-4bb9-b3d8-b925974e64cb
-source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 1%

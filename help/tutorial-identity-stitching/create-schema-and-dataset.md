@@ -6,8 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
+exl-id: 8bb85ba7-3c50-4596-88f8-e112c48a8253
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -25,7 +27,7 @@ Skapa ett XDM-schema
 * Logga in på Adobe Experience Platform
 * Datahantering -> Scheman -> Skapa schema
 
-* Skapa ett XDM-händelsebaserat schema med namnet **_Finansiella rådgivare_**. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Skapa ett XDM-händelsebaserat schema med namnet **_Finansiella rådgivare_**. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Kontrollera att schemat är aktiverat för profilen.
@@ -54,4 +56,3 @@ En datastam i Adobe Experience Platform är som en säker pipeline (eller huvudv
 * Välj lämplig händelsedatamängd (skapades tidigare).
 
 * Spara datastream.
-

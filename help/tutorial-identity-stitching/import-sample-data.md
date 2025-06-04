@@ -6,9 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 3%
@@ -48,7 +49,7 @@ Lägg till ett identitetsfält **_crmid_** under SystemIdentifier-objektet. Mark
 * Skapa en datauppsättning med namnet **_FinWiseCustomerDataSetWithAnnualIncome_** baserat på det **_FinWiseProfileSchema_** som skapades i det tidigare steget
 
 * Navigera till Anslutningar -> Källor -> Lokalt system
-* Välj **_Lägg till data_** under den lokala filöverföringen. Se till att välja _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ som måldatamängd.
+* Välj **_Lägg till data_** under den lokala filöverföringen. Se till att välja _**FinWiseCustomerDataSetWithAnnualIncome**_ som måldatamängd.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Gå till nästa skärm. Överför [csv-filen](assets/finwise_profiles.csv) och verifiera mappningarna
   ![mappningar](assets/mappings.png)

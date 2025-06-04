@@ -6,9 +6,10 @@ level: Beginner
 doc-type: Tutorial
 feature: Decisioning
 last-substantial-update: 2025-05-05T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
-source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
