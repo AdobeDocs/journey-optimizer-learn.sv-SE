@@ -27,7 +27,7 @@ Skapa ett XDM-schema
 * Logga in på Adobe Experience Platform
 * Datahantering -> Scheman -> Skapa schema
 
-* Skapa ett XDM-händelsebaserat schema med namnet **_Finansiella rådgivare_**. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Skapa ett XDM-händelsebaserat schema med namnet **_Finansiella rådgivare_**. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Kontrollera att schemat är aktiverat för profilen.
