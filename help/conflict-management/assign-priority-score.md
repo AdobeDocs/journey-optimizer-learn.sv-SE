@@ -22,4 +22,4 @@ Lär dig hur du prioriterar inkommande åtgärder och ser till att innehåll med
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
 
-Mer information om hur du [tilldelar prioritetspoäng till resor och kampanjer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/priority-scores) finns i produktdokumentationen.
+Mer information om hur du [tilldelar prioritetspoäng till resor och kampanjer](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/conflict-prioritization/priority-scores) finns i produktdokumentationen.
