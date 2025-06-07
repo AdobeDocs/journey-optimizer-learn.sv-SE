@@ -22,4 +22,4 @@ Lär dig hur du prioriterar inkommande åtgärder och ser till att innehåll med
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-Läs produktdokumentationen om du vill ha mer information om [Boxning och skiljevägg](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
+Läs produktdokumentationen om du vill ha mer information om [Boxning och skiljevägg](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).

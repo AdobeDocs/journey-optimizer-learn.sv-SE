@@ -22,4 +22,4 @@ Upptäck hur du identifierar och hanterar potentiella konflikter - som överlapp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 
-Mer information om hur du [identifierar potentiella konflikter i resor och kampanjer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts) finns i produktdokumentationen.
+Mer information om hur du [identifierar potentiella konflikter i resor och kampanjer](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/conflict-prioritization/conflicts) finns i produktdokumentationen.
