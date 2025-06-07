@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du prioriterar inkommande åtgärder och ser till att innehåll med högsta prioritet levereras till en kund när de kvalificerar för flera inkommande åtgärder med samma kanalkonfiguration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447618/?learn=on&enablevpops&captions=swe)
 
 Läs produktdokumentationen om du vill ha mer information om [Boxning och skiljevägg](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
