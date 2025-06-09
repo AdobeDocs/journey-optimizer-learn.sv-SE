@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Använd Decisionering för att personalisera webberbjudanden
 
-Den här självstudiekursen bygger vidare på en tidigare skapad målgruppssegmentering med Adobe Experience Platform (AEP) Web SDK. I den [tidigare självstudiekursen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction) hämtades användarpreferenser, t.ex. intresse för aktier, obligationer eller insättningscertifikat (CD), och användes för att segmentera individer till målgrupper inom Experience Platform. Den här självstudiekursen bygger vidare på den grunden genom att använda Adobe Journey Optimizer (AJO) Decisioning för att leverera personaliserade finansiella erbjudanden till dessa målgrupper i realtid, vilket förbättrar både engagemang och konverteringsresultat.
+Den här självstudiekursen bygger vidare på en tidigare skapad målgruppssegmentering med Adobe Experience Platform (AEP) Web SDK. I den [tidigare självstudiekursen](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction) hämtades användarpreferenser, t.ex. intresse för aktier, obligationer eller insättningscertifikat (CD), och användes för att segmentera individer till målgrupper inom Experience Platform. Den här självstudiekursen bygger vidare på den grunden genom att använda Adobe Journey Optimizer (AJO) Decisioning för att leverera personaliserade finansiella erbjudanden till dessa målgrupper i realtid, vilket förbättrar både engagemang och konverteringsresultat.
 
 
 ## Krav för den här självstudien
