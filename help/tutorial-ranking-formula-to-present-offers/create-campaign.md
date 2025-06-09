@@ -80,14 +80,14 @@ Den här inställningen använder ECID som primär identitet för att identifier
 
    Om du vill infoga beslutsprincipen klickar du på **_Redigera innehåll_** i åtgärdsektionerna och sedan på **_Redigera kod_** för att öppna personaliseringsredigeraren.
 
-   Välj ikonen _**Beslutspolicy**_ till vänster och klicka på knappen **Lägg till beslutspolicy** för att öppna skärmen **Skapa beslutspolicy**. Ange ett beskrivande namn för beslutspolicyn och välj det antal poster som beslutspolicyn ska returnera. Standardvärdet är 1.
+   Välj ikonen _&#x200B;**Beslutspolicy**&#x200B;_ till vänster och klicka på knappen **Lägg till beslutspolicy** för att öppna skärmen **Skapa beslutspolicy**. Ange ett beskrivande namn för beslutspolicyn och välj det antal poster som beslutspolicyn ska returnera. Standardvärdet är 1.
 Klicka på **_nästa_** och lägg till den urvalsstrategi som skapades i det tidigare steget i beslutsprincipen och klicka på **nästa** för att slutföra processen med att skapa beslutsprincipen. Se till att välja rätt reserverbjudande.
 
 6. **Infoga beslutspolicy**
 
    ![personaliseringsredigerare](assets/personalization-editor.png)
 
-   Infoga den nyskapade beslutsprincipen genom att klicka på knappen _**Infoga princip**_ . Detta infogar en for-slinga i personaliseringsredigeraren till höger.
+   Infoga den nyskapade beslutsprincipen genom att klicka på knappen _&#x200B;**Infoga princip**&#x200B;_ . Detta infogar en for-slinga i personaliseringsredigeraren till höger.
 Placera markören mellan slingorna på rad två och infoga offerText genom att gå till erbjudandet genom att gå nedåt i `tenant name`
 
 

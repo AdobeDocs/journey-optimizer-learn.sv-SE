@@ -39,7 +39,7 @@ En **datauppsättning i Adobe Experience Platform (AEP)** är en strukturerad la
 
 
 * Datahantering -> Datauppsättningar -> Skapa datauppsättning
-* Skapa en datauppsättning med namnet **_Weather-schema-dataset_** baserat på XDM-schemat(_**Weather-Schema**_) som skapades i föregående steg.
+* Skapa en datauppsättning med namnet **_Weather-schema-dataset_** baserat på XDM-schemat(_&#x200B;**Weather-Schema**&#x200B;_) som skapades i föregående steg.
 
 
 ## Skapa ett datastream

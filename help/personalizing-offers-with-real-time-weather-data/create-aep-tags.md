@@ -23,7 +23,7 @@ I den här [videon beskrivs processen att skapa Adobe Experience Tags](https://e
 
 * Logga in i datainsamling
 * Klicka på Taggar -> Ny egenskap
-* Skapa en Adobe Experience Platform-tagg med namnet _**anpassning vid väder**_.
+* Skapa en Adobe Experience Platform-tagg med namnet _&#x200B;**anpassning vid väder**&#x200B;_.
 
 * Lägg till följande tillägg i taggen
   ![tags-extensions](assets/tags-extensions1.png)

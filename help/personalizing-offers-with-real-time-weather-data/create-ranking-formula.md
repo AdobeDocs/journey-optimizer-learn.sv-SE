@@ -23,7 +23,7 @@ En rankningsformel i Adobe Journey Optimizer används vid offertbeslut, särskil
 
 * Beslut ->Strategisposition ->Rankningsformler ->Skapa formel
 
-Namnge formeln _**Väder - relaterat - erbjudanden**_
+Namnge formeln _&#x200B;**Väder - relaterat - erbjudanden**&#x200B;_
 
 
 
