@@ -8,19 +8,17 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 71c406e7a06c49f01245970c280c6a7beb84da5f
+source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # Använd Decisionering för att personalisera webberbjudanden
 
-Den här självstudiekursen bygger vidare på en tidigare skapad målgruppssegmentering med Adobe Experience Platform (AEP) Web SDK. I den [tidigare självstudiekursen](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction) hämtades användarpreferenser, t.ex. intresse för aktier, obligationer eller insättningscertifikat (CD), och användes för att segmentera individer till målgrupper inom Experience Platform. Den här självstudiekursen bygger vidare på den grunden genom att använda Adobe Journey Optimizer (AJO) Decisioning för att leverera personaliserade finansiella erbjudanden till dessa målgrupper i realtid, vilket förbättrar både engagemang och konverteringsresultat.
+Den här självstudiekursen bygger vidare på en tidigare skapad målgruppssegmentering med Adobe Experience Platform (AEP) Web SDK. I den [tidigare självstudiekursen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction) hämtades användarpreferenser, t.ex. intresse för aktier, obligationer eller insättningscertifikat (CD), och användes för att segmentera individer till målgrupper inom Experience Platform. Den här självstudiekursen bygger vidare på den grunden genom att använda Adobe Journey Optimizer (AJO) Decisioning för att leverera personaliserade finansiella erbjudanden till dessa målgrupper i realtid, vilket förbättrar både engagemang och konverteringsresultat.
 
-Du kan testa de personaliserade AJO-erbjudandena live via länken nedan.
-[Klicka här om du vill visa live-demon](https://gbedekar489.github.io/finwise/welcome.html). På sidan visas erbjudanden i realtid baserat på dina investeringsinställningar.
 
 ## Krav för den här självstudien
 

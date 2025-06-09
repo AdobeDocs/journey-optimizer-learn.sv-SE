@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: personalizing-offers-with-ranking-formas-based-on-user-zip-code-and-revenue
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
 auto-video-transcripts: true
-source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
+source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '69'
 ht-degree: 1%
 
 ---

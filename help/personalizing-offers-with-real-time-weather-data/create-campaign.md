@@ -7,11 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 recommendations: noDisplay, noCatalog
-jira: KT-18188
-exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
+jira: KT-18258
 source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---
@@ -22,15 +21,12 @@ För att leverera personaliserade erbjudanden till användare på webbsidan har 
 
 I den här kampanjen definierades en beslutspolicy för att kontrollera hur erbjudanden väljs ut. Beslutspolicyn innehåller en urvalsstrategi som består av följande:
 
-En samling av poster för erbjudanden (t.ex. baserat på postnummer eller intäkter),
+En samling av erbjudandeartiklar (t.ex. baserat på väderrelaterade taggar),
 
 Vilka regler som avgör vilka erbjudanden som gäller för en användare, och
 
 En rankningsformel som tilldelar poäng till berättigade erbjudanden för att prioritera de mest relevanta.
-
-När en inloggad användare besöker webbplatsen skickas en personaliseringsbegäran till AJO. Baserat på användarens sammanslagna attribut för identitet och profil (som ZIP-kod och årsinkomst) utvärderar beslutspolicyn alla tillgängliga erbjudanden. Den tillämpar urvalsstrategin och rangordningslogiken för att fastställa den bästa matchningen.
-
-Resultatet är en skräddarsydd uppsättning erbjudanden som returneras som HTML-innehåll och visas för användaren i en karusell på webbplatsen, vilket skapar en sömlös, personaliserad upplevelse i realtid.
+När en användare besöker webbplatsen identifieras platsen och den aktuella temperaturen hämtas med ett väder-API. Dessa temperaturdata skickas sedan till Adobe Experience Platform via Web SDK (Alloy). Baserat på dessa sammanhangsbaserade data i realtid utvärderar Adobe Journey Optimizer fördefinierade erbjudanden som är taggade för specifika väderförhållanden, till exempel varma, lindriga eller kalla. Det mest relevanta erbjudandet med hjälp av urvalsstrategin och rankningsformeln återges automatiskt på webbsidan med Adobe beslutsmotor, vilket säkerställer att användaren får personaliserat innehåll som är anpassat till det aktuella vädret i området.
 
 
 ## Steg på hög nivå för att skapa en kampanj i AJO
@@ -38,9 +34,10 @@ Resultatet är en skräddarsydd uppsättning erbjudanden som returneras som HTML
 1. **Skapa en kanalkonfiguration**\
    Definiera var och hur erbjudandena ska visas (till exempel en webbsida med kodbaserad upplevelse).
    - Logga in på Journey Optimizer
-Navigera till Administration ->Kanaler->Skapa kanalkonfiguration
-   - **Namn**: `finwise-web-personalization`\
-     Identifierar den här konfigurationen för FinWise personliga webberbjudanden.
+
+     Navigera till Administration ->Kanaler->Skapa kanalkonfiguration
+   - **Namn**: `offers-by-weather`\
+     Identifierar den här konfigurationen för personlig leverans av webberbjudanden.
 
    - **Plattform**: `Web`\
      Fungerar särskilt för webbläsare. Inga mobilkanaler är aktiverade.
@@ -48,10 +45,10 @@ Navigera till Administration ->Kanaler->Skapa kanalkonfiguration
    - **Upplevelsetyp**: `Code-based experience`\
      Erbjudandena injiceras inte direkt i DOM. I stället returnerar AJO HTML i Raw-format, som tolkas med anpassade JavaScript.
 
-   - **Sidans URL**: `http://localhost:3000/formula.html`\
+   - **Sidans URL**: `https://gbedekar489.github.io/weather/weather-offers.html`\
      Kanalen är konfigurerad för en specifik testsida som används under utvecklingen.
 
-   - **Plats på sida**: `offers-div`\
+   - **Plats på sida**: `offerContainer`\
      Returnerade erbjudanden tolkas dynamiskt och återges i den här behållaren med hjälp av klientlogik.
 
    - **Innehållsformat**: `HTML`\
@@ -60,7 +57,6 @@ Navigera till Administration ->Kanaler->Skapa kanalkonfiguration
 
 2. **Starta en ny kampanj**\
    Navigera till kampanjavsnittet och skapa en ny schemalagd marknadsföringskampanj. Namnge kampanjen korrekt.
-
 
 3. **Lägg till åtgärd**\
    Lägg till kodbaserad upplevelseåtgärd och länka åtgärden till en tidigare skapad kanalkonfiguration.
@@ -71,17 +67,19 @@ Navigera till Administration ->Kanaler->Skapa kanalkonfiguration
    Alla besökare (standard).
 
    Identitetstyp: ECID (Experience Cloud ID)
-Den här inställningen använder ECID som primär identitet för att identifiera användare. När identitetssammanfogning finns på plats länkas ECID till CRM ID för Personalized Targeting Select eller skapar en beslutspolicy som definierar erbjudandelogiken.
+Den här inställningen använder ECID som primär identitet för att identifiera användare.
 
-5. **Beslutspolicy**
 
+5. **Skapa beslutspolicy**
 
    Åtgärden är länkad till en **beslutspolicy** som definierar hur erbjudanden markeras och hur många erbjudanden som returneras för visning. Den här principen använder en **urvalsstrategi** som skapades tidigare i självstudien.
 
    Om du vill infoga beslutsprincipen klickar du på **_Redigera innehåll_** i åtgärdsektionerna och sedan på **_Redigera kod_** för att öppna personaliseringsredigeraren.
 
    Välj ikonen _**Beslutspolicy**_ till vänster och klicka på knappen **Lägg till beslutspolicy** för att öppna skärmen **Skapa beslutspolicy**. Ange ett beskrivande namn för beslutspolicyn och välj det antal poster som beslutspolicyn ska returnera. Standardvärdet är 1.
-Klicka på **_nästa_** och lägg till den urvalsstrategi som skapades i det tidigare steget i beslutsprincipen och klicka på **nästa** för att slutföra processen med att skapa beslutsprincipen. Se till att välja rätt reserverbjudande.
+Klicka på **_nästa_** och lägg till den urvalsstrategi som skapades i det tidigare steget i beslutsprincipen och klicka på **nästa** för att slutföra processen med att skapa beslutsprincipen. Inga reserverbjudanden har kopplats till beslutspolicyn.
+
+
 
 6. **Infoga beslutspolicy**
 
@@ -90,11 +88,10 @@ Klicka på **_nästa_** och lägg till den urvalsstrategi som skapades i det tid
    Infoga den nyskapade beslutsprincipen genom att klicka på knappen _**Infoga princip**_ . Detta infogar en for-slinga i personaliseringsredigeraren till höger.
 Placera markören mellan slingorna på rad två och infoga offerText genom att gå till erbjudandet genom att gå nedåt i `tenant name`
 
-
-   Handlebars-koden gör en slinga genom erbjudanden som returneras av en specifik beslutsprincip i Adobe Journey Optimizer och skapar en `<div>` för varje erbjudande. Varje `<div>` använder ett data-tags-attribut med erbjudandets interna namn för att hjälpa karusellgruppen att organisera erbjudandena efter kategori för smidig navigering. Innehållet i varje `<div>` visar den anpassade erbjudandetexten, vilket möjliggör dynamisk och visuellt segmenterad presentation av flera erbjudanden.
-
+   Koden Handlebars gör en slinga genom erbjudanden som returneras av en specifik beslutspolicy i Adobe Journey Optimizer.
+   ![handle-bar](assets/handlebar-code.png)
 
 7. **Publicera kampanjen**\
    Aktivera kampanjen för att börja leverera personaliserade erbjudanden i realtid.
 
-![img](assets/personalization-editor.png)
+
