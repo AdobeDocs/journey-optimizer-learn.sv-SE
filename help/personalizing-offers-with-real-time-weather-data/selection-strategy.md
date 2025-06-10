@@ -23,7 +23,7 @@ Skapa en urvalsstrategi
 
 * Logga in på Journey Optimizer
 
-* Navigera till _**Beslut ->Strategisk inställning ->Urvalsstrategier ->Skapa markeringsstrategi**_
+* Navigera till _&#x200B;**Beslut ->Strategisk inställning ->Urvalsstrategier ->Skapa markeringsstrategi**&#x200B;_
 
 * Ange namnet på urvalsstrategin, samlingen, behörigheten och rangordningsmetoden så som visas på skärmbilden
 
