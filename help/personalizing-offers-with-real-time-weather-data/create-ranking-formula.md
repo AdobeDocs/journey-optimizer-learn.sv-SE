@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ En rankningsformel i Adobe Journey Optimizer används vid offertbeslut, särskil
 
 * Logga in på Journey Optimizer
 
-* Beslut ->Strategisposition ->Rankningsformler ->Skapa formel
+* Navigera till _**Beslutsfattare ->Strategi ->Rankningsformler ->Skapa formel**_
 
-Namnge formeln _&#x200B;**Väder - relaterat - erbjudanden**&#x200B;_
+Namnge formeln _**Väder - relaterat - erbjudanden**_
 
 
 
@@ -32,7 +32,7 @@ Ett kriterium i en rankningsformel refererar till en villkorsregel som används 
 Följande tre kriterier definieras för att filtrera erbjudanden och sedan tilldela ett rangordningsbetyg till kvalificeringserbjudandet. Kriterierna definieras med kriteriebyggaren. Kontextdata kan också användas för att definiera villkoren som visas på skärmbilden nedan
 ![contxt-data](assets/context-data.png)
 
-Alla de tre villkoren använde ett offer-attribut(tagg) och ett context-datatribute(temperatur) när villkoren definierades.
+Alla tre kriterierna använde ett offer-attribut(tagg) och ett context-datatribute(temperatur) när villkoren definierades.
 
 ## Kriterium ett
 
