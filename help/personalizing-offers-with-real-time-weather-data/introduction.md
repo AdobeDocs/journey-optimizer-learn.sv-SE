@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Genom att använda väderrelaterade data i Adobe Journey Optimizer (AJO) för at
 
 Leverera relevanta erbjudanden som är anpassade efter kundernas stämning och miljö
 
-Visa ett erbjudande om kalldryck eller AC-enheter på en varm dag. På en regnig dag, främja schaker eller paraplyer
+Visa ett erbjudande om kalldryck eller AC-enheter på en varm dag. På en regnig dag, främja schaket eller paraplyer
 
 Exempel på väderbaserat erbjudande
 
@@ -31,14 +31,14 @@ Exempel på väderbaserat erbjudande
 
 ## Krav för den här självstudien
 
-* Tillgång till Experience Platform
+* Tillgång till Experience Platform.
 
-* Grundläggande förståelse för Adobe Experience Platform-taggar
+* Grundläggande förståelse för Adobe Experience Platform Tags.
 
-* Grundläggande förståelse för Experience Platform koncept (profiler, målgrupper, datauppsättningar)
+* Grundläggande förståelse för Experience Platform koncept (profiler, målgrupper, datauppsättningar).
 
-* Välbekant med Journey Optimizer
+* Bekanta dig med Journey Optimizer.
 
-* Grundläggande JavaScript-kunskap (att läsa och skriva enkla funktioner)
+* Grundläggande JavaScript-kunskap (att läsa och skriva enkla funktioner).
 
-* Möjlighet att använda DevTools för webbläsare (flikarna Konsol och Nätverk)
+* Möjlighet att använda DevTools för webbläsare (flikarna Konsol och Nätverk).

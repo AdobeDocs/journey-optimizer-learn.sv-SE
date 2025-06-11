@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: dac6b373226bd0be2533cf859e4f250018cf568b
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Om du vill använda Adobe Experience Platform Web SDK (Alloy.js) på en webbsida
 Skapa ett XDM-schema
 
 * Logga in på Adobe Experience Platform
-* Datahantering -> Scheman -> Skapa schema
+* Navigera till _**Datahantering -> Scheman -> Skapa schema**_
 
-* Skapa ett XDM-händelsebaserat schema med namnet **_Väderschema_**. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Skapa ett XDM-händelsebaserat schema med namnet **_Väderschema_**. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Kontrollera att schemat har följande fält med lämplig datatyp.
@@ -37,16 +37,15 @@ Skapa ett XDM-schema
 
 En **datauppsättning i Adobe Experience Platform (AEP)** är en strukturerad lagringsbehållare som används för att importera, lagra och aktivera data baserat på ett definierat XDM-schema.
 
-
-* Datahantering -> Datauppsättningar -> Skapa datauppsättning
-* Skapa en datauppsättning med namnet **_Weather-schema-dataset_** baserat på XDM-schemat(_&#x200B;**Weather-Schema**&#x200B;_) som skapades i föregående steg.
+* Navigera till _**Datahantering -> Datauppsättningar -> Skapa datauppsättning**_
+* Skapa en datauppsättning med namnet **_Weather-schema-dataset_** baserat på XDM-schemat(_**Weather-Schema**_) som skapades i föregående steg.
 
 
 ## Skapa ett datastream
 
 En datastam i Adobe Experience Platform är som en säker pipeline (eller huvudväg) som kopplar din webbplats eller app till Adobes tjänster, så att data kan flöda in och personaliserat innehåll flöda tillbaka.
 
-* Navigera till Datainsamling > Datastreams och klicka sedan på New Datastream. Namnge datastream **väderrelaterad-datastream**
+* Navigera till _**Datasamling > Datastreams**_ och klicka sedan på Ny datastream. Namnge datastream **väderrelaterad-datastream**
 
 
 * Ange följande information som visas på skärmbilden nedan

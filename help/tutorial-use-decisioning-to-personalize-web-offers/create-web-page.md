@@ -9,7 +9,7 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Följande skript ansvarar för att hämta och visa ett personaliserat erbjudande
 function runPersonalization() {
     console.log("🚀 Sending personalization request to AJO...");
     alloy("sendEvent", {
-        renderDecisions: true,
+        renderDecisions: false,
         personalization: {
             surfaces: ["#ajo-offer"]
         }

@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 6%
@@ -23,7 +23,7 @@ Med samlingar kan du kategorisera och gruppera dina beslutsobjekt enligt dina ö
 Steg för att skapa en samling
 
 * Logga in på Journey Optimizer
-* Navigera till Taggar ->Skapa taggkategori (_&#x200B;**WeatherRelatedOffers**&#x200B;_)
+* Navigera till _**Taggar ->Skapa taggkategori**_(_**VäderrelateradeErbjudanden**_)
 * Klicka på Spara
-* Klicka på Skapa taggar (varm, kall, fjäder). De här taggarna ska finnas under taggkategorin _&#x200B;**WeatherRelatedOffers**&#x200B;_
+* Klicka på Skapa taggar (varm, kall, fjäder). De här taggarna ska finnas under taggkategorin _**WeatherRelatedOffers**_
 
