@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Lär dig konfigurera e-postkanalen i Adobe Journey Optimizer. Videon handlar om hur du konfigurerar e-postkonfigurationer, inklusive underdomäner, IP-pooler, hantering av avanmälan, avsändaranpassning, BCC och startlistor, återförsökslogik och spårningsparametrar. Det betonar regelefterlevnad, slutbarhet och personalisering för att optimera e-postmarknadsföringens prestanda.
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3463861?quality=12&learn=on&captions=swe){transcript=true}
