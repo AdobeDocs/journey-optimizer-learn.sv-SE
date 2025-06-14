@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du prioriterar inkommande åtgärder och ser till att innehåll med högsta prioritet levereras till en kund när de kvalificerar för flera inkommande åtgärder med samma kanalkonfiguration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445005/?learn=on&enablevpops&captions=swe)
 
 Mer information om hur du [tilldelar prioritetspoäng till resor och kampanjer](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/conflict-prioritization/priority-scores) finns i produktdokumentationen.
