@@ -10,7 +10,7 @@ last-substantial-update: 2025-06-17T00:00:00Z
 jira: KT-18362
 hidefromtoc: true
 hide: true
-source-git-commit: 05788d33257fdc01ebdaac4d2718e5dda89bb103
+source-git-commit: 1866e720cc44ee14bde2203f6cda2a7d31e63c07
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
