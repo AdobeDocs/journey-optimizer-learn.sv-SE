@@ -1,6 +1,6 @@
 ---
 title: Lägg till redigerbara fält i kodbaserade upplevelsekanalmallar
-description: Upptäck hur utvecklare kan effektivisera samarbetet med marknadsföringsteam genom att aktivera redigerbara fält i kodbaserade upplevelsekanaler. Lär dig definiera redigerbara JSON- och HTML-fält i innehållsmallar, så att marknadsförarna kan uppdatera kampanjelement som titlar och beskrivningar utan att behöva röra kod. Se hur inbyggda beslutsregler förbättrar personaliseringen direkt i mallar - ökar effektiviteten, minskar antalet fel och snabbar upp kampanjleveransen
+description: Upptäck hur utvecklare kan effektivisera samarbetet med marknadsföringsteam genom att aktivera redigerbara fält i kodbaserade upplevelsekanaler. Lär dig definiera redigerbara JSON- och HTML-fält i innehållsmallar, så att marknadsförarna kan uppdatera kampanjelement som titlar och beskrivningar utan att behöva röra kod. Se hur inbäddade beslutsregler förbättrar personaliseringen direkt i mallar - ökar effektiviteten, minskar antalet fel och snabbar upp kampanjleveransen.
 feature: Code-based Experiences
 role: Developer
 level: Beginner, Intermediate
@@ -10,7 +10,7 @@ last-substantial-update: 2025-06-17T00:00:00Z
 jira: KT-18362
 hidefromtoc: true
 hide: true
-source-git-commit: 1866e720cc44ee14bde2203f6cda2a7d31e63c07
+source-git-commit: 279b05b3bc4bab067ef01c280a7522ac860ad3f9
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Lägg till redigerbara fält i kodbaserade upplevelsekanalmallar
 
-Upptäck hur utvecklare kan effektivisera samarbetet med marknadsföringsteam genom att aktivera redigerbara fält i kodbaserade upplevelsekanaler. Lär dig definiera redigerbara JSON- och HTML-fält i innehållsmallar, så att marknadsförarna kan uppdatera kampanjelement som titlar och beskrivningar utan att behöva röra kod. Se hur inbyggda beslutsregler förbättrar personaliseringen direkt i mallar - ökar effektiviteten, minskar antalet fel och snabbar upp kampanjleveransen
+Upptäck hur utvecklare kan effektivisera samarbetet med marknadsföringsteam genom att aktivera redigerbara fält i kodbaserade upplevelsekanaler. Lär dig definiera redigerbara JSON- och HTML-fält i innehållsmallar, så att marknadsförarna kan uppdatera kampanjelement som titlar och beskrivningar utan att behöva röra kod. Se hur inbäddade beslutsregler förbättrar personaliseringen direkt i mallar - ökar effektiviteten, minskar antalet fel och snabbar upp kampanjleveransen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
