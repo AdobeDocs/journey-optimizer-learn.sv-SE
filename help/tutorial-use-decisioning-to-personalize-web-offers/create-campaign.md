@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: a48a3702-4d66-467b-a7ec-9d91b81b771d
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 09c69d341e71af641febd74d319c28af1932ecec
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,8 @@ I Adobe Journey Optimizer (AJO) fungerar en kampanj som en behållare som samlar
 
 1. Logga in på Journey Optimizer.
 1. Klicka på **[!UICONTROL Resehantering]** > **[!UICONTROL Kampanjer]** > **[!UICONTROL Skapa kampanj]** > **[!UICONTROL Schemalägg marknadsföring]**.
+1. Ange ett beskrivande namn för kampanjen
+1. Navigera till fliken _**Åtgärd**_
 1. Välj **[!UICONTROL Kodbaserad upplevelse]** och välj sedan den konfiguration som skapades i det tidigare steget.
 1. Klicka på **[!UICONTROL Redigera innehåll]**.
 
