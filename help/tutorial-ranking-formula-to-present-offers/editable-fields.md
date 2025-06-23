@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Använda redigerbara formulärfält i AJO kodbaserade upplevelser
 
-På många marknadsföringsresor, särskilt inom reglerade branscher, är det viktigt att ta med en ansvarsfriskrivning som kan variera beroende på kampanj, geografi eller produkt. Genom att använda ett [redigerbart fält](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) direkt i AJO Personalization Editor kan marknadsförare och jurister behålla fullständig kontroll över ansvarsfriskrivningstexten utan att behöva ta hjälp av utvecklare eller ändra beslutslogiken.
+På många marknadsföringsresor, särskilt inom reglerade branscher, är det viktigt att ta med en ansvarsfriskrivning som kan variera beroende på kampanj, geografi eller produkt. Genom att använda ett [redigerbart fält](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) direkt i AJO Personalization Editor kan marknadsförare och jurister behålla fullständig kontroll över ansvarsfriskrivningstexten utan att behöva ta hjälp av utvecklare eller ändra beslutslogiken.
 
 Detta möjliggör snabba uppdateringar och säkerställer att kampanjer är kompatibla, samtidigt som ni utnyttjar beslutat innehåll som erbjudanden.
 
