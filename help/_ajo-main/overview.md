@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b2f313369b06e0b61202d11560633ea267bbe1df
+source-git-commit: af3d53c39ee17b7d51732de69c5f95d453563a4d
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 1%
+source-wordcount: '585'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Med Journey Optimizer kan företag skapa sammanhängande, sammanhangsbaserade och personaliserade kundupplevelser. Det guidar kunderna genom hela kundresan med varumärket, från den första kontaktpunkten till det ögonblick de lämnar webbplatsen, och säkerställer en sammanhängande och tillfredsställande upplevelse vid varje kontaktyta.
 
-Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner. Upplev vad du lärt dig genom att ta [Journey Optimizer-utmaningar](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
+Den här användarhandboken innehåller videor och självstudiekurser om Adobe Journey Optimizer funktioner. Upplev vad du lärt dig genom att ta [Journey Optimizer-utmaningar](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -33,13 +33,13 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 ## Senaste Experience League Live-event
 
 <!-- CARDS
-* https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dove into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They showed how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
-* https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
      {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
-* https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
      {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
      {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
 
@@ -50,8 +50,8 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="Prioritering av masterfrekvenser och konflikter (18 juni 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1750288896715" alt="Prioritering av masterfrekvenser och konflikter (18 juni 2025)"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="Prioritering av masterfrekvenser och konflikter (18 juni 2025)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1750716557309" alt="Prioritering av masterfrekvenser och konflikter (18 juni 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -59,11 +59,11 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="Prioritering av masterfrekvenser och konflikter (18 juni 2025)">Prioritering av huvudfrekvens och konflikt (18 juni 2025)</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="Prioritering av masterfrekvenser och konflikter (18 juni 2025)">Prioritering av huvudfrekvens och konflikt (18 juni 2025)</a>
                     </p>
                     <p class="is-size-6">Under den här sessionen arbetar Adobe experter Ariel Sultan och Aaron Forrest med nya funktioner i Adobe Journey Optimizer som hjälper dig att styra och prioritera kundmeddelanden med precision. De visade hur man minskar meddelandetröttheten, löser konflikter och levererar slagkraftiga upplevelser som får genklang.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -73,8 +73,8 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Flexibla arbetsflöden för personaliserat innehåll i skala (5 juni 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1750288896708" alt="Flexibla arbetsflöden för personaliserat innehåll i skala (5 juni 2025)"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Flexibla arbetsflöden för personaliserat innehåll i skala (5 juni 2025)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1750716557397" alt="Flexibla arbetsflöden för personaliserat innehåll i skala (5 juni 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,11 +82,11 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Flexibla arbetsflöden för personaliserat innehåll i skala (5 juni 2025)">Flexibla arbetsflöden för anpassat innehåll i skala (5 juni 2025)</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Flexibla arbetsflöden för personaliserat innehåll i skala (5 juni 2025)">Flexibla arbetsflöden för anpassat innehåll i skala (5 juni 2025)</a>
                     </p>
                     <p class="is-size-6">Under den här sessionen visar Adobe-experterna Chris ivory, Amarnath Vannarath och Rohan Bhatt hur Adobe Journey Optimizer (AJO) kan integreras smidigt med Adobe Express och GenStudio for Performance Marketing. Läs om hur dessa verktyg ger er oöverträffad flexibilitet, samarbete och AI-driven kreativitet i era marknadsföringsarbetsflöden.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -96,8 +96,8 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform (27 februari 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1750288896696" alt="Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform (27 februari 2025)"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform (27 februari 2025)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1750716557312" alt="Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform (27 februari 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -105,11 +105,11 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform (27 februari 2025)">Låsa upp operativa insikter med AI Assistant i Adobe Experience Platform (27 februari 2025)</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform (27 februari 2025)">Låsa upp operativa insikter med AI Assistant i Adobe Experience Platform (27 februari 2025)</a>
                     </p>
                     <p class="is-size-6">Våra experter diskuterade hur AI Assistant kan ge värdefull funktionell information, öka produktiviteten och omdefiniera arbetet i Adobe Experience Platform och dess plattformsbaserade program.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -122,95 +122,157 @@ Den här användarhandboken innehåller videor och självstudiekurser om Adobe J
 
 ## Personalval
 
-<table>
-<tr>
-    <td>
-    <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
-      <img alt="Skapa innehåll med AI Assistant för innehållsgenerering (video)" src="../assets/3434635.jpg"/>
-    </a>
-    <div>
-      <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
-    <strong> Skapa innehåll med AI Assistant för innehållsgenerering </strong>
-    </a>
-    </div>
-    <p>
-    <em>Lär dig hur du använder AI Assistant för innehållsgenerering för att generera proaktiva variantförslag för både text och bilder.
-</em>
-    <p>
-  </td>
-    <td>
-    <a href="../experimentation/content-experiments-for-emails.md">
-      <img alt="Konfigurera innehållsexperiment för e-postkampanjer (video)" src="../assets/3419893.jpeg"/>
-    </a>
-    <div>
-      <a href="../experimentation/content-experiments-for-emails.md">
-    <strong> Konfigurera innehållsexperiment för e-postkampanjer </strong>
-    </a>
-    </div>
-    <p>
-    <em>Lär dig hur du konfigurerar innehållsexperiment till A/B-test och utforskar e-postinnehåll på bästa sätt för dina affärsmål.</em>
-    <p>
-  </td>
-  </td>
-    <td>
-    <a href="../decision-management/create-decisions.md">
-      <img alt="Introduktion till beslutsstyrningsfunktionerna" src="../assets/326961.jpg"/>
-    </a>
-    <div>
-      <a href="../decision-management/create-decisions.md">
-    <strong> Introduktion till funktioner för beslutshantering </strong>
-    </a>
-    </div>
-    <p>
-    <em>I videon beskrivs utmaningarna med att hantera beslut, dess nyckelfunktioner, grundläggande arkitektur och de huvudsakliga användningsområdena.
+<!-- CARDS
 
-</em>
-    <p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="../create-journeys/use-case-transactional-journey.md">
-      <img alt="Användningsfall - transaktionsresa " src="../assets/334202.jpeg"/>
-    </a>
-    <div>
-      <a href="../create-journeys/use-case-transactional-journey.md">
-    <strong> Användningsfall - Transaktionsresa </strong>
-    </a>
-    </div>
-    <p>
-    <em>Förstå tillämpliga användningsfall för transaktionsresor. Lär dig hur du skapar transaktionsresor och vilka metodtips som ska användas.</em>
-    <p>
-  </td>
-    <td>
-    <a href="../personalize-content/use-contextual-event-information-for-personalization.md">
-      <img alt="Använd sammanhangsbaserad händelseinformation för personalisering" src="../assets/334165.jpg"/>
-    </a>
-    <div>
-      <a href="../personalize-content/use-contextual-event-information-for-personalization.md">
-    <strong> Använd sammanhangsbaserad händelseinformation för personalisering </strong>
-    </a>
-    </div>
-    <p>
-    <em>Lär dig hur du använder sammanhangsbaserad händelseinformation från en resa för att anpassa ett meddelande.</em>
-    <p>
-  </td>
-  </td>
-    <td>
-    <a href="../report-and-monitor/live-and-global-reports.md">
-      <img alt="Live- och globala rapporter" src="../assets/334108.jpg"/>
-    </a>
-    <div>
-      <a href="../report-and-monitor/live-and-global-reports.md">
-    <strong> Live-rapporter och globala rapporter </strong>
-    </a>
-    </div>
-    <p>
-    <em>Lär dig skillnaden mellan live-rapporter och globala rapporter, hur du får åtkomst till och analyserar resan och de meddelandespecifika rapporterna samt hur du ändrar rapportpanelerna.
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 
-</em>
-    <p>
-  </td>
-</tr>
-</table>
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Key capabilities and the user interface">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Viktiga funktioner och användargränssnittet" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1750716558140" alt="Viktiga funktioner och användargränssnittet"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" title="Viktiga funktioner och användargränssnittet">Nyckelfunktioner och användargränssnittet</a>
+                    </p>
+                    <p class="is-size-6">Förstå Journey Optimizer nyckelfunktioner och personligheter. Lär dig navigera i användargränssnittet.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Introduction to building a journey">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" title="Introduktion till att skapa en resa" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1750716558129" alt="Introduktion till att skapa en resa"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" title="Introduktion till att skapa en resa">Introduktion till att skapa en resa</a>
+                    </p>
+                    <p class="is-size-6">Förstå grunderna för att skapa en resa på researbetsytan.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create an audience using the rule builder">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Skapa en målgrupp med regelverktyget" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1750716558079" alt="Skapa en målgrupp med regelverktyget"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" title="Skapa en målgrupp med regelverktyget">Skapa en målgrupp med regelbyggaren</a>
+                    </p>
+                    <p class="is-size-6">Förstå hur Journey Optimizer (AJO) använder regler för att generera målgrupper och lära sig hur man använder attribut, händelser och befintliga målgrupper för att skapa en målgrupp.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create content using the AI Assistant for content generation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Skapa innehåll med AI-assistenten för innehållsgenerering" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1750716558123" alt="Skapa innehåll med AI-assistenten för innehållsgenerering"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="Skapa innehåll med AI-assistenten för innehållsgenerering">Skapa innehåll med AI-assistenten för innehållsgenerering</a>
+                    </p>
+                    <p class="is-size-6">Lär dig hur du använder AI-assistenten för att generera proaktiva variantförslag för både text och bilder.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Decisioning end-to-end walkthrough">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="Beslutsfattande genomgång från början till slut" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1750716558108" alt="Beslutsfattande genomgång från början till slut"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" title="Beslutsfattande genomgång från början till slut">Bestämmer genomgång från början till slut</a>
+                    </p>
+                    <p class="is-size-6">Genomgång av beslut i Journey Optimizer</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Configure content experiments for in-app messages">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Konfigurera innehållsexperiment för meddelanden i appen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1750716558135" alt="Konfigurera innehållsexperiment för meddelanden i appen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" title="Konfigurera innehållsexperiment för meddelanden i appen">Konfigurera innehållsexperiment för meddelanden i appen</a>
+                    </p>
+                    <p class="is-size-6">Lär dig hur du konfigurerar och analyserar innehållsexperiment i A/B-testmeddelanden i appen.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
