@@ -10,10 +10,10 @@ role: Admin
 level: Beginner
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: ca05b1c0b5f20887e5f15352dfe9ed2c7ad28795
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 1%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
@@ -30,4 +30,4 @@ Lär dig hur du prenumererar på fördefinierade aviseringar om oväntade resbet
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=sv-SE).
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/alerts).
