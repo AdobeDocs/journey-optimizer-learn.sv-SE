@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -38,15 +38,16 @@ Resultatet är en skräddarsydd uppsättning erbjudanden som returneras som HTML
 1. **Skapa en kanalkonfiguration**\
    Definiera var och hur erbjudandena ska visas (till exempel en webbsida med kodbaserad upplevelse).
    - Logga in på Journey Optimizer
-Navigera till Administration ->Kanaler->Skapa kanalkonfiguration
+Navigera till _**Administration ->Kanaler->Skapa kanalkonfiguration**_
    - **Namn**: `finwise-web-personalization`\
      Identifierar den här konfigurationen för FinWise personliga webberbjudanden.
+
+   - **Upplevelsetyp**: `Code-based experience`\
+     Erbjudandena injiceras inte direkt i DOM. I stället returnerar AJO HTML i Raw-format, som tolkas med anpassade JavaScript.
 
    - **Plattform**: `Web`\
      Fungerar särskilt för webbläsare. Inga mobilkanaler är aktiverade.
 
-   - **Upplevelsetyp**: `Code-based experience`\
-     Erbjudandena injiceras inte direkt i DOM. I stället returnerar AJO HTML i Raw-format, som tolkas med anpassade JavaScript.
 
    - **Sidans URL**: `http://localhost:3000/formula.html`\
      Kanalen är konfigurerad för en specifik testsida som används under utvecklingen.
@@ -63,12 +64,14 @@ Navigera till Administration ->Kanaler->Skapa kanalkonfiguration
 
 
 3. **Lägg till åtgärd**\
-   Lägg till kodbaserad upplevelseåtgärd och länka åtgärden till en tidigare skapad kanalkonfiguration.
+   Navigera till fliken _**Åtgärder**_
+Lägg till kodbaserad upplevelseåtgärd och länka åtgärden till en tidigare skapad kanalkonfiguration.
 
 
 
 4. **Målgrupp**\
-   Alla besökare (standard).
+   Navigera till fliken _**Målgrupp**_
+Alla besökare (standard).
 
    Identitetstyp: ECID (Experience Cloud ID)
 Den här inställningen använder ECID som primär identitet för att identifiera användare. När identitetssammanfogning finns på plats länkas ECID till CRM ID för Personalized Targeting Select eller skapar en beslutspolicy som definierar erbjudandelogiken.
@@ -78,23 +81,26 @@ Den här inställningen använder ECID som primär identitet för att identifier
 
    Åtgärden är länkad till en **beslutspolicy** som definierar hur erbjudanden markeras och hur många erbjudanden som returneras för visning. Den här principen använder en **urvalsstrategi** som skapades tidigare i självstudien.
 
-   Om du vill infoga beslutsprincipen klickar du på **_Redigera innehåll_** i åtgärdsektionerna och sedan på **_Redigera kod_** för att öppna personaliseringsredigeraren.
+   Om du vill infoga beslutsprincipen klickar du på **_Redigera innehåll_** på fliken _**Åtgärder**_ och sedan på **_Redigera kod_** för att öppna anpassningsredigeraren.
 
-   Välj ikonen _&#x200B;**Beslutspolicy**&#x200B;_ till vänster och klicka på knappen **Lägg till beslutspolicy** för att öppna skärmen **Skapa beslutspolicy**. Ange ett beskrivande namn för beslutspolicyn och välj det antal poster som beslutspolicyn ska returnera. Standardvärdet är 1.
+   Välj ikonen _**Beslutspolicy**_ till vänster och klicka på knappen **Lägg till beslutspolicy** för att öppna skärmen **Skapa beslutspolicy**. Ange ett beskrivande namn för beslutspolicyn och välj det antal poster som beslutspolicyn ska returnera. Standardvärdet är 1.
 Klicka på **_nästa_** och lägg till den urvalsstrategi som skapades i det tidigare steget i beslutsprincipen och klicka på **nästa** för att slutföra processen med att skapa beslutsprincipen. Se till att välja rätt reserverbjudande.
 
 6. **Infoga beslutspolicy**
 
+   Infoga den nyskapade beslutsprincipen genom att klicka på knappen _**Infoga princip**_ . Detta infogar en for-slinga i personaliseringsredigeraren till höger.
+Placera markören mellan slingorna på rad två och infoga offerText genom att gå till erbjudandet genom att gå nedåt i `tenant name`
+
+   Beslutsprincip infogad i personaliseringsredigeraren
+
    ![personaliseringsredigerare](assets/personalization-editor.png)
 
-   Infoga den nyskapade beslutsprincipen genom att klicka på knappen _&#x200B;**Infoga princip**&#x200B;_ . Detta infogar en for-slinga i personaliseringsredigeraren till höger.
-Placera markören mellan slingorna på rad två och infoga offerText genom att gå till erbjudandet genom att gå nedåt i `tenant name`
 
 
    Handlebars-koden gör en slinga genom erbjudanden som returneras av en specifik beslutsprincip i Adobe Journey Optimizer och skapar en `<div>` för varje erbjudande. Varje `<div>` använder ett data-tags-attribut med erbjudandets interna namn för att hjälpa karusellgruppen att organisera erbjudandena efter kategori för smidig navigering. Innehållet i varje `<div>` visar den anpassade erbjudandetexten, vilket möjliggör dynamisk och visuellt segmenterad presentation av flera erbjudanden.
 
+7. **Spara kampanjen**
 
-7. **Publicera kampanjen**\
-   Aktivera kampanjen för att börja leverera personaliserade erbjudanden i realtid.
+   Spara kampanjen genom att klicka på knappen _**Granska för att aktivera**_
 
-![img](assets/personalization-editor.png)
+
