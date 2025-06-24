@@ -23,4 +23,4 @@ Med den flerspråkiga meddelandefunktionen i Adobe Journey Optimizer kan ni enke
 
 Lär dig hur du ställer in översättningsprojekt för automatiserad översättning och de språkinställningar som krävs för manuell översättning och automatiserade översättningsprojekt för flerspråkiga meddelanden.
  
->[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453547/?learn=on&captions=swe)
