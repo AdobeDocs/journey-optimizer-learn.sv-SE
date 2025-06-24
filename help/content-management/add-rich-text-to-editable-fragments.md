@@ -24,4 +24,4 @@ Lär dig hur du gör HTML-komponenter i ett fragment redigerbara så att både i
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
 
-Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"}.
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"}.
