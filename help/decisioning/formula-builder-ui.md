@@ -1,27 +1,27 @@
 ---
 title: Guide till gränssnittet Formelbyggaren i Adobe Journey Optimizer
-description: Genomgång av användargränssnittet i Formelverktyget
+description: Lär dig hur du använder AI-formelverktyget i Adobe Journey Optimizer för att skapa anpassade strategier för rangordning av erbjudanden.
 feature: Decisioning
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 186
-last-substantial-update: 2025-06-06T00:00:00Z
+duration: 282
+last-substantial-update: 2025-06-25T00:00:00Z
 jira: KT-17614
 thumbnail: KT-17614.jpeg
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+exl-id: 0926ec17-7b6a-49be-95c1-059366cdaa81
+source-git-commit: 5139c3f3de9943eac4f63cba386c551aac4a804a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Guide till gränssnittet Formelbyggaren i Adobe Journey Optimizer
 
-Formelverktyget i Adobe Journey Optimizer är ett visuellt gränssnitt som används för att skapa rankningsformler som avgör hur erbjudanden prioriteras vid beslut. Det gör att marknadsförare och utvecklare kan definiera anpassad logik med hjälp av profilattribut, kontextuella data (som plats eller väder) och erbjuda metadata (till exempel taggar eller etiketter). Formler används i rankningsstrategier för att tilldela varje erbjudande en numerisk poäng, vilket säkerställer att det mest relevanta innehållet levereras till varje användare baserat på realtidsdata.
+Lär dig hur du använder AI-formelverktyget i Adobe Journey Optimizer för att skapa anpassade strategier för rangordning av erbjudanden.
 
+I den här genomgången beskrivs hur du använder AI Formel Builder för att kombinera modellpoäng, profil- och erbjudandedata, sammanhangsberoende signaler och affärsregler för att personalisera beslut och prioritera erbjudanden baserat på era marknadsföringsmål.
 
-I den här videon får du en kort översikt över användargränssnittet i Formelverktyget.
-
->[!VIDEO](https://video.tv.adobe.com/v/3463743?quality=12&learn=on&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3464446/?learn=on&enablevpops){transcript=true}
