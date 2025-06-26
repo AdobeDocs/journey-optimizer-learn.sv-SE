@@ -25,9 +25,9 @@ Detta möjliggör snabba uppdateringar och säkerställer att kampanjer är komp
 ## Infoga redigerbart fält i personaliseringsredigeraren
 
 - Öppna kampanjen som skapades i det tidigare steget.
-- Klicka på _**Ändra kampanj**_
-- Navigera till fliken _**Innehåll**_
-- Klicka på _**Redigera kod**_ och infoga ett redigerbart fält med namnet legalDisclaimer med ett standardvärde med följande syntax i personaliseringsredigeraren
+- Klicka på _&#x200B;**Ändra kampanj**&#x200B;_
+- Navigera till fliken _&#x200B;**Innehåll**&#x200B;_
+- Klicka på _&#x200B;**Redigera kod**&#x200B;_ och infoga ett redigerbart fält med namnet legalDisclaimer med ett standardvärde med följande syntax i personaliseringsredigeraren
 
 - `{{#inline "legalDisclaimer" name="Legal Disclaimer"}} Legal Disclaimer will go here {{/inline}}`
 
