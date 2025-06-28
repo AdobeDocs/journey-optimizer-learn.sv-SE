@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Lär dig hur du gör HTML-komponenter i ett fragment redigerbara så att både innehåll och format kan uppdateras dynamiskt. Du får lära dig att strukturera din HTML, konfigurera redigerbara fält och koppla dem till standardinnehåll och CSS - och sedan testa och validera dina ändringar i en aktiv kampanjmiljö.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464372/?learn=on&enablevpops&captions=swe)
 
 Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"}.
