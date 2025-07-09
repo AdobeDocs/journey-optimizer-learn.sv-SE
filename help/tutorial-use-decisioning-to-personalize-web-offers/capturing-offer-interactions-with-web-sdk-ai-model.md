@@ -26,7 +26,7 @@ Kontrollera följande innan du börjar:
 
 - En fungerande Adobe Launch-egenskap med tillägget Adobe Experience Platform Web SDK installerat.
 
-- En [datastream](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) har konfigurerats och mappats till din AEP-sandlåda.
+- En [datastream](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) har konfigurerats och mappats till din AEP-sandlåda.
 
 - En webbplats där Launch distribueras.
 
@@ -35,7 +35,7 @@ Kontrollera följande innan du börjar:
 
 Om du vill samla in upplevelsehändelser måste du först skapa en datauppsättning där dessa händelser skickas.
 
-Följ stegen som nämns i den här [artikeln för att skapa det schema och den datauppsättning som krävs](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
+Följ stegen som nämns i den här [artikeln för att skapa det schema och den datauppsättning som krävs](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
 
 ## Skapa ett datastream i AEP
 
