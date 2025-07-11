@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar och skickar varumärkesanpassade, interaktiva RCS-meddelanden i Adobe Journey Optimizer med en anpassad SMS-leverantör. Den här självstudiekursen går igenom hur du ställer in API-inloggningsuppgifter, webhooks och kanalkonfigurationer och sedan skapar en resa för att leverera innehållsrika, personaliserade meddelandeupplevelser - allt inifrån den inbyggda meddelandeappen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464759/?learn=on&enablevpops&captions=swe)
 
 Mer information om hur du konfigurerar RCS finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration).
