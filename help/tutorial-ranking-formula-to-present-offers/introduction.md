@@ -23,7 +23,7 @@ Det här användningsexemplet visar hur ni kan leverera personaliserade ekonomis
 
 Den här självstudiekursen bygger på viktiga koncept för Adobe Journey Optimizer och Adobe Experience Platform. Innan du fortsätter bör du kontrollera att följande krav är uppfyllda:
 
-* [Självstudiekursen för identitetskorrigering](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction) har slutförts, med CRM-ID:n som kopplats till ECID:n i Adobe Experience Platform.
+* [Självstudiekursen för identitetskorrigering](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction) har slutförts, med CRM-ID:n som kopplats till ECID:n i Adobe Experience Platform.
 
 * Bekanta dig med att skapa erbjudandeartiklar i AJO, inklusive innehållsdefinition, metadatainställningar och regler för behörighet.
 
