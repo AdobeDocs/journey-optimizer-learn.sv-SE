@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Upptäck hur utvecklare kan effektivisera samarbetet med marknadsföringsteam genom att aktivera redigerbara fält i kodbaserade upplevelsekanaler. Lär dig definiera redigerbara JSON- och HTML-fält i innehållsmallar, så att marknadsförarna kan uppdatera kampanjelement som titlar och beskrivningar utan att behöva röra kod. Se hur inbäddade beslutsregler förbättrar personaliseringen direkt i mallar - ökar effektiviteten, minskar antalet fel och snabbar upp kampanjleveransen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463995/?learn=on&enablevpops&captions=swe)
 
 Mer information finns i den detaljerade [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
