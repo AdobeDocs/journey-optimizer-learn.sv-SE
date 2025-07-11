@@ -23,4 +23,4 @@ Lär dig hur du konfigurerar och skickar varumärkesanpassade, interaktiva RCS-m
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
 
-Mer information om hur du konfigurerar RCS finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration).
+Mer information om hur du konfigurerar RCS finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration).
