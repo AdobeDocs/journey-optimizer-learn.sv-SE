@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Funktionen för flerspråkiga meddelanden gör att du kan skapa innehåll på flera språk i en enda kampanj eller resa. Lär dig skapa flerspråkiga meddelanden i Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452117/?learn=on&captions=swe)
