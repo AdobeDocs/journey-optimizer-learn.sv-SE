@@ -27,7 +27,7 @@ Skapa ett XDM-schema
 - Logga in på Adobe Experience Platform
 - Navigera till _&#x200B;**Datahantering -> Scheman -> Skapa schema**&#x200B;_
 
-- Skapa ett XDM-händelsebaserat schema med namnet **_Väderschema_**. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+- Skapa ett XDM-händelsebaserat schema med namnet **_Väderschema_**. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 - Kontrollera att schemat har följande fält med lämplig datatyp.
