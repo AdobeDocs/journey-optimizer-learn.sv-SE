@@ -8,14 +8,45 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: a9fc14da78e1c67b01aef5dcdd417ce02d36d50a
+exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
+source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
 
 # Testa lösningen
+
+Om du vill testa lösningen från början till slut måste filerna [west-offers.html](assets/weather-offers.html) och [western-offers-script.js](assets/weather-related-offers-script.js) finnas på en webbserver eller en offentlig värdtjänst som Github Pages. Detta är nödvändigt eftersom:
+- Webbläsarens geolocation-API fungerar bara över HTTPS eller localhost
+
+För att hålla ordning på saker och se till att relativa sökvägar fungerar som de ska rekommenderar vi följande mappstruktur som värd för lösningen:
+
+![mappstruktur](assets/folder-structure.png)
+
+## Ladda ned de medföljande filerna
+
+[HTML-fil](assets/weather-offers.html)
+
+[JavaScript-fil](assets/weather-related-offers-script.js)
+
+
+## Uppdatera yt-URL:en i javascript-filen
+
+Öppna `weather-related-offers-script.js` och uppdatera ` "web://yourdomain.com/weather/weather-offers.html#offerContainer"`bt-ersättaren `yourdomain.com` med den domän där HTML-filen finns.
+
+## Uppdatera egenskapen Adobe Experience Platform Tags
+
+Öppna filen west-offers.html i textredigeraren och ersätt script-taggen med script-taggen för den Adobe Experience Platform Tag-egenskap som skapades i det tidigare steget i den här självstudien. Spara filen
+
+```
+<script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
+```
+
+
+
+## Vad webbsidan gör
 
 En webbsida är byggd för att testa kontextuell personalisering av erbjudanden med hjälp av temperaturdata i realtid. När en användare besöker sidan uppmanas han/hon att ange platsåtkomst. Vid godkännande hämtar sidan aktuella väderdetaljer, som temperatur, tillstånd och ort, via API:t OpenWeatherMap. Sammanhangsberoende data visas för användaren och skickas till Adobe Experience Platform med Adobe Web SDK (Alloy).
 
@@ -73,12 +104,4 @@ JavaScript hämtar dynamiskt väderinformation utifrån användarens plats och a
    Avkodar HTML-innehåll.
 
    Lägg in erbjudandena i <div id="offerContainer"> -element.
-
-7. **Exempel på Assets**
-
-   Den webbsida som används för att testa lösningen är tillgänglig för hämtning
-
-[Webbsida](assets/weather-offers.html)
-
-[JavaScript code](assets/weather-related-offers-script.js)
 

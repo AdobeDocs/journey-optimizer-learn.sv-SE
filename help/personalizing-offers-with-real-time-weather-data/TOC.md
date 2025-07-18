@@ -8,18 +8,18 @@ role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 0f49176c9295cf20721320386f37094a7bb3b38d
+source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 
-# Självstudiekurs om identitetssammanfogning i AEP{#personalizing-offers-with-real-time-weather-data}
+# Självstudiekurs om att personalisera erbjudanden med väderdata i realtid med Web SDK {#personalizing-offers-with-real-time-weather-data}
 
 + [Introduktion](./introduction.md)
-+ [Skapa schema,datauppsättning](./create-schema-and-dataset.md)
++ [Skapa schema och datauppsättning](./create-schema-and-dataset.md)
 + [Skapa AEP-tagg](./create-aep-tags.md)
 + [Skapa taggkategori](./create-tag-category.md)
 + [Skapa erbjudanden](./create-offers.md)
