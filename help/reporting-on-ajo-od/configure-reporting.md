@@ -21,6 +21,6 @@ För att börja rapportera inställningar för Adobe Journey Optimizer Offer Dec
 
 - Logga in på Journey Optimizer
 
-- Navigera till _**Administration ->Konfigurationer ->Rapportering ->Hantera ->Lägg till datauppsättning**_
-- Välj _**Weather-schema-dataset**_ som lagrar erbjudandeintrycket och klickar på händelser som genererats i den tidigare självstudiekursen.
+- Navigera till _&#x200B;**Administration ->Konfigurationer ->Rapportering ->Hantera ->Lägg till datauppsättning**&#x200B;_
+- Välj _&#x200B;**Weather-schema-dataset**&#x200B;_ som lagrar erbjudandeintrycket och klickar på händelser som genererats i den tidigare självstudiekursen.
 

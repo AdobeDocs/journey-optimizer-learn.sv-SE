@@ -25,7 +25,7 @@ Om du vill använda Adobe Experience Platform Web SDK (Alloy.js) på en webbsida
 Skapa ett XDM-schema
 
 - Logga in på Adobe Experience Platform
-- Navigera till _**Datahantering -> Scheman -> Skapa schema**_
+- Navigera till _&#x200B;**Datahantering -> Scheman -> Skapa schema**&#x200B;_
 
 - Skapa ett XDM-händelsebaserat schema med namnet **_Väderschema_**. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
@@ -34,21 +34,21 @@ Skapa ett XDM-schema
 
 - ![väderschema](assets/weather-schema.png)
 
-- Lägg till fältgruppen _**Webbinformation**_ i schemat. Den här fältgruppen krävs för rapportering.
+- Lägg till fältgruppen _&#x200B;**Webbinformation**&#x200B;_ i schemat. Den här fältgruppen krävs för rapportering.
 
 ## Skapa en datauppsättning baserad på schemat
 
 En **datauppsättning i Adobe Experience Platform (AEP)** är en strukturerad lagringsbehållare som används för att importera, lagra och aktivera data baserat på ett definierat XDM-schema.
 
-- Navigera till _**Datahantering -> Datauppsättningar -> Skapa datauppsättning**_
-- Skapa en datauppsättning med namnet **_Weather-schema-dataset_** baserat på XDM-schemat(_**Weather-Schema**_) som skapades i föregående steg.
+- Navigera till _&#x200B;**Datahantering -> Datauppsättningar -> Skapa datauppsättning**&#x200B;_
+- Skapa en datauppsättning med namnet **_Weather-schema-dataset_** baserat på XDM-schemat(_&#x200B;**Weather-Schema**&#x200B;_) som skapades i föregående steg.
 
 
 ## Skapa ett datastream
 
 En datastam i Adobe Experience Platform är som en säker pipeline (eller huvudväg) som kopplar din webbplats eller app till Adobes tjänster, så att data kan flöda in och personaliserat innehåll flöda tillbaka.
 
-- Navigera till _**Datasamling > Datastreams**_ och klicka sedan på Ny datastream. Namnge datastream **väderrelaterad-datastream**
+- Navigera till _&#x200B;**Datasamling > Datastreams**&#x200B;_ och klicka sedan på Ny datastream. Namnge datastream **väderrelaterad-datastream**
 
 
 - Ange följande information som visas på skärmbilden nedan

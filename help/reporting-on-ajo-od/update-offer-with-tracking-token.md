@@ -18,13 +18,13 @@ ht-degree: 0%
 
 Gör så här för att ändra koden i personaliseringsredigeraren:
 
-Navigera till _**Resehantering ->Kampanjer**_
+Navigera till _&#x200B;**Resehantering ->Kampanjer**&#x200B;_
 
-Öppna lämplig kampanj och klicka på knappen _**Stoppa kampanj**_ för att stoppa kampanjen.
+Öppna lämplig kampanj och klicka på knappen _&#x200B;**Stoppa kampanj**&#x200B;_ för att stoppa kampanjen.
 
-Öppna den stoppade kampanjen och klicka på knappen _**Ändra kampanj**_ .
+Öppna den stoppade kampanjen och klicka på knappen _&#x200B;**Ändra kampanj**&#x200B;_ .
 
-Klicka på fliken _**Innehåll**_ och sedan på knappen _**Redigera kod**_ för att öppna redigeraren för anpassning.
+Klicka på fliken _&#x200B;**Innehåll**&#x200B;_ och sedan på knappen _&#x200B;**Redigera kod**&#x200B;_ för att öppna redigeraren för anpassning.
 
 Lägg till två nya dataattribut till diven som på skärmbilden
 ![tracking-token](assets/offer-item-with-tracking-code.png)

@@ -23,9 +23,9 @@ Adobe Experience Platform Tags (tidigare Adobe Launch) hjälper er att hantera o
 I den här [videon beskrivs processen att skapa Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 - Logga in i datainsamling
-- Klicka på _**Taggar -> Ny egenskap**_
+- Klicka på _&#x200B;**Taggar -> Ny egenskap**&#x200B;_
 
-- Skapa en Adobe Experience Platform-tagg med namnet _**anpassning vid väder**_.
+- Skapa en Adobe Experience Platform-tagg med namnet _&#x200B;**anpassning vid väder**&#x200B;_.
 
 - Lägg till följande tillägg i taggen
   ![tags-extensions](assets/tags-extensions1.png)

@@ -42,7 +42,7 @@ Om du vill testa lösningen från början till slut måste filerna [west-offers.
 
 - Öppna webbsidan i webbläsaren.
 
-- Tillåt _**platsspårning**_. Detta krävs för att få väderinformation baserat på din plats.
+- Tillåt _&#x200B;**platsspårning**&#x200B;_. Detta krävs för att få väderinformation baserat på din plats.
 
 - Klicka på knappen i erbjudandena för att utlösa en interaktionshändelse.
 
