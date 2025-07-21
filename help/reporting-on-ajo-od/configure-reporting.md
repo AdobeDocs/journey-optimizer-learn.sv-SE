@@ -8,7 +8,8 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: 5bff884b-17e2-4b86-affb-ea9cf3cc2a60
+source-git-commit: c2478bc3bde4c7770110a5672a0ffc425a117e62
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -19,8 +20,7 @@ ht-degree: 0%
 
 För att börja rapportera inställningar för Adobe Journey Optimizer Offer Decisioning
 
-- Logga in på Journey Optimizer
+- Logga in på _**Journey Optimizer**_
 
-- Navigera till _&#x200B;**Administration ->Konfigurationer ->Rapportering ->Hantera ->Lägg till datauppsättning**&#x200B;_
-- Välj _&#x200B;**Weather-schema-dataset**&#x200B;_ som lagrar erbjudandeintrycket och klickar på händelser som genererats i den tidigare självstudiekursen.
-
+- Navigera till _**Administration ->Konfigurationer ->Rapportering ->Hantera ->Lägg till datauppsättning**_
+- Välj _**Weather-schema-dataset**_ som lagrar erbjudandeintrycket och klickar på händelser som genererats i den tidigare självstudiekursen.
