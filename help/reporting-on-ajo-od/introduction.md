@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
+source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -24,22 +25,16 @@ Målet är att tillhandahålla tydliga, datadrivna insikter om hur väl personal
 
 
 
-
 ![Reporting-dashboard](assets/dashboard-reporting.png)
-
 
 
 ## Krav för den här självstudien
 
-Innan du börjar slutför du självstudiekursen [Anpassa erbjudanden med väderdata i realtid.](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alla grundläggande komponenter skapas, inklusive:
+Innan du börjar slutför du självstudiekursen [Anpassa erbjudanden med väderdata i realtid.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alla grundläggande komponenter skapas, inklusive:
 
 - Integrering med SDK
-
 - Erbjudandet gäller i Adobe Journey Optimizer (AJO)
-
 - Beslut med kontextuella attribut som väder och temperatur
-
 - Erbjudandeåtergivning i realtid på en webbsida
 
 Den här självstudiekursen bygger direkt på den implementeringen och fokuserar specifikt på att få offertvisningar och interaktioner för rapportering och analys i Journey Optimizer.
-
