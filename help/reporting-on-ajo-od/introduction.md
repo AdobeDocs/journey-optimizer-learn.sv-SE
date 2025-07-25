@@ -30,7 +30,7 @@ Målet är att tillhandahålla tydliga, datadrivna insikter om hur väl personal
 
 ## Krav för den här självstudien
 
-Innan du börjar slutför du självstudiekursen [Anpassa erbjudanden med väderdata i realtid.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alla grundläggande komponenter skapas, inklusive:
+Innan du börjar slutför du självstudiekursen [Anpassa erbjudanden med väderdata i realtid.](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alla grundläggande komponenter skapas, inklusive:
 
 - Integrering med SDK
 - Erbjudandet gäller i Adobe Journey Optimizer (AJO)
