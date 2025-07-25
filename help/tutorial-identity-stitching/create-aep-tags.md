@@ -9,18 +9,18 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '235'
 ht-degree: 5%
 
 ---
 
 # Skicka CRMID till Adobe Experience Platform
 
-Adobe Launch (taggar) används för att skicka CRMID till Adobe Experience Platform (AEP) eftersom det är en flexibel, händelsestyrd mekanism för överföring av identitetsdata direkt från webbläsaren. Genom att skicka CRMID efter användarinloggning kan AEP länka det anonyma ECID:t till den kända CRM-profilen, vilket möjliggör korrekt identitetssammanfogning. Denna länk utgör grunden för att skapa enhetliga kundprofiler, kvalificerade målgrupper och leverera personaliserade upplevelser i realtid i Adobe Journey Optimizer (AJO).
+Adobe Experience Platform Tags används för att skicka CRMID till Adobe Experience Platform (AEP) eftersom det är en flexibel, händelsestyrd mekanism för överföring av identitetsdata direkt från webbläsaren. Genom att skicka CRMID efter användarinloggning kan AEP länka det anonyma ECID:t till den kända CRM-profilen, vilket möjliggör korrekt identitetssammanfogning. Denna länk utgör grunden för att skapa enhetliga kundprofiler, kvalificerade målgrupper och leverera personaliserade upplevelser i realtid i Adobe Journey Optimizer (AJO).
 
-En AEP Tags-egenskap med namnet FinWise skapas. Följande tillägg har lagts till i taggegenskapen
+En Experience Platform Tags-egenskap med namnet _**FinWise**_ skapas. Följande tillägg har lagts till i taggegenskapen
 
 ![tags-extensions](assets/tags-extensions.png)
 

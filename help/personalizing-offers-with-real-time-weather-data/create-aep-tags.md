@@ -9,23 +9,23 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 29a20fe11dc6516f6fa15f7d7bf8948dd418aecd
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
-# Skapa AEP-taggar
+# Skapa Adobe Experience Platform-taggar
 
 Adobe Experience Platform Tags (tidigare Adobe Launch) hjälper er att hantera och driftsätta* marknadsförings- och analystekniker på er webbplats utan att behöva ändra webbplatsens kod.
 
-I den här [videon beskrivs processen att skapa Adobe Experience Tags](https://experienceleague.adobe.com/sv/playlists/experience-platform-get-started-with-tags)
+I den här [videon beskrivs processen att skapa Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 - Logga in i datainsamling
-- Klicka på _&#x200B;**Taggar -> Ny egenskap**&#x200B;_
+- Klicka på _**Taggar -> Ny egenskap**_
 
-- Skapa en Adobe Experience Platform-tagg med namnet _&#x200B;**anpassning vid väder**&#x200B;_.
+- Skapa en Adobe Experience Platform-tagg med namnet _**anpassning vid väder**_.
 
 - Lägg till följande tillägg i taggen
   ![tags-extensions](assets/tags-extensions1.png)

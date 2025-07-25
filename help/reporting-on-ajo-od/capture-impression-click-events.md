@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
-source-git-commit: ab60877bd5cb9eeeea45b1e1f08293d31929fc81
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 Följande komponenter måste vara konfigurerade för att det ska gå att rapportera visningar och klickningar från AJO:
 >[!NOTE]
 >
-> Dessa krav har redan slutförts i avsnittet Skapa schema och datauppsättning i den [tidigare självstudiekursen](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Dessa krav har redan slutförts i avsnittet Skapa schema och datauppsättning i den [tidigare självstudiekursen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Datauppsättning i Adobe Experience Platform (AEP)
 
@@ -72,6 +72,10 @@ Ett intryck inträffar när ett erbjudande återges på sidan och blir synligt f
                 decisioning: {
                   propositionEventType: {
                     display: 1
+                  },
+                    propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
                   },
                   
                    propositions: window.latestPropositions

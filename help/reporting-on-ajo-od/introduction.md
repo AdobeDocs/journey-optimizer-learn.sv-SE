@@ -1,5 +1,5 @@
 ---
-title: Spåra och rapportera erbjudanden om Adobe Journey Optimizer (AJO) via AJO Offer Decisioning
+title: Spåra och rapportera Adobe Journey Optimizer (AJO)-erbjudanden via AJO Decisioning
 description: Den här självstudiekursen utökar en befintlig Adobe Journey Optimizer-implementering (AJO) som levererar personaliserade erbjudanden baserat på kontextuella data som temperatur. Här beskrivs hur man fångar in intrycks- och interaktionshändelser och förbereder data för rapportering inom Journey Optimizer.
 feature: Decisioning
 role: User
@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
-# Spåra och rapportera erbjudanden om Adobe Journey Optimizer (AJO) via AJO Offer Decisioning
+# Spåra och rapportera Adobe Journey Optimizer (AJO)-erbjudanden via AJO Decisioning
 
 Det här användningsexemplet fokuserar på att aktivera rapportering och resultatanalys för erbjudanden som levereras via Adobe Journey Optimizer (AJO). När erbjudanden personaliseras och levereras baserat på kontextuella signaler (som väder eller plats) är det viktigt att spåra både visningar och användarinteraktioner för att utvärdera deras effektivitet.
 
@@ -30,7 +30,7 @@ Målet är att tillhandahålla tydliga, datadrivna insikter om hur väl personal
 
 ## Krav för den här självstudien
 
-Innan du börjar slutför du självstudiekursen [Anpassa erbjudanden med väderdata i realtid.](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alla grundläggande komponenter skapas, inklusive:
+Innan du börjar slutför du självstudiekursen [Anpassa erbjudanden med väderdata i realtid.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Alla grundläggande komponenter skapas, inklusive:
 
 - Integrering med SDK
 - Erbjudandet gäller i Adobe Journey Optimizer (AJO)
