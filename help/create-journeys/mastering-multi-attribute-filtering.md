@@ -20,4 +20,4 @@ ht-degree: 0%
 
 När du arbetar med uppslagsscheman kan du ofta behöva filtrera en objektlista baserat på mer än ett attribut. I den här videon förklaras hur du utför filtrering av flera attribut i uppslagsscheman med hjälp av kapslade filter()-funktioner. Detta är särskilt användbart när du behöver begränsa en lista med objekt baserat på mer än ett villkor, till exempel filtrera produkter i en kundvagn utifrån både ID och färg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469312/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469322/?learn=on&enablevpops&captions=swe)
