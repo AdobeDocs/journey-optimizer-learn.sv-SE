@@ -41,7 +41,7 @@ I stället för att skapa ett nytt schema uppdateras det befintliga Experience E
 
 I Adobe Experience Platform:
 
-- Öppna det befintliga _**Weather-Schema**_ Experience Event-schemat som du använder för väderbaserade erbjudanden.
+- Öppna det befintliga _&#x200B;**Weather-Schema**&#x200B;_ Experience Event-schemat som du använder för väderbaserade erbjudanden.
 
 - Lägg till fältgruppen:
 Experience Event - Proposition Interactions
