@@ -28,4 +28,4 @@ Det här lär du dig:
 
 Idealiskt för marknadsförare som vill automatisera personaliserat kundengagemang via WhatsApp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470286/?learn=on&enablevpops&captions=swe)
