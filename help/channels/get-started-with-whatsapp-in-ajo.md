@@ -30,4 +30,4 @@ I den här självstudiekursen får du lära dig att:
 
 Perfekt för marknadsförare som vill utöka sin räckvidd och sitt engagemang genom en av världens populäraste meddelandeplattformar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470248/?learn=on&enablevpops&captions=swe)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Läs om hur varumärken kan använda Beslutshantering för att definiera och hantera sina erbjudanden, tillämpa kunddata i realtid och leverera de rätta upplevelser som kunderna förväntar sig.
 
->[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3470050?quality=12&learn=on&captions=swe){transcript=true}
