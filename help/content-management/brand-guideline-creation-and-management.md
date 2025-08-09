@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Lär dig hur du skapar och anpassar egna varumärken för att tydligt definiera din visuella och verbala identitet i olika kommunikationer. Förstå hur ni kan få feedback i realtid om hur ert innehåll speglar ert varumärkes ton, stil och riktlinjer med varumärkesjusteringspoängen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470550/?learn=on&enablevpops&captions=swe)
 
 Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
