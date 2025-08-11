@@ -24,4 +24,4 @@ Lär dig hur ni utnyttjar meddelandeoptimering i praktiken eller API-utlösta ka
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
 
-Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
