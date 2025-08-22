@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du effektivt använder funktionen Adobe Journey Optimizer Live Report för att övervaka och analysera hur dina resor och meddelanden fungerar i realtid. Lär dig hur du anpassar kontrollpaneler, exporterar rapporter och tolkar resespecifika mätvärden för att optimera era era marknadsföringsstrategier.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470709/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470839/?learn=on&enablevpops&captions=swe)
