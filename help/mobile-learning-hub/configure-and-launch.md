@@ -215,7 +215,7 @@ Lär dig hur du konfigurerar **SMS/MMS/RCS-kanaler** med standardleverantörer (
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-# blogginlägg
+&#x200B;# blogginlägg
 
 * [Använder CDN-baserad klientsidans personalisering (ODD) på mobilen för snabbare personalisering.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
 * [Mobile Activation för Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
