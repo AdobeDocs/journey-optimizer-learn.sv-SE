@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Upptäck hur Adobe Experience Manager (AEM) kan integreras smidigt med Adobe Journey Optimizer för att effektivisera innehållshanteringen och säkerställa varumärkets enhetlighet över alla kanaler. Lär dig att skapa, godkänna och återge innehållsfragment och enkelt byta ut och simulera nytt innehåll. Perfekt för dem som vill ha effektiv innehållshantering och enhetlig varumärkeshantering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463126/?learn=on&enablevpops&captions=swe)
 
 Experience League LIVE - [Skapa personaliserat innehåll i Journey Optimizer med AEM Content Fragments och Dynamic Media](https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 

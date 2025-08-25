@@ -89,7 +89,7 @@ Lär dig hur kanalen konfigurerar dina **mobilkanaler** med hjälp av funktionen
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Konfigurera WhatsApp-kanalen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1755888511569" alt="Konfigurera WhatsApp-kanalen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470272/?format=jpeg&nocache=1755888511569&captions=swe" alt="Konfigurera WhatsApp-kanalen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,7 +172,7 @@ Lär dig hur du konfigurerar **SMS/MMS/RCS-kanaler** med standardleverantörer (
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Konfigurera MMS API-autentiseringsuppgifter och kanalytor" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1755888512061" alt="Konfigurera MMS API-autentiseringsuppgifter och kanalytor"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438050/?format=jpeg&nocache=1755888512061&captions=swe" alt="Konfigurera MMS API-autentiseringsuppgifter och kanalytor"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -195,7 +195,7 @@ Lär dig hur du konfigurerar **SMS/MMS/RCS-kanaler** med standardleverantörer (
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Konfigurera RCS i Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755888512073" alt="Konfigurera RCS i Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464759/?format=jpeg&nocache=1755888512073&captions=swe" alt="Konfigurera RCS i Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
