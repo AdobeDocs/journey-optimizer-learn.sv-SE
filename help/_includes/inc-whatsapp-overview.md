@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0ce6d5013bbcf55e49ae920670919f6929a142ec
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 3%
@@ -32,7 +32,7 @@ Välj WhatsApp som den kanal du föredrar när du behöver:
 | 4 | Bevara regelefterlevnad och förtroende | Meddelanden levereras via ett officiellt API med strikta krav på deltagande | <ul><li>Prenumerationsbekräftelser</li><li>Regleringsmeddelanden</li></ul> |
 | 5 | Integrera med andra kanaler | Kombinera med e-post, push eller SMS för smidiga flerkanalsresor | <ul><li>Återanvändning i flera kanaler</li><li>Uppföljning av övergivna varukorgar</li></ul> |
 
-## Använd inte WhatsApp
+## När *inte* ska använda WhatsApp
 
 * Om publiken inte aktivt använder WhatsApp.
 * När användare inte uttryckligen har valt att ta emot WhatsApp-meddelanden.

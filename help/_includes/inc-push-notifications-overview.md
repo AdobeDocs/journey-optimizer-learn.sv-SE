@@ -1,5 +1,5 @@
 ---
-source-git-commit: b4262722d7ebffb936a95425baab219bb40775fa
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 2%
@@ -33,7 +33,7 @@ Välj push-meddelanden som den önskade meddelandekanalen när du behöver:
 | 5 | Utnyttja inbyggda enhetsfunktioner | Push-meddelanden kan integreras med iOS/Android OS-funktioner som vibrationer, ljud, emblem och utlösare för geofencing. | <ul><li> Platsbaserade erbjudanden nära en butik</li><li> Påminnelser utlöses vid specifika tidpunkter.</li></ul> |
 | 6 | När deltagande är sannolikt | Push fungerar bara för användare som uttryckligen har valt att göra det. Om appen har ett högt värde eller om varumärket redan har förtroende kan avanmälningsfrekvensen vara hög. | <ul><li> Appar med lojala användarbaser</li><li> Onboarding-flöden som förklarar värdet av meddelanden.</li></ul> |
 
-## När push inte ska användas som primär kanal
+## När *inte* ska använda push som primär kanal
 
 * Låg anmälningsfrekvens eller motvilja från användaren mot meddelanden.
 * Behovet av innehåll med lång form (e-post kan vara bättre).
