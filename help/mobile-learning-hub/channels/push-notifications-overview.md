@@ -7,13 +7,13 @@ level: Beginner
 hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+exl-id: aab6af06-86bd-4d30-847f-fbf60b6bab34
+source-git-commit: b7d014b3ac6373b957eb5fce11661ec39689446b
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
 
 ---
-
 
 # Push-meddelanden - översikt
 

@@ -7,13 +7,13 @@ level: Beginner, Intermediate
 hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+exl-id: c61ece71-58cd-448e-a421-50ba89134713
+source-git-commit: b7d014b3ac6373b957eb5fce11661ec39689446b
 workflow-type: tm+mt
 source-wordcount: '12'
 ht-degree: 33%
 
 ---
-
 
 # Användningsfall
 

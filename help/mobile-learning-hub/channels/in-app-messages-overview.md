@@ -7,13 +7,13 @@ level: Beginner
 hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+exl-id: 679fd26a-f6e9-4130-973f-8c0e1353c813
+source-git-commit: b7d014b3ac6373b957eb5fce11661ec39689446b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
-
 
 # Meddelanden i appen - översikt
 

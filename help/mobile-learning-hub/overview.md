@@ -6,13 +6,13 @@ role: User, Admin, Developer
 hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
+source-git-commit: b70b2cca5d95d931c8bbd52a69e96ccc31faa92c
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 0%
 
 ---
-
 
 # Journey Optimizer - Mobile Learning Hub
 
@@ -35,7 +35,7 @@ Utgående kanaler används för att **aktivt leverera meddelanden** till kunder 
 
 > Utgående kanaler tillämpar **principer för anpassat samtycke** vid meddelandets sändningstid. Om samtycke inte beviljas för en viss marknadsföringsåtgärd blockeras meddelandet från leverans.
 
-## Inkommande kanaler
+### Inkommande kanaler
 
 Inkommande kanaler är utformade för **kundinitierade interaktioner**, vilket möjliggör personaliserade upplevelser när användarna interagerar med ert varumärke.
 
@@ -45,7 +45,7 @@ Inkommande kanaler är utformade för **kundinitierade interaktioner**, vilket m
 
 > Inkommande kanaler har stöd för **realtidspersonalisering** och **datainhämtning**, till exempel landningssidformulär som matas in i Adobe Experience Platform (AEP) för segmentering och målinriktning.
 
-## Hur fungerar mobilkanaler tillsammans?
+### Hur fungerar mobilkanaler tillsammans?
 
 Genom att kombinera dessa kanaler kan ni skapa en smidig och effektiv kundupplevelse:
 
@@ -99,5 +99,3 @@ Lär dig begreppen och hur du
 | **Kampanjer för merförsäljning och korsförsäljning** | Flyttar ut ytterligare produkter eller uppgraderingar till befintliga kunder baserat på deras beteenden, önskemål eller inköpshistorik. | - Push-meddelanden framhäver relevanta merförsäljningsmöjligheter.<br> - Meddelanden i appen och innehållskort visar kompletterande objekt.<br>- SMS-kampanjer riktar in sig på segmenterade målgrupper med exklusiva erbjudanden. |
 | **Kurnförebyggande** | Identifierar användare som riskerar att lämna företaget och engagerar dem med personaliserade strategier för lojalitet. | - Prediktiv analys utlöser mobilt arbete för riskanvändare.<br> - Push-meddelanden och SMS erbjuder lojalitetsbelöningar eller personaliserat innehåll.<br> - I undersökningar i appen samlas feedback in för att förbättra strategier för kundlojalitet. |
 | **Flerkanalsmeddelanden** | Samordna enhetliga meddelanden över flera mobila kanaler för att säkerställa att användarna får aktuell och relevant kommunikation. | - Push, in-app, SMS och e-post koordineras för enhetliga meddelanden.<br> - SDK:er möjliggör personalisering i realtid i alla kanaler.<br> - Innehållskort finns kvar mellan sessioner för att förstärka viktiga meddelanden. |
-
-
