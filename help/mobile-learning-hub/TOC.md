@@ -3,12 +3,12 @@ user-guide-title: Mobile Learning Hub
 user-guide-description: null
 role: User, Admin, Devloper
 level: Beginner,Intermediate
-breadcrumb-title: mobile-learning-nav
+breadcrumb-title: AJO Mobile Learning Hub
 breadcrumb-url: /docs/journey-optimizer-learn/mobile-learning-hub/overview
 auto-video-transcripts: true
-source-git-commit: f1448a4201189689b877ffe89a824b73be07150e
+source-git-commit: 1c44d2997df09292a21e4b6a0cbff8901d4f1a08
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '40'
 ht-degree: 10%
 
 ---
