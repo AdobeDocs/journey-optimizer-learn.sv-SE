@@ -26,6 +26,6 @@ Lär dig integrera Adobe Experience Manager Dynamic Media med Adobe Journey Opti
 
 I den här självstudiekursen beskrivs hur du ändrar bilder direkt i AJO, lägger till textöverlägg i HTML-läge, skapar dynamiska mediamallar i AEM för personalisering och anpassar kampanjer genom att anpassa innehåll för olika målgruppssegment. Tack vare den här integreringen kan marknadsförarna effektivt skapa engagerande och personaliserade kampanjer utan att behöva växla mellan olika program.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463786/?learn=on&enablevpops&captions=swe)
 
 Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
