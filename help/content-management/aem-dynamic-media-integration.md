@@ -28,4 +28,4 @@ I den här självstudiekursen beskrivs hur du ändrar bilder direkt i AJO, lägg
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
 
-Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
