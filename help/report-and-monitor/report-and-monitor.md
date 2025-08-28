@@ -60,7 +60,7 @@ Oavsett om ni är nybörjare eller erfaren marknadsförare ger dessa verktyg tyd
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="Övervaka och analysera din resa med live-rapporter" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1756406406388" alt="Övervaka och analysera din resa med live-rapporter"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470839/?format=jpeg&nocache=1756406406388&captions=swe" alt="Övervaka och analysera din resa med live-rapporter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -83,7 +83,7 @@ Oavsett om ni är nybörjare eller erfaren marknadsförare ger dessa verktyg tyd
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Kanalnivårapporter" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1756406406387" alt="Kanalnivårapporter"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448043/?format=jpeg&nocache=1756406406387&captions=swe" alt="Kanalnivårapporter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -106,7 +106,7 @@ Oavsett om ni är nybörjare eller erfaren marknadsförare ger dessa verktyg tyd
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="Exportera rapporter i CSV-format" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1756406406384" alt="Exportera rapporter i CSV-format"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439612/?format=jpeg&nocache=1756406406384&captions=swe" alt="Exportera rapporter i CSV-format"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -152,7 +152,7 @@ Oavsett om ni är nybörjare eller erfaren marknadsförare ger dessa verktyg tyd
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Förbättrad rapportering med Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1756406406386" alt="Förbättrad rapportering med Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443155/?format=jpeg&nocache=1756406406386&captions=swe" alt="Förbättrad rapportering med Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
