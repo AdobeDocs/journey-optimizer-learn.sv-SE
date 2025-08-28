@@ -35,7 +35,7 @@ Utforska marknadsscenarier som bygger på Adobe Journey Optimizer. De här anvä
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="Användningsfall - kundintroduktion (självstudiekurs)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1756417587791" alt="Användningsfall - kundintroduktion (självstudiekurs)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440654/?format=jpeg&nocache=1756417587791&captions=swe" alt="Användningsfall - kundintroduktion (självstudiekurs)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +58,7 @@ Utforska marknadsscenarier som bygger på Adobe Journey Optimizer. De här anvä
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="Use Case Playbook - Abandoned shopping cart" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1756417587818" alt="Use Case Playbook - Abandoned shopping cart"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443968/?format=jpeg&nocache=1756417587818&captions=swe" alt="Use Case Playbook - Abandoned shopping cart"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +81,7 @@ Utforska marknadsscenarier som bygger på Adobe Journey Optimizer. De här anvä
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="Exempel på Luma för intelligent återanvändning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1756417587792" alt="Exempel på Luma för intelligent återanvändning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454277/?format=jpeg&nocache=1756417587792&captions=swe" alt="Exempel på Luma för intelligent återanvändning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar en kampanj och utlöser den från ett externt system baserat på användarinteraktioner med hjälp av [REST API:t för interaktiv meddelandekörning](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425358/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452729/?learn=on&captions=swe)
