@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Förstå hur ni kan spåra resultatet för enskilda resor hur användarna interagerar med olika steg i en resa, inklusive in- och utförselstatistik, fel och genomförda åtgärder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471467/?learn=on&enablevpops&captions=swe)
