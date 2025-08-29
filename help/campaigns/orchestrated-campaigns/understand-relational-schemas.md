@@ -11,16 +11,16 @@ hide: true
 hidefromtoc: true
 index: false
 jira: KT-18519
-source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
+exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
+source-git-commit: 5e3cbc5d8294c02356ea135b9b3dfeac077874e5
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
 # Förstå relationsscheman i Experience Platform
 
 I den här självstudiekursen får du en god förståelse för hur relationsscheman - specifika för samordnade kampanjer i Journey Optimizer - fungerar tillsammans med kundprofiler i realtid. Lär dig grunderna bakom datainmatning, schemamodellering, segmentering och kampanjutförande, och ge er grunden för att utforma strukturerade, skalbara och personaliserade kundresor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470218/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
