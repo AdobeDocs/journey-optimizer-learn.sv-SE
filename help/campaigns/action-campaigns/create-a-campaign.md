@@ -26,4 +26,4 @@ Lär dig hur du levererar engångsinnehåll till en viss målgrupp genom att kö
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
 
-Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=sv-SE).
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=en).
