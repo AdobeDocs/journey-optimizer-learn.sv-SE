@@ -23,4 +23,4 @@ ht-degree: 0%
 
 I den här självstudiekursen får du en god förståelse för hur relationsscheman - specifika för samordnade kampanjer i Journey Optimizer - fungerar tillsammans med kundprofiler i realtid. Lär dig grunderna bakom datainmatning, schemamodellering, segmentering och kampanjutförande, och ge er grunden för att utforma strukturerade, skalbara och personaliserade kundresor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470218/?learn=on&enablevpops&captions=swe)
