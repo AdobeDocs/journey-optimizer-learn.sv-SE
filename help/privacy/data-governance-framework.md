@@ -24,7 +24,7 @@ Förstå datastyrningsramverket i Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
-Mer information om [datastyrning](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) i Journey Optimizer finns i produktdokumentationen.
+Mer information om [datastyrning](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/privacy/action-privacy-restricted) i Journey Optimizer finns i produktdokumentationen.
 
 ## Ytterligare utbildning
 
