@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Lär dig grunderna i relationsarkivet som används i Journey Optimizer kampanjhantering - schemadesign, dataöverföring, vilka källor som stöds och viktiga skillnader från profilbutiken i realtid.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470218/?learn=on&enablevpops&captions=swe)
