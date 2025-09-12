@@ -20,6 +20,6 @@ ht-degree: 0%
 
 I den här självstudiekursen introduceras funktionen Kör på resan på resan i Adobe Journey Optimizer, som gör att marknadsförarna kan testa reslogiken utan att skicka riktig kommunikation. Du får lära dig hur du aktiverar en resa i torrkörningsläge, konfigurerar alternativ som att inaktivera väntetider och externa datakällor samt tolkar profilflödesstatistik för att validera målgruppssegmentering och villkorslogik. Förstå hur man identifierar och åtgärdar problem - t.ex. stavfel i villkorsnoder - och hur man får tillgång till och exporterar torrrapporter för ytterligare analys innan resan börjar live.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464686/?learn=on&enablevpops&captions=swe)
 
 Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run).
