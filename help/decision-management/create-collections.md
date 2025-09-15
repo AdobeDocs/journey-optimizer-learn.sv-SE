@@ -20,4 +20,4 @@ Lär dig hur du skapar samlingar för beslutshantering.
 
 Samlingar används för att hantera erbjudanden i logiska grupper och krävs för att bygga upp beslutsaktiviteter. Med dynamiska samlingar kan du gruppera erbjudanden baserat på taggar, medan statiska samlingar gör att du kan strukturera erbjudandena manuellt.
 
->[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3474877?quality=12&learn=on&captions=swe){transcript=true}
