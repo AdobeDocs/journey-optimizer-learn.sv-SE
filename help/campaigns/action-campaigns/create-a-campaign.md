@@ -1,6 +1,6 @@
 ---
 title: Skapa en kampanj
-description: Lär dig hur du levererar engångsinnehåll till en viss målgrupp genom att köra åtgärder direkt eller enligt ett angivet schema.
+description: Lär dig att leverera engångsinnehåll till en viss målgrupp genom att köra åtgärder direkt eller enligt ett angivet schema.
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -22,8 +22,8 @@ ht-degree: 39%
 >
 >Den här funktionen är bara tillgänglig för användare med tillgång till en Campaign-relaterad produktprofil, till exempel Campaign-administratör, Campaign-godkännare, Campaign-hanterare och/eller Campaign-visningsprogram. Mer information om hur du tilldelar produktprofiler finns i [den här videon](/help/set-up-access/access-management.md).
 
-Lär dig hur du levererar engångsinnehåll till en viss målgrupp genom att köra åtgärder direkt eller enligt ett angivet schema.
+Lär dig att leverera engångsinnehåll till en viss målgrupp genom att köra åtgärder direkt eller enligt ett angivet schema.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
 
-Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=sv-SE).
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=en).
