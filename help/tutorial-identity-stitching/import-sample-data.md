@@ -30,7 +30,7 @@ Importera CRM-profildata till en datauppsättning som är kopplad till ett profi
 
 Skapa ett enskilt profilschema med namnet **_FinWiseProfileSchema_**. Inkludera fält, till exempel annualIncome, email, firstName, lastName och loyaltyStatus.
 Lägg till ett identitetsfält **_crmid_** som det visas. Markera det skarpa fältet som identitet och primär.
-Lägg till fältgruppen _&#x200B;**Innehåll och inställningsinformation**&#x200B;_ i schemat. [Innehåll och inställningar](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/profile/consents) är en standardfältgrupp för klassen XDM Individual Profile som samlar information om samtycke och inställningar för en enskild kund. De inställningar som lagras här avgör kommunikationsinställningarna på kanalnivå.
+Lägg till fältgruppen _&#x200B;**Innehåll och inställningsinformation**&#x200B;_ i schemat. [Innehåll och inställningar](https://experienceleague.adobe.com/sv/docs/experience-platform/xdm/field-groups/profile/consents) är en standardfältgrupp för klassen XDM Individual Profile som samlar information om samtycke och inställningar för en enskild kund. De inställningar som lagras här avgör kommunikationsinställningarna på kanalnivå.
 
 
 ![profile-schema](assets/finwise-profile-schema.png)
