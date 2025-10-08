@@ -29,14 +29,14 @@ I detta praktiska labb utforskar ni olika mobilscenarier och lär er hur ni impl
 >[!IMPORTANT]
 >
 >Var vänlig och undvik att publicera bilder eller skärmbilder från sessionen i sociala medier.
->><br>
->>**Adobe-sekretess**
->>Den information och de produktinformation som delas ut idag under labbet är Adobe Konfidentiella information.
->>Deltagare får inte återge, använda, sprida eller lämna ut konfidentiella uppgifter till någon person eller enhet.
->>Produktinformation är avsedd endast för informationsändamål, utgör inte någon garanti för framtida funktioner och kan ändras när som helst. Sådana produktfunktioner är inte på något sätt en del av ditt avtal med Adobe eller på annat sätt en del av ditt avtal.
->><br>
->>**Ansvarsfriskrivning**
->>Adobe ger dig tidig åtkomst till funktionerna, som utnyttjar den generativa AI-tekniken. Observera att dessa funktioner fortfarande är under utveckling och kan ge oväntade eller felaktiga svar. Vi välkomnar dina synpunkter när vi lanserar den här funktionen.
+>&#x200B;><br>
+>&#x200B;>**Adobe-sekretess**
+>&#x200B;>Den information och de produktinformation som delas ut idag under labbet är Adobe Konfidentiella information.
+>&#x200B;>Deltagare får inte återge, använda, sprida eller lämna ut konfidentiella uppgifter till någon person eller enhet.
+>&#x200B;>Produktinformation är avsedd endast för informationsändamål, utgör inte någon garanti för framtida funktioner och kan ändras när som helst. Sådana produktfunktioner är inte på något sätt en del av ditt avtal med Adobe eller på annat sätt en del av ditt avtal.
+>&#x200B;><br>
+>&#x200B;>**Ansvarsfriskrivning**
+>&#x200B;>Adobe ger dig tidig åtkomst till funktionerna, som utnyttjar den generativa AI-tekniken. Observera att dessa funktioner fortfarande är under utveckling och kan ge oväntade eller felaktiga svar. Vi välkomnar dina synpunkter när vi lanserar den här funktionen.
 
 
 ### Viktiga uppgifter
