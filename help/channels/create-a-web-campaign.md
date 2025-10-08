@@ -9,7 +9,7 @@ last-substantial-update: 2023-04-21T00:00:00Z
 jira: KT-10283
 thumbnail: 3418800.jpeg
 exl-id: ba093540-8a4a-43f2-9742-6144d0e8aa71
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 0%
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 # Skapa en webbkampanj
 
-{{$include /help/_ajo-main/_includes/inc-create-a-web-campaign.md}}
+{{$include /help/_includes/inc-create-a-web-campaign.md}}

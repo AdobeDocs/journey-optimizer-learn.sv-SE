@@ -1,5 +1,5 @@
 ---
-source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!INFO]
 >
-> Den här videon är en del av en [kurs Komma igång med beslutshantering för marknadsförare](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en) som är tillgänglig kostnadsfritt på Experience League!
+> Den här videon är en del av en [Course Getting started with Decision management for marketers](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en), som är kostnadsfri på Experience League!
 
 ## ExL Live In-App {#exl-live-in-app}
 
 Experience League LIVE:
 
-* [Maximera mobilappens potential med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=sv-SE)
+* [Maximera mobilappens potential med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)
 
   *Lär dig fördelarna med meddelanden i appen som en engagemangskanal i realtid och hur du konfigurerar och redigerar personaliserade mobilappsupplevelser i Adobe Journey Optimizer.*
 

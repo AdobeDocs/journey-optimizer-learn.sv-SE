@@ -1,12 +1,12 @@
 ---
-source-git-commit: 28234822f1a5f813688e39e904a93cf565c832f6
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '20'
-ht-degree: 10%
+source-wordcount: '18'
+ht-degree: 0%
 
 ---
 # Konfigurera och skicka en push-kampanj
 
 Lär dig hur du konfigurerar och skickar ett push-meddelande med en kampanj.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452705/?learn=on&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422017/?learn=on){transcript=true}
