@@ -1,0 +1,24 @@
+---
+title: Lektion 5 - Testa din resa
+description: I den här lektionen testar du din resa. Det är ett viktigt steg att testa kundresan innan publicering. Detta hjälper den behandlande läkaren att se om reselogiken är inställd på rätt sätt.
+feature: Journeys
+role: User
+level: Beginner, Intermediate
+doc-type: Technical Video
+duration: 279
+last-substantial-update: 2025-05-01T00:00:00Z
+jira: KT-17877
+index: false
+exl-id: adb08379-a76a-418d-b669-ce54175bdcd2
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 0%
+
+---
+
+# Lektion 5 - Testa din resa
+
+I den här lektionen testar du din resa. Det är ett viktigt steg att testa kundresan innan publicering. Detta hjälper den behandlande läkaren att se om reselogiken är inställd på rätt sätt.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3457930/?learn=on&enablevpops)

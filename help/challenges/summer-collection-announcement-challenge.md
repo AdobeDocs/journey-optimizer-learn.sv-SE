@@ -7,7 +7,7 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '1108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 | Utmaning | Skapa ett meddelande om en sommarsamling |
 |---|---|
 | Persona | Resechef |
-| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=sv-SE)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=sv-SE)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=sv-SE)</li> |
+| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Assets att ladda ned | [E-postfiler för säsongssamling](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
@@ -106,7 +106,7 @@ En byrå försåg dig med fyra HTML-filer med design för e-postmeddelanden:
    1. Skicka *Luma - nytt sommarsamlingsmeddelande* till segmentet *Aktiva kunder*, där 10 % av publiken hålls som en kontrollgrupp
       * Meddelanderubrik *Luma - Meddelande om sommarsamling*
       * Ärenderad *(mottagarens förnamn), den nya Luma-sommarsamlingen är här!*
-      * Använd den angivna HTML-filen `SeasonalCollectionEmail.html` för e-postbrödtexten.
+      * Använd den tillhandahållna HTML-filen `SeasonalCollectionEmail.html` för e-postbrödtexten.
    1. Vänta i två dagar och skicka sedan ett uppföljningsmejl med mer riktat innehåll:
       * Manliga kunder bör få e-postmeddelandet **Luma Men&#39;s Collection**.
          * Meddelanderubrik: *Luma Men&#39;s Collection*
@@ -174,7 +174,7 @@ Förhandsgranska e-postmeddelandet med testprofilen *Louise Petti.*
 >
 >Innan du ställer in resan i testläge:
 >
->1. Kontrollera att namnområdet **Luma CRM ID(lumaCrmId)** har angetts för [!UICONTROL Läs segmentaktiviteten]
+>1. Kontrollera att namnområdet [!UICONTROL Luma CRM ID(lumaCrmId)] har angetts för **Läs segmentaktiviteten**
 >1. För varje e-postadress åsidosätter du e-postens standardparametrar så att de skickas till din e-postadress:
 >    * Visa dolda värden genom att klicka på ögonsymbolen.
 >    * Klicka på T-symbolen (aktivera åsidosättning av parameter) i e-postparametrarna.
@@ -201,7 +201,7 @@ Testa resan och få e-postmeddelandena skickade till ditt eget konto:
 1. Öppna det andra e-postmeddelandet så avslutas resan.
 1. Du kan upprepa steg 4. - 7. för alla tre profilerna för att kontrollera om grenarna fungerar som de ska.
 1. Om du vill testa timeout-värdena ställer du in väntetiden på 30 sekunder och utlöser inmatningen igen.
-1. Öppna inte de e-postmeddelanden du får (förhandsgranska inte e-postmeddelandet (!)) och vänta lite.
+1. Öppna inte de e-postmeddelanden som du får (förhandsgranska inte e-postmeddelandet (!)) och låt väntetiden vara kvar.
 
 Du bör få följande e-postmeddelanden:
 

@@ -8,7 +8,7 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 | Utmaning | Produktpåfyllnad |
 |---|---|
 | Persona | Resechef |
-| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=sv-SE)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=sv-SE)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=sv-SE)</li> |
+| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Assets att ladda ned | [E-postfil för produktåterställning](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## Artikeln
@@ -35,7 +35,7 @@ Luma ber dig implementera en resa i Journey Optimizer som meddelar kunder som ha
 
 >[!TAB Uppgift]
 
-## 1. Definiera segmentet - Ej lagrad punktlista
+## &#x200B;1. Definiera segmentet - Ej lagrad punktlista
 
 För att rikta sig till potentiella intresserade kunder när produkterna återställs kan ni skapa en målgrupp som består av kunder:
 
@@ -49,7 +49,7 @@ För att rikta sig till potentiella intresserade kunder när produkterna återst
 Namnge det här segmentet: `Out-of-stock-Wishlist`
 
 
-### 2. Skapa resan - meddelande om produktåterställning
+### &#x200B;2. Skapa resan - meddelande om produktåterställning
 
 När en artikel som inte finns i lager är tillbaka i lager ska du meddela kunder som lagt till en artikel som inte finns i lager att börja handla nu när artikeln är tillbaka i lager.
 

@@ -8,7 +8,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: d2ac4614-df04-4e20-be88-3bde491cf75f
-source-git-commit: b7d014b3ac6373b957eb5fce11661ec39689446b
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 # Whatsapp - översikt
 
-{{$include /help/_includes/inc-whatsapp-overview.md}}
+{{$include /help/_ajo-main/_includes/inc-whatsapp-overview.md}}

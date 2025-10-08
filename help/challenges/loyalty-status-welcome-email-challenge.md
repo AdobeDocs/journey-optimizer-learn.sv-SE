@@ -7,7 +7,7 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 | Utmaning | Skapa ett välkomstmeddelande om lojalitetsstatus |
 |---|---|
 | Persona | Resechef |
-| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=sv-SE)</li> <li>[Segmentkvalificering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=sv-SE)</li><li>[Importera HTML-innehåll](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=sv-SE)</li></ul> |
+| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segmentkvalificering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html)</li><li>[Importera HTML-innehåll](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
 | Assets att ladda ned | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 {style="table-layout:auto"}
@@ -48,7 +48,7 @@ När en lojalitetskund kvalificerar sig för platinagruppen bör de få ett e-po
 
    1. Kunden bör få ett e-postmeddelande med etiketten `Luma - Platinum Status - Welcome`, med ämnesraden `Welcome to Platinum Status, {firstName}!`, och e-posttexten som tillhandahålls av det kreativa teamet. Det här är ett [!UICONTROL transaktionsmeddelande].
 
-   1. När du överför filen HTML lägger du märke till att e-postmeddelandet hänvisar till diamantstatus, i stället för till platina. I stället för att begära en ny fil från det kreativa teamet uppdaterar du e-postmeddelandet i [!UICONTROL e-postmeddelandet för Designer].
+   1. När du överför HTML-filen ser du att e-postmeddelandet hänvisar till&quot;diamantstatus&quot; i stället för&quot;platina&quot;. I stället för att begära en ny fil från det kreativa teamet uppdaterar du e-postmeddelandet i [!UICONTROL e-postmeddelandet för Designer].
 
 >[!TAB Slutförandevillkor]
 
