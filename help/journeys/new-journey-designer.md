@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Upptäck den nya omdesignade arbetsytan för resan och hur man kan utnyttja liverapporter under resor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443599/?learn=on&captions=swe){transcript=true}

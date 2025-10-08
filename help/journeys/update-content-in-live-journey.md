@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du uppdaterar innehåll i en direktresa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429844/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439609/?learn=on&captions=swe)

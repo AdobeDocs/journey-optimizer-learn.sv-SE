@@ -22,6 +22,6 @@ ht-degree: 0%
 
 I den här självstudiekursen får du lära dig hur du aktiverar och använder ytterligare en identifierare i Adobe Journey Optimizer. Du kommer att se hur man med tilläggsidentifierare kan registrera resor, iterera över objektmatriser och personalisera meddelanden med kontextuella data som produkt-ID, leveransinformation med mera.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464796/?learn=on&enablevpops&captions=swe)
 
 Mer information om ytterligare ID:n finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).

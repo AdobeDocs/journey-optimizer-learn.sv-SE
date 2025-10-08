@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Förstå tillämpliga användningsfall för målgruppskompetensresor. Lär dig hur du bygger en resa med målgruppskvalifikation och vilka metodtips som ska användas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446208?quality=12&learn=on&captions=swe){transcript=true}

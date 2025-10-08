@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar innehållsexperiment till A/B-tester och utforskar e-postinnehåll på bästa sätt för dina affärsmål.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419893/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447335/?learn=on&captions=swe){transcript=true}

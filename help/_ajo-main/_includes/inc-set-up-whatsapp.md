@@ -17,4 +17,4 @@ Vad du kommer att lära dig:
 
 Perfekt för marknadsförare och utvecklare som vill aktivera whatsApp-meddelanden på sina kundresor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470272/?learn=on&enablevpops&captions=swe)
