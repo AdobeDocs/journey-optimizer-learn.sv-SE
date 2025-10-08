@@ -7,7 +7,7 @@ ht-degree: 2%
 ---
 # Innehållskort - översikt
 
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3460087/?learn=on&enablevpops&captions=swe){transcript=true}
 
 ## Vad är det?
 

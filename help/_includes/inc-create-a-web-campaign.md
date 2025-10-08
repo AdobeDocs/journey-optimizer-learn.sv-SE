@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Förstå vad en webbkampanj är. Lär dig hur du konfigurerar egenskaperna för webbkampanjer, granskar och publicerar dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449985/?quality=12&learn=on&captions=swe){transcript=true}
