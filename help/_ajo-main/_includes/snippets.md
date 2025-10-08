@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Experience League LIVE:
 
-* [Maximera mobilappens potential med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=en)
+* [Maximera mobilappens potential med Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=sv-SE)
 
   *Lär dig fördelarna med meddelanden i appen som en engagemangskanal i realtid och hur du konfigurerar och redigerar personaliserade mobilappsupplevelser i Adobe Journey Optimizer.*
 

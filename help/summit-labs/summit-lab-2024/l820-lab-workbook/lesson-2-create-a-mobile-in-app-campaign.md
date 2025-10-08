@@ -320,7 +320,7 @@ Funktionerna **Duplicera kampanj** och **Förhandsgranska på enhet** är färdi
 
 **Produktdokumentation:**
 
-* [Kom igång med kanalen i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Skapa ett meddelande i appen för mobiler](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
-* [Designa ditt innehåll i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [Kontrollera och skicka meddelanden i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Kom igång med kanalen i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Skapa ett meddelande i appen för mobiler](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/create-in-app)
+* [Designa ditt innehåll i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/design-in-app)
+* [Kontrollera och skicka meddelanden i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/send-in-app)

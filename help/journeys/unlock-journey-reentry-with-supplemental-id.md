@@ -24,4 +24,4 @@ I den här självstudiekursen får du lära dig hur du aktiverar och använder y
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-Mer information om ytterligare ID:n finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
+Mer information om ytterligare ID:n finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
