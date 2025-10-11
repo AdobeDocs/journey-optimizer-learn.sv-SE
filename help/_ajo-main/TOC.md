@@ -218,8 +218,8 @@ ht-degree: 6%
 + AI-assistenten {#ai-assistant}
    + [AI-assistenten](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [AI-assistenten för innehållsgenerering](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - översikt](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [Experimenteringsagent - översikt](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Journey Agent - översikt](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Experimenteringsagent - översikt](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Användningsexempel och metodtips{#use-cases}
    + [Kundregistrering](/help/use-cases/customer-onboarding.md)
    + [Övergiven varukorg](/help/use-cases/abandoned-cart.md)
