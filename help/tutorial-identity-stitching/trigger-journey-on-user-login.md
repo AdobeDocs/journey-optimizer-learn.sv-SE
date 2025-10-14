@@ -21,8 +21,8 @@ I den här utökningen av självstudiekursen om identitetskorrigering utlöses e
 
 ## Skapa konfiguration av e-postkanal
 
-* Logga in på _**Journey Optimizer**_
-* Navigera till _**Administration -> Kanaler -> Skapa kanalkonfiguration**_
+* Logga in på _&#x200B;**Journey Optimizer**&#x200B;_
+* Navigera till _&#x200B;**Administration -> Kanaler -> Skapa kanalkonfiguration**&#x200B;_
 * Välj **E-post** i kanallistan. Ange ett beskrivande namn och en beskrivning.
 * Fyll i e-postinställningarna.
 * Ange körningsinformation enligt nedan. E-postadressen skickas till profilens e-postadress som lagras i fältet
@@ -31,8 +31,8 @@ I den här utökningen av självstudiekursen om identitetskorrigering utlöses e
 
 ## Skapa händelse
 
-* Logga in på _**Journey Optimizer**_
-* Navigera till _**Administration -> Konfigurationer**_
+* Logga in på _&#x200B;**Journey Optimizer**&#x200B;_
+* Navigera till _&#x200B;**Administration -> Konfigurationer**&#x200B;_
 * Klicka på knappen Hantera på händelsekortet och klicka på Skapa händelse. Ange värdena enligt nedan
 * ![progress-event](assets/journey-event1.png)
 
@@ -41,9 +41,9 @@ I den här utökningen av självstudiekursen om identitetskorrigering utlöses e
 
 ## Skapa resa
 
-* Logga in på _**Journey Optimizer**_
-* Navigera till _**Resehantering -> Resor -> Skapa resa**_
-* Dra och släpp _**UserLoggedIn**_ -händelsen på arbetsytan
+* Logga in på _&#x200B;**Journey Optimizer**&#x200B;_
+* Navigera till _&#x200B;**Resehantering -> Resor -> Skapa resa**&#x200B;_
+* Dra och släpp _&#x200B;**UserLoggedIn**&#x200B;_ -händelsen på arbetsytan
 * Dra och släpp e-post från åtgärdsmenyn. Konfigurera e-poståtgärden så att den använder e-postkanalskonfigurationen som skapades tidigare.
 * Publicera resan.
 
