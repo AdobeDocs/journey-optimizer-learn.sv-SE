@@ -67,4 +67,4 @@ Svaret från AJO innehåller anpassade beslutsobjekt i JSON-format under struktu
 Ladda ned HTML-exempelfilen och JavaScript-filen som visar hur man använder JSON-baserade erbjudanden och återger dem dynamiskt på webbsidan.
 
 [JavaScript-kod](assets/weather-related-offers-script-multiple-json.js)
-[HTML-fil ](assets/multiple-json.html)
+[HTML-fil &#x200B;](assets/multiple-json.html)
