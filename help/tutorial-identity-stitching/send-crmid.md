@@ -9,7 +9,7 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: e080149c-0ac0-4559-b99d-ebad9f03b98b
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -38,7 +38,7 @@ function attachLoginHandler() {
             window.adobeDataLayer = window.adobeDataLayer || [];
             debugger;
             window.adobeDataLayer.push({
-                event: "userloggedin",
+                event: "UserLoggedIn",
                 user: {
                     crmid: crmid,
                     authenticatedState: "authenticated"

@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-09-24T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
-source-git-commit: c9d62ef509d557b2dfa49c698580df7c4942d299
+source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,8 @@ I den här utökningen av självstudiekursen om identitetskorrigering utlöses e
 
 ## Skapa konfiguration av e-postkanal
 
-* Logga in på _&#x200B;**Journey Optimizer**&#x200B;_
-* Navigera till _&#x200B;**Administration -> Kanaler -> Skapa kanalkonfiguration**&#x200B;_
+* Logga in på _**Journey Optimizer**_
+* Navigera till _**Administration -> Kanaler -> Skapa kanalkonfiguration**_
 * Välj **E-post** i kanallistan. Ange ett beskrivande namn och en beskrivning.
 * Fyll i e-postinställningarna.
 * Ange körningsinformation enligt nedan. E-postadressen skickas till profilens e-postadress som lagras i fältet
@@ -31,25 +31,29 @@ I den här utökningen av självstudiekursen om identitetskorrigering utlöses e
 
 ## Skapa händelse
 
-* Logga in på _&#x200B;**Journey Optimizer**&#x200B;_
-* Navigera till _&#x200B;**Administration -> Konfigurationer**&#x200B;_
+* Logga in på _**Journey Optimizer**_
+* Navigera till _**Administration -> Konfigurationer**_
 * Klicka på knappen Hantera på händelsekortet och klicka på Skapa händelse. Ange värdena enligt nedan
-* ![progress-event](assets/journey-event.png)
+* ![progress-event](assets/journey-event1.png)
 
-* Kontrollera om händelsens eventType är lika med UserLoggedIn. I det här fallet är händelsenamnet och händelsetypen desamma för enkelhetens skull.`in(@event{event1.eventType}, ['UserLoggedIn'])`
+* Kontrollera om händelsens eventType är lika med LoginEvent. Typen `LoginEvent` anges i Adobe Experience Platform-taggen.
 * Spara händelsen
 
 ## Skapa resa
 
-* Logga in på _&#x200B;**Journey Optimizer**&#x200B;_
-* Navigera till _&#x200B;**Resehantering -> Resor -> Skapa resa**&#x200B;_
-* Dra och släpp _&#x200B;**UserLoggedIn**&#x200B;_ -händelsen på arbetsytan
-* Dra och släpp e-post från åtgärdsmenyn. Konfigurera e-poståtgärden så att den använder e-postkanalkonfigurationen som skapades tidigare
-* Publicera resan
+* Logga in på _**Journey Optimizer**_
+* Navigera till _**Resehantering -> Resor -> Skapa resa**_
+* Dra och släpp _**UserLoggedIn**_ -händelsen på arbetsytan
+* Dra och släpp e-post från åtgärdsmenyn. Konfigurera e-poståtgärden så att den använder e-postkanalskonfigurationen som skapades tidigare.
+* Publicera resan.
 
 ## Hur resan utlöses
 
-Resan aktiveras när händelsenyttolasten som skickas via Web SDK matchar det som är konfigurerat under resan. I det här exemplet är händelsetypen **UserLoggedIn**
+Resan aktiveras när händelsenyttolasten som skickas via Web SDK matchar det som är konfigurerat under resan. I det här exemplet är händelsetypen `UserLoggedIn` `LoginEvent`.
+
+* Verifiera detta genom att visa reserapporten
+* ![reserapport](assets/journey-triggered-report.png)
+
 
 
 
