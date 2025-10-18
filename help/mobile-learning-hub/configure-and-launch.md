@@ -66,7 +66,7 @@ Lär dig hur kanalen konfigurerar dina **mobilkanaler** med hjälp av funktionen
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Inställningar för guidad kanal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1755888511558" alt="Inställningar för guidad kanal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449626/?captions=swe&format=jpeg&nocache=1755888511558" alt="Inställningar för guidad kanal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

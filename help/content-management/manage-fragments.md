@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Lär dig hur du hanterar, redigerar och använder fragment i Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419932/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451186/?captions=swe&learn=on){transcript=true}

@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Lär dig hur du använder fördefinierade kodexempel, redigerar nyttolaster för dummy-profiler och förhandsgranskar resultatet av din personaliseringskod i realtid.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475956/?captions=swe&learn=on&enablevpops)
