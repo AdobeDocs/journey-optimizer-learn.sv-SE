@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar, duplicerar och tillämpar återanvändbara regler för målinriktning i Adobe Journey Optimizer för att effektivt personalisera kampanjer baserat på kundattribut som region, språk och beteende, vilket sparar tid samtidigt som målgruppens precision förbättras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476127/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476131/?captions=swe&learn=on&enablevpops)

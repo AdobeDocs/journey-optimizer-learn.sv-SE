@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Lär dig hur du använder funktionen för tysta öppethållanden i Adobe Journey Optimizer för att förhindra att meddelanden skickas till kunder under vissa tidsintervall, vilket hjälper marknadsförarna att undvika att skicka meddelanden vid olämpliga tidpunkter och förbättra kundengagemanget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475856/?captions=swe&learn=on&enablevpops)
