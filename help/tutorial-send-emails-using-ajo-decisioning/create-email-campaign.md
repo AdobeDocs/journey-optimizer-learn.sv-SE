@@ -18,4 +18,4 @@ ht-degree: 0%
 
 I den här videon får du lära dig hur du skapar en e-postkampanj med AJO Decisioning
 
->[!VIDEO](https://video.tv.adobe.com/v/3476158/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476168/?captions=swe&learn=on)
