@@ -20,4 +20,4 @@ I den här videon får du lära dig hur du skapar ett profilschema, importerar k
 
 Ni lär er att definiera nyckelfält som förnamn, e-post, lojalitetsstatus och årsinkomst, överföra verkliga kunddata och använda dessa data för att skapa en publik av värdefulla kunder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476442/?captions=swe&learn=on)

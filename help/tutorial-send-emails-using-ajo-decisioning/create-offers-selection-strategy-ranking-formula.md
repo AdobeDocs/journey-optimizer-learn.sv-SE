@@ -17,4 +17,4 @@ ht-degree: 0%
 # Skapa erbjudanden, urvalsstrategi, rankningsformel
 
 I den här videon får du lära dig att skapa erbjudanden, en urvalsstrategi att välja erbjudanden och en rangordningsformel att prioritera erbjudanden med
->[!VIDEO](https://video.tv.adobe.com/v/3476427/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476453/?captions=swe&learn=on)
