@@ -68,7 +68,7 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
       <p>
       <b>Nödvändiga kunskaper:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=sv-SE"> Skapa segment</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html">Lässegment</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=sv-SE">Lässegment</li>
        <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=sv-SE">Importera e-postinnehåll från HTML</li>
   </td>
   </tr>
@@ -90,7 +90,7 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
     <p>
     <b>Nödvändiga kunskaper:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=sv-SE"> Skapa segment</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html">Segmentkvalificering</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html?lang=sv-SE">Segmentkvalificering</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=sv-SE">Importera och redigera e-postinnehåll från HTML</li>
   </td>
   </tr>
