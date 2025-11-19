@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 108
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16309
-source-git-commit: dde5bc9f9d453b5b3df8cc3625329ee81d1889ab
+exl-id: d52bd1f3-3c47-4401-97b1-8b2bc4308363
+source-git-commit: a5a5323e1325c056fb79f8875fd5208715661f1a
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-
 # Optimering av mobilappar - översikt
 
 Upptäck hur Adobe Journey Optimizer mobilappsfunktioner förändrar kundengagemanget med personaliserade upplevelser i realtid.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432681/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476998/?learn=on)
