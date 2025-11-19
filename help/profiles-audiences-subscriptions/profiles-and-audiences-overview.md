@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 98
 last-substantial-update: 2024-10-07T00:00:00Z
 jira: KT-16291
-source-git-commit: 30b2099c678b9d455383c6328513d362df4ec5fd
+exl-id: 722f4899-b8e6-4c00-a971-fc434d4281cb
+source-git-commit: 27df48649aab9f2d0c31d661374af9d1ae7adf37
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-
 # Profiler och målgrupper - översikt
 
-Läs om enhetliga kundprofiler och målgrupper i Journey Optimizer.
+Läs om hur Adobe Journey Optimizer kan sammanställa kunddata och förenkla målgruppsbyggandet med dra-och-släpp-gränssnitt, berikar profiler för personaliserat engagemang, rankar målgrupper för exakt målgruppsanpassning och garanterar integriteten med stabila styrningsverktyg, vilket hjälper er att skapa mer effektiva kampanjer i alla kanaler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432671/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476986/?learn=on)
