@@ -4,16 +4,16 @@ description: Experience League LIVE är ett direktuppspelningsprogram som produc
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: f08715113ae0ff327873da5f2b96709827b99aa9
+source-git-commit: d605287648957dbe8f25ce71326abc832d79f34a
 workflow-type: tm+mt
-source-wordcount: '1261'
+source-wordcount: '1263'
 ht-degree: 0%
 
 ---
 
 # Experience League LIVE-program
 
-Experience League LIVE är ett direktuppspelningsprogram som producerats av Experience League team. Det är en chans att få kontakt med Adobe produktexperter och lära dig praktiska tips, tricks och strategier som du kan tillämpa med Adobe Experience Cloud-programmen.
+Experience League LIVE är ett direktuppspelningsprogram som producerats av Digital Experience Product Enablement-teamet. Det är en chans att få kontakt med Adobe produktexperter och lära dig praktiska tips, tricks och strategier som du kan tillämpa med Adobe Experience Cloud-programmen.
 
 ## Senaste avsnitt
 
