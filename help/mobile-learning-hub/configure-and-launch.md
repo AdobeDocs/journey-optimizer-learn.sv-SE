@@ -231,7 +231,7 @@ Konfigurera dina **mobila kanaler** med hjälp av funktionen för konfiguration 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Inställningar för guidad kanal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1763594622823" alt="Inställningar för guidad kanal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449626/?captions=swe&format=jpeg&nocache=1763594622823" alt="Inställningar för guidad kanal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -254,7 +254,7 @@ Konfigurera dina **mobila kanaler** med hjälp av funktionen för konfiguration 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Konfigurera WhatsApp-kanalen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1763594622814" alt="Konfigurera WhatsApp-kanalen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470272/?captions=swe&format=jpeg&nocache=1763594622814" alt="Konfigurera WhatsApp-kanalen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -339,7 +339,7 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Konfigurera MMS API-autentiseringsuppgifter och kanalytor" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1763594624083" alt="Konfigurera MMS API-autentiseringsuppgifter och kanalytor"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438050/?captions=swe&format=jpeg&nocache=1763594624083" alt="Konfigurera MMS API-autentiseringsuppgifter och kanalytor"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -362,7 +362,7 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Konfigurera RCS i Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1763594624043" alt="Konfigurera RCS i Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464759/?captions=swe&format=jpeg&nocache=1763594624043" alt="Konfigurera RCS i Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
