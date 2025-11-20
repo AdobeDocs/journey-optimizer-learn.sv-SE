@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Upptäck hur Adobe Journey Optimizer mobilappsfunktioner förändrar kundengagemanget med personaliserade upplevelser i realtid.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477002/?captions=swe&learn=on)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Läs om hur Adobe Journey Optimizer kan sammanställa kunddata och förenkla målgruppsbyggandet med dra-och-släpp-gränssnitt, berikar profiler för personaliserat engagemang, rankar målgrupper för exakt målgruppsanpassning och garanterar integriteten med stabila styrningsverktyg, vilket hjälper er att skapa mer effektiva kampanjer i alla kanaler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476986/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476990/?captions=swe&learn=on)

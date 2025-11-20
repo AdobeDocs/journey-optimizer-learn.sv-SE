@@ -20,7 +20,7 @@ Kom snabbt igång eller nivåindelad med mobilkanaler i Adobe Journey Optimizer 
 
 Utforska bästa praxis, lär dig hur ni kan få användarna att använda och hantera rapporter - allt på ett och samma ställe - så att era team kan leverera slagkraftiga, datadrivna mobilupplevelser som är kopplade till användarna när som helst, var som helst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477002?captions=swe&quality=12&learn=on){transcript=true}
 
 
 ## Översikt över mobilkanalen

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Läs om hur Adobe Journey Optimizer effektiviserar hanteringen av digitala resurser med sin inbäddade Adobe Experience Manager så att du kan söka efter, bläddra bland och hämta resurser direkt från databasen. Se hur du skapar kampanjer, utformar e-postmeddelanden med befintliga mallar och enkelt överför eller redigerar resurser, så att du enkelt kan skapa kraftfullt och slagkraftigt innehåll.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477015/?captions=swe&learn=on)
