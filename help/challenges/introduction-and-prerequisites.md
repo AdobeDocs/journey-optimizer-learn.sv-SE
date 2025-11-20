@@ -27,7 +27,7 @@ Kontrollera att följande krav är uppfyllda.
 
 * Tillgång till en Journey Optimizer-sandlåda - vi rekommenderar att du slutför utmaningen i en dedikerad utbildningshandlåda.
 * AEM Assets Essentials måste etableras för din instans.
-* E-postkanalerna [måste konfigureras](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) för transaktions- och marknadsföringsmeddelanden.
+* E-postkanalerna [måste konfigureras](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html?lang=sv-SE) för transaktions- och marknadsföringsmeddelanden.
 
 ### Åtkomsträttigheter
 
@@ -67,9 +67,9 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
       <em>Skapa en resa som skickar ett meddelande om sommarkollektion till en publik med befintliga kunder. </em>
       <p>
       <b>Nödvändiga kunskaper:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Skapa segment</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html">Lässegment</li>
-       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">Importera e-postinnehåll från HTML</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=sv-SE"> Skapa segment</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=sv-SE">Lässegment</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=sv-SE">Importera e-postinnehåll från HTML</li>
   </td>
   </tr>
    <tr>
@@ -89,9 +89,9 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
     <em>Skicka ett e-postmeddelande när en lojalitetskund flyttar till en ny nivå för att gratulera och informera dem om sina nya fördelar.</em>
     <p>
     <b>Nödvändiga kunskaper:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Skapa segment</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html">Segmentkvalificering</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html">Importera och redigera e-postinnehåll från HTML</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=sv-SE"> Skapa segment</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html?lang=sv-SE">Segmentkvalificering</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=sv-SE">Importera och redigera e-postinnehåll från HTML</li>
   </td>
   </tr>
   <tr>
@@ -111,8 +111,8 @@ Luma vill marknadsföra sina senaste kläder och kugghjulsinsamling och öka fö
     </em>
     <p>
     <b>Nödvändiga kunskaper:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html"> Skapa e-postinnehåll med meddelanderedigeraren</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Använd sammanhangsbaserad händelseinformation för personalisering</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Använd hjälpfunktioner för personalisering</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=sv-SE"> Skapa e-postinnehåll med meddelanderedigeraren</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=sv-SE">Använd sammanhangsbaserad händelseinformation för personalisering</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=sv-SE">Använd hjälpfunktioner för personalisering</li>
   </td>
 </table>
