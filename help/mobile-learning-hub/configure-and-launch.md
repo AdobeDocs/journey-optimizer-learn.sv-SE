@@ -190,7 +190,7 @@ Du kan skapa och konfigurera denna mobila egenskap manuellt, eller använda **[G
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-För mer information, se även Adobe Experience Platform Mobile SDK-dokumentationen [](https://experienceleague.adobe.com/en/docs/mobile)
+För mer information, se även Adobe Experience Platform Mobile SDK-dokumentationen [&#128279;](https://experienceleague.adobe.com/en/docs/mobile)
 
 #### Utvecklarreferenser:
 
