@@ -23,4 +23,4 @@ Lär dig hur du skapar och optimerar åtgärdskampanjer i Adobe Journey Optimize
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
-Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/campaigns/get-started-with-campaigns).
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns).

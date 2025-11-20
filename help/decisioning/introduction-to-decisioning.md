@@ -14,7 +14,7 @@ exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
 source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 30%
+ht-degree: 41%
 
 ---
 
@@ -24,4 +24,4 @@ Beslutsfattandet förenklar personanpassningen genom att erbjuda en centralisera
 
 I den här videon får du en kort översikt över Adobe Journey Optimizer beslutsfunktioner
 
->[!VIDEO](https://video.tv.adobe.com/v/3475867?captions=swe&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
