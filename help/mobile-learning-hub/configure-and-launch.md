@@ -107,7 +107,7 @@ This property controls:
 
 Du kan [skapa och konfigurera den här mobila egenskapen manuellt](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property) eller för Mobile In-App och Push kan du använda **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** för att automatiskt skapa den nödvändiga taggegenskapen, datastream och kanalkonfigurationen för iOS och Android.
 
-> [!TIP]
+&#x200B;> [!TIP]
 >  
 > För nya implementeringar rekommenderas **[Guided Channel Setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** som startpunkt. Det minskar risken för felkonfigurerade datastreams eller saknade tillägg och leder dig igenom SDK-valideringen med Assurance.
 
