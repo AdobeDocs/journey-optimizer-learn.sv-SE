@@ -7,7 +7,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 1d79a2f916017e5f40f1629f0d1f534a37607a23
+source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Kom snabbt igång eller nivåindelad med mobilkanaler i Adobe Journey Optimizer 
 
 Utforska bästa praxis, lär dig hur ni kan få användarna att använda och hantera rapporter - allt på ett och samma ställe - så att era team kan leverera slagkraftiga, datadrivna mobilupplevelser som är kopplade till användarna när som helst, var som helst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477002?captions=swe&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Översikt över mobilkanalen
@@ -63,12 +63,6 @@ Genom att kombinera dessa kanaler kan ni skapa en smidig och effektiv kundupplev
 
 6. Använd [kodbaserade upplevelser](/help/mobile-learning-hub/channels/code-based-experience-overview.md) för att skräddarsy alla meddelanden baserat på användarbeteenden och önskemål och skapa en verkligt personaliserad resa över alla kanaler.
 
-
-## Användningsexempel
-
-* [Flyg med personalisering: Hur flygbolag kan höja sina erbjudanden med Adobe Journey Optimizer (blogg)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
-
-
 ## Bygg din grund
 
 Lär dig begreppen och hur du
@@ -101,3 +95,7 @@ Lär dig begreppen och hur du
 | **Kampanjer för merförsäljning och korsförsäljning** | Flyttar ut ytterligare produkter eller uppgraderingar till befintliga kunder baserat på deras beteenden, önskemål eller inköpshistorik. | - Push-meddelanden framhäver relevanta merförsäljningsmöjligheter.<br> - Meddelanden i appen och innehållskort visar kompletterande objekt.<br>- SMS-kampanjer riktar in sig på segmenterade målgrupper med exklusiva erbjudanden. |
 | **Kurnförebyggande** | Identifierar användare som riskerar att lämna företaget och engagerar dem med personaliserade strategier för lojalitet. | - Prediktiv analys utlöser mobilt arbete för riskanvändare.<br> - Push-meddelanden och SMS erbjuder lojalitetsbelöningar eller personaliserat innehåll.<br> - I undersökningar i appen samlas feedback in för att förbättra strategier för kundlojalitet. |
 | **Flerkanalsmeddelanden** | Samordna enhetliga meddelanden över flera mobila kanaler för att säkerställa att användarna får aktuell och relevant kommunikation. | - Push, in-app, SMS och e-post koordineras för enhetliga meddelanden.<br> - SDK:er möjliggör personalisering i realtid i alla kanaler.<br> - Innehållskort finns kvar mellan sessioner för att förstärka viktiga meddelanden. |
+
+## Användningsexempel
+
+* [Flyg med personalisering: Hur flygbolag kan höja sina erbjudanden med Adobe Journey Optimizer (blogg)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
