@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Konfigurera mobilkanalerna i Adobe Journey Optimizer och Adobe Experience Platform, integrera med mobilappar och se till att ni är redo att genomföra marknadsföringskampanjer.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > Om du inte har använt Journey Optimizer eller Experience Platform tidigare bör du bekanta dig med de grundläggande begreppen genom att gå följande kurs:
 > - [Konfigurera och administrera Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*I den här kursen får du lära dig att konfigurera och hantera Journey Optimizer-miljön, inklusive användarroller, behörigheter, sandlådor och e-postkanaler, vilket säkerställer effektiva och säkra åtgärder.*
