@@ -24,4 +24,4 @@ Beslutsfattandet förenklar personanpassningen genom att erbjuda en centralisera
 
 I den här videon får du en kort översikt över Adobe Journey Optimizer beslutsfunktioner
 
->[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3475867?captions=swe&quality=12&learn=on){transcript=true}
