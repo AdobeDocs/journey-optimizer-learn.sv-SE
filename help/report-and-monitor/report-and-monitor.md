@@ -64,7 +64,7 @@ De här självstudiekurserna ger marknadsförarna verktyg för att övervaka pre
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="Övervaka och analysera din resa med live-rapporter" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1764706279498" alt="Övervaka och analysera din resa med live-rapporter"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470839/?captions=swe&format=jpeg&nocache=1764706279498" alt="Övervaka och analysera din resa med live-rapporter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +87,7 @@ De här självstudiekurserna ger marknadsförarna verktyg för att övervaka pre
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" title="Övervaka och analysera din resa med reserapporter" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470710/?format=jpeg&nocache=1764706279432" alt="Övervaka och analysera din resa med reserapporter"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471467/?captions=swe&format=jpeg&nocache=1764706279432" alt="Övervaka och analysera din resa med reserapporter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +110,7 @@ De här självstudiekurserna ger marknadsförarna verktyg för att övervaka pre
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Kanalnivårapporter" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1764706279481" alt="Kanalnivårapporter"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448043/?captions=swe&format=jpeg&nocache=1764706279481" alt="Kanalnivårapporter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +133,7 @@ De här självstudiekurserna ger marknadsförarna verktyg för att övervaka pre
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="Analysera kundens övergripande resultat med alla tidsrapporter" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475653/?format=jpeg&nocache=1764706279437" alt="Analysera kundens övergripande resultat med alla tidsrapporter"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475791/?captions=swe&format=jpeg&nocache=1764706279437" alt="Analysera kundens övergripande resultat med alla tidsrapporter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ De här självstudiekurserna ger marknadsförarna verktyg för att övervaka pre
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="Exportera rapporter i CSV-format" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1764706279503" alt="Exportera rapporter i CSV-format"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439612/?captions=swe&format=jpeg&nocache=1764706279503" alt="Exportera rapporter i CSV-format"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +202,7 @@ De här självstudiekurserna ger marknadsförarna verktyg för att övervaka pre
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Förbättrad rapportering med Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1764706279442" alt="Förbättrad rapportering med Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443155/?captions=swe&format=jpeg&nocache=1764706279442" alt="Förbättrad rapportering med Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
