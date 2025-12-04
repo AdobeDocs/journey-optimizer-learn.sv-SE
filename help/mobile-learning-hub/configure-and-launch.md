@@ -63,7 +63,7 @@ Utan Mobile SDK som är integrerad i appen kan Journey Optimizer inte på ett ti
 - Återge och spåra innehållskort.
 - Använd beteenden i realtid i appen för att utlösa resor och personalisera upplevelser.
 
-**[-> Klicka här för de aktuella SDK-versionerna ](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}**
+**[-> Klicka här för de aktuella SDK-versionerna &#x200B;](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}**
 
 ### Nödvändiga Mobile SDK-komponenter för Journey Optimizer
 
@@ -223,7 +223,7 @@ Du kan [skapa och konfigurera den här mobila egenskapen manuellt](https://exper
 
 #### Produktdokumentation
 
-| ![Guided channel setup documentation ](./assets/configuration.svg){width="50"}[**Guided channel setup documentation**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |
+| ![Guided channel setup documentation &#x200B;](./assets/configuration.svg){width="50"}[**Guided channel setup documentation**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!SUCCESS]
