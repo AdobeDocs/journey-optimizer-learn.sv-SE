@@ -1,7 +1,7 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '301'
 ht-degree: 2%
 
 ---
@@ -9,8 +9,9 @@ ht-degree: 2%
 
 ## Vad är det?
 
-**Kodbaserade upplevelser** hänvisar till anpassat, dynamiskt innehåll eller meddelanden som skapats med anpassad kod (JavaScript, API:er eller mallspråk) på plattformar som Adobe Journey Optimizer.\
-På så sätt kan ni skapa skräddarsydda, datadrivna kundresor och meddelanden utöver vanliga dra-och-släpp-verktyg.
+Med kodbaserade upplevelser kan ni leverera personaliserat, dynamiskt innehåll och meddelanden med anpassad kod - som JavaScript, API:er eller mallspråk - inom Adobe Journey Optimizer.
+
+Den här kanalen är idealisk för att skapa skräddarsydda, datadrivna interaktioner som sträcker sig bortom WYSIWYG vanliga verktyg för visuell redigering, vilket ger utvecklare och optimeringschefer full flexibilitet att utforma skräddarsydda personaliseringslogik och innehållslayouter.
 
 Exempel:
 

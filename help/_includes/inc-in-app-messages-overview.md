@@ -1,7 +1,7 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -9,16 +9,16 @@ ht-degree: 0%
 
 ## Vad är meddelanden i appen?
 
-Meddelanden i appen är meddelanden som visas i en app medan användaren aktivt använder den. De är överläggsmeddelanden som visas ovanpå appen. De visas inte på låsskärmen eller utanför appen, utan visas som banners, popup-fönster eller små kort när användaren utforskar appen.
+Meddelanden i appen visas i mobilappen när användaren är aktiv. Dessa överläggsliknande meddelanden visas som banners, popup-fönster eller kort direkt ovanpå appgränssnittet. De visas inte på låsskärmen eller utanför appmiljön.
 
-Meddelanden i appen utlöses av specifika användaråtgärder eller -villkor, som att visa en viss sida, slutföra ett köp eller vara en del av ett målgruppssegment.
+Meddelanden i appen utlöses av specifika användaråtgärder eller -villkor, t.ex. visning av en viss skärm, slutförande av ett köp eller kvalificering för ett målgruppssegment.
 
 
 Exempel:
 
-* Ett spel kan visa ett popup-fönster som förklarar en ny funktion så fort användaren låser upp den.
-* En shoppingapp kan visa en banderoll med en kupongkod när användaren bläddrar bland artiklar.
-* En app för sociala medier kan visa ett meddelande som föreslår att användaren följer nya konton.
+* Ett spel som visar ett popup-fönster med en ny funktion så fort användaren låser upp den.
+* En shoppingapp som visar en banderoll med en kupongkod medan användaren bläddrar bland produkterna.
+* En social app som föreslår nya konton att följa baserat på den aktuella aktiviteten
 
 ## Användningsfall
 

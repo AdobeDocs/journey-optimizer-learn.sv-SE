@@ -1,20 +1,19 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
 # Innehållskort - översikt
 
->[!VIDEO](https://video.tv.adobe.com/v/3460087/?learn=on&enablevpops&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## Vad är det?
 
-**Innehållskort** är beständiga meddelanden i appen som finns i en dedikerad inkorg eller feed i din app. Till skillnad från push-meddelanden avbryter de inte användaren och kan visas när det passar användaren.\
-De är idealiska för att leverera **icke-brådskande**, **informativt** eller **marknadsföringsinnehåll** som har nytta av synlighet över tid.
+**Innehållskort** är beständiga meddelanden i appen som visas i en dedikerad inkorg eller feed i din app. Till skillnad från push-meddelanden avbryter de inte användaren och kan visas när användaren väljer det.
 
-Betrakta innehållskort som ett&quot;meddelandecenter&quot; i appen eller som en personlig nyhetsfeed.
+De är idealiska för **icke-brådskande**, **informativt** eller **marknadsföringsinnehåll** som drar nytta av längre synlighet och upprepad exponering. Tänk på innehållskort som ett&quot;meddelandecenter&quot; i appen eller ett personligt innehållsflöde där användarna kan bläddra bland uppdateringar i sin egen takt.&quot;
 
 ### Exempel:
 

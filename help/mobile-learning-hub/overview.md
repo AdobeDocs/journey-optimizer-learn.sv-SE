@@ -7,20 +7,20 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
 
 # Journey Optimizer - Mobile Learning Hub
 
-Kom snabbt igång eller nivåindelad med mobilkanaler i Adobe Journey Optimizer (AJO). Det här är det perfekta utrymmet för utvecklare, administratörer, marknadsförare och dataanalytiker för att upptäcka allt från att skapa inkommande och utgående mobilkanaler till att väva dem i kraftfulla kampanjer.
+Kom igång snabbt eller lyft upp er strategi för mobilengagemang med Adobe Journey Optimizer. Det här mobilutbildningscentret ger utvecklare, administratörer, marknadsförare och analytiker allt de behöver för att konfigurera inkommande och utgående mobilkanaler och integrera dem smidigt i kraftfulla flerkanalskampanjer och -resor.
 
-Utforska bästa praxis, lär dig hur ni kan få användarna att använda och hantera rapporter - allt på ett och samma ställe - så att era team kan leverera slagkraftiga, datadrivna mobilupplevelser som är kopplade till användarna när som helst, var som helst.
+Utforska bästa praxis, lär dig hur ni kan få till stånd fler implementeringar och skapa centraliserade arbetsflöden för rapportering - allt på ett och samma ställe - för att leverera slagkraftiga, datadrivna mobilupplevelser som når kunderna när som helst, var som helst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477002?captions=swe&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Översikt över mobilkanalen
@@ -29,9 +29,9 @@ Journey Optimizer har stöd för både inkommande och utgående mobilkanaler:
 
 ### Utgående kanaler
 
-Utgående kanaler används för att **aktivt leverera meddelanden** till kunder utan föregående interaktion. Dessa är idealiska för kampanjer, kampanjer och transaktionskommunikation.
+Med utgående kanaler kan ni aktivt leverera meddelanden till kunder utan att föregående interaktion krävs. Dessa interaktioner är idealiska för kampanjer, kampanjer och transaktionshändelser.
 
-De här kanalerna tillämpar **principer för anpassat samtycke** vid meddelandets sändningstid. Om samtycke inte beviljas för en viss marknadsföringsåtgärd blockeras meddelandet från leverans.
+Alla utgående kanaler i Adobe Journey Optimizer tillämpar regler för anpassat samtycke vid meddelandets sändningstid. Om samtycke inte beviljas för en viss marknadsföringsåtgärd ignoreras meddelandet automatiskt för att säkerställa korrekt leverans.
 
 | ![Push-meddelanden](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Push-meddelanden](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
@@ -39,7 +39,7 @@ De här kanalerna tillämpar **principer för anpassat samtycke** vid meddelande
 
 ### Inkommande kanaler
 
-Inkommande kanaler är utformade för **kundinitierade interaktioner**, vilket möjliggör personaliserade upplevelser när användarna interagerar med ert varumärke. De har stöd för **realtidspersonalisering** och **datainhämtning**, till exempel landningssidformulär som matas in i Adobe Experience Platform (AEP) för segmentering och målinriktning.
+Inkommande kanaler stöder kundinitierade interaktioner, vilket gör att ni kan leverera personaliserade upplevelser så fort användarna interagerar med ert varumärke. De möjliggör personalisering i realtid och datainhämtning - t.ex. landningssidor eller beteenden på plats - som matas in direkt i Adobe Experience Platform (AEP) för segmentering, målinriktning och aktivering över resorna.
 
 
 | ![Meddelanden i appen](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=&quot;250&quot;,height=&quot;50%&quot;}<br> **[Meddelanden i appen](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Innehållskort](/help/mobile-learning-hub/assets/content-card.jpeg){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Innehållskort](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![Kodbaserad upplevelse](/help/mobile-learning-hub/assets/code-based.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Kodbaserad upplevelse](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
