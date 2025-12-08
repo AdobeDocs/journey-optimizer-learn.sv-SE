@@ -24,7 +24,7 @@ Med hjälp av den guidade kanalkonfigurationen kan ni snabbt konfigurera och val
 
 Lär dig hur du konfigurerar och validerar ett push-kanalsmeddelande för en exempelapp för iOS mobilmarknadsföring.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449626/?captions=swe&learn=on)
 
 Mer information finns i produktdokumentationen:
 
