@@ -1,6 +1,6 @@
 ---
 title: Förbättrad rapportering med Customer Journey Analytics
-description: Journey Optimizer rapportering är nu helt integrerad med Customer Journey Analytics-funktioner, vilket standardiserar rapporteringen på båda plattformarna och förbättrar datakonsekvensen och tillförlitligheten. Denna smidiga integrering mellan Journey Optimizer och Customer Journey Analytics ger en tydligare bild av prestandamätningarna, så att användarna kan fatta mer välgrundade beslut.
+description: Lär dig steg för steg hur du kan navigera i Adobe Journey Optimizer förbättrade rapporteringsverktyg, från enhetliga mätvärden och visualisering av kundresor till anpassade insikter och avancerad analys
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -9,16 +9,17 @@ duration: 22500
 last-substantial-update: 2025-01-27T00:00:00Z
 jira: KT-15774
 exl-id: 385f2f89-bef9-4a32-9ca1-4a2f4afb2c6a
-source-git-commit: 55205636bb73af692c24ebabe4168a514b547b6f
+source-git-commit: d869245cb8d9482776d901b9ad298914b3fa0c95
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
 # Förbättrad rapportering med Customer Journey Analytics
 
-Journey Optimizer rapportering är nu helt integrerad med Customer Journey Analytics-funktioner, vilket standardiserar rapporteringen på båda plattformarna och förbättrar datakonsekvensen och tillförlitligheten. Denna smidiga integrering mellan Journey Optimizer och Customer Journey Analytics ger en tydligare bild av prestandamätningarna, så att användarna kan fatta mer välgrundade beslut.
-Mer detaljerad dokumentation finns i [Analysera i Customer Journey Analytics](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.
+Lär dig steg för steg hur du kan navigera i Adobe Journey Optimizer förbättrade rapporteringsverktyg, från enhetliga mätvärden och visualisering av kundresor till anpassade insikter och avancerad analys
 
->[!VIDEO](https://video.tv.adobe.com/v/3443155/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+
+Mer detaljerad dokumentation finns i [Analysera i Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.
