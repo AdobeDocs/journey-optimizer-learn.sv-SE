@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig steg för steg hur du kan navigera i Adobe Journey Optimizer förbättrade rapporteringsverktyg, från enhetliga mätvärden och visualisering av kundresor till anpassade insikter och avancerad analys
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443155/?captions=swe&learn=on)
 
 Mer detaljerad dokumentation finns i [Analysera i Customer Journey Analytics](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.
