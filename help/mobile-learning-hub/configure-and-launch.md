@@ -70,7 +70,7 @@ För nya mobilimplementeringar i appen och push-implementeringar är Guidad kana
 > - Om du använder det befintliga konfigurationsalternativet måste du kontrollera att du använder de [aktuella Adobe Experience Platform Mobile SDK-versionerna](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}**
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449626/?captions=swe&learn=on)
 
 Mer information finns i [Kom igång med konfiguration av guidade kanaler](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=sv-SE){target="_blank"}
 
@@ -290,7 +290,7 @@ Lär dig hur du konfigurerar **whatsApp-kanalen**:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Konfigurera WhatsApp-kanalen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1765241811878" alt="Konfigurera WhatsApp-kanalen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470272/?captions=swe&format=jpeg&nocache=1765241811878" alt="Konfigurera WhatsApp-kanalen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -379,7 +379,7 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Konfigurera MMS API-autentiseringsuppgifter och kanalytor" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1765241812943" alt="Konfigurera MMS API-autentiseringsuppgifter och kanalytor"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438050/?captions=swe&format=jpeg&nocache=1765241812943" alt="Konfigurera MMS API-autentiseringsuppgifter och kanalytor"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -402,7 +402,7 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Konfigurera RCS i Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1765241812927" alt="Konfigurera RCS i Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464759/?captions=swe&format=jpeg&nocache=1765241812927" alt="Konfigurera RCS i Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
