@@ -22,4 +22,4 @@ Lär dig steg för steg hur du kan navigera i Adobe Journey Optimizer förbättr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
 
-Mer detaljerad dokumentation finns i [Analysera i Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.
+Mer detaljerad dokumentation finns i [Analysera i Customer Journey Analytics](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.
