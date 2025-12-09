@@ -6,7 +6,7 @@ level: Beginner,Intermediate
 breadcrumb-title: Loyalty Garage Week
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty-garage-week/overview
 auto-video-transcripts: true
-source-git-commit: 19ddae10a8423c1160042ce723d3f8d2699b39cb
+source-git-commit: cb810a2b4b19ebb862809b82ce8733d18a1111d9
 workflow-type: tm+mt
 source-wordcount: '25'
 ht-degree: 0%
@@ -16,7 +16,4 @@ ht-degree: 0%
 
 # Loyalty Garage Week {#loyalty-garage-week}
 
-+ [Loyalty Garage Week](help/loyalty-garage-week/overview.md)
-
-
-
++ [Loyalty Garage Week](/help/loyalty-garage-week/overview.md)
