@@ -8,9 +8,9 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
-source-git-commit: cf71691b56a10d651f58a31aa03deda291c15308
+source-git-commit: 14b220505712632c29487779f528d92e4b0e8990
 workflow-type: tm+mt
-source-wordcount: '2302'
+source-wordcount: '2106'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ För **administratörer** och **mobilappsutvecklare** visar det här avsnittet h
 
 >[!IMPORTANT]
 >
-> Om du inte har använt Journey Optimizer eller Experience Platform tidigare bör du bekanta dig med grundläggande datahantering i Journey Optimizer genom att gå den här kursen: [Ingenjörsdata för intelligent reseaktivering i Adobe Journey Optimizer](https://experienceleague.adobe.com/sv/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
+> Om du inte har använt Journey Optimizer eller Experience Platform tidigare bör du bekanta dig med grundläggande datahantering i Journey Optimizer genom att gå den här kursen: [Ingenjörsdata för intelligent reseaktivering i Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation){target="_blank"}
 >
 
 
@@ -39,7 +39,7 @@ Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder för utvecklare,
 
 Mobilimplementeringar i Journey Optimizer börjar med **Adobe Experience Platform Mobile SDK** -integreringen i din app. SDK är nödvändigt för datainsamling och interaktion med Adobe Experience Platform (AEP) och dess program, till exempel Adobe Journey Optimizer (AJO).
 
-### Vad är Mobile SDK?
+#### Vad är Mobile SDK?
 
 Mobilt SDK:
 
@@ -54,7 +54,7 @@ Utan Mobile SDK som är integrerad i appen kan Journey Optimizer inte på ett ti
 - Återge och spåra innehållskort.
 - Använd beteenden i realtid i appen för att utlösa resor och personalisera upplevelser.
 
-### Inställningar av guidade kanaler för nya implementeringar
+#### Inställningar av guidade kanaler för nya implementeringar
 
 För nya mobilimplementeringar i appen och push-implementeringar är Guidad kanalkonfiguration den rekommenderade startpunkten. Det minskar risken för felkonfigurerade datastreams eller saknade tillägg och leder dig igenom SDK-valideringen med Assurance.
 
@@ -63,33 +63,33 @@ För nya mobilimplementeringar i appen och push-implementeringar är Guidad kana
 >Kontrollera att du har:
 >
 > - **Adobe Journey Optimizer** (AJO) har etablerats för din organisation.
-> - Adobe Experience Platform har åtkomst till [Datainsamling** och Journey Optimizer-behörigheter](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions).
+> - Adobe Experience Platform har åtkomst till [Datainsamling** och Journey Optimizer-behörigheter](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions).
 > - Administratörsrättigheter i AJO för konfigurering av kanaler och konfigurationer.
 > - Tillgång till mobilappens källkod (iOS, Android eller ramverk för flera plattformar).
 > - Appen har de nödvändiga funktionerna på operativsystemnivå aktiverade (till exempel push-behörigheter, meddelandetjänsttillägg och bakgrundslägen).
 > - Om du använder det befintliga konfigurationsalternativet måste du kontrollera att du använder de [aktuella Adobe Experience Platform Mobile SDK-versionerna](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}**
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449626/?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
-Mer information finns i [Kom igång med konfiguration av guidade kanaler](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=sv-SE){target="_blank"}
+Mer information finns i [Kom igång med konfiguration av guidade kanaler](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html){target="_blank"}
 
 
-### Manuell konfiguration av push-kanalen
+#### Manuell konfiguration av push-kanalen
 
 Här följer handledningar som visar allt du behöver för att manuellt konfigurera och använda push-meddelanden effektivt, från att förstå dataflödet och integrera med tjänster som Firebase och Apple Push Notification Service (APN) till att konfigurera mobilappar och testmeddelanden.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/push-gs
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs
 {title = Push notification data flow and components}
 {description = Learn how to setup and understand key services and workflows involved with push notifications in Journey Optimizer.}
-{image = https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/media_1f6e99fa57e318230d92f5dde619c450690b5d27a.png?width=2000&format=webply&optimize=medium}
+{image = https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/media_1f6e99fa57e318230d92f5dde619c450690b5d27a.png?width=2000&format=webply&optimize=medium}
 {target = _blank}
 
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/push-configuration
-{image = https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/media_1134ddf9b0f7d39bb365d4884a1d603fd4aa5bbdf.png?width=2000&format=webply&optimize=medium}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration
+{image = https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/media_1134ddf9b0f7d39bb365d4884a1d603fd4aa5bbdf.png?width=2000&format=webply&optimize=medium}
 {target = _blank}
-* https://experienceleague.adobe.com/sv/docs/platform-learn/implement-mobile-sdk/overview 
+* https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview 
 {target = _blank}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -98,8 +98,8 @@ Här följer handledningar som visar allt du behöver för att manuellt konfigur
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/push-gs" title="Dataflöde och komponenter för push-meddelanden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/media_1f6e99fa57e318230d92f5dde619c450690b5d27a.png?width=400&format=webply&optimize=medium" alt="Dataflöde och komponenter för push-meddelanden"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs" title="Dataflöde och komponenter för push-meddelanden" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/media_1f6e99fa57e318230d92f5dde619c450690b5d27a.png?width=400&format=webply&optimize=medium" alt="Dataflöde och komponenter för push-meddelanden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,11 +107,11 @@ Här följer handledningar som visar allt du behöver för att manuellt konfigur
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/push-gs" target="_blank" rel="referrer" title="Dataflöde och komponenter för push-meddelanden">Dataflöde och komponenter för push-meddelanden</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs" target="_blank" rel="referrer" title="Dataflöde och komponenter för push-meddelanden">Dataflöde och komponenter för push-meddelanden</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du konfigurerar och förstår viktiga tjänster och arbetsflöden som rör push-meddelanden i Journey Optimizer.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/push-gs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
@@ -121,8 +121,8 @@ Här följer handledningar som visar allt du behöver för att manuellt konfigur
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/push-configuration" title="Konfiguration för push-meddelanden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/media_1134ddf9b0f7d39bb365d4884a1d603fd4aa5bbdf.png?width=400&format=webply&optimize=medium" alt="Konfiguration för push-meddelanden"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration" title="Konfiguration för push-meddelanden" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/media_1134ddf9b0f7d39bb365d4884a1d603fd4aa5bbdf.png?width=400&format=webply&optimize=medium" alt="Konfiguration för push-meddelanden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,11 +130,11 @@ Här följer handledningar som visar allt du behöver för att manuellt konfigur
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/push-configuration" target="_blank" rel="referrer" title="Konfiguration för push-meddelanden">Konfiguration för push-meddelanden</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration" target="_blank" rel="referrer" title="Konfiguration för push-meddelanden">Konfiguration för push-meddelanden</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du konfigurerar miljön för att skicka push-meddelanden med Journey Optimizer</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/push-configuration" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
@@ -144,8 +144,8 @@ Här följer handledningar som visar allt du behöver för att manuellt konfigur
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/platform-learn/implement-mobile-sdk/overview" title="Implementera Adobe Experience Cloud i mobilappar, genomgång" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="Implementera Adobe Experience Cloud i mobilappar, genomgång"
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" title="Implementera Adobe Experience Cloud i mobilappar, genomgång" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="Implementera Adobe Experience Cloud i mobilappar, genomgång"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,11 +153,11 @@ Här följer handledningar som visar allt du behöver för att manuellt konfigur
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="Implementera Adobe Experience Cloud i mobilappar, genomgång">Implementera Adobe Experience Cloud i mobilappar, självstudiekurs</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="Implementera Adobe Experience Cloud i mobilappar, genomgång">Implementera Adobe Experience Cloud i mobilappar, självstudiekurs</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du implementerar Adobe Experience Cloud mobilappar. Den här självstudiekursen vägleder dig genom en implementering av Experience Cloud-program i ett exempel på ett Swift- eller Android-program.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
@@ -226,38 +226,23 @@ Här följer handledningar som visar allt du behöver för att manuellt konfigur
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+#### Kontrollista för beredskap för mobila SDK
+
+Innan du skickar appen till marknadsförarna måste du bekräfta följande i **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}**:
+
 >[!SUCCESS]
->
->**Checklista för beredskap för SDK för mobila enheter**
->
-> [ ] Core SDK är installerat (Core, Edge, Identity, Consent, Assurance).
-> [ ] [Mobiltillägget för Journey Optimizer](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer/) har lagts till för de kanaler som du vill använda (push, in-app, innehållskort, kodbaserat).
-> [ ] Datastream är korrekt konfigurerad för händelse- och profildatauppsättningar.
-> [ ] Identitet och samtycke implementerat och validerat med Assurance.
-> [ ] Överför tokenregistrering och spårning validerat från början till slut.
-> [ ] In-app och/eller innehållskort visas verifierade på en enhet.
-> [ ] Guidad kanalkonfiguration används för nya implementeringar, eller konfigurationen justeras manuellt efter dokumenterade steg.
+> 
+> [ ] Core SDK + Journey Optimizer-tillägg har lästs in,\
+> [ ] händelser flödar på rätt dataström och datauppsättningar,\
+> [ ]Identitet och samtycke finns för alla viktiga händelser,\
+> [ ] push-tokens och interaktioner spåras, och\
+> [ ] Minst ett meddelande eller innehållskort i appen har visats och registrerats som ett intryck.
 
-
-## Adobe Journey Optimizer Channel Configuration
-
-Genom att konfigurera mobilkanaler i Adobe Journey Optimizer kan du säkerställa att push-meddelanden och meddelanden i appen når era appanvändare på ett säkert och tillförlitligt sätt. Som administratör kommer ni att skapa tekniska grunder - som appreferenser, SDK-integrering och autentiseringsnycklar - som möjliggör personaliserat, kompatibelt och optimerat mobilengagemang. Korrekt konfiguration är avgörande för att leverera sömlösa upplevelser över mobila kontaktytor.
-
->[!PREREQUISITES]
->
-> - Appregistreringen har slutförts i Adobe Experience Platform för mobilkanaler.
-> - Adobe Experience Platform Mobile SDK är integrerat i appen.
-> - Push-autentiseringsuppgifter konfigurerade för iOS (APN) och Android (FCM).
-> - Konfigurerade SMS/MMS/RCS-providerkonton och autentiseringsuppgifter är tillgängliga.
-> - WhatApp Business API-autentiseringsuppgifter har konfigurerats och verifierats.
-> - Autentiseringsnycklar, certifikat och API-tokens för alla kanaler.
-> - Regler för samtycke och deltagande definierade för varje kanal (push, SMS, WhatsApp).
-> - Testmiljöer förberedda för validering av konfigurationer före start.
 
 ### Innehållskort
 
 <!-- CARDS
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp
 {title = Configure content cards support in Mobile SDK}
 {description = Learn how to integrate content cards in your mobile application using Messaging SDK.}
 {target = _blank}
@@ -268,8 +253,8 @@ Genom att konfigurera mobilkanaler i Adobe Journey Optimizer kan du säkerställ
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" title="Konfigurera stöd för innehållskort i Mobile SDK" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp./media_17623afb1c5e280b7fb6861b4003d0ef8f8bea24d.jpg?width=400&format=jpg&optimize=medium" alt="Konfigurera stöd för innehållskort i Mobile SDK"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" title="Konfigurera stöd för innehållskort i Mobile SDK" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp./media_17623afb1c5e280b7fb6861b4003d0ef8f8bea24d.jpg?width=400&format=jpg&optimize=medium" alt="Konfigurera stöd för innehållskort i Mobile SDK"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -277,11 +262,11 @@ Genom att konfigurera mobilkanaler i Adobe Journey Optimizer kan du säkerställ
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" title="Konfigurera stöd för innehållskort i Mobile SDK">Konfigurera stöd för innehållskort i Mobile SDK</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" title="Konfigurera stöd för innehållskort i Mobile SDK">Konfigurera stöd för innehållskort i Mobile SDK</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du integrerar innehållskort i din mobilapp med Messaging SDK.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
@@ -295,7 +280,7 @@ Genom att konfigurera mobilkanaler i Adobe Journey Optimizer kan du säkerställ
 Lär dig hur du konfigurerar **whatsApp-kanalen**:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
 {target = _blank}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -304,8 +289,8 @@ Lär dig hur du konfigurerar **whatsApp-kanalen**:
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Konfigurera WhatsApp-kanalen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470272/?captions=swe&format=jpeg&nocache=1765241811878" alt="Konfigurera WhatsApp-kanalen"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Konfigurera WhatsApp-kanalen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1765241811878" alt="Konfigurera WhatsApp-kanalen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -313,11 +298,11 @@ Lär dig hur du konfigurerar **whatsApp-kanalen**:
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" title="Konfigurera WhatsApp-kanalen">Konfigurera WhatsApp-kanalen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" title="Konfigurera WhatsApp-kanalen">Konfigurera WhatsApp-kanalen</a>
                     </p>
                     <p class="is-size-6">I den här självstudiekursen får du hjälp med att konfigurera WhatsApp-kanalen i Adobe Journey Optimizer så att du kan skapa affärsmeddelanden i realtid.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -331,14 +316,14 @@ Lär dig hur du konfigurerar **whatsApp-kanalen**:
 Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch eller Infobip) eller med en anpassad SMS-provider:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
 {target = _blank}
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
 {description = Learn how to configure custom SMS providers in Journey Optimizer, set up API credentials and webhooks, manage opt-in/opt-out keywords, and launch personalized campaigns.}
 {target = _blank}
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
 {target = _blank}
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 {target = _blank}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -347,7 +332,7 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="Konfigurera SMS API-autentiseringsuppgifter och kanalytor" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="Konfigurera SMS API-autentiseringsuppgifter och kanalytor" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1765241812951" alt="Konfigurera SMS API-autentiseringsuppgifter och kanalytor"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -356,11 +341,11 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="Konfigurera SMS API-autentiseringsuppgifter och kanalytor">Konfigurera SMS API-autentiseringsuppgifter och kanalytor</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="Konfigurera SMS API-autentiseringsuppgifter och kanalytor">Konfigurera SMS API-autentiseringsuppgifter och kanalytor</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du ansluter Journey Optimizer till en SMS-tjänsteleverantör och hur du skapar en SMS-kanal.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -370,7 +355,7 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" title="Konfigurera en anpassad SMS-provider" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" title="Konfigurera en anpassad SMS-provider" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431625/?format=jpeg&nocache=1765241812924" alt="Konfigurera en anpassad SMS-provider"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -379,11 +364,11 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" title="Konfigurera en anpassad SMS-provider">Konfigurera en anpassad SMS-provider</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" title="Konfigurera en anpassad SMS-provider">Konfigurera en anpassad SMS-provider</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du konfigurerar anpassade SMS-leverantörer i Journey Optimizer, konfigurerar API-autentiseringsuppgifter och webhooks, hanterar nyckelord för anmälan/avanmälan och startar personaliserade kampanjer.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -393,8 +378,8 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Konfigurera MMS API-autentiseringsuppgifter och kanalytor" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438050/?captions=swe&format=jpeg&nocache=1765241812943" alt="Konfigurera MMS API-autentiseringsuppgifter och kanalytor"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Konfigurera MMS API-autentiseringsuppgifter och kanalytor" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1765241812943" alt="Konfigurera MMS API-autentiseringsuppgifter och kanalytor"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -402,11 +387,11 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="Konfigurera MMS API-autentiseringsuppgifter och kanalytor">Konfigurera MMS API-autentiseringsuppgifter och kanalytor</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="Konfigurera MMS API-autentiseringsuppgifter och kanalytor">Konfigurera MMS API-autentiseringsuppgifter och kanalytor</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du ansluter Journey Optimizer till en MMS-tjänsteleverantör och hur du skapar en MMS-kanalyta.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -416,8 +401,8 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Konfigurera RCS i Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464759/?captions=swe&format=jpeg&nocache=1765241812927" alt="Konfigurera RCS i Journey Optimizer"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Konfigurera RCS i Journey Optimizer" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1765241812927" alt="Konfigurera RCS i Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -425,11 +410,11 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" title="Konfigurera RCS i Journey Optimizer">Konfigurera RCS i Journey Optimizer</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" title="Konfigurera RCS i Journey Optimizer">Konfigurera RCS i Journey Optimizer</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du konfigurerar och skickar varumärkesanpassade, interaktiva RCS-meddelanden i Adobe Journey Optimizer med en anpassad SMS-leverantör. Den här självstudiekursen går igenom hur du ställer in API-inloggningsuppgifter, webhooks och kanalkonfigurationer och sedan skapar en resa för att leverera avancerade, personaliserade meddelandeupplevelser - allt inifrån programmet för interna meddelanden.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -441,14 +426,14 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
 ## Säkerställ att integritetslagstiftningen och plattformens riktlinjer följs.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
 {target = _blank}
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
 {target = _blank}
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables
 {cta = Watch}
 {target = _blank}
-* https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
 {target = _blank}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -457,7 +442,7 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Sekretessfunktioner i Adobe Journey Optimizer" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Sekretessfunktioner i Adobe Journey Optimizer" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="../mobile-learning-hub/assets/privacy.webp" alt="Sekretessfunktioner i Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -466,11 +451,11 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Sekretessfunktioner i Adobe Journey Optimizer">Sekretessfunktioner i Adobe Journey Optimizer</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Sekretessfunktioner i Adobe Journey Optimizer">Sekretessfunktioner i Adobe Journey Optimizer</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du hanterar sekretessförfrågningar, granskar användaråtgärder, hanterar samtycke, tillämpar styrningsregler och använder avancerade säkerhetsalternativ som kundhanterade nycklar.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
@@ -480,7 +465,7 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="Datastyrningsramverk - översikt" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="Datastyrningsramverk - översikt" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1765241813815" alt="Datastyrningsramverk - översikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -489,11 +474,11 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" target="_blank" rel="referrer" title="Datastyrningsramverk - översikt">Datastyrningsramverk - översikt</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" target="_blank" rel="referrer" title="Datastyrningsramverk - översikt">Datastyrningsramverk - översikt</a>
                     </p>
                     <p class="is-size-6">Förstå styrningsfunktionerna i Adobe Experience Platform.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -503,7 +488,7 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="Klassificera data med etiketter" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="Klassificera data med etiketter" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1765241813814" alt="Klassificera data med etiketter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -512,11 +497,11 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" target="_blank" rel="referrer" title="Klassificera data med etiketter">Klassificera data med etiketter</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" target="_blank" rel="referrer" title="Klassificera data med etiketter">Klassificera data med etiketter</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du använder etiketter i dina scheman och datauppsättningar.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -526,7 +511,7 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="Skapa dataanvändningsprinciper" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="Skapa dataanvändningsprinciper" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1765241813810" alt="Skapa dataanvändningsprinciper"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -535,11 +520,11 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" target="_blank" rel="referrer" title="Skapa dataanvändningsprinciper">Skapa dataanvändningsprinciper</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" target="_blank" rel="referrer" title="Skapa dataanvändningsprinciper">Skapa dataanvändningsprinciper</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du skapar och hanterar principer för dataanvändning.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -547,6 +532,7 @@ Konfigurera **SMS/MMS/RCS-kanaler** med standardleverantörer (Twilio, Synch ell
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 
 ## Gemensamma implementeringsklyftor och hur man undviker dem
 
@@ -566,7 +552,7 @@ De flesta mobilproblem har sitt ursprung i **SDK eller datainsamlingskonfigurati
 
 Öppna fallstudien som matchar dina symtom för att se vad du ska kontrollera och hur du ska åtgärda den.
 
-+++1 SDK-versioner och tillägg som inte är anpassade efter kanalkraven
++++ &#x200B;1. SDK-versioner och tillägg som inte är anpassade efter kanalkraven
 **Vad du kommer att märka**
 
 - Push- eller in-app-aktiviteter når inte enheten.
@@ -585,11 +571,11 @@ De flesta mobilproblem har sitt ursprung i **SDK eller datainsamlingskonfigurati
 - Uppgradera till Mobile SDK och Journey Optimizer som stöds.
 - Bygg om appen, återanslut till Assurance och kör installationsprogrammet för den guidade kanalen igen.
 
-Se: [Konfigurera mobil och webb](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
+Se: [Konfigurera mobil och webb](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"}
 
 +++
 
-+++2 Felkonfigurerade dataströmmar eller datauppsättningar
++++ &#x200B;2. Felkonfigurerade datastreams eller datamängder
 **Vad du kommer att märka**
 
 - Händelser eller grupper för push-spårning misslyckas i plattformsdatauppsättningar.
@@ -609,11 +595,11 @@ Se: [Konfigurera mobil och webb](https://experienceleague.adobe.com/sv/docs/jour
 - Korrigera datastream-mappningen (händelser → händelsedatamängd, profiler → profildatamängd).
 - Använd Guidad kanalkonfiguration eller dokumenterade datastream-steg i stället för ad hoc-ändringar.
 
-Se: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
+Se: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
 +++
 
-+++3 Identitet och samtycke saknas eller är inkonsekvent
++++ &#x200B;3. Identitet och samtycke saknas eller är inkonsekvent
 **Vad du kommer att märka**
 
 - Resorna utlöses inte som förväntat för appanvändare.
@@ -634,11 +620,11 @@ Se: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague
 - Implementera **Godkännande för Edge Network** och anslut det till gränssnittet för godkännande för din app.
 - Testa om i Assurance tills identitet och samtycke visas för alla relevanta händelser.
 
-Se: [Implementera medgivande för SDK-implementeringar för plattformsmobiler](https://experienceleague.adobe.com/sv/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
+Se: [Implementera medgivande för SDK-implementeringar för plattformsmobiler](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
 
 +++
 
-+++4 Registrering och spårning av push-token har inte skrivits korrekt
++++ &#x200B;4. Korrigera tokenregistrering och -spårning inte korrekt kastats
 **Vad du kommer att märka**
 
 - Användarna får aldrig push-meddelanden, trots att kampanjer eller resor körs.
@@ -659,11 +645,11 @@ Se: [Implementera medgivande för SDK-implementeringar för plattformsmobiler](h
    - Skickar push-interaktionshändelser (öppna, stänga, anpassa åtgärder) via Mobile SDK.
 - Använd Assurance för att bekräfta att registrerings- och spårningshändelser utlöses som förväntat.
 
-Se: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
+Se: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
 
 +++
 
-+++5 Meddelanden i appen eller innehållskort visas inte
++++ &#x200B;5. Meddelanden i appen eller innehållskort visas inte
 **Vad du kommer att märka**
 
 - Meddelanden i appen eller innehållskort visas aldrig, trots aktiva kampanjer eller resor.
@@ -688,24 +674,12 @@ Se: [Push Notification flow in Adobe Journey Optimizer](https://experienceleague
    - Spåra interaktioner via SDK.
 
 Se:
-- [Skapa och skicka meddelanden i appen](https://experienceleague.adobe.com/sv/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
-- [Konfigurera stöd för innehållskort i Mobile SDK](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
+- [Skapa och skicka meddelanden i appen](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}
+- [Konfigurera stöd för innehållskort i Mobile SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp){target="_blank"}
 
 +++
-
-
->[!SUCCESS]
->
-> **Checklista för beredskap**
->
-> Innan du skickar appen till marknadsförarna måste du bekräfta följande i **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}**:
-> 
-> [ ] Core SDK + Journey Optimizer-tillägg har lästs in,\
-> [ ] händelser flödar på rätt dataström och datauppsättningar,\
-> [ ]Identitet och samtycke finns för alla viktiga händelser,\
-> [ ] push-tokens och interaktioner spåras, och\
-> [ ] Minst ett meddelande eller innehållskort i appen har visats och registrerats som ett intryck.
 
 ## Ytterligare resurser
 
 - [Använder CDN-baserad klientsidans personalisering (ODD) på mobilen för snabbare personalisering (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+- [Hemligheten till nästa nivå av mobilappsengagemang och tillväxt (Summit Session)](https://business.adobe.com/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
