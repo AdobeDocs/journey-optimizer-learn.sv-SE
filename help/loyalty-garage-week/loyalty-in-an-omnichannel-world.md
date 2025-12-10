@@ -39,7 +39,7 @@ Den fjärde felpunkten är **lojalitetsupplevelser som inte är inbäddade i all
 
 Kombinationen av dessa fel leder till det som kan kallas **lojalitetsavvikelse** - den psykologiska skillnaden mellan vad kunden förväntar sig och vad varumärket levererar. Förtroende över flera kanaler löser detta genom att anpassa identitet, data, beslut, resesamordning och användarupplevelse kring en enda kontinuerlig berättelse.
 
----
+&#x200B;---
 
 ## &#x200B;2. Vad flerkanalslojalitet egentligen betyder
 
