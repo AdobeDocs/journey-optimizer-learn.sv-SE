@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 1cdf8be6fc76e3e67f0180fad6a0979ab2e6b07b
+source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -38,8 +38,6 @@ Den tredje felpunkten är **batchbaserad datasynkronisering**. Många företagsl
 Den fjärde felpunkten är **lojalitetsupplevelser som inte är inbäddade i alla kundkontaktytor**. I många program visas lojalitet endast i appen eller i e-postmeddelanden. Men kunderna engagerar sig överallt. Förmånsvärdet måste vara synligt på hemsidan, produktinformationssidor, kundvagn, push-meddelanden, SMS-trådar, digitala kvitton, callcentergränssnitt och skyltar för fysiska butiker. När lojaliteten är osynlig eller ojämn upplevs kunderna som mindre värdefulla och engagerar sig mindre ofta.
 
 Kombinationen av dessa fel leder till det som kan kallas **lojalitetsavvikelse** - den psykologiska skillnaden mellan vad kunden förväntar sig och vad varumärket levererar. Förtroende över flera kanaler löser detta genom att anpassa identitet, data, beslut, resesamordning och användarupplevelse kring en enda kontinuerlig berättelse.
-
-&#x200B;---
 
 ## &#x200B;2. Vad flerkanalslojalitet egentligen betyder
 
