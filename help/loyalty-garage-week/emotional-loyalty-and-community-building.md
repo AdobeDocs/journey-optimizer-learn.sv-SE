@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Emotionell lojalitet och communitybyggande
 
-Hur varumärken skapar identitet, tillhörighet och lobbying via upplevelsebaserad lojalitet
+## Hur varumärken skapar identitet, tillhörighet och lobbying via upplevelsebaserad lojalitet
 
-## Sammanfattning
+### Sammanfattning
 
 Emotionell lojalitet - den grad i vilken kunderna känner att de är kopplade till ett varumärkes identitet, värderingar och gemenskap - blir den främsta konkurrensfördelen i en modern lojalitetsstrategi. Traditionella transaktionslojalitetsprogram, som bygger på poäng, rabatter och grundläggande mekanik för inlösen/bränning, är fortfarande viktiga men skapar inte längre meningsfull differentiering på mättade marknader. I takt med att pristransparensen ökar, friktionen minskar och konsumenterna blir mer bemyndigade kan transaktionsprogram inte på egen hand upprätthålla långsiktig lojalitet eller lobbying. I stället är de varumärken som når utomordentliga lojalitetsprestanda de som skapar **communities**, inte program - varumärken som hjälper kunderna att uttrycka sin identitet, uppnå uppsatta mål, interagera med andra medlemmar och delta i delade ritualer som skapar känslomässig koppling.
 

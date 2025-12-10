@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -13,10 +13,11 @@ ht-degree: 0%
 ---
 
 
+# Lojalitet i en värld i flera kanaler
 
-# Lojalitet i en värld över flera kanaler - Bygga en enhetlig, prediktiv, lojalitetsupplevelse i realtid över alla kundkontaktytor
+## Skapa en enhetlig, prediktiv, lojalitetsupplevelse i realtid över alla kundkontaktytor
 
-## Sammanfattning
+### Sammanfattning
 
 Den moderna kundresan är trasig, icke-linjär och helt kanalövergripande. Konsumenterna kan smidigt gå över mellan mobilappar, webbläsare, butiksupplevelser, callcenters, e-post, SMS, push-meddelanden, sociala kanaler, anslutna enheter och återannonsering av betalda medier. Men de flesta lojalitetsprogram använder fortfarande isolerade system, kanalcentrerade incitament och batchbaserad bearbetning som inte motsvarar kundernas förväntningar på snabbhet, kontinuitet och personalisering. Resultatet är en osammanhängande lojalitetsupplevelse: e-post säger att det finns en belöning, att appen visar föråldrad information, att butikspersonalen inte kan se rätt nivå eller förmån, att push-meddelanden inte är synkroniserade med e-postresor, att kunderna får motsägande erbjudanden, att identitetsmatchningar orsakar en förlust och att lojalitetsvärdet är inkonsekvent synligt för alla varumärkesytor.
 
