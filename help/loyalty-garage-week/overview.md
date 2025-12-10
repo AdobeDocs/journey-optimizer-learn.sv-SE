@@ -5,14 +5,12 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 19ddae10a8423c1160042ce723d3f8d2699b39cb
+source-git-commit: daf558af80981d8442108cb97532020087a3c275
 workflow-type: tm+mt
-source-wordcount: '16'
+source-wordcount: '12'
 ht-degree: 0%
 
 ---
 
 
 # Loyalty Garage Week - översikt
-
-Lägg till en beskrivning här!
