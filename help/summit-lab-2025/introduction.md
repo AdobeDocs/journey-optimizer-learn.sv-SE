@@ -9,7 +9,7 @@ duration: 149
 last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17872
 exl-id: 19167d9b-14f5-4e0b-9c3d-70dc594c5b5d
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -25,4 +25,3 @@ Under de sex lektionerna får ni lära er hur ni lyfter affärskommunikationen f
 >[!VIDEO](https://video.tv.adobe.com/v/3457828/?learn=on&enablevpops)
 
 Hämta arbetsboken [här](/help/summit-lab-2025/assets/summit-lab-manual-l535-final-v4.pdf).
-
