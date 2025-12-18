@@ -4,11 +4,11 @@ description: Innehållskort är beständiga meddelanden i appen som finns inuti 
 feature: Content Cards
 role: User, Developer, Admin
 level: Beginner
-hide: true
-index: false
-last-substantial-update: 2025-08-22T00:00:00Z
+hide: false
+index: true
+last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 85b83379-1aac-4983-b261-3738b299c129
-source-git-commit: 8d2940877730bc45254507b31f08f053ba5c42a7
+source-git-commit: eab42c39d0e7b105ef36e2e2337539511f91440d
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
