@@ -1,15 +1,15 @@
 ---
 title: Navet för mobilt lärande
-description: Kom igång snabbt eller lyft upp er strategi för mobilengagemang med Adobe Journey Optimizer. Det här mobilutbildningscentret ger utvecklare, administratörer, marknadsförare och analytiker allt de behöver för att konfigurera inkommande och utgående mobilkanaler och integrera dem smidigt i kraftfulla flerkanalskampanjer och -resor. Utforska bästa praxis, lär dig hur ni kan få till stånd fler implementeringar och skapa centraliserade arbetsflöden för rapportering - allt på ett och samma ställe - för att leverera slagkraftiga, datadrivna mobilupplevelser som når kunderna när som helst, var som helst.
+description: Mobile Learning Hub ger utvecklare, administratörer, marknadsförare och analytiker allt de behöver för att konfigurera inkommande och utgående mobilkanaler och integrera dem smidigt i kraftfulla flerkanalskampanjer och resor i Journey Optimizer.
 feature: Overview
 role: User, Admin, Developer
 hide: false
 index: true
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: eab42c39d0e7b105ef36e2e2337539511f91440d
+source-git-commit: c2f3040358442ac2bb78d02b2a210d93b327c3ee
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '892'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Kom igång snabbt eller lyft upp er strategi för mobilengagemang med Adobe Jour
 
 Utforska bästa praxis, lär dig hur ni kan få till stånd fler implementeringar och skapa centraliserade arbetsflöden för rapportering - allt på ett och samma ställe - för att leverera slagkraftiga, datadrivna mobilupplevelser som når kunderna när som helst, var som helst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477002?captions=swe&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Översikt över mobilkanalen
