@@ -154,7 +154,7 @@ I det här avsnittet definierar du innehållet, utformningen och layouten för m
 
 **Produktdokumentation:**
 
-* [Kom igång med kanalen i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Skapa ett meddelande i appen för webben](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [Designa ditt innehåll i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [Kontrollera och skicka meddelanden i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Kom igång med kanalen i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Skapa ett meddelande i appen för webben](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Designa ditt innehåll i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/design-in-app)
+* [Kontrollera och skicka meddelanden i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/send-in-app)
