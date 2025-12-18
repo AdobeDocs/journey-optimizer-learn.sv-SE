@@ -4,9 +4,9 @@ user-guide-description: I det här labbet får du lära dig att omvandla affärs
 role: User
 level: Beginner,Intermediate
 breadcrumb-title: scaling-orchestration-to-omnichannel-engagement
-breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/scaling-orchestration-to-omnichannel-engagement/introduction
 auto-video-transcripts: true
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+source-git-commit: 654d7a7f66a75bf76f679eb18a441510eff7b56d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 ---
 
 
-# Anpassa orkestreringen till flerkanalsengagemang{#scaling-orchestration-to-omnichannel-engagement}
+# Anpassa orkestreringen till flerkanalsengagemang {#scaling-orchestration-to-omnichannel-engagement}
 
 + [Introduktion](/help/summit-labs/summit-lab-2025/introduction.md)
 + [Lektion 1 - Upplev resan](/help/summit-labs/summit-lab-2025/lesson-1-experience-the-journey.md)
