@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '1432'
 ht-degree: 0%
@@ -36,22 +36,22 @@ I den här lektionen skapar och utlöser du meddelanden i appen för mobiler.
    **Lösenord:**   Adobe2024!
    <br>
 Du kan hitta information om din inloggning på din labbdator. Använd Adobe ID och Lösenordet.
-   ![skrivbordet](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
+   ![skrivbordet](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
 
-   ![Inloggningsskärm](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
+   ![Inloggningsskärm](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
    <br>
 3. Du kan hoppa över de två följande skärmarna:
    <br>
-   ![Telefonnummer](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
+   ![Telefonnummer](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
    <br>
-   ![Personalization-popup](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
+   ![Personalization-popup](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
 
 >[!SUCCESS]
 >
 >Du bör vara inloggad på Journey Optimizer och på hemsidan:
 >
->![AJO hemsida](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
+>![AJO hemsida](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
 
 
 ## Exercise 2.2 Skapa en kampanj i appen för mobiler
@@ -62,7 +62,7 @@ I den här övningen skapar du en meddelandekampanj i appen, som utlöses när d
 
 1. Klicka på **[!UICONTROL Skapa kampanj]**.
 
-   ![Skapa kampanj](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
+   ![Skapa kampanj](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
 1. På sidan **[!UICONTROL Skapa kampanj]** markerar du kryssrutan **[!UICONTROL Meddelande i appen]** i avsnittet **[!UICONTROL Åtgärd]**.
 
@@ -72,13 +72,13 @@ I den här övningen skapar du en meddelandekampanj i appen, som utlöses när d
 
 1. Klicka på **[!UICONTROL Skapa]**.
 
-   ![Appyta](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-1-1-create.png)
+   ![Appyta](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-1-1-create.png)
 
 >[!SUCCESS]
 >
 >Nu ska du vara med i Campaign-egenskaperna:
 >
-> ![Kampanjegenskaper](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
+> ![Kampanjegenskaper](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
 
 ## Utövning 2.3 Konfigurera kampanjen
 
@@ -88,24 +88,24 @@ Ge kampanjen ett namn. Kom ihåg att börja namnet med ditt platsnummer så att 
 
 Om ditt platsnummer till exempel är 9: `99 - Welcome Campaign`.
 
-![egenskapsavsnittet](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
+![egenskapsavsnittet](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
 
 ### 2.3.2 Konfigurera en anpassad utlösarregel
 
 1. Bläddra ned till avsnittet **[!UICONTROL Utlösare]** och klicka sedan på **[!UICONTROL Redigera utlösare]**.
 
-   ![Ändra](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![Ändra](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. Klicka på **[!UICONTROL Programstart]** i regelbyggaren och välj *Skickade data till plattform* i listrutan.
-   ![Skickat till dataplattformen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![Skickat till dataplattformen](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. Lägg till ett villkor genom att klicka på **[!UICONTROL Lägg till villkor]**.
 
-   ![Lägg till villkorsknapp](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![Lägg till villkorsknapp](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. Välj **[!UICONTROL XDM-händelsetyp]** i listrutan **[!UICONTROL Välj en egenskap]**.
 
-   ![XDM-händelsetyp](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM-händelsetyp](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 1. Lägg till en *`<custom string value>`* som du kan komma ihåg i följande textfält.
 
@@ -118,7 +118,7 @@ Om ditt platsnummer till exempel är 9: `99 - Welcome Campaign`.
    > 
    > Till exempel: `99exerciseTrigger`
 
-   ![lägg till ett anpassat strängvärde för utlösare](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-add-custom-trigger.png)
+   ![lägg till ett anpassat strängvärde för utlösare](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-add-custom-trigger.png)
 
 1. Klicka på **[!UICONTROL Klar]** överst till höger.
 
@@ -126,14 +126,14 @@ Om ditt platsnummer till exempel är 9: `99 - Welcome Campaign`.
 >
 >Du har nu definierat ditt meddelande i appen med en anpassad utlösarhändelse.
 >
->![Kampanj med anpassad utlösare definierad](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-campaign-with-custom-trigger.png)
+>![Kampanj med anpassad utlösare definierad](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-campaign-with-custom-trigger.png)
 
 
 ### 2.3.3 Redigera innehållet i meddelandet i appen
 
 Klicka på **[!UICONTROL Redigera innehåll]** i avsnittet **[!UICONTROL Åtgärd]**.
 
-![Knappen Redigera innehåll](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+![Knappen Redigera innehåll](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 [!UICONTROL Redigeraren för meddelande] i appen visas, där du konfigurerar meddelandeinnehållet i appen.
 
@@ -143,7 +143,7 @@ Välj vilken layout som ska användas i meddelandet.
 
 Klicka till exempel på **[!UICONTROL Modal]** för att göra ditt meddelande i appen till en modal layout.
 
-![modal knapp](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
+![modal knapp](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
 
 #### 2.3.3.2 Skriv ditt meddelande och publicera din kampanj
 
@@ -151,16 +151,16 @@ Klicka till exempel på **[!UICONTROL Modal]** för att göra ditt meddelande i 
    <br>
 När du klickar utanför värdefältet ska bilden visas.
 
-   ![medier som visas i förhandsgranskningen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
+   ![medier som visas i förhandsgranskningen](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 
 2. I följande **[!UICONTROL Innehåll]** lägger du till egen, anpassad text som du vill ska visas i meddelandet för **[!UICONTROL sidhuvudet]** och **[!UICONTROL brödtexten]**.
 
-   ![Sidhuvud och brödtext](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-content.png)
+   ![Sidhuvud och brödtext](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-content.png)
 
 3. Ytterligare alternativ:
    1. **Knappar:**
 
-      ![Knappavsnitt](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-buttons.png)
+      ![Knappavsnitt](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-buttons.png)
 
       1. I det här avsnittet av redigeraren kan du anpassa texten för CTA-knappen genom att redigera knapptextfältet.
 
@@ -175,7 +175,7 @@ När du klickar utanför värdefältet ska bilden visas.
 
    2. **Avancerad formatering**
 
-      ![avancerad formateringsväxling](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-toggle.png)
+      ![avancerad formateringsväxling](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-toggle.png)
 
       Om du aktiverar den här växeln får du ytterligare anpassningsalternativ i redigeraren.
 
@@ -185,13 +185,13 @@ När du klickar utanför värdefältet ska bilden visas.
       1. Teckenfärg
       1. Justering
 
-      ![avancerade formateringsalternativ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png)
+      ![avancerade formateringsalternativ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png)
 
    3. **Fliken Inställningar**
 
       Genom att gå över till den här fliken och i avsnittet **[!UICONTROL Förhandsgranska]** kan du ändra **appförhandsvisningen**.
       <br>\
-      ![Fliken Inställningar](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
+      ![Fliken Inställningar](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
       <br>
 
       1. Avsnittet **[!UICONTROL Layout]** ger dig möjlighet att använda en bild som bakgrund eller heltäckande färg.
@@ -211,7 +211,7 @@ När du klickar utanför värdefältet ska bilden visas.
    >
    > Du har nu slutfört redigeringen av ditt meddelande i appen för mobila enheter. Du bör nu vara på Campaign **[!UICONTROL Review för att aktivera]**-sidan.
    >
-   >![granska och aktivera](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-4-1-review-and-activate.png)
+   >![granska och aktivera](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-4-1-review-and-activate.png)
    >
    > Här ser du en fullständig sammanfattning av ditt meddelande.
    >
@@ -222,14 +222,14 @@ När du klickar utanför värdefältet ska bilden visas.
 
 5. Om du är klar med granskningen av din kampanj trycker du på knappen Aktivera för att publicera kampanjen.
    <br>
-   ![aktivera](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-4-2-activate.png)
+   ![aktivera](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-4-2-activate.png)
 
 
 >[!SUCCESS]
 >
 > Nu bör du se kontrollpanelen för kampanjer. Hitta kampanjen genom att bläddra eller genom att använda sökfunktionen. När din Campaign ändrar status till **[!UICONTROL Live]** (~1min) har din Campaign nu publicerats.
 >
-> ![Publicerad kampanj](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-published-campaign.png)
+> ![Publicerad kampanj](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-published-campaign.png)
 >
 
 
@@ -241,18 +241,18 @@ Så här uppdaterar du nyttolasten och hämtar din nyligen publicerade kampanj:
 2. Öppna appen Fréscopa igen.
 3. Gå till fliken Öva i appen.
 
-   ![Knappen Öva](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-3-app-exercise-button.png)
+   ![Knappen Öva](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-3-app-exercise-button.png)
 
 4. Skriv in det anpassade utlösarvärde som du definierade i Campaign i textfältet. Tryck sedan på Submit.
 
 
-   ![Ändra](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-2-1-app-condition.PNG){width="250" align="center" zoomable="yes"}
+   ![Ändra](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-2-1-app-condition.PNG){width="250" align="center" zoomable="yes"}
 
 >[!SUCCESS]
 >
 >Genom att klicka på Skicka aktiveras en utlösare manuellt och meddelandet i appen som du skapade visas:
 >
->![Meddelande i appen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
+>![Meddelande i appen](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
 >
 > *Om du har problem med att utlösa ditt meddelande kan du kontrollera följande:*
 > 
@@ -270,24 +270,24 @@ Funktionerna **Duplicera kampanj** och **Förhandsgranska på enhet** är färdi
 1. Öppna kampanjen som du just skapade genom att klicka på namnet på kampanjen på panelsidan för kampanjer för att öppna kampanjen. Du kommer nu tillbaka till sidan **[!UICONTROL Granska kampanj]**.
 1. Tryck på knappen **[!UICONTROL Duplicera]**. Då öppnas en ny uppmaning om att namnge den nya kampanj som ska dupliceras. Lägg till i ett nytt namn som du lätt kommer ihåg eller använde standardnamnet där **[!DNL _copy]** läggs till som standard.
 
-   ![duplicerad kampanj](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-duplicate-campaign.png)
+   ![duplicerad kampanj](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-duplicate-campaign.png)
 
 1. När du trycker på dubblettknappen skapas en dubblettkampanj och du dirigeras tillbaka till Campaigns Dashboard.
 1. Öppna den nya kampanjen när den är duplicerad.
 
 1. Du kan komma åt funktionen Förhandsgranska på enhet på sidan **[!UICONTROL Kampanjgranskning]** eller i steget **[!UICONTROL Kampanjförfattare]**.
 
-   ![förhandsgranska på enhetsknappen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
+   ![förhandsgranska på enhetsknappen](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
    <br>
 
 1. Klicka sedan på **[!UICONTROL startknappen]** på skärmen för att ansluta till enheten.
 
-   ![startknapp](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
+   ![startknapp](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
    <br>
 
 1. Ange bas-URL:en som har konfigurerats för att starta Fréscopa-appen: `dxdemo://`
 
-   ![förhandsgransknings-URL](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-3-1-3-preview-url.png)
+   ![förhandsgransknings-URL](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-3-preview-url.png)
 
    <br>
 
@@ -296,11 +296,11 @@ Funktionerna **Duplicera kampanj** och **Förhandsgranska på enhet** är färdi
    2. Ange stiftet som visas i AJO på Assurance-skärmen på enheten och klicka på knappen Anslut som visas längst ned till höger när du har angett stiftet.
 
 
-   ![ange stift](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
+   ![ange stift](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
    <br>
 1. Det här popup-fönstret visas på datorskärmen
 
-   ![popup](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-3-pop-up.png)
+   ![popup](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-pop-up.png)
 
 1. Klicka på knappen Klar. Dialogrutan stängs och telefonen är nu ansluten till Förhandsgranska på enhet.
 
@@ -320,7 +320,7 @@ Funktionerna **Duplicera kampanj** och **Förhandsgranska på enhet** är färdi
 
 **Produktdokumentation:**
 
-* [Kom igång med kanalen i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Skapa ett meddelande i appen för mobiler](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/create-in-app)
-* [Designa ditt innehåll i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/design-in-app)
-* [Kontrollera och skicka meddelanden i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/send-in-app)
+* [Kom igång med kanalen i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Skapa ett meddelande i appen för mobiler](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Designa ditt innehåll i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Kontrollera och skicka meddelanden i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

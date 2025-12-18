@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
 exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 0%
@@ -34,11 +34,11 @@ I den här lektionen kommer ni att uppleva interaktionen med varumärket som en 
 
 1. På Fréscopas hemsida klickar du på **[!UICONTROL Logga in]**.
 
-   ![Fréscopa homepage](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa homepage")
+   ![Fréscopa homepage](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa homepage")
 
 1. Välj **[!UICONTROL Skapa ett konto]** på inloggningssidan.
 
-   ![Fréscopa-inloggningssida](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa-inloggning")
+   ![Fréscopa-inloggningssida](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa-inloggning")
 
 1. Fyll i dina uppgifter på nästa sida:
 
@@ -57,19 +57,19 @@ I den här lektionen kommer ni att uppleva interaktionen med varumärket som en 
 
    1. Ange ditt **platsnummer**. (Du kan hitta den på din labbdator.)
 
-      ![Skrivbord för Lab-dator](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+      ![Skrivbord för Lab-dator](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 
    1. Om du vill ange om du har en Fréscopa-dator väljer du antingen **Yes** eller **No**.
 
 1. Klicka på **Registrera**.
 
-   ![Fréscopa - registreringssida](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
+   ![Fréscopa - registreringssida](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
 
 ## Exercise 1.2 - Hämta och installera appen Fréscopa
 
 Installera mobilappen på din iOS- eller Android™-enhet genom att antingen skanna QR-koden från det meddelande du får när du registrerar dig eller nedan:
 
-![Fréscopa-mobilapp QR-koder](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa-mobilapp QR-koder")
+![Fréscopa-mobilapp QR-koder](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa-mobilapp QR-koder")
 
 Enhetsspecifik installation:
 
@@ -83,23 +83,23 @@ När du har installerat appen måste du lita på Adobe Enterprise-utvecklare:
 
 1. Gå till **Inställningar** > **Allmänt** > **VPN och enhetshantering**.
 
-   ![Inställningsskärm för enhetshantering](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Inställningsskärm för enhetshantering"){width="250" align="center" zoomable="yes"}
+   ![Inställningsskärm för enhetshantering](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Inställningsskärm för enhetshantering"){width="250" align="center" zoomable="yes"}
 
 1. Välj **Adobe Systems Inc** och **Trust Adobe Systems Inc**.
 
-   ![Markeringsskärmen i Adobe Systems](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Markeringsskärmen i Adobe Systems"){width="250" align="center" zoomable="yes"}
+   ![Markeringsskärmen i Adobe Systems](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Markeringsskärmen i Adobe Systems"){width="250" align="center" zoomable="yes"}
    <br>
 
-   ![Lita på Adobe Systems-skärmen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+   ![Lita på Adobe Systems-skärmen](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * Nu bör du kunna starta appen **Fréscopa** på din iPhone: ![Fréscopa App Icon](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   * Nu bör du kunna starta appen **Fréscopa** på din iPhone: ![Fréscopa App Icon](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
 1. Öppna appen.
 
 1. Klicka på **Tillåt** på popup-fönstret för att tillåta DX Demo-appen att skicka meddelanden till dig.
 
-   ![meddelande-popup](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
+   ![meddelande-popup](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
@@ -107,11 +107,11 @@ När du har installerat appen måste du lita på Adobe Enterprise-utvecklare:
 
 Hämta och installera APK-filen i Android genom att följa de varningsinstruktioner som visas här:
 
-![Android nedladdningsskärm](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android nedladdningsskärm"){width="250" align="center" zoomable="yes"}
+![Android nedladdningsskärm](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android nedladdningsskärm"){width="250" align="center" zoomable="yes"}
 <br>
-![Android installationsskärm](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+![Android installationsskärm](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* Du bör nu kunna starta **Fréscopa-appen** på din Android-enhet: ![Fréscopa-appikon](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+* Du bör nu kunna starta **Fréscopa-appen** på din Android-enhet: ![Fréscopa-appikon](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
 
@@ -144,12 +144,12 @@ Du får märken för var och en av dessa aktiviteter.
 >
 >Klicka på **Adobe Summit Lab Challenge Progress** (längst ned på sidan) på Frescopa-startsidan.
 > 
->  ![Knappen Utmaningsförlopp](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
+>  ![Knappen Utmaningsförlopp](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
 >
 > Du kan se vilka märken du har fått:
 > 
-> ![Badges](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
+> ![Badges](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
 
 I följande lektioner får du lära dig hur du skapar mobil- och webbupplevelser i Adobe Journey Optimizer.
 
-[def]: /help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG
+[def]: /help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG

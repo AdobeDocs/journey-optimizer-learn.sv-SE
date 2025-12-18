@@ -9,7 +9,7 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '778'
 ht-degree: 0%
@@ -37,7 +37,7 @@ I den här övningen skapar du push-kampanjen, designar och anpassar push-meddel
 
 1. Klicka på **[!UICONTROL Skapa kampanj]**.
 
-   ![Skapa kampanj](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
+   ![Skapa kampanj](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
 1. Markera kryssrutan **[!UICONTROL Push-meddelande]** i avsnittet **[!UICONTROL Åtgärd]** på sidan **[!UICONTROL Skapa kampanj]**.
 
@@ -45,12 +45,12 @@ I den här övningen skapar du push-kampanjen, designar och anpassar push-meddel
 
 1. Klicka på **[!UICONTROL Skapa]** om du vill skapa en push-kampanj.
 
-   ![Appyta](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
+   ![Appyta](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
 
 >[!SUCCESS]
 >
 >Nu ska du vara på egenskapssidan för Campaign:
-> ![Kampanjegenskaper &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+> ![Kampanjegenskaper ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Utövning 4.2 - Konfigurera din kampanj
 
@@ -66,7 +66,7 @@ Om ditt platsnummer till exempel är 99: `99 - 10% Discount Campaign`.
 
 1. Klicka på **[!UICONTROL Välj målgrupp]** i målgruppsavsnittet.
 
-   ![målgruppsavsnittet](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
+   ![målgruppsavsnittet](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
 
 1. På skärmen **[!UICONTROL Välj publik]** söker du efter målgruppen:
 
@@ -74,15 +74,15 @@ Om ditt platsnummer till exempel är 99: `99 - 10% Discount Campaign`.
 
 1. Markera målgruppen och klicka sedan på **[!UICONTROL Spara]**.
 
-   ![målgruppsval](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
+   ![målgruppsval](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
 ### 4.2.3 Redigera innehållet i push-meddelandet
 
 I den här övningen utformar och anpassar du push-meddelandet.
 
-1. Klicka på knappen **[!UICONTROL Redigera innehåll]**&#x200B;**[!UICONTROL i avsnittet &#x200B;]Åtgärd**.
+1. Klicka på knappen **[!UICONTROL Redigera innehåll]****[!UICONTROL i avsnittet ]Åtgärd**.
 
-   ![Knappen Redigera innehåll](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
+   ![Knappen Redigera innehåll](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
 1. På nästa skärm, beroende på vilken mobil enhet du har, väljer du fliken [!DNL iOS™] eller [!DNL Android™] för att konfigurera ditt innehåll.
 
@@ -90,11 +90,11 @@ I den här övningen utformar och anpassar du push-meddelandet.
 
 >[!TAB iOS]
 
-![Fliken iOS](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
+![Fliken iOS](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
 
 >[!TAB Android]
 
-![Fliken Android](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
+![Fliken Android](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
 
 >[!ENDTABS]
 
@@ -105,7 +105,7 @@ I den här övningen utformar och anpassar du push-meddelandet.
    * Titel: `Get 10% off today!`
    * Brödtext: `Today only! Get 10% off on your House Blend coffee purchase!`
 
-     ![Disponera meddelande](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
+     ![Disponera meddelande](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-compose-message.png)
 
 #### 4.2.3.2 Ändra beteendet vid klickning för meddelandet till **öppna en produktsida**
 
@@ -115,13 +115,13 @@ I den här övningen utformar och anpassar du push-meddelandet.
 
    `dxdemo://exoticVibes`
 
-   ![djuplänk](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
+   ![djuplänk](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-deeplink.png)
 
 #### 4.2.3.3 Lägg till en bild i meddelandet
 
 1. Klicka på **[!UICONTROL Lägg till media]** i avsnittet **[!UICONTROL Lägg till media]**.
 
-   ![lägg till medieknappar](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
+   ![lägg till medieknappar](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
 
 1. Öppna mappen **[!UICONTROL Fréscopa]** i den vänstra navigeringen på skärmen **Välj Assets** och välj en bild från den mappen.
 
@@ -129,7 +129,7 @@ I den här övningen utformar och anpassar du push-meddelandet.
 
 1. Klicka på bilden och klicka på knappen **[!UICONTROL Välj]** för att lägga till bilden i ditt push-meddelande.
 
-   ![välj bild](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
+   ![välj bild](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
    >[!SUCCESS]
    >
@@ -137,7 +137,7 @@ I den här övningen utformar och anpassar du push-meddelandet.
    > 1. Förhandsgranska meddelandet.
    > <br>
    >
-   > ![expandera vy](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![expandera vy](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 ### Bonusövning
 
@@ -149,25 +149,25 @@ Om du har avslutat den här delen av övningen och fortfarande har lite tid kan 
 
 1. Klicka på **dialogrutan för anpassning** bredvid fältet **[!UICONTROL Brödtext]**.
 
-   ![personaliseringsknapp](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
+   ![personaliseringsknapp](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
 
 1. Placera markören där du vill lägga till förnamnet i texten på skärmen **i dialogrutan** för anpassning.
 
 1. Kontrollera att **profilattributen** är markerade i den vänstra navigeringen.
 
-   ![Profilattribut](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
+   ![Profilattribut](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
 
 1. Sök efter **i** sökfältet`first name`.
 
 1. Klicka på **+** bredvid **Förnamn (Profilattribut>Person>Fullständigt namn)** för att lägga till anpassningsfältet i texten.
 
-   ![Sök efter förnamn](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+   ![Sök efter förnamn](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
 
    >[!SUCCESS]
    >
    > Så här ska texten se ut:
    > 
-   >![Personalization-token](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
+   >![Personalization-token](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
 
 1. Klicka på **[!UICONTROL Spara]** för att spara personaliseringen.
 
@@ -177,7 +177,7 @@ Om du har avslutat den här delen av övningen och fortfarande har lite tid kan 
    > 1. Klicka på **[!UICONTROL Expandera vy]** på förhandsgranskningsskärmen.
    > 1. Förhandsgranska meddelandet.
    > 
-   > ![expandera vy](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
+   > ![expandera vy](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 +++
 
@@ -187,21 +187,21 @@ Om du är nöjd med innehållet i ditt meddelande kan du aktivera meddelandet:
 
 1. Klicka på **[!UICONTROL Granska för att aktivera]**.
 
-   ![knappen Granska och aktivera](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![knappen Granska och aktivera](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
 
 1. Klicka på **[!UICONTROL Aktivera]** på skärmen **[!UICONTROL Granska för att aktivera]**.
 
-   ![granskning för att aktivera skärmen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
+   ![granskning för att aktivera skärmen](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
 
 >[!SUCCESS]
 > På sidan **Kampanjöversikt** kan du hitta din kampanj och kontrollera statusen.
 >
-> ![kampanjstatus](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
+> ![kampanjstatus](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > Statusen ändras från bearbetning till live, till färdig - det kan ta några minuter.
 > När statusen har ändrats till slutförd:
 >
-> ![push-resultat](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
+> ![push-resultat](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
 ## Ytterligare resurser
 
@@ -211,7 +211,7 @@ Om du är nöjd med innehållet i ditt meddelande kan du aktivera meddelandet:
 
 **Produktdokumentation:**
 
-* [Kom igång med push-meddelanden](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/push/get-started-push)
-* [Skapa ett push-meddelande](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/push/create-push)
-* [Designa ett push-meddelande](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/push/design-push)
-* [Kontrollera och skicka push-meddelanden](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/push/send-push)
+* [Kom igång med push-meddelanden](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [Skapa ett push-meddelande](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [Designa ett push-meddelande](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [Kontrollera och skicka push-meddelanden](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '699'
 ht-degree: 0%
@@ -34,7 +34,7 @@ I den här övningen skapar du kampanjen och definierar vilken webbsida meddelan
 
 1. Klicka på **Skapa kampanj**.
 
-   ![CreateCampaign](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
+   ![CreateCampaign](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
 
 1. På sidan **Skapa kampanj** markerar du kryssrutan **Meddelande i appen** i avsnittet **Åtgärd**.
 
@@ -42,7 +42,7 @@ I den här övningen skapar du kampanjen och definierar vilken webbsida meddelan
 
 1. Ange följande URL: **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *Det här är den webbsida som ditt meddelande kommer att visas på.*
 
-   ![URL i appen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![URL i appen](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. Klicka på **[!UICONTROL Skapa]**.
 
@@ -60,7 +60,7 @@ På den här sidan definierar du kampanjens egenskaper och händelsen som utlös
    > 
    > Om till exempel ditt platsnummer är 99: 
    >
-   > ![Egenskapsnamn](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![Egenskapsnamn](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2 Konfigurera en anpassad utlösarregel
@@ -69,18 +69,18 @@ I det här avsnittet definierar du vilka utlösare som ska användas för att vi
 
 1. Bläddra ned till avsnittet **[!UICONTROL Utlösare]** och klicka sedan på **[!UICONTROL Redigera utlösare]**.
 
-   ![Ändra](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![Ändra](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. Klicka på **[!UICONTROL Programstart]** i regelbyggaren och välj *Skickade data till plattform* i listrutan.
-   ![utlösarhändelse-listruta](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![utlösarhändelse-listruta](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. Lägg till ett villkor genom att klicka på **[!UICONTROL + Lägg till villkor]**.
 
-   ![Lägg till villkorsknapp](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![Lägg till villkorsknapp](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. Välj **[!UICONTROL XDM-händelsetyp]** i listrutan **[!UICONTROL Välj en egenskap]**.
 
-   ![XDM-händelsetyp](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM-händelsetyp](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
 1. Lägg till en *`<custom string value>`* som du kommer ihåg i följande textfält och tryck på **[!UICONTROL Lägg till]** `<custom string value>` för att spara värdet.
@@ -93,7 +93,7 @@ I det här avsnittet definierar du vilka utlösare som ska användas för att vi
    > Till exempel: `99web`
    > 
 
-   ![lägg till ett anpassat strängvärde för utlösare](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+   ![lägg till ett anpassat strängvärde för utlösare](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
 1. Tryck på knappen **[!UICONTROL Klar]** längst upp till höger.
 
@@ -101,7 +101,7 @@ I det här avsnittet definierar du vilka utlösare som ska användas för att vi
 >
 >Du har nu definierat ditt webbaserade meddelande i appen med en anpassad utlösarhändelse.
 >
->![Webbkampanj med anpassad utlösare definierad](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
+>![Webbkampanj med anpassad utlösare definierad](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
 ### 3.2.3 Redigera innehållet i meddelandet i appen
@@ -110,7 +110,7 @@ I det här avsnittet definierar du innehållet, utformningen och layouten för m
 
 1. Klicka på knappen **Redigera innehåll** i avsnittet **Åtgärd** för att komma åt redigeringskonstruktionen.
 
-   ![Knappen Redigera innehåll](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+   ![Knappen Redigera innehåll](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. Redigeringsprocessen är samma process som du slutförde i övningarna i appen Mobile. Redigera ditt meddelande med din egen titel, ditt eget innehåll och ditt eget mediematerial.
 
@@ -128,13 +128,13 @@ I det här avsnittet definierar du innehållet, utformningen och layouten för m
 
 1. Gå till Fréscopa-webbplatsen och navigera till sidan **Öva** i webbläsaren.
 
-   ![Länk för webbövningar](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+   ![Länk för webbövningar](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. Uppdatera webbsidan.
 
 1. Skriv det unika strängvärdet som du definierade i kampanjen.
 
-   ![träningssida](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
+   ![träningssida](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
 
 1. Klicka på **[!UICONTROL Skicka]**.
 
@@ -154,7 +154,7 @@ I det här avsnittet definierar du innehållet, utformningen och layouten för m
 
 **Produktdokumentation:**
 
-* [Kom igång med kanalen i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Skapa ett meddelande i appen för webben](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [Designa ditt innehåll i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/design-in-app)
-* [Kontrollera och skicka meddelanden i appen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/in-app/send-in-app)
+* [Kom igång med kanalen i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Skapa ett meddelande i appen för webben](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Designa ditt innehåll i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Kontrollera och skicka meddelanden i appen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
