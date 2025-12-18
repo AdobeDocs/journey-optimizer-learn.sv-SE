@@ -28,7 +28,7 @@ ht-degree: 6%
       + [Skapa en kampanj i appen](/help/campaigns/action-campaigns/in-app.md)
       + [Konfigurera och skicka en push-kampanj](/help/campaigns/action-campaigns/push-campaign.md)
       + [Skapa en webbkampanj](/help/campaigns/action-campaigns/web-campaign.md)
-      + [Skapa en kodbaserad upplevelsekampanj](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+      + [Skapa en kodbaserad upplevelsekampanj](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [Utnyttja optimering av meddelanden i en kampanj](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API-utlösta kampanjer {#api-triggered-campaigns}
       + [Utlösa kampanjer med API:er](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
@@ -62,15 +62,15 @@ ht-degree: 6%
    + [Enhetlig profil och segmentering - översikt](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Skapa målgrupper med regelverktyget](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Skapa en målgrupp genom att överföra en CSV-fil](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [Skapa målgrupper med Web SDK (självstudiekurs)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [Utvärdera målgrupper på begäran](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [Skapa målgrupper med Web SDK (självstudiekurs)](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+   + [Utvärdera målgrupper på begäran](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [Prenumerationer och landningssidor](/help/subscriptions-and-landing-pages.md)
 + Kanaler {#channels}
    + [Optimering av mobilappar - översikt](/help/channels/mobile-app-optimization-overview.md)
    + Kodbaserad upplevelsekanal{#code-based-experience-channel}
       + [Skapa en kodbaserad upplevelsekampanj](/help/channels/create-a-code-based-experience-campaign.md)
       + [Lägga till formulärfält i kodbaserade upplevelsekanalsmallar](/help/channels/form-fields-in-code-based-experiences.md)
-      + [Använd beslut i den kodbaserade kanalen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [Använd beslut i den kodbaserade kanalen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direktpostkanal{#direct-mail-channel}
       + [Skapa direktreklam](/help/channels/direct-mail.md)
    + E-postkanal{#email-channel}
@@ -147,8 +147,8 @@ ht-degree: 6%
       + [Genomgång av beslut från början till slut](/help/decisioning/decisioning-end-to-end.md)
       + [Navigera i gränssnittet för Formelbyggaren](/help/decisioning/formula-builder-ui.md)
       + [Återanvändbara regler](/help/decisioning/reusable-targeting-rules.md)
-      + [Anpassa erbjudanden med väderdata i realtid](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Använd rankningsformel för att leverera personaliserade erbjudanden](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Anpassa erbjudanden med väderdata i realtid](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [Använd rankningsformel för att leverera personaliserade erbjudanden](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + Beslutshantering {#decision-management}
       + [Introduktion till beslutshantering](/help/decision-management/introduction-to-decision-management.md)
       + [Demo av beslutsstyrningens kapacitet](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -162,7 +162,7 @@ ht-degree: 6%
       + [Skapa beslut](/help/decision-management/create-decisions.md)
       + [Leverera erbjudanden med besluts-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Frekvensbegränsning](/help/decision-management/frequency-capping.md)
-   + [Använd beslutsfattande för att anpassa webberbjudanden (självstudiekurs)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+   + [Använd beslutsfattande för att anpassa webberbjudanden (självstudiekurs)](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + Datahantering {#data-management}
    + [Översikt](/help/data-management/set-up-data-overview.md)
    + [Skapa ett schema](/help/data-management/create-schema.md)
@@ -218,26 +218,26 @@ ht-degree: 6%
    + [Använd dataanvändningspolicyer i Journey Optimizer-kanaler](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Maskera data i meddelanden](/help/privacy/mask-data-in-messages.md)
 + AI-assistenten {#ai-assistant}
-   + [AI-assistenten](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [AI-assistenten för innehållsgenerering](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - översikt](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [Experimenteringsagent - översikt](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [AI-assistenten](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [AI-assistenten för innehållsgenerering](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Journey Agent - översikt](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Experimenteringsagent - översikt](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Användningsexempel och metodtips{#use-cases}
    + [Kundregistrering](/help/use-cases/customer-onboarding.md)
    + [Övergiven varukorg](/help/use-cases/abandoned-cart.md)
-   + [Intelligent återengagemang - övergiven bläddring](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [Anpassa erbjudanden med väderdata i realtid i Adobe Journey Optimizer med Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Genererar rapporter över visningar och klickningar på erbjudanden](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
-   + [Använd rankningsformel för att leverera personaliserade erbjudanden i Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Intelligent återengagemang - övergiven bläddring](https://experienceleague.adobe.com/sv/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Anpassa erbjudanden med väderdata i realtid i Adobe Journey Optimizer med Web SDK](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Genererar rapporter över visningar och klickningar på erbjudanden](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Använd rankningsformel för att leverera personaliserade erbjudanden i Journey Optimizer](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Förbättra kundengagemang](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalning av orkestrering till flerkanalsengagemang](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
    + Use Case Playbooks {#use-case-playbooks}
-      + [Översikt](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-      + [Konfigurera en spelningsbokssandlåda](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-      + [Skapa och publicera spelboksinstanser](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+      + [Översikt](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+      + [Konfigurera en spelningsbokssandlåda](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+      + [Skapa och publicera spelboksinstanser](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Utövningar, labb och utmaningar {#exercises-and-challenges}
-   + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-   + [Utmaningar](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+   + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [Utmaningar](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
       + [Skapa personliga mobilstunder med Adobe Journey Optimizer (2024)](/help/summit-labs/summit-lab-2024/l820-lab-workbook/lab-overview.md){target="_blank"}
       + [Skalning av orkestrering till flerkanalsengagemang i Adobe Journey Optimizer (2025)](/help/summit-labs/summit-lab-2025/introduction.md){target="_blank"}
