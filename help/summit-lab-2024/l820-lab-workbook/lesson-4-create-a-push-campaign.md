@@ -50,7 +50,7 @@ I den här övningen skapar du push-kampanjen, designar och anpassar push-meddel
 >[!SUCCESS]
 >
 >Nu ska du vara på egenskapssidan för Campaign:
-> ![Kampanjegenskaper ](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+> ![Kampanjegenskaper &#x200B;](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Utövning 4.2 - Konfigurera din kampanj
 
@@ -80,7 +80,7 @@ Om ditt platsnummer till exempel är 99: `99 - 10% Discount Campaign`.
 
 I den här övningen utformar och anpassar du push-meddelandet.
 
-1. Klicka på knappen **[!UICONTROL Redigera innehåll]****[!UICONTROL i avsnittet ]Åtgärd**.
+1. Klicka på knappen **[!UICONTROL Redigera innehåll]**&#x200B;**[!UICONTROL i avsnittet &#x200B;]Åtgärd**.
 
    ![Knappen Redigera innehåll](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
