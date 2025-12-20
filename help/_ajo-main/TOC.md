@@ -231,7 +231,7 @@ ht-degree: 6%
    + [Genererar rapporter över visningar och klickningar på erbjudanden](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Använd rankningsformel för att leverera personaliserade erbjudanden i Journey Optimizer](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Förbättra kundengagemang](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [Skalning av orkestrering till flerkanalsengagemang](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+   + [Skalning av orkestrering till flerkanalsengagemang](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + Use Case Playbooks {#use-case-playbooks}
       + [Översikt](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [Konfigurera en spelningsbokssandlåda](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
@@ -240,7 +240,7 @@ ht-degree: 6%
    + [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Utmaningar](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
-      + [Skapa personliga mobilstunder med Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-      + [Skalning av orkestrering till flerkanalsengagemang i Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+      + [Skapa personliga mobilstunder med Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+      + [Skalning av orkestrering till flerkanalsengagemang i Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
 + Live Sessions &amp; Deep Dives {#live-sessions-and-deep-dives}
    + [Experience League Live-spelinspelningar](/help/_ajo-main/experience-league-live-show-recordings.md)
