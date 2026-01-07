@@ -19,7 +19,7 @@ ht-degree: 0%
 Använd händelseschemat för att definiera en anpassad händelse i Adobe Journey Optimizer. Den här händelsen lyssnar efter data som skickas från formulär och som kommer in i Adobe Experience Platform.
 
 Definiera en anpassad händelse med namnet **_InvestmentPreference_**
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478487?captions=swe)
 
 
 
