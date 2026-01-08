@@ -36,7 +36,7 @@ Det här användningsexemplet visar hur en inlämning av kundformulär utlöser 
 * Skicka formulärdata till Adobe Experience Platform
 
 Använd ärendeintroduktion och framtagning av händelseschema
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478475?captions=swe)
 
 
 

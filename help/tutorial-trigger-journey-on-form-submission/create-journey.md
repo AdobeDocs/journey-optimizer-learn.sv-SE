@@ -21,7 +21,7 @@ Skapa en resa i Adobe Journey Optimizer som börjar när händelsen **_AssetClas
 När du skapar en resa skapar du följande konfigurationer:
 
 Skapar e-postkanalskonfiguration
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478514?captions=swe)
 
 
 
