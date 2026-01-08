@@ -9,16 +9,16 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
+source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # Testa lösningen
 
-Om du vill testa lösningen från början till slut måste filerna [west-offers.html](assets/weather-offers.html) och [western-offers-script.js](assets/weather-related-offers-script.js) finnas på en webbserver eller en offentlig värdtjänst som Github Pages. Detta är nödvändigt eftersom:
+Om du vill testa lösningen från början till slut ska du extrahera west-offers.html och west-related-offers-script.js från [west-offers.zip].(assets/weather-offers.zip) De här filerna måste finnas på en webbserver eller en offentlig värdtjänst som t.ex. Github Pages. Detta är nödvändigt eftersom:
 - Webbläsarens geolocation-API fungerar bara över HTTPS eller localhost
 
 För att hålla ordning på saker och se till att relativa sökvägar fungerar som de ska rekommenderar vi följande mappstruktur som värd för lösningen:
@@ -27,9 +27,8 @@ För att hålla ordning på saker och se till att relativa sökvägar fungerar s
 
 ## Ladda ned de medföljande filerna
 
-[HTML-fil](assets/weather-offers.html)
+Hämta och extrahera HTML- och javascript-filen från [west-offers.zip].(assets/weather-offers.zip)
 
-[JavaScript-fil](assets/weather-related-offers-script.js)
 
 
 ## Uppdatera yt-URL:en i javascript-filen
@@ -107,5 +106,5 @@ JavaScript hämtar dynamiskt väderinformation utifrån användarens plats och a
 
 ## Nästa steg
 
-[Mät och rapportera effekten av AJO Decisioning.](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[Mät och rapportera effekten av AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
 
