@@ -60,7 +60,7 @@ Få tillgång till rapporter, analysera prestanda och förfina strategier för b
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Kanalnivårapporter" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1755729019635" alt="Kanalnivårapporter"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448043/?captions=swe&format=jpeg&nocache=1755729019635" alt="Kanalnivårapporter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -83,7 +83,7 @@ Få tillgång till rapporter, analysera prestanda och förfina strategier för b
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Förbättrad rapportering med Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1755729019655" alt="Förbättrad rapportering med Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443155/?captions=swe&format=jpeg&nocache=1755729019655" alt="Förbättrad rapportering med Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
