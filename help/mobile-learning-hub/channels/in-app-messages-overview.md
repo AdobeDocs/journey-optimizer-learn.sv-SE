@@ -6,9 +6,10 @@ role: User, Developer, Admin
 level: Beginner
 hide: false
 index: true
+jira: KT-19862
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 679fd26a-f6e9-4130-973f-8c0e1353c813
-source-git-commit: eab42c39d0e7b105ef36e2e2337539511f91440d
+source-git-commit: 7c79e07f6c551afb7ed849e74ca9a83540e8c086
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
