@@ -7,9 +7,10 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 index: false
+jira: KT-19872
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: c61ece71-58cd-448e-a421-50ba89134713
-source-git-commit: a53a26c704dad3eb817700a0ff7e04ed2887b16d
+source-git-commit: 88474fda4fe1d24356f91214b0f3a5ebd9032b93
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 2%
