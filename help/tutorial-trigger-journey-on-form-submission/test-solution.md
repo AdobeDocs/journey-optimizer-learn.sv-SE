@@ -18,7 +18,7 @@ ht-degree: 0%
 
 
 Testa lösningen
->[!VIDEO](https://video.tv.adobe.com/v/3478546)
+>[!VIDEO](https://video.tv.adobe.com/v/3478550?captions=swe)
 
 ## Distribuera exempelresurserna
 
