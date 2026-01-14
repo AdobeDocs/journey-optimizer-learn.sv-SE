@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 
 Testa lösningen
->[!VIDEO](https://video.tv.adobe.com/v/3478550?captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## Distribuera exempelresurserna
 
@@ -51,8 +51,8 @@ Skapa en ny katalog för exempelprogrammet med följande kommandon:
 * Zippa upp och placera innehållet i [project-root.zip](assets/project-root.zip) i mappen `trigger-journey`.
 
 * Skapa en mapp med namnet `public` i mappen `trigger-journey`
-* Zippa upp innehållet i [index.zip] i den gemensamma mappen
-* uppdatera filen `.env` med lämpliga värden. Dessa värden är tillgängliga från kommandot cURL som laddades ned när HTTP Source-anslutningen skapades
+* uppdatera filen `.env` med lämpliga värden. Dessa värden är tillgängliga från kommandot cURL som hämtades när HTTP Source-anslutningen skapades.
+* Zippa upp innehållet i [index.zip](assets/index.zip) i mappen `public`
 
 ## Kör servern
 

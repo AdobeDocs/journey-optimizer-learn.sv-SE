@@ -9,9 +9,9 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 1c7fe9e7-ab72-4d7b-960a-512d0e25808b
-source-git-commit: 95a8abd08fbf57900870826112b01a8cd375fe96
+source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -25,30 +25,30 @@ Om du vill använda Adobe Experience Platform Web SDK (Alloy.js) på en webbsida
 Skapa ett XDM-schema
 
 - Logga in på Adobe Experience Platform
-- Navigera till _&#x200B;**Datahantering -> Scheman -> Skapa schema**&#x200B;_
+- Navigera till _**Datahantering -> Scheman -> Skapa schema**_
 
-- Skapa ett XDM-händelsebaserat schema med namnet **_Väderschema_**. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/sv/docs/experience-platform/xdm/tutorials/create-schema-ui)
+- Skapa ett XDM-händelsebaserat schema med namnet **_Väderschema_**. Om du inte är van vid att skapa ett schema följer du den här [dokumentationen](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 - Kontrollera att schemat har följande fält med lämplig datatyp.
 
 - ![väderschema](assets/weather-schema.png)
 
-- Lägg till fältgruppen _&#x200B;**Webbinformation**&#x200B;_ i schemat. Den här fältgruppen krävs för rapportering.
+- Lägg till fältgruppen _**Webbinformation**_ i schemat. Den här fältgruppen krävs för rapportering.
 
 ## Skapa en datauppsättning baserad på schemat
 
 En **datauppsättning i Adobe Experience Platform (AEP)** är en strukturerad lagringsbehållare som används för att importera, lagra och aktivera data baserat på ett definierat XDM-schema.
 
-- Navigera till _&#x200B;**Datahantering -> Datauppsättningar -> Skapa datauppsättning**&#x200B;_
-- Skapa en datauppsättning med namnet **_Weather-schema-dataset_** baserat på XDM-schemat(_&#x200B;**Weather-Schema**&#x200B;_) som skapades i föregående steg.
+- Navigera till _**Datahantering -> Datauppsättningar -> Skapa datauppsättning**_
+- Skapa en datauppsättning med namnet **_Weather-schema-dataset_** baserat på XDM-schemat(_**Weather-Schema**_) som skapades i föregående steg.
 
 
 ## Skapa ett datastream
 
 En datastam i Adobe Experience Platform är som en säker pipeline (eller huvudväg) som kopplar din webbplats eller app till Adobes tjänster, så att data kan flöda in och personaliserat innehåll flöda tillbaka.
 
-- Navigera till _&#x200B;**Datasamling > Datastreams**&#x200B;_ och klicka sedan på Ny datastream. Namnge datastream **väderrelaterad-datastream**
+- Navigera till _**Datasamling > Datastreams**_ och klicka sedan på Ny datastream. Namnge datastream **väderrelaterad-datastream**
 
 
 - Ange följande information som visas på skärmbilden nedan
@@ -57,3 +57,8 @@ En datastam i Adobe Experience Platform är som en säker pipeline (eller huvudv
   ![datastream-mapping](assets/datastream-service.png)
 
 - Spara datastream.
+
+
+>[!NOTE]
+>
+>Observera att nya datauppsättningar kan ta upp till 24 timmar innan de kan väljas i rankningsformeln eller Personalization Editor.
