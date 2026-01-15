@@ -37,7 +37,7 @@ Det här användningsexemplet visar hur en inlämning av kundformulär utlöser 
 * Konfigurera datauppsättningssökning för att inkludera referensdata i e-postmeddelandet
 
 Använd ärendeintroduktion och framtagning av händelseschema
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478475?captions=swe)
 
 
 
