@@ -21,7 +21,7 @@ ht-degree: 0%
 Följande komponenter måste vara konfigurerade för att det ska gå att rapportera visningar och klickningar från AJO:
 >[!NOTE]
 >
-> Dessa krav har redan slutförts i avsnittet Skapa schema och datauppsättning i den [tidigare självstudiekursen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Dessa krav har redan slutförts i avsnittet Skapa schema och datauppsättning i den [tidigare självstudiekursen](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Datauppsättning i Adobe Experience Platform (AEP)
 
