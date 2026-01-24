@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Lär dig hur du använder AJO Decisioning för att anpassa push-meddelanden för din målgrupp. Skapa övertygande erbjudanden baserade på mottagarprofiler för att öka försäljningen. Förstå beslutsstrategier, testa kampanjer och analysera mätvärden för effektiv kommunikation. Förbättra engagemanget och leverera de mest relevanta kampanjerna till era kunder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479214/?captions=swe&learn=on&enablevpops)
