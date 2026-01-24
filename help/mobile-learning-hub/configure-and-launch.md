@@ -707,5 +707,5 @@ Se:
 
 ## Ytterligare resurser
 
-- [Använder CDN-baserad klientsidans personalisering (ODD) på mobilen för snabbare personalisering (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+- [Använder CDN-baserad klientsidans personalisering (ODD) på mobilen för snabbare personalisering (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=sv){target="_blank"}
 - [Hemligheten till nästa nivå av mobilappsengagemang och tillväxt (Summit Session)](https://business.adobe.com/se/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
