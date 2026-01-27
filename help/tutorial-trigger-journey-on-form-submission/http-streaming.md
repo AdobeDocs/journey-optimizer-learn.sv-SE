@@ -20,7 +20,7 @@ Konfigurera formuläret så att det skickar data till Adobe Experience Platform 
 
 **Definiera slutpunkt för HTTP-direktuppspelning**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478500?captions=swe)
 
 
 

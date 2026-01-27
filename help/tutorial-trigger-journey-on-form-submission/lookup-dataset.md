@@ -22,7 +22,7 @@ I det här fallet, när en användare skickar in ett formulär för investerings
 
 **Skapar uppslagsdatauppsättning**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478764?captions=swe)
 
 Testa datauppsättningssökfälten genom att skicka formulärinställningarna i föregående steg
 

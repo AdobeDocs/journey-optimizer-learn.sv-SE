@@ -20,7 +20,7 @@ Använd händelseschemat för att definiera en anpassad händelse i Adobe Journe
 
 Definiera en anpassad händelse med namnet **_InvestmentPreference_**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478487?captions=swe)
 
 
 

@@ -38,7 +38,7 @@ Det här användningsexemplet visar hur en inlämning av kundformulär utlöser 
 
 **Använd fallintroduktion och skapande av händelseschema**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478475?captions=swe)
 
 
 
