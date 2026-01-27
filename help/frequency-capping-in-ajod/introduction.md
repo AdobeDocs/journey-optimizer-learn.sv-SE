@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Den här självstudiekursen visar hur man använder frekvensbegränsning för erbjudanden i Adobe Journey Optimizer för att styra hur ofta användare ser samma erbjudande över tiden.
 
-I den här självstudiekursen antas du redan ha konfigurerat en AJO-kampanj genom att följa [självstudiekursen om att personalisera erbjudanden baserat på väderförhållanden](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+I den här självstudiekursen antas du redan ha konfigurerat en AJO-kampanj genom att följa [självstudiekursen om att personalisera erbjudanden baserat på väderförhållanden](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
 
 Genom att fånga in decisioning.propositionDisplay- och decisioning.propositionInteract-händelser via Adobe Web SDK och mappa dem till XDM-scheman i Adobe Experience Platform (AEP), kan Adobe Journey Optimizer noggrant spåra offertvisningar och interaktioner, vilket gör det möjligt att begränsa hur ofta ett erbjudande visas för en användare.
 
