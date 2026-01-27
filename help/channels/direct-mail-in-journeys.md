@@ -8,9 +8,9 @@ doc-type: Feature Video
 duration: 188
 last-substantial-update: 2026-01-24T00:00:00Z
 jira: KT-20176
-hide: true
-hidefromtoc: true
-source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
+hide: false
+hidefromtoc: false
+source-git-commit: 31a43b91fe3281a7de2aacb04e7714106d43cf89
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Upptäck hur ni kan utnyttja Direct Mail-kanalen i Adobe Journey Optimizer för 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
-Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys).
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys).

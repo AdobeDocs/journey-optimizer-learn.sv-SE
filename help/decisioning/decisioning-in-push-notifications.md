@@ -8,9 +8,9 @@ doc-type: Feature Video
 duration: 177
 last-substantial-update: 2026-01-24T00:00:00Z
 jira: KT-20180
-hidefromtoc: true
-hide: true
-source-git-commit: e1f86b6b4ddc16dc59b9571fda718ae144dd3137
+hidefromtoc: false
+hide: false
+source-git-commit: 31a43b91fe3281a7de2aacb04e7714106d43cf89
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Lär dig hur du använder AJO Decisioning för att anpassa push-meddelanden för din målgrupp. Skapa övertygande erbjudanden baserade på mottagarprofiler för att öka försäljningen. Förstå beslutsstrategier, testa kampanjer och analysera mätvärden för effektiv kommunikation. Förbättra engagemanget och leverera de mest relevanta kampanjerna till era kunder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479214/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
