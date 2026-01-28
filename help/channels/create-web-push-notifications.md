@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Med Web Push kan webbplatser skicka meddelanden direkt till en användares enhet, även när webbläsaren är i bakgrunden. Lär dig hur du skapar och skickar push-meddelanden för webben i Adobe Journey Optimizer. Den här självstudiekursen guidar dig genom att välja kanalkonfigurationer, skapa meddelanden, välja målgrupper och publiceringskampanjer för att nå ut bättre än mobila enheter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479341/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479345/?captions=swe&learn=on&enablevpops)
