@@ -40,7 +40,7 @@ Lär dig hur du utformar, redigerar och levererar mobilmeddelanden per kanal:
 
 Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar och skickar meddelanden via dessa kanaler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430381?captions=swe&quality=12&learn=on){transcript=true}
 
 >[!TAB Tryck]
 
@@ -90,7 +90,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="Konfigurera och skicka en push-kampanj" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422017/?format=jpeg&nocache=1770071084041" alt="Konfigurera och skicka en push-kampanj"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3452705/?captions=swe&format=jpeg&nocache=1770071084041" alt="Konfigurera och skicka en push-kampanj"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -113,7 +113,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" title="Optimera push-meddelanden med AJO Decisioning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479199/?format=jpeg&nocache=1770071084034" alt="Optimera push-meddelanden med AJO Decisioning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479214/?captions=swe&format=jpeg&nocache=1770071084034" alt="Optimera push-meddelanden med AJO Decisioning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -187,7 +187,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" title="Skapa en kampanj i appen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410430?format=jpeg&nocache=1770071084761" alt="Skapa en kampanj i appen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451886?captions=swe&format=jpeg&nocache=1770071084761" alt="Skapa en kampanj i appen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -243,7 +243,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards" title="Skapa innehållskort" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434783/?format=jpeg&nocache=1770071085465" alt="Skapa innehållskort"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434787/?captions=swe&format=jpeg&nocache=1770071085465" alt="Skapa innehållskort"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -315,7 +315,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="Konfigurera, redigera och leverera SMS-meddelanden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420509?format=jpeg&nocache=1770071085932" alt="Konfigurera, redigera och leverera SMS-meddelanden"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428916?captions=swe&format=jpeg&nocache=1770071085932" alt="Konfigurera, redigera och leverera SMS-meddelanden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -338,7 +338,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Dubbel anmälan för Sinch och Infobip" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427129/?format=jpeg&nocache=1770071085934" alt="Dubbel anmälan för Sinch och Infobip"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440280/?captions=swe&format=jpeg&nocache=1770071085934" alt="Dubbel anmälan för Sinch och Infobip"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -372,7 +372,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="Skriv ett MMS-meddelande" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428816/?format=jpeg&nocache=1770071086394" alt="Skriv ett MMS-meddelande"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437104/?captions=swe&format=jpeg&nocache=1770071086394" alt="Skriv ett MMS-meddelande"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -395,7 +395,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Konfigurera RCS i Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1770071086404" alt="Konfigurera RCS i Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464759/?captions=swe&format=jpeg&nocache=1770071086404" alt="Konfigurera RCS i Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -442,7 +442,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign" title="Skapa en kodbaserad upplevelsekampanj." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428868/?format=jpeg&nocache=1770071087001" alt="Skapa en kodbaserad upplevelsekampanj."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449457/?captions=swe&format=jpeg&nocache=1770071087001" alt="Skapa en kodbaserad upplevelsekampanj."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -465,7 +465,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" title="Lägg till formulärfält i kodbaserade upplevelsekanalmallar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463990/?format=jpeg&nocache=1770071087005" alt="Lägg till formulärfält i kodbaserade upplevelsekanalmallar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463995/?captions=swe&format=jpeg&nocache=1770071087005" alt="Lägg till formulärfält i kodbaserade upplevelsekanalmallar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -514,7 +514,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" title="Introduktion till WhatsApp-kanalen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470296/?format=jpeg&nocache=1770071087484" alt="Introduktion till WhatsApp-kanalen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470300/?captions=swe&format=jpeg&nocache=1770071087484" alt="Introduktion till WhatsApp-kanalen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -537,7 +537,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey" title="Skapa en whatsApp-resa" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470282/?format=jpeg&nocache=1770071087481" alt="Skapa en whatsApp-resa"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470286/?captions=swe&format=jpeg&nocache=1770071087481" alt="Skapa en whatsApp-resa"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -695,7 +695,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" title="Tilldela prioritetspoäng till inkommande åtgärder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435529/?format=jpeg&nocache=1770071089058" alt="Tilldela prioritetspoäng till inkommande åtgärder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445005/?captions=swe&format=jpeg&nocache=1770071089058" alt="Tilldela prioritetspoäng till inkommande åtgärder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -718,7 +718,7 @@ Förstå vilka mobilkanaler Journey Optimizer stöder och hur man konfigurerar o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" title="Tappning och prioritering av resefrekvenser" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435530/?format=jpeg&nocache=1770071089055" alt="Tappning och prioritering av resefrekvenser"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447618/?captions=swe&format=jpeg&nocache=1770071089055" alt="Tappning och prioritering av resefrekvenser"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
