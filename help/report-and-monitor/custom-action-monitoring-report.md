@@ -22,6 +22,6 @@ Lär dig hur du effektivt kan övervaka driftshälsa och prestanda för HTTP-anr
 
 Den här rapporten hjälper till att identifiera problem, förbättra reseprestanda och säkerställa smidig drift.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479545/?captions=swe&learn=on&enablevpops)
 
 Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting).
