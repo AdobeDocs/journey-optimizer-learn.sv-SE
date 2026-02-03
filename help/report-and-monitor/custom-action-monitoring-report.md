@@ -24,4 +24,4 @@ Den här rapporten hjälper till att identifiera problem, förbättra resepresta
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting).
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting).
