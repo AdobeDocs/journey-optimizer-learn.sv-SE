@@ -24,4 +24,4 @@ Upptäck hur ni kan utnyttja Direct Mail-kanalen i Adobe Journey Optimizer för 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
-Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/create-direct-mail).
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/direct-mail/create-direct-mail).

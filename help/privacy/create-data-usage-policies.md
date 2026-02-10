@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Skapa dataanvändningsprinciper
 
-Lär dig hur du skapar och hanterar principer för dataanvändning. Med dataanvändningspolicyer kan du begränsa dataanvändningen för specifika ändamål baserat på märkning av data. Mer information om API-baserad metod finns i [Skapa dataanvändningsprinciper med API](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create).
+Lär dig hur du skapar och hanterar principer för dataanvändning. Med dataanvändningspolicyer kan du begränsa dataanvändningen för specifika ändamål baserat på märkning av data. Mer information om API-baserad metod finns i [Skapa dataanvändningsprinciper med API](https://experienceleague.adobe.com/sv/docs/experience-platform/data-governance/policies/create).
 
 >[!NOTE]
 >
@@ -30,4 +30,4 @@ Lär dig hur du skapar och hanterar principer för dataanvändning. Med dataanv�
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-Mer information om hur du [arbetar med medgivandeprinciper](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) i Journey Optimizer finns i produktdokumentationen.
+Mer information om hur du [arbetar med medgivandeprinciper](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/privacy/consent/consent) i Journey Optimizer finns i produktdokumentationen.
