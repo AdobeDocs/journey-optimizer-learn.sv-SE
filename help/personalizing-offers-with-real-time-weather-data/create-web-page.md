@@ -96,11 +96,11 @@ JavaScript hämtar dynamiskt väderinformation utifrån användarens plats och a
 
 6. **Hämtar och återger erbjudanden**
 
-* Tar emot erbjudanden som returnerats av AJO Decisioning.
+&#x200B;* Tar emot erbjudanden som returnerats av AJO Decisioning.
 
-* Avkodar HTML-innehåll.
+&#x200B;* Avkodar HTML-innehåll.
 
-* Lägg in erbjudandena i <div id="offerContainer"> -element.
+&#x200B;* Lägg in erbjudandena i <div id="offerContainer"> -element.
 
 ## Nästa steg
 
