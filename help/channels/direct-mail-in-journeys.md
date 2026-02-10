@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Upptäck hur ni kan utnyttja Direct Mail-kanalen i Adobe Journey Optimizer för att automatisera och schemalägga direktreklam under era resor. Upptäck hur du konfigurerar filroutning, konfigurerar hur ofta bilderna ska skapas och använder direktreklamåtgärder på arbetsytan på resan. I den här videon visas hur AJO köar deltagare, genererar tidsstämplade filer med intervall och skickar dem automatiskt när de har aktiverats.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479166/?captions=swe&learn=on&enablevpops)
 
 Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/direct-mail/create-direct-mail).
