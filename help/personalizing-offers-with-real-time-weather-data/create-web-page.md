@@ -104,5 +104,5 @@ JavaScript hämtar dynamiskt väderinformation utifrån användarens plats och a
 
 ## Nästa steg
 
-[Mät och rapportera effekten av AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
+[Mät och rapportera effekten av AJO Decisioning.](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 
