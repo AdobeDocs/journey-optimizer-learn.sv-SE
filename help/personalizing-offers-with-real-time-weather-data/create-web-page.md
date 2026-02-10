@@ -9,7 +9,7 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -42,8 +42,6 @@ Hämta och extrahera HTML- och javascript-filen från [west-offers.zip].(assets/
 ```
 <script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
 ```
-
-
 
 ## Vad webbsidan gör
 
@@ -98,13 +96,13 @@ JavaScript hämtar dynamiskt väderinformation utifrån användarens plats och a
 
 6. **Hämtar och återger erbjudanden**
 
-   Tar emot erbjudanden som returnerats av AJO Decisioning.
+* Tar emot erbjudanden som returnerats av AJO Decisioning.
 
-   Avkodar HTML-innehåll.
+* Avkodar HTML-innehåll.
 
-   Lägg in erbjudandena i <div id="offerContainer"> -element.
+* Lägg in erbjudandena i <div id="offerContainer"> -element.
 
 ## Nästa steg
 
-[Mät och rapportera effekten av AJO Decisioning.](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[Mät och rapportera effekten av AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 
