@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer Vuideo Shorts
 user-guide-breadcrumb: Journey Optimizer Video Shorts
 user-guide-description: Det här är Journey Optimizer Video Shorts.
 auto-video-transcripts: true
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+source-git-commit: a7342e0a3d4f9cfbc50ce899fa0dc72e70826102
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,6 @@ ht-degree: 1%
       + [Videokort](summit/2025/human-ai-collaboration-adobe-agents-enhancing-productivity.md)
       + [Videokort](summit/2025/introducing-the-adobe-journey-optimizer-experimentation-accelerator.md)
       + [Videokort](summit/2025/introduction-to-content-cards-in-adobe-journey-optimizer.md)
-      + [Videokort](summit/2025/live-demo-creating-and-publishing-a-content-card-campaign.md)
       + [Videokort](summit/2025/new-channels-and-integrations-in-adobe-journey-optimizer.md)
       + [Videokort](summit/2025/overcoming-barriers-to-experimentation-at-scale.md)
       + [Videokort](summit/2025/rcs-messaging-the-future-of-rich-communication.md)
