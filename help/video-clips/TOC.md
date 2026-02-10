@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer videoklipp
 user-guide-breadcrumb: Journey Optimizer Video Clips
 user-guide-description: Det här är Journey Optimizer videoklipp.
 auto-video-transcripts: true
-source-git-commit: 28e2477974df6d22cff87eb9c242657e23569b15
+source-git-commit: 1ffa2aa2bf3cefd6b35e74650fd70bdf1f77c334
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,6 @@ ht-degree: 1%
       + [Videokort](summit/2025/human-ai-collaboration-adobe-agents-enhancing-productivity.md)
       + [Videokort](summit/2025/introducing-the-adobe-journey-optimizer-experimentation-accelerator.md)
       + [Videokort](summit/2025/introduction-to-content-cards-in-adobe-journey-optimizer.md)
-      + [Videokort](summit/2025/live-demo-creating-and-publishing-a-content-card-campaign.md)
       + [Videokort](summit/2025/new-channels-and-integrations-in-adobe-journey-optimizer.md)
       + [Videokort](summit/2025/overcoming-barriers-to-experimentation-at-scale.md)
       + [Videokort](summit/2025/rcs-messaging-the-future-of-rich-communication.md)
