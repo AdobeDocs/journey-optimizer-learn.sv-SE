@@ -11,18 +11,18 @@ jira: KT-16264
 hide: false
 hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
+exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-
 # Använd dataanvändningspolicyer i Journey Optimizer-kanaler
 
 Läs om hur dataanvändningsprinciper tillämpas i Journey Optimizer-kanaler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434909/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Mer information om [datastyrning](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/privacy/action-privacy-restricted) och hur du [arbetar med policyer för samtycke](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted) i Journey Optimizer finns i produktdokumentationen.
+Mer information om [datastyrning](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) och hur du [arbetar med policyer för samtycke](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) i Journey Optimizer finns i produktdokumentationen.
