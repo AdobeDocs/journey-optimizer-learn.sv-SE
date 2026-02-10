@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Läs om hur användarna kan utnyttja AJO Decisioning för personaliserade innehållserbjudanden med hjälp av innehållsbeslutsaktiviteten på arbetsytan. Använd den här funktionen för att dirigera profiler baserat på hämtade erbjudanden eller skicka erbjudanden till externa system, vilket förbättrar kundresan och gör den mer effektiv och personaliserad.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479111/?captions=swe&learn=on&enablevpops)
