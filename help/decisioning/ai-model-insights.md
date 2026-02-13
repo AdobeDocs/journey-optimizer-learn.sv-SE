@@ -23,5 +23,5 @@ ht-degree: 0%
 
 Förstå hur man analyserar utbildningsstatus, trafikallokering och prestanda för AI-modeller för att optimera personaliserade beslut i Journey Optimizer. Lär dig hur du identifierar problem, felsöker modeller och förbättrar konverteringsgraden med hjälp av AI-funktioner. I den här videon får du hjälp med att hantera AI-modeller effektivt och få affärsresultat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479853/?captions=swe&learn=on&enablevpops)
 
