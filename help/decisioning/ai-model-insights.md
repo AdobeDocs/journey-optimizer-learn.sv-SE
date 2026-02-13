@@ -11,7 +11,7 @@ hidefromtoc: true
 hide: true
 last-substantial-update: 2026-02-13T00:00:00Z
 jira: KT-20313
-source-git-commit: 4fe31620f48ad8a121256775fdaf5cbc115e2b98
+source-git-commit: d7dedf356471641440d6b0ee24257e20f19c6d3b
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -23,4 +23,5 @@ ht-degree: 0%
 
 Förstå hur man analyserar utbildningsstatus, trafikallokering och prestanda för AI-modeller för att optimera personaliserade beslut i Journey Optimizer. Lär dig hur du identifierar problem, felsöker modeller och förbättrar konverteringsgraden med hjälp av AI-funktioner. I den här videon får du hjälp med att hantera AI-modeller effektivt och få affärsresultat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479853/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+
