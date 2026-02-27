@@ -1,6 +1,6 @@
 ---
 title: Skapa en lojalitetsutmaning
-description: Lär dig hur du snabbt skapar en lojalitetsutmaning, från att ställa in uppgifter, belöningar och scheman till att konfigurera innehåll, meddelanden och målgrupper, och generera automatiskt en komplett kundresa bakom kulisserna.
+description: Lär dig hur du skapar en lojalitetsutmaning genom att ställa in uppgifter, belöningar och tidsplaner. Förstå hur ni konfigurerar innehåll, meddelanden och målgrupper medan en komplett kundresa genereras automatiskt i bakgrunden.
 feature: Setup
 role: Leader, User
 level: Beginner
@@ -12,9 +12,9 @@ hide: true
 hidefromtoc: true
 index: false
 badgeBet: label="Beta" type="Informative"
-source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
+source-git-commit: 84f0f50b5ba68f3fa53d2ccedf9de3f84ca01e2f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Skapa en lojalitetsutmaning
 
-Lär dig hur du snabbt skapar en lojalitetsutmaning, från att ställa in uppgifter, belöningar och scheman till att konfigurera innehåll, meddelanden och målgrupper, och generera automatiskt en komplett kundresa bakom kulisserna.
+Lär dig hur du skapar en lojalitetsutmaning genom att ställa in uppgifter, belöningar och tidsplaner. Förstå hur ni konfigurerar innehåll, meddelanden och målgrupper medan en komplett kundresa genereras automatiskt i bakgrunden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
