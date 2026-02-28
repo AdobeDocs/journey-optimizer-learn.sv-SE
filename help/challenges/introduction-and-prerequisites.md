@@ -41,7 +41,7 @@ Du behöver följande åtkomsträttigheter:
 
 ### Nödvändiga åtgärder
 
-* Om du inte har använt Adobe Journey Optimizer tidigare ska du slutföra kursen [Komma igång med Journey Optimizer för resechefer och administratörer](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html).
+* Om du inte har använt Adobe Journey Optimizer tidigare ska du slutföra kursen [Komma igång med Journey Optimizer för resechefer och administratörer](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=sv-SE).
 
 ## Artikeln
 

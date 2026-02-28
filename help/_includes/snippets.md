@@ -11,13 +11,13 @@ ht-degree: 0%
 
 >[!INFO]
 >
-> Den här videon är en del av en kurs [Konfigurera Journey Optimizer för administratörer](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html) som är tillgänglig kostnadsfritt på Experience League!
+> Den här videon är en del av en kurs [Konfigurera Journey Optimizer för administratörer](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html?lang=sv-SE) som är tillgänglig kostnadsfritt på Experience League!
 
 ## Kurs Komma igång med beslutshantering för marknadsförare {#experienceplatform-u-1-2020-1-offerdecisioning}
 
 >[!INFO]
 >
-> Den här videon är en del av en [Course Getting started with Decision management for marketers](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en), som är kostnadsfri på Experience League!
+> Den här videon är en del av en [Course Getting started with Decision management for marketers](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=sv-SE), som är kostnadsfri på Experience League!
 
 ## ExL Live In-App {#exl-live-in-app}
 
