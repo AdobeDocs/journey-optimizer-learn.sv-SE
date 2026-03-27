@@ -8,7 +8,7 @@ index: true
 jira: KT-19860
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 8a6ae2fa80db47751a864cc983446b306b6d8e7a
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '892'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Kom igång snabbt eller lyft upp er strategi för mobilengagemang med Adobe Jour
 
 Utforska bästa praxis, lär dig hur ni kan få till stånd fler implementeringar och skapa centraliserade arbetsflöden för rapportering - allt på ett och samma ställe - för att leverera slagkraftiga, datadrivna mobilupplevelser som når kunderna när som helst, var som helst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477002?captions=swe&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Översikt över mobilkanalen
@@ -99,4 +99,4 @@ Lär dig begreppen och hur du
 
 ## Användningsexempel
 
-* [Flyg med personalisering: Hur flygbolag kan höja sina erbjudanden med Adobe Journey Optimizer (blogg)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=sv)
+* [Flyg med personalisering: Hur flygbolag kan höja sina erbjudanden med Adobe Journey Optimizer (blogg)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)

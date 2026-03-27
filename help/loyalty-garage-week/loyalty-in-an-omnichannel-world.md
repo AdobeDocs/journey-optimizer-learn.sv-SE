@@ -5,13 +5,13 @@ feature: Overview
 role: User
 hide: true
 index: false
-source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
+exl-id: 73603f31-b60f-4062-8de2-636b20d2c039
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
 
 ---
-
 
 # Lojalitet i en värld i flera kanaler
 

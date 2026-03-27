@@ -11,16 +11,16 @@ jira: KT-19403
 hide: false
 hidefromtoc: false
 index: true
-source-git-commit: c7ff1ad8ff2069295d65553022306cccaf8cbac6
+exl-id: 2505ef58-0df4-470b-a318-6146e66af32e
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-
 # Konfigurera och använd tysta timmar
 
 Lär dig hur du använder funktionen för tysta öppethållanden i Adobe Journey Optimizer för att förhindra att meddelanden skickas till kunder under vissa tidsintervall, vilket hjälper marknadsförarna att undvika att skicka meddelanden vid olämpliga tidpunkter och förbättra kundengagemanget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475856/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

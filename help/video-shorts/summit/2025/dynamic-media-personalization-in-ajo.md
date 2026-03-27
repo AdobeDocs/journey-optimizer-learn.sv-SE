@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: 032316ab-8d8f-4a4f-bc8c-fc2ccc6ea70f
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-
 # Dynamic Media Personalization i AJO
 
 Läs om hur Adobe Journey Optimizer integreras med Experience Manager Dynamic Media för att möjliggöra personaliserade, sammansatta bilder för marknadsföringskampanjer.
 
 <!-- 62_S520_3442520_48_dynamic-media-personalization-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3460313/?learn=on&enablevpops=true&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3458201/?learn=on&enablevpops=true)

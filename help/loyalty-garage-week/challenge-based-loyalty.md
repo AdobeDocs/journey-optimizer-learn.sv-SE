@@ -5,13 +5,13 @@ feature: Overview
 role: User
 hide: true
 index: false
-source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
+exl-id: 57586174-2727-4f3d-96b4-7ca248941ab6
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '2008'
 ht-degree: 0%
 
 ---
-
 
 # Utmaningsbaserad lojalitet
 

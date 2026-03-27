@@ -2,7 +2,7 @@
 title: Använd dataanvändningspolicyer i Journey Optimizer-kanaler
 description: Läs om hur dataanvändningsetiketter används i Journey Optimizer-kanaler.
 feature: Governance, Privacy
-role: Data Architect, Admin, User
+role: Developer, Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 164
@@ -12,7 +12,7 @@ hide: false
 hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
 exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1
-source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Läs om hur dataanvändningsprinciper tillämpas i Journey Optimizer-kanaler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434909/?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Mer information om [datastyrning](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/privacy/action-privacy-restricted) och hur du [arbetar med policyer för samtycke](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/privacy/consent/consent) i Journey Optimizer finns i produktdokumentationen.
+Mer information om [datastyrning](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) och hur du [arbetar med policyer för samtycke](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) i Journey Optimizer finns i produktdokumentationen.

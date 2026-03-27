@@ -10,7 +10,7 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17875
 index: false
 exl-id: e3a93300-e5db-4c8b-8afc-18f101db93d0
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%

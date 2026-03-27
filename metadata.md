@@ -2,15 +2,17 @@
 cloud: Experience Cloud
 solution: Journey Optimizer
 feature-set: Journey Optimizer
+landing-page-name: journey-optimizer
+landing-page-breadcrumb-title: Journey Optimizer
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/journey-optimizer-learn.sv-SE
 index: true
 auto-video-transcripts: true
-source-git-commit: bd0b08ead432093a44a689c11859bb87be0ac1b5
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 93%
+source-wordcount: '53'
+ht-degree: 98%
 
 ---
 

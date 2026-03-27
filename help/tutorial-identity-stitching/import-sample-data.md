@@ -9,7 +9,7 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 3%
@@ -51,7 +51,7 @@ Uppdatera de falska e-postadresserna till riktiga. Dessa används senare när du
 * Skapa en datauppsättning med namnet **_FinWiseCustomerDataSetWithAnnualIncome_** baserat på det **_FinWiseProfileSchema_** som skapades i det tidigare. Kontrollera att datauppsättningen är aktiverad för profilen.
 
 * Navigera till Anslutningar -> Källor -> Lokalt system
-* Välj **_Lägg till data_** under den lokala filöverföringen. Se till att välja _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ som måldatamängd.
+* Välj **_Lägg till data_** under den lokala filöverföringen. Se till att välja _**FinWiseCustomerDataSetWithAnnualIncome**_ som måldatamängd.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Gå till nästa skärm. Överför [csv-filen](assets/finwise_profiles.csv) och verifiera mappningarna
   ![mappningar](assets/mappings.png)
