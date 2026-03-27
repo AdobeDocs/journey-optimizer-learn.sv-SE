@@ -27,6 +27,6 @@ Lär dig hur du exporterar en datauppsättning från Journey Optimizer till ett 
 >[!NOTE]
 >Under betafasen är alla datauppsättningar synliga. När den här funktionen är allmänt tillgänglig begränsas den till enbart de systemgenererade datauppsättningarna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432009/?captions=swe&quality=12&learn=on){transcript=true}
 
 Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=sv-SE).

@@ -20,4 +20,4 @@ ht-degree: 0%
 Läs om hur innehållskort i Adobe Journey Optimizer kan leverera personaliserat och engagerande innehåll direkt inifrån mobilappen.
 
 <!-- 62_S603_3442534_62_introduction-to-content-cards-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458206/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460390/?captions=swe&learn=on&enablevpops=true)

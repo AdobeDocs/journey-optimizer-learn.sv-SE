@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar en lojalitetsutmaning genom att ställa in uppgifter, belöningar och tidsplaner. Förstå hur ni konfigurerar innehåll, meddelanden och målgrupper medan en komplett kundresa genereras automatiskt i bakgrunden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480330/?captions=swe&learn=on&enablevpops)
