@@ -29,4 +29,4 @@ Lär dig hur du exporterar en datauppsättning från Journey Optimizer till ett 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
 
-Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=en).
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=sv-SE).

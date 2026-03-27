@@ -24,10 +24,10 @@ Förstå datastyrningsramverket i Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
-Mer information om [datastyrning](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) i Journey Optimizer finns i produktdokumentationen.
+Mer information om [datastyrning](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/privacy/action-privacy-restricted) i Journey Optimizer finns i produktdokumentationen.
 
 ## Ytterligare utbildning
 
-* [Spellista: Kom igång med Adobe Experience Platform datastyrning](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-data-governance)
+* [Spellista: Kom igång med Adobe Experience Platform datastyrning](https://experienceleague.adobe.com/sv/playlists/experience-platform-get-started-with-data-governance)
 
   *Läs mer om datastyrning på Adobe Experience Platform och om hur du klassificerar data med hjälp av etiketter, skapar dataanvändningsprinciper och tillämpar dataanvändningsprinciper på Experience Platform.*
