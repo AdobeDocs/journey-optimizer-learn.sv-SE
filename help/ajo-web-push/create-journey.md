@@ -28,12 +28,12 @@ Så här skapar du en resa som utlöses av händelsen price.drop:
 ## Lägg till PriceDropEvent
 
 Dra `PriceDropEvent` från händelseavsnittet till arbetsytan
-![ price-drop-event ](assets/add-price-drop-event.png)
+![&#x200B; price-drop-event &#x200B;](assets/add-price-drop-event.png)
 
 ## Lägg till penselåtgärd
 
 Expandera avsnittet Åtgärder. Dra och släpp aktiviteten `Action` på arbetsytan och välj Push som åtgärdstyp
-![ push-action ](assets/add-push-action.png)
+![&#x200B; push-action &#x200B;](assets/add-push-action.png)
 
 ## Konfigurera push-åtgärden
 
@@ -72,7 +72,7 @@ Spara slutligen alla ändringar och publicera resan. När den publicerats blir r
 
 ## Testa lösningen
 
-Om du vill utlösa händelsen price.drop öppnar du sidan för utlösare för [pris/släpp, ](http://localhost:3000/price-drop-trigger.html) markerar en eller flera produkter och klickar på utlösare för pris. Detta skickar händelsen via Adobe datalager med AEP-taggar, som sedan initierar resan och skickar push-meddelandet i realtid.
+Om du vill utlösa händelsen price.drop öppnar du sidan för utlösare för [pris/släpp, &#x200B;](http://localhost:3000/price-drop-trigger.html) markerar en eller flera produkter och klickar på utlösare för pris. Detta skickar händelsen via Adobe datalager med AEP-taggar, som sedan initierar resan och skickar push-meddelandet i realtid.
 
 
 

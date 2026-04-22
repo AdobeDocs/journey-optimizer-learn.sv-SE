@@ -56,7 +56,7 @@ Se slutligen till att du aktiverar kampanjen.
 
 ## Testa kampanjen
 
-Om du vill testa kampanjen aktiverar du först meddelanden på [webbsidan genom att välja ](http://localhost:3000) när du uppmanas till det. När du har valt att delta väntar du tills kampanjen körs vid den schemalagda tidpunkten. När kampanjen körs bör du få push-meddelandet i webbläsaren.
+Om du vill testa kampanjen aktiverar du först meddelanden på [webbsidan genom att välja &#x200B;](http://localhost:3000) när du uppmanas till det. När du har valt att delta väntar du tills kampanjen körs vid den schemalagda tidpunkten. När kampanjen körs bör du få push-meddelandet i webbläsaren.
 
 
 
