@@ -54,7 +54,7 @@ Lägg till en kombination av statiskt och dynamiskt innehåll i push-meddelandet
 Om du vill börja komponera meddelandet klickar du på `Content` för att öppna fliken Innehåll, där du kan definiera både den fasta texten och de dynamiska fält som härleds från händelsedata.
 ![content-push](assets/compose-message.png)
 
-Ange push-meddelandets titel och öppna sedan anpassningsredigeraren för att skapa meddelandetexten. Innehållet kommer dynamiskt att innehålla namnen på de produkter vars priser har sjunkit. För att uppnå detta använder du varje [hjälpfunktion](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+Ange push-meddelandets titel och öppna sedan anpassningsredigeraren för att skapa meddelandetexten. Innehållet kommer dynamiskt att innehålla namnen på de produkter vars priser har sjunkit. För att uppnå detta använder du varje [hjälpfunktion](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 för att iterera över produktlistan och återge namnen i meddelandet.
 
 ## Skriv meddelandetexten
