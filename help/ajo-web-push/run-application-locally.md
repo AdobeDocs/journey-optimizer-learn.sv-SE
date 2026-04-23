@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 2635641b-5ae2-4303-bac7-02c3702950f0
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -53,8 +54,9 @@ DATASTREAM_ID=your_datastream_id
 ORG_ID=your_org_id
 VAPID_PUBLIC_KEY=your_vapid_public_key
 APP_ID=your_app_id
-DATASET_ID=your_profile_dataset_id
+DATASET_ID=your_event_dataset_id
 PORT=3000
 ```
+
 
 När du kör lokalt läses dessa värden från .env-filen. I produktion (t.ex. Återgivning) konfigureras de som miljövariabler.

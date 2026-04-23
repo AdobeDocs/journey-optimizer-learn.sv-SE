@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -56,8 +57,4 @@ Se slutligen till att du aktiverar kampanjen.
 
 ## Testa kampanjen
 
-Om du vill testa kampanjen aktiverar du först meddelanden på [webbsidan genom att välja &#x200B;](http://localhost:3000) när du uppmanas till det. När du har valt att delta väntar du tills kampanjen körs vid den schemalagda tidpunkten. När kampanjen körs bör du få push-meddelandet i webbläsaren.
-
-
-
-
+Om du vill testa kampanjen aktiverar du först meddelanden på webbsidan [genom att välja ](http://localhost:3000) när du uppmanas till det. När du har valt att delta väntar du tills kampanjen körs vid den schemalagda tidpunkten. När kampanjen körs bör du få push-meddelandet i webbläsaren.
