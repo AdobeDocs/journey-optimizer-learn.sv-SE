@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Lär dig hur ni utnyttjar meddelandeoptimering i praktiken eller API-utlösta kampanjer. Ni ser hur ni kan rikta in er på olika målgrupper, skapa meddelandevariationer utifrån plats, aktivera reservinnehåll och köra flera experiment inom en och samma kampanj. Den här självstudiekursen handlar också om hur du hanterar flerkanalskampanjer samtidigt som du bibehåller meddelandets enhetlighet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470372/?captions=swe&learn=on&enablevpops)

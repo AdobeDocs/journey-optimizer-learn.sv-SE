@@ -25,4 +25,4 @@ The [personalization editor playground](https://experienceleague.adobe.com/sv/ap
 
 Learn how to leverage predefined code samples, edit dummy profile payloads, and preview the output of your personalization code in real-time.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475956/?captions=swe&learn=on&enablevpops)
