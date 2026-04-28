@@ -138,7 +138,7 @@ CARDS
 
 #### Product Documentation
 
-| ![Create Push ](./assets/configuration.svg)[**Create a push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Design push ](./assets/content-management.png){width="50"}[**Design a push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Send push ](./assets/communication-channel.svg)[**Send a push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![Create Push &#x200B;](./assets/configuration.svg) [**Create a push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Design push &#x200B;](./assets/content-management.png){width="50"}[**Design a push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Send push &#x200B;](./assets/communication-channel.svg) [**Send a push notification**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB In-app]
@@ -220,7 +220,7 @@ CARDS
 
 #### Dokumentation
 
-| ![Skapa meddelande ](./assets/configuration.svg)[**Skapa meddelanden i appen för mobiler**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Designa innehåll ](./assets/content-management.png){width="50"}[**Designa innehåll i appen**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Skicka meddelande ](./assets/communication-channel.svg)[**Skicka meddelanden i appen**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![Skapa meddelande &#x200B;](./assets/configuration.svg) [**Skapa meddelanden i appen för mobiler**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Designa innehåll &#x200B;](./assets/content-management.png){width="50"}[**Designa innehåll i appen**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Skicka meddelande &#x200B;](./assets/communication-channel.svg) [**Skicka meddelanden i appen**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Innehållskort]
@@ -270,7 +270,7 @@ CARDS
 
 #### Produktdokumentation
 
-| ![Skapa och konfigurera innehållskort ](./assets/configuration.svg)[**Skapa och konfigurera innehållskort**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Designinnehållskort ](./assets/content-management.png){width="50"}[**Designinnehållskort**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![Skapa och konfigurera innehållskort &#x200B;](./assets/configuration.svg) [**Skapa och konfigurera innehållskort**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Designinnehållskort &#x200B;](./assets/content-management.png){width="50"}[**Designinnehållskort**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
@@ -424,7 +424,7 @@ CARDS
 
 #### Produktdokumentation
 
-| ![Kom igång med textmeddelanden ](./assets/configuration.svg)[**Kom igång med textmeddelanden**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Skapa innehåll ](./assets/content-management.png){width="50"}[**Skapa SMS-, MMS- och RCS-meddelanden**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Skicka meddelande ](./assets/communication-channel.svg)[**Kontrollera och skicka textmeddelanden**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![Kom igång med textmeddelanden &#x200B;](./assets/configuration.svg) [**Kom igång med textmeddelanden**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Skapa innehåll &#x200B;](./assets/content-management.png){width="50"}[**Skapa SMS-, MMS- och RCS-meddelanden**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Skicka meddelande &#x200B;](./assets/communication-channel.svg) [**Kontrollera och skicka textmeddelanden**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Kodbaserade upplevelser]
@@ -495,7 +495,7 @@ CARDS
 
 #### Produktdokumentation
 
-| ![Skapa kodbaserade upplevelser ](./assets/content-management.png){width="50"}[**Skapa kodbaserade upplevelser**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
+| ![Skapa kodbaserade upplevelser &#x200B;](./assets/content-management.png){width="50"}[**Skapa kodbaserade upplevelser**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB WhatsApp]
@@ -568,7 +568,7 @@ CARDS
 
 #### Produktdokumentation
 
-| ![Skapa meddelanden för whatsApp ](./assets/configuration.svg)[*Skapa meddelanden för whatsApp*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Förhandsgranska, validera och skicka whatsApp-meddelanden ](./assets/communication-channel.svg){width="50"}[**Förhandsgranska, validera och skicka meddelanden för whatsApp**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![Skapa meddelanden för whatsApp &#x200B;](./assets/configuration.svg) [*Skapa meddelanden för whatsApp*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Förhandsgranska, validera och skicka whatsApp-meddelanden &#x200B;](./assets/communication-channel.svg){width="50"}[**Förhandsgranska, validera och skicka meddelanden för whatsApp**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
