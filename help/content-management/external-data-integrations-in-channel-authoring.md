@@ -22,4 +22,4 @@ Upptäck hur ni integrerar externa data och externt innehåll i Adobe Journey Op
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-Mer information finns i Adobe Journey Optimizer [produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration).
+Mer information finns i Adobe Journey Optimizer [produktdokumentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/combine/vendor-integration).
