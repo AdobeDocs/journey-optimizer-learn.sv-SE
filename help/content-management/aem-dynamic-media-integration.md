@@ -28,4 +28,4 @@ This tutorial covers how to modify images directly within AJO, add text overlays
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
 
-For more information on this feature, please see the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
+For more information on this feature, please see the [product documentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/combine/aem-dynamic).

@@ -30,4 +30,4 @@ Lär dig hur du redigerar resurser i Adobe Journey Optimizer med Adobe Express v
 
 >[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
-See the [Journey Optimizer product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/assets-images/express) for more information on how to access this feature from the content editor. To learn more on Adobe Express, refer to [this documentation](https://helpx.adobe.com/express/user-guide.html).
+See the [Journey Optimizer product documentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/assets-images/express) for more information on how to access this feature from the content editor. To learn more on Adobe Express, refer to [this documentation](https://helpx.adobe.com/se/express/user-guide.html).

@@ -99,4 +99,4 @@ Lär dig begreppen och hur du
 
 ## Användningsexempel
 
-* [Flyg vidare med personalisering: Hur flygbolag kan höja sina erbjudanden med Adobe Journey Optimizer (blogg)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+* [Flyg vidare med personalisering: Hur flygbolag kan höja sina erbjudanden med Adobe Journey Optimizer (blogg)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=sv)

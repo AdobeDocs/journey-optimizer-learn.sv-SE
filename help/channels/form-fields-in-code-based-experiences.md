@@ -24,4 +24,4 @@ Upptäck hur utvecklare kan effektivisera samarbetet med marknadsföringsteam ge
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
 
-Mer information finns i den detaljerade [produktdokumentationen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
+Mer information finns i den detaljerade [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
