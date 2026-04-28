@@ -8,9 +8,9 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 6971211c-d025-44ad-ba34-1cc54805eb68
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck hur Adobe-agenter samarbetar med andra för att leverera åtgärdbara insikter, optimera arbetsflöden och proaktivt hantera utmaningar i realtid.
 
 <!-- 62_S653_3442539_98_humanai-collaboration-adobe-agents-enhancing-productivity -->
->[!VIDEO](https://video.tv.adobe.com/v/3460401/?captions=swe&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458189/?learn=on&enablevpops=true)

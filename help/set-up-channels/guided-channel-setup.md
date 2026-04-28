@@ -11,9 +11,9 @@ jira: KT-16041
 hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
-source-git-commit: ee24c9920e4374631c006f13fdd8d2950d680aec
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Med hjälp av den guidade kanalkonfigurationen kan ni snabbt konfigurera och val
 
 Lär dig hur du konfigurerar och validerar ett push-kanalsmeddelande för en exempelapp för iOS mobilmarknadsföring.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449626/?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 Mer information finns i produktdokumentationen:
 
-* [Kom igång med konfiguration av guidade kanaler](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=sv-SE){target="_blank"}
-* [Skapa en kanalkonfiguration](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=sv-SE){target="_blank"}
+* [Kom igång med konfiguration av guidade kanaler](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html){target="_blank"}
+* [Skapa en kanalinställning](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html){target="_blank"}

@@ -1,6 +1,6 @@
 ---
-title: Personalization Editor playground
-description: Lär dig hur du använder fördefinierade kodexempel, redigerar nyttolaster för dummy-profiler och förhandsgranskar resultatet av din personaliseringskod i realtid.
+title: Personalization editor playground
+description: Learn how to leverage predefined code samples, edit dummy profile payloads, and preview the output of your personalization code in real-time.
 feature: Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -12,17 +12,17 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: 4d2ec542-e148-4ee3-ba7f-99296b581c37
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Personalization Editor playground
+# Personalization editor playground
 
-[Anpassningsredigerarens spelgrund](https://experienceleague.adobe.com/sv/apps/journey-optimizer/ajo-personalization#) innehåller en simulerad miljö där personaliseringskoden kan skrivas och testas med exempeldata utan att det behövs några dynamiska datamängder.
+The [personalization editor playground](https://experienceleague.adobe.com/en/apps/journey-optimizer/ajo-personalization#) provides a simulated environment to write and test personalization code using sample data without requiring live datasets.
 
-Lär dig hur du använder fördefinierade kodexempel, redigerar nyttolaster för dummy-profiler och förhandsgranskar resultatet av din personaliseringskod i realtid.
+Learn how to leverage predefined code samples, edit dummy profile payloads, and preview the output of your personalization code in real-time.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475956/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)

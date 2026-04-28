@@ -8,9 +8,9 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 46ccbbf7-3b20-496e-a0b8-073f5550a8a8
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck hur ni kan använda postbaserade datauppsättningar för personaliserade meddelanden utan att behöva skapa kundprofiler i Adobe Journey Optimizer.
 
 <!-- 62_S522_3442522_70_enhancing-personalization-with-ajo-lookups -->
->[!VIDEO](https://video.tv.adobe.com/v/3460335/?captions=swe&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458226/?learn=on&enablevpops=true)

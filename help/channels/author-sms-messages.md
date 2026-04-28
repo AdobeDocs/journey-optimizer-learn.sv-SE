@@ -10,10 +10,10 @@ hide: false
 hidefromtoc: false
 last-substantial-update: 2023-06-13T00:00:00Z
 exl-id: 5d4b6896-0cf2-470d-bcc6-695caa852072
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 4%
+source-wordcount: '42'
+ht-degree: 0%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 4%
 
 Lär dig konfigurera, skapa och leverera SMS-meddelanden i Journey Optimizer kampanjer och resor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428916?quality=12&learn=on&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420509?quality=12&learn=on){transcript=true}

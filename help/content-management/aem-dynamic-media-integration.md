@@ -1,6 +1,6 @@
 ---
-title: Integrering med AEM Dynamic Media
-description: Lär dig integrera Adobe Experience Manager (AEM)Dynamic Media med Adobe Journey Optimizer (AJO) för att möjliggöra innehållsuppdateringar och personalisering i realtid.
+title: AEM Dynamic Media integration
+description: Learn how to integrate Adobe Experience Managr (AEM)Dynamic Media with Adobe Journey Optimizer (AJO) to enable real-time content updates and personalization.
 feature: Assets
 topic: Content Management, Integrations
 role: User
@@ -13,19 +13,19 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# Integrering med Adobe Experience Manager Dynamic Media
+# Adobe Experience Manager Dynamic Media integration
 
-Lär dig integrera Adobe Experience Manager Dynamic Media med Adobe Journey Optimizer för att möjliggöra innehållsuppdateringar och personalisering i realtid.
+Learn how to integrate Adobe Experience Managr Dynamic Media with Adobe Journey Optimizer to enable real-time content updates and personalization.
 
-I den här självstudiekursen beskrivs hur du ändrar bilder direkt i AJO, lägger till textöverlägg i HTML-läge, skapar dynamiska mediamallar i AEM för personalisering och anpassar kampanjer genom att anpassa innehåll för olika målgruppssegment. Tack vare den här integreringen kan marknadsförarna effektivt skapa engagerande och personaliserade kampanjer utan att behöva växla mellan olika program.
+This tutorial covers how to modify images directly within AJO, add text overlays using HTML mode, create dynamic media templates in AEM for hyper-personalization, and personalize campaigns by tailoring content for different audience segments. This integration allows marketers to efficiently create engaging and personalized campaigns without switching between applications.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463786/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
 
-Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
+For more information on this feature, please see the [product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic).

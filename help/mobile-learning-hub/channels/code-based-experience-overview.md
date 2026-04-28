@@ -9,9 +9,9 @@ index: true
 jira: KT-19866
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 5446b6f6-94b5-4723-a9c5-607c021ebafb
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---

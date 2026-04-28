@@ -8,9 +8,9 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 78baa928-62e5-4454-b43f-aa8e71343fd6
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 Läs om hur Adobe Journey Optimizer integreras med verktyg som GenStudio och Experience Manager för att leverera AI-drivet, varumärkesanpassat innehåll.
 
 <!-- 62_S520_3442520_97_aipowered-content-personalization-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3460148/?captions=swe&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458183/?learn=on&enablevpops=true)

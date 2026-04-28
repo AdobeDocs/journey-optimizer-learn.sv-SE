@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Optimizer Architecture
-description: Förstå Adobe Journey Optimizer grundläggande arkitektur, integreringspunkter och förhållandet mellan Journey Optimizer och andra program från Adobe.
+description: Förstå Adobe Journey Optimizer grundläggande arkitektur, integreringspunkter och förhållandet mellan Journey Optimizer och andra Adobe-program.
 jira: KT-7607
 thumbnail: 334205.jpg
 feature: Overview
@@ -11,15 +11,15 @@ level: Beginner
 exl-id: 33b8ee09-4cd8-475c-bf8e-a7934eff19a1
 hide: true
 hidefromtoc: true
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 3%
+source-wordcount: '52'
+ht-degree: 0%
 
 ---
 
 # Adobe Journey Optimizer Architecture
 
-Förstå Adobe Journey Optimizer grundläggande arkitektur, integreringspunkter och förhållandet mellan Journey Optimizer och andra program från Adobe.
+Förstå Adobe Journey Optimizer grundläggande arkitektur, integreringspunkter och förhållandet mellan Journey Optimizer och andra Adobe-program.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: Klassificera data med etiketter
-description: Lär dig hur du använder etiketter i dina scheman och datauppsättningar.
+title: Classify data using labels
+description: Learn how to apply labels to your schemas and datasets.
 feature: Governance, Privacy, Data Management, Access Management
 role: Developer, Admin
 level: Beginner
@@ -10,19 +10,19 @@ last-substantial-update: 2024-10-01T00:00:00Z
 hide: false
 hidefromtoc: false
 exl-id: 52930777-3231-4156-b1fe-a2d82003629a
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-# Klassificera data med etiketter
+# Classify data using labels
 
-Lär dig hur du använder etiketter i dina scheman och datauppsättningar. Med etiketter för dataanvändning kan ni tagga och klassificera data för att återspegla företagets policyer, avtalsförpliktelser, regelkrav och regionala bestämmelser i Adobe Experience Platform. Den här möjligheten är avgörande för att kunna särskilja kända och okända data om era kunder och tillämpa lämpliga kontroller på dataanvändningen baserade på typen av data. Detaljerad produktdokumentation finns i [Hantera dataanvändningsetiketter i användargränssnittet](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?lang=sv-SE) och [hantera dataanvändningsetiketter med API](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/dataset-api.html?lang=sv-SE)
+Learn how to apply labels to your schemas and datasets. Data usage labels enable you to tag and classify data to reflect corporate policies, contractual obligations, compliance requirements, and regional regulations in Adobe Experience Platform. This ability is critical to differentiating known and unknown data about your customers, and apply appropriate controls on data usage based on the nature of data. For detailed product documentation, see [manage data usage labels in the UI](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html) and [manage data usage labels with API](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/dataset-api.html)
 
 >[!NOTE]
 >
->I videon visas den här funktionen i Adobe Experience Platform användargränssnitt. Samma funktionalitet finns i Journey Optimizer användargränssnitt i avsnittet DATAHANTERING i den vänstra navigeringen.
+>I videon visas den här funktionen i Adobe Experience Platform användargränssnitt. he same functionality is available from the Journey Optimizer user interface, in the DATA MANAGEMENT section in the left navigation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)

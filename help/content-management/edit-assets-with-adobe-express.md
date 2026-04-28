@@ -1,5 +1,5 @@
 ---
-title: Redigera resurser med Adobe Express
+title: Edit assets with Adobe Express
 description: Lär dig hur du redigerar resurser i Adobe Journey Optimizer med Adobe Express verktyg.
 feature: Assets
 topic: Content Management, Integrations
@@ -13,21 +13,21 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# Redigera resurser med Adobe Express
+# Edit assets with Adobe Express
 
 >[!AVAILABILITY]
 >
->Adobe Express integrering i Adobe Journey Optimizer kan för närvarande inte användas tillsammans med hälso- och sjukvårdsskölden eller skölden för skydd av privatlivet och säkerheten.
+>Adobe Express integration in Adobe Journey Optimizer is currently not available for use with Healthcare Shield or Privacy and Security Shield.
 
 Lär dig hur du redigerar resurser i Adobe Journey Optimizer med Adobe Express verktyg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455527/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
-Mer information om hur du kommer åt den här funktionen från innehållsredigeraren finns i [Journey Optimizer-produktdokumentationen](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/assets-images/express). Mer information om Adobe Express finns i [den här dokumentationen](https://helpx.adobe.com/se/express/user-guide.html).
+See the [Journey Optimizer product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/assets-images/express) for more information on how to access this feature from the content editor. To learn more on Adobe Express, refer to [this documentation](https://helpx.adobe.com/express/user-guide.html).
