@@ -24,4 +24,4 @@ Processen innebär att skapa en samling erbjudanden, tilldela regler för behör
 
 Detta kraftfulla verktyg förbättrar kundengagemanget och ger slagkraftiga affärsresultat. Titta på den inbäddade videon för en detaljerad genomgång.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486201/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486205/?captions=swe&learn=on&enablevpops)
