@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du ställer in relationsscheman och datauppsättningar för samordnade kampanjer i Adobe Journey Optimizer. Den här guiden beskriver hur du definierar nycklar, relationer och hur du använder DDL-filer för att skapa scheman på ett effektivt sätt. Du får också lära dig mer om inhämtning av data via CSV-överföringar och CDC (Change Data Capture), validering av datauppsättningar och förberedelse av dem för frågor, personalisering och kampanjkörning. I den inbäddade videon finns stegvisa instruktioner för att effektivisera kampanjarbetsflödena.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484901/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484905/?captions=swe&learn=on&enablevpops)

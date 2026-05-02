@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du utformar och genomför samordnade kampanjer i Adobe Journey Optimizer genom att skapa arbetsflöden som kombinerar målgrupper, datamanipulering och flerkanalsleverans. Den här videon går igenom kampanjplanering, målgruppsgenerering från relationsdata, anrikning och borttagning av dubbletter och användning av flera strömmar för avancerade användningsfall som övergivna kundvagnsuppföljningar, churn prevent och back-in-stock-meddelanden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484965/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484969/?captions=swe&learn=on&enablevpops)
