@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Upptäck hur ni integrerar externa data och externt innehåll i Adobe Journey Optimizer. Detta hjälper er att förbättra personaliseringen och öka engagemanget i utgående kanaler. Se videon nedan för mer information.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484122/?captions=swe&learn=on&enablevpops)
 
 Mer information finns i Adobe Journey Optimizer [produktdokumentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/content-management/combine/vendor-integration).
