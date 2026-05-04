@@ -7,9 +7,9 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
 workflow-type: tm+mt
-source-wordcount: '1108'
+source-wordcount: '1154'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 | Utmaning | Skapa ett meddelande om en sommarsamling |
 |---|---|
 | Persona | Resechef |
-| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=sv-SE)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=sv-SE)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=sv-SE)</li> |
+| Nödvändiga färdigheter | <ul><li>[Skapa segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Importera och redigera e-postinnehåll från HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Användningsfall - Lässegment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Assets att ladda ned | [E-postfiler för säsongssamling](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
@@ -39,7 +39,7 @@ Marknadsföringsteamet på Luma ber er att implementera en marknadsföringskampa
 
 >[!BEGINTABS]
 
->[!TAB Uppgift]
+>[!TAB Aktivitet]
 
 #### Skapa en målgrupp i [!DNL Journey Optimizer]
 
@@ -59,11 +59,11 @@ I segmentbyggaren ser du det uppskattade antalet kvalificerade profiler. Om du a
 
 Du kan kontrollera vilka profiler som har lagts till i segmentet genom att navigera till en av dem i profilerna som listas i segmentets detaljvy.
 
-På profilsidan kontrollerar du fliken [!UICONTROL Attribut] för att bekräfta att de är kvalificerade: Nivån ska vara silver, guld, platina eller diamant.
+Kontrollera fliken [!UICONTROL Attribut] på profilsidan för att bekräfta att de är kvalificerade: Skiktet ska vara silver, guld, platina eller diamant.
 
 ![Profilattribut](assets/C1-S1-profile-attributes.png)
 
-Du kan även kontrollera fliken [!UICONTROL Segmentmedlemskap]: Ditt segment ska listas.
+Du kan även kontrollera fliken [!UICONTROL Segmentmedlemskap]: Segmentet bör listas.
 
 ![Segmentmedlemskap](assets/C1-S1-profile-segment-membership.png)
 
@@ -84,11 +84,11 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >[!ENDTABS]
 
 
-### Steg 2: Skapa meddelandet om resan - sommarsamlingen
+### Steg 2: Create the Journey - Sommarsamlingsmeddelande
 
 >[!BEGINTABS]
 
->[!TAB Uppgift]
+>[!TAB Aktivitet]
 
 #### Skicka sommarCollection
 
@@ -110,16 +110,16 @@ En byrå försåg dig med fyra HTML-filer med design för e-postmeddelanden:
    1. Vänta i två dagar och skicka sedan ett uppföljningsmejl med mer riktat innehåll:
       * Manliga kunder bör få e-postmeddelandet **Luma Men&#39;s Collection**.
          * Meddelanderubrik: *Luma Men&#39;s Collection*
-         * Ämnesrad: *(mottagarens förnamn), utforska Men&#39;s New sportkugghjulet!*
-         * E-postbrödtext: `MensCollectionEmail.html` för e-postbrödtexten.
+         * Ärenderad: *(mottagarens förnamn), utforska Men&#39;s New sportkugghjulet!*
+         * E-posttext: `MensCollectionEmail.html` för e-postbrödtexten.
       * Kunder som är kvinnor bör få e-postmeddelandet **Luma Women&#39;s Collection**.
          * Meddelanderubrik: *Luma Women&#39;s Collection*
-         * Ämnesrad: *(mottagarens förnamn), utforska Lumas Women Collection!*
-         * E-postbrödtext: `WomensCollectionEmail.html`
+         * Ärenderad: *(mottagarens förnamn), utforska Lumas Women Collection!*
+         * E-posttext: `WomensCollectionEmail.html`
       * Andra kunder bör få e-postmeddelandet **Luma - 20 % rabatt på Collection**.
-      * Meddelanderubrik: *Luma - 20 % rabatt på samling*
-      * Ärenderad: *(mottagarens förnamn), få 20 % rabatt!*
-      * E-postbrödtext: `20OOffCollectionEmail.html`
+         * Meddelanderubrik: *Luma - 20 % rabatt på samling*
+         * Ärenderad: *(mottagarens förnamn), få 20 % rabatt!*
+         * E-posttext: `20OOffCollectionEmail.html`
    1. När du har skickat de riktade e-postmeddelandena ovan väntar du två dagar på att e-postmeddelandet ska öppnas
    1. Om det riktade e-postmeddelandet inte öppnas inom 2 dagar skickar du **Luma - 20 %av e-postmeddelandet om samlingen** som ett slutligt återmarknadsföringsförsök
 
@@ -133,25 +133,25 @@ En byrå försåg dig med fyra HTML-filer med design för e-postmeddelanden:
 Förhandsgranska e-postmeddelandet:
 
 1. Lägg till en testprofil: Louise Petti:
-   * Identitetsnamnrymd: *Luma CRM ID*
+   * Identitetsnamnutrymme: *Luma CRM-ID*
    * Identitetsvärde: *d1f132f9f9502bba047a6ec86c4b61f9*
 
 Resultat:
 
-* Subject line should read: Louise, the new Luma collection is here!
+* Ämnesraden ska vara: Louise, nya Luma-samlingen är här!
 
 **E-postmeddelande nr 2 - Luma Men&#39;s Collection**
 
 Skicka ett bevis till dig själv:
 
 1. Lägg till en testprofil: Stanleigh Stooke:
-   * Identitetsnamnrymd: *Luma CRM ID*
+   * Identitetsnamnutrymme: *Luma CRM-ID*
    * Identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
 2. Välj testprofil: Stanleigh Stooke.
 3. Skicka ett bevis till dig själv.
 
 Resultat:\
-Du bör få ett e-postmeddelande. Ämnesraden ska vara *Stanleigh, utforska Men&#39;s New sportkugghjulet!* och e-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen.
+Du bör få ett e-postmeddelande. Ämnesraden ska vara *Stanleigh, utforska Men&#39;s New athletic>-kugghjulet!* och e-postmeddelandetexten ska matcha det du har sett i förhandsgranskningen.
 
 >[!NOTE]
 >Det kan ta några minuter innan du får beviset.
@@ -166,7 +166,7 @@ Förhandsgranska e-postmeddelandet med testprofilen *Louise Petti.*
 
 Förhandsgranska e-postmeddelandet med testprofilen *Louise Petti.*
 
-* Ämnesraden ska vara: *Lupp, få 20 % rabatt!*
+* Ämnesraden ska vara: *Louise, få 20 % rabatt!*
 
 #### Testa din resa
 
@@ -174,7 +174,7 @@ Förhandsgranska e-postmeddelandet med testprofilen *Louise Petti.*
 >
 >Innan du ställer in resan i testläge:
 >
->1. Kontrollera att namnområdet [!UICONTROL Luma CRM ID(lumaCrmId)] har angetts för **Läs segmentaktiviteten**
+>1. Kontrollera att namnområdet **Luma CRM ID(lumaCrmId)** har angetts för [!UICONTROL Läs segmentaktiviteten]
 >1. För varje e-postadress åsidosätter du e-postens standardparametrar så att de skickas till din e-postadress:
 >    * Visa dolda värden genom att klicka på ögonsymbolen.
 >    * Klicka på T-symbolen (aktivera åsidosättning av parameter) i e-postparametrarna.
@@ -182,7 +182,7 @@ Förhandsgranska e-postmeddelandet med testprofilen *Louise Petti.*
 >      ![Åsidosätt e-postparametrar](/help/challenges/assets/c3-override-email-paramters.jpg)
 > 
 >    * Klicka i fältet [!UICONTROL Adress]
->    * På nästa skärm lägger du till din e-postadress inom parentes: `"yourname@yourdomain"` i uttrycksredigeraren och klickar på OK.
+>    * Lägg till din e-postadress inom parentes på nästa skärm: `"yourname@yourdomain"` i uttrycksredigeraren och klicka på OK.
 >
 
 Testa resan och få e-postmeddelandena skickade till ditt eget konto:
@@ -194,23 +194,23 @@ Testa resan och få e-postmeddelandena skickade till ditt eget konto:
 1. Du kan testa varje gren genom att använda något av följande *Luma CRM-ID:n* som profilidentifierare:
    * Kvinna: Leora Dietsche, identitetsvärde:`a8f14eab3b483c2b96171b575ecd90b1`
    * Man: Stanleigh Stooke, identitetsvärde: `4f34057d9d9e792c28ba18ecae378e98`
-   * Inget kön har angetts: Louise Petti, identitetsvärde: `d1f132f9f9502bba047a6ec86c4b61f9`
+   * Genus har inte angetts: Louise Petti, identitetsvärde: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 1. När du har utlöst profilingången bör du få det första e-postmeddelandet. Huvudet ska anpassas efter den profil du väljer.
 1. Resan bör fortsätta till respektive gren och du bör få det relaterade e-postmeddelandet (om du t.ex. väljer *Jenna* bör du få e-postmeddelandet *Luma Women&#39;s Collection* ).
 1. Öppna det andra e-postmeddelandet så avslutas resan.
 1. Du kan upprepa steg 4. - 7. för alla tre profilerna för att kontrollera om grenarna fungerar som de ska.
 1. Om du vill testa timeout-värdena ställer du in väntetiden på 30 sekunder och utlöser inmatningen igen.
-1. Öppna inte de e-postmeddelanden som du får (förhandsgranska inte e-postmeddelandet (!)) och låt väntetiden vara kvar.
+1. Öppna inte de e-postmeddelanden du får (förhandsgranska inte e-postmeddelandet (!)) och vänta lite.
 
 Du bör få följande e-postmeddelanden:
 
 * Luma - Meddelande om ny säsongssamling
 * Beroende på vilken testprofil du använde bör du få något av följande e-postmeddelanden:
    * Leora: Luma Women&#39;s Collection
-   * Stanleigh: Luma Men&#39;s Collection
-   * Luma: 20 % rabatt på samling
-* Om du inte öppnade det andra e-postmeddelandet: Luma - 20 % rabatt
+   * Stående: Luma Men&#39;s Collection
+   * Lupp: Luma - 20 % rabatt på samling
+* Om du inte öppnade det andra e-postmeddelandet: Luma - 20 % rabatt på samlingen
 
 >[!TAB Kontrollera ditt arbete]
 
