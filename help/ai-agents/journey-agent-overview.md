@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig använda Journey Agent, en AI-baserad assistent som är inbyggd i Adobe Journey Optimizer, för att analysera resor live, identifiera målgruppskonflikter och profilera bortfall samt skapa kompletta flerstegsresor med naturtroget språk. I den här videon får du se hur Journey Agent tillhandahåller transparenta insikter, åtgärdbara rekommendationer och guidade godkännanden, som hjälper dig att felsöka befintliga resor och skapa nya snabbare, allt utan att behöva lämna AI-assistenten
 
->[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486298/?captions=swe&learn=on&enablevpops)
