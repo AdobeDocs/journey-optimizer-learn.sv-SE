@@ -1,24 +1,23 @@
 ---
-title: Journey Agent - översikt
-description: Journey Agent använder AI för att skapa, analysera och optimera B2B/B2C-resor via ett konversationsgränssnitt.
-feature: AI Assistant, Journeys
-feature-set: Journey Optimizer, Experience Platform
-role: User, Developer, Leader, Admin
+title: Analysera resor med AI-driven Journey Agent
+description: Läs om hur Journey Agent i Adobe Journey Optimizer analyserar direktresor, identifierar problem och bygger flerstegsresor med användbara insikter.
+feature: null
+role: User
 level: Beginner
-last-substantial-update: 2025-10-08T00:00:00Z
-jira: KT-19109
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+doc-type: Feature Video
+duration: 308
+last-substantial-update: 2026-05-05T00:00:00Z
+jira: KT-21114
+source-git-commit: 0a4f552baab06a7d8269692269ba23010bb71fda
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 31%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
-# Journey Agent - översikt
 
-Läs om vad du kan göra med AI-assistenten i Adobe Experience Platform-baserade program som Real-Time Customer Data Platform, Journey Optimizer och Customer Journey Analytics.
+# Analysera och skapa resor med Journey Agent
 
->[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
+Lär dig använda Journey Agent, en AI-baserad assistent som är inbyggd i Adobe Journey Optimizer, för att analysera resor live, identifiera målgruppskonflikter och profilera bortfall samt skapa kompletta flerstegsresor med naturtroget språk. I den här videon får du se hur Journey Agent tillhandahåller transparenta insikter, åtgärdbara rekommendationer och guidade godkännanden, som hjälper dig att felsöka befintliga resor och skapa nya snabbare, allt utan att behöva lämna AI-assistenten
 
-Mer information om vilka användningsområden som stöds i Journey Optimizer finns i [Arbeta med AI Assistant](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/get-started/ai-assistant). Detaljerad dokumentation finns i dokumentationen för [AI-assistenten i Adobe Experience Platform](https://experienceleague.adobe.com/sv/docs/experience-platform/ai-assistant/home).
-
+>[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
